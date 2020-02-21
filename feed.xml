@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-21T18:13:00+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">So, what exactly is a sprint?</title><link href="http://localhost:4000/2019/11/so-what-exactly-is-a-sprint.html" rel="alternate" type="text/html" title="So, what exactly is a sprint?" /><published>2019-11-21T12:07:00+00:00</published><updated>2020-02-18T19:20:15+00:00</updated><id>http://localhost:4000/2019/11/so-what-exactly-is-a-sprint</id><content type="html" xml:base="http://localhost:4000/2019/11/so-what-exactly-is-a-sprint.html">&lt;p&gt;I don’t think the people behind Scrum and other agile methods participated in sports very much. They seem to have borrowed a lot of sporting terms but haven’t used them very wisely.&lt;/p&gt;
+
+&lt;p&gt;The phrase “Sprint” is a good example of this. In athletics, a sprint involves individuals trying to run faster than everyone else over a short distance. This might be how your team feels at the moment, but it probably isn’t a good picture of where we would like to be. 
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;blockquote class=&quot;notice--info&quot;&gt;
+  &lt;h4 id=&quot;about-agile-in-cornwall-council&quot;&gt;About agile in Cornwall Council&lt;/h4&gt;
+  &lt;p&gt;We are starting to adopt more agile ways of working. My role involves helping people develop their skills and apply agile techniques to improve the services we provide to the public. This series of posts is adapted from the articles I write for our internal teams. They cover some common agile terms and what it all really means.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;mixed-metaphores&quot;&gt;Mixed metaphores&lt;/h2&gt;
+
+&lt;p&gt;In product development, a sprint is a repeating cycle of activities which is designed to manage risk and deliver a steady flow of business benefits. By regularly finishing small pieces of work and receiving fast feedback, teams can learn what works, deal with problems quickly, and use this experience to improve in subsequent sprints.&lt;/p&gt;
+
+&lt;p class=&quot;notice--primary&quot;&gt;Sprints vary in shape and size but most people start with the suggestions in the Scrum Guide&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;At the start of each sprint, the team confirms what work it intends to complete and how the work will be done. During the sprint, the team does the work and has regular, short meetings to keep on track. At the end of the sprint, the team reviews both what has been completed and how it was done. Lessons from these reviews are fed into planning the next sprint.&lt;/p&gt;
+
+&lt;p&gt;The Scrum Guide is very short and only covers generic good practice. It doesn’t cover everything that a real team might need to do, so you may come across some challenges or myths when putting sprints into practice. Here are a few common ones:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Sprints are only for teams writing code, aren’t they?&lt;/strong&gt; It is true that a lot is written about sprints for software development, and software engineers think they created these ideas, but the principles are much older and were initially developed for traditional manufacturing processes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Only plan for the next two weeks? That’s crazy!&lt;/strong&gt; Sprint planning does focus on the next sprint, but sprints aren’t always two weeks long and, anyway, this isn’t the only type of planning that a team does.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;What about all the good stuff I learnt from working on projects?&lt;/strong&gt; Agile techniques (like sprints) are good for handling certain types of risks such as uncertainty and volatility. Traditional project management techniques are good for handling other sorts of risks such as large, unfamiliar investments. They can work together and many teams find that they have both types of risk and need to dip into both sets of techniques.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;where-to-go-next-for-more&quot;&gt;Where to go next for more&lt;/h2&gt;
+
+&lt;p&gt;More of a visual learner? There are loads of great resources you can find with a quick search. For example, there are videos&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; on fundamental principles of a Scrum which are less than 10 minutes long!&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h4&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.scrumguides.org/scrum-guide.html&quot;&gt;The Scrum Guide&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=9TycLR0TqFA&quot;&gt;Introduction to Scrum - 7 minutes&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Agile" /><summary type="html">I don’t think the people behind Scrum and other agile methods participated in sports very much. They seem to have borrowed a lot of sporting terms but haven’t used them very wisely. The phrase “Sprint” is a good example of this. In athletics, a sprint involves individuals trying to run faster than everyone else over a short distance. This might be how your team feels at the moment, but it probably isn’t a good picture of where we would like to be.</summary></entry><entry><title type="html">Living the dream</title><link href="http://localhost:4000/2019/10/living-the-deam.html" rel="alternate" type="text/html" title="Living the dream" /><published>2019-10-04T12:07:00+00:00</published><updated>2019-11-01T07:20:00+00:00</updated><id>http://localhost:4000/2019/10/living-the-deam</id><content type="html" xml:base="http://localhost:4000/2019/10/living-the-deam.html">&lt;p&gt;Today is a big deal for me. For the last few years I have had a ball with colleagues at NTT DATA; working on digital and agile transformation whilst learning and sharing with a group of really smart and friendly people. From today, I am going to be working on digital and agile transformation whilst learning and sharing with a group of really smart and friendly people. So what’s changed?
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;sunrise-over-a-new-horizon&quot;&gt;Sunrise over a new horizon&lt;/h2&gt;
+
+&lt;p&gt;The big deal is that today is my first day as an Agile Coach in Cornwall Council&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;Most people will know Cornwall as a holiday destination - the sea, moors and other attractions bring in 5 million visitors each year. However, half a million people call it home and have many of the same needs and aspirations as people all over the country. Digital technologies and new ways of working are making Cornwall’s remoteness from the UK’s big city economies less of an obstacle to business and remoteness can be an advantage if you are doing something new, for instance, horizontal space launches&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Cornwall Council has a role to play in all of this; helping people overcome some long standing problems and also take advantage of the new opportunities that are opening up.&lt;/p&gt;
+
+&lt;p&gt;I will start working with a range of digital and technology teams in the Council to help them apply some new agile ways of working that have proven to be successful in the private sector and other parts of the Central and Local Government. The goal is to create more effective and better value services for everyone that the Council serves.&lt;/p&gt;
+
+&lt;p&gt;I have some of my own experiences to share but I am also hoping to tap into an amazing network of like-minded people working across the public sector. I am also hoping to learn how to apply agile techniques to other things the Council does, including understanding what the people of Cornwall need and how the Council works with others to meet these needs. There will often be a digital and technical part of this work but it might also touch everything from policy development to processing household waste.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-familiar-sunshine&quot;&gt;The familiar sunshine&lt;/h2&gt;
+
+&lt;p&gt;A new job in a new place ought to feel alien but it actually feels remarkably comfortable. Over the last few years I have spent many wonderful days in Cornwall and have been visiting three or four times a year recently. On a professional level, I have had the honour of being a member of the Local Government Digital community for some time and have volunteered in a number of public sector and third sector groups and events. I’ve got loads to learn and I hope these communities will forgive a whole load of “dumb” questions from me over the coming weeks and months.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h4&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.cornwall.gov.uk/media/31517040/cc-business-plan-final.pdf&quot;&gt;Cornwall Council Business Plan&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.cornwalllive.com/news/cornwall-news/cornwall-spaceport-latest-council-cabinet-3332557&quot;&gt;Newquay Spaceport News&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><summary type="html">Today is a big deal for me. For the last few years I have had a ball with colleagues at NTT DATA; working on digital and agile transformation whilst learning and sharing with a group of really smart and friendly people. From today, I am going to be working on digital and agile transformation whilst learning and sharing with a group of really smart and friendly people. So what’s changed?</summary></entry><entry><title type="html">Getting shared services to work</title><link href="http://localhost:4000/2018/01/how-shared-services-can-be-made-to-work.html" rel="alternate" type="text/html" title="Getting shared services to work" /><published>2018-01-21T12:00:00+00:00</published><updated>2018-01-23T13:00:00+00:00</updated><id>http://localhost:4000/2018/01/how-shared-services-can-be-made-to-work</id><content type="html" xml:base="http://localhost:4000/2018/01/how-shared-services-can-be-made-to-work.html">&lt;p&gt;In my last post&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; I mentioned that I was going to make a pitch about the UK Government Shared Services Strategy&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; at &lt;a href=&quot;https://www.ukgovcamp.com/&quot;&gt;UKGovCamp&lt;/a&gt;. In the end I didn’t need to pitch as &lt;a href=&quot;https://twitter.com/lexij&quot;&gt;@lexij&lt;/a&gt; got there first with a great title: &lt;em&gt;The Shared Services Strategy - OMG! Let’s fix it&lt;/em&gt;. This post is a personal reflection on what was discussed but the raw notes from the session are also available online&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;doing-the-same-thing-and-expecting-a-different-result&quot;&gt;Doing the same thing and expecting a different result&lt;/h2&gt;
+
+&lt;p&gt;The theory that business services always get better as they get bigger is persistent but the econmies of scale have turned out to be elusive. The most recent attempt in Central Government&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; has produced disappointing results&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;, so far, but the new strategy retains many of the same elements. Some examples that got my attention in the latest strategy were:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The UK Government has a lot of buying power and can effectively wield this to get good value from technology and service centre suppliers.&lt;/li&gt;
+  &lt;li&gt;The notoriously poor user interfaces of the leading ERP systems can be addressed by bolting on a new shared front-end.&lt;/li&gt;
+  &lt;li&gt;Limiting the technology options will help align back-office operations in spite of fragmented funding and governance.&lt;/li&gt;
+  &lt;li&gt;Innovation in back-office services (such as automation and artificial intelligence) is unlikely to change the operating model or supplier landscape very much over 10 years.&lt;/li&gt;
+  &lt;li&gt;Experience from industry means we can be confident this is the right direction and approach.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What evidence do we have that the new strategy will produce better results? Perhaps the assumptions behind the strategy could be made to work but there is plenty of evidence which points the other way&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. What other options were considered and ruled out?&lt;/p&gt;
+
+&lt;h2 id=&quot;give-digital-another-chance&quot;&gt;Give Digital another chance&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/tomskitomski&quot;&gt;@tomskitomski&lt;/a&gt; defines “Digital” as: applying the culture, practices, processes &amp;amp; technologies of the Internet-era to respond to people’s raised expectations. This thinking has proven so successful that all public facing transactional services must now be developed this way&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;. Why not apply this approach to back-office business services? A few years ago some teams started to look at this&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt; and I would like to hear more about how far they got and what they discovered.&lt;/p&gt;
+
+&lt;p&gt;A more digital approach would come with its own set of challenges, including:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;is this the best use of relatively scarce digital skills?&lt;/li&gt;
+  &lt;li&gt;will the benefits be so much greater than buying complete services and systems from the market?&lt;/li&gt;
+  &lt;li&gt;will it be any more successful if the funding and governance issues are not addressed?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I don’t think anyone promoting a more digital approach would suggest it would be an easy option but a wise response would be to proceed with caution and learn along the way - not abandon the idea altogether.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-3rd-way&quot;&gt;The 3rd Way&lt;/h2&gt;
+
+&lt;p&gt;The authors of the Shared Services Strategy and the attendees at UKGovCamp are clearly approaching this from very different positions but we don’t need to stop there. As &lt;a href=&quot;https://twitter.com/liammax&quot;&gt;@liammax&lt;/a&gt; suggests we could work together to make it a success.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;8/ So I’m going to advise that we help this team make something properly good, the leader of it is open to constructive feedback and in that sense it’s a great opportunity.&lt;/p&gt;&amp;mdash; Liam Maxwell (@liammax) &lt;a href=&quot;https://twitter.com/liammax/status/952289542022795265?ref_src=twsrc%5Etfw&quot;&gt;January 13, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;How can we do this in practice? Alongside the main ERP vendors the strategy includes a 3rd sponsored platform. This is intended to be “modern” and “provide a cheaper, more flexible alternative” to Oracle and SAP. Why not develop the 3rd platform using the Government Service Manual&lt;sup id=&quot;fnref:9&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;? This might not result in a single integrated alternative to SAP and Oracle but then the choice of technology might not be the biggest obstacle in discovering and addressing the real needs. We can’t be sure that a digital 3rd platform would become a great success but there is certainly room in a programme of this scale to experiment and iterate with an approach that has proven so effective in other circumstances.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h4&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.cioportfolio.co.uk/2018/01/will-shared-services-ever-work.html&quot;&gt;Blog post: Will shared services ever work?&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.gov.uk/government/publications/a-shared-services-strategy-for-government&quot;&gt;UK Government Shared Services Strategy&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://j.mp/ukgc18s3r1a&quot;&gt;Raw notes from the UK Gov Camp shared services session&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.gov.uk/government/publications/next-generation-shared-services-strategic-plan&quot;&gt;Previous UK Government Shared Services Strategy&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.nao.org.uk/report/shared-service-centres/&quot;&gt;UK National Audit Office report on shared services&lt;/a&gt; &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://vanguard-method.net/2018/01/do-shared-services-bake-bread/&quot;&gt;Do shared services bake bread?&lt;/a&gt; &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.gov.uk/service-manual/service-standard&quot;&gt;UK Government Service Standard&lt;/a&gt; &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:8&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://gds.blog.gov.uk/2015/09/28/civil-servants-are-users-too/&quot;&gt;Blog post on applying the service standard for back-office services&lt;/a&gt; &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:9&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.gov.uk/service-manual&quot;&gt;UK Government Service Manual&lt;/a&gt; &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="CIO" /><category term="Transformation" /><category term="Local Government" /><summary type="html">In my last post1 I mentioned that I was going to make a pitch about the UK Government Shared Services Strategy2 at UKGovCamp. In the end I didn’t need to pitch as @lexij got there first with a great title: The Shared Services Strategy - OMG! Let’s fix it. This post is a personal reflection on what was discussed but the raw notes from the session are also available online3. Blog post: Will shared services ever work? &amp;#8617; UK Government Shared Services Strategy &amp;#8617; Raw notes from the UK Gov Camp shared services session &amp;#8617;</summary></entry><entry><title type="html">Will shared services ever work?</title><link href="http://localhost:4000/2018/01/will-shared-services-ever-work.html" rel="alternate" type="text/html" title="Will shared services ever work?" /><published>2018-01-17T20:00:00+00:00</published><updated>2018-01-23T13:00:00+00:00</updated><id>http://localhost:4000/2018/01/will-shared-services-ever-work</id><content type="html" xml:base="http://localhost:4000/2018/01/will-shared-services-ever-work.html">&lt;p&gt;Last week the UK Government &lt;a href=&quot;https://twitter.com/MatthewCCoats1/status/951140210913443840&quot;&gt;launched a new strategy&lt;/a&gt; for shared business services (common things such as finance and human resources). The general reaction seemed to be quite negative, at least in my filter bubble.  Most of the criticisms are probably reasonable but that may be because there are so few examples of sharing successfully at this scale in other countries or sectors.&lt;/p&gt;
+
+&lt;p&gt;I am hoping to join a discussion about all this at &lt;a href=&quot;https://www.ukgovcamp.com/&quot;&gt;UKGovCamp&lt;/a&gt; at the weekend and some in Government are keen to hear what campers think.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Now that would be really helpful. I can&amp;#39;t go but would be really grateful if you could raise this.&lt;/p&gt;&amp;mdash; Liam Maxwell (@liammax) &lt;a href=&quot;https://twitter.com/liammax/status/952497202181627904?ref_src=twsrc%5Etfw&quot;&gt;January 14, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;In the meantime here are some potential challenges and responses to consider. Most of these are relevant for sharing business services in any sector.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;economies-of-scale-have-limits&quot;&gt;Economies of scale have limits&lt;/h2&gt;
+
+&lt;p&gt;I have not seen the cost benefit analysis for this new strategy, if there is one, but I have worked on a few for shared business services and reviewed many more. Most have an implicit assumption that more sharing always produces benefits. Most cases recognise diminishing returns but it is very rare to consider negative returns (where marginal increases in cost exceed the marginal benefits). This must be a practical consideration at the scale of UK government.&lt;/p&gt;
+
+&lt;p&gt;The thresholds vary for different types of service (e.g. &lt;a href=&quot;https://www.cioportfolio.co.uk/2012/07/how-to-organise-it-on-global-scale.html&quot;&gt;I have written about this for IT in the past&lt;/a&gt;) but, as a rough guide, pooling services for organisations with a combined workforce of 10,000 - 25,000 people can generally be made to work and deliver an attractive benefits profile. At a smaller scale there will almost certainly be more valuable investment opportunities in your portfolio. At a larger scale the barriers get greater and greater and the net benefits may quickly evaporate.&lt;/p&gt;
+
+&lt;p&gt;Some large multinationals have rowed back from sharing business services across their whole organisation due to these issues. Some individual Departments in the UK are already at this scale even if they don’t share services with others.&lt;/p&gt;
+
+&lt;h2 id=&quot;shared-erp-software-has-very-little-value&quot;&gt;Shared ERP software has very little value&lt;/h2&gt;
+
+&lt;p&gt;I used to work for one of the big ERP vendors so I am one of the few people who have used a raw installation of one of these suites of software. Many people will be surprised that you can do almost nothing with the system at first. These suites only start to work when you feed them vast amounts of information including details about your customers, staff, suppliers, assets, accounting practices, roles, operating structure, business policies and working practices.This is a kind of digital twin of the operations your service will support.&lt;/p&gt;
+
+&lt;p&gt;The technology costs are usually dwarfed by the upfront costs of collecting, translating and testing this information and the on-going costs of maintaining it. The more ways of working a shared service needs to support the more information, and therefore cost, will be consumed. Adding a small organisation with distinct processes to a larger shared service can destroy the business case for both.&lt;/p&gt;
+
+&lt;h2 id=&quot;work-with-not-against-the-natural-limits-to-shared-business-services&quot;&gt;Work with, not against, the natural limits to shared business services&lt;/h2&gt;
+
+&lt;p&gt;In theory, it would be possible to mobilise a programme that could deliver cross-Government shared services but you would need to pick a truly exception team of people from a number of different Departments and suppliers. These people do exist but, unfortunately, they are already running operations and change programmes with much greater impact than back-office business services.&lt;/p&gt;
+
+&lt;p&gt;A more practical response would be to focus on capturing the large share of benefits available at a smaller scale. This would mean:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Identifying several clusters of organisations at the 10,000 - 25,000 staff scale.&lt;/li&gt;
+  &lt;li&gt;Appoint a business services director for each cluster.&lt;/li&gt;
+  &lt;li&gt;Transfer the business service operations and funding to the director.&lt;/li&gt;
+  &lt;li&gt;Set ambitious goals for improvements but allow the directors to take different approaches for their cluster.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This might not release all of the theoretical benefits of more substantial sharing but is at a scale that the teams involved can manage. It will take less than half of the 10 year strategy timetable offering the opportunity to go further if the evidence and capability is there. It will also allow alternative approaches to be compared in practice including using different technology and delivery methods.&lt;/p&gt;
+
+&lt;h2 id=&quot;watch-this-space&quot;&gt;Watch this space&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://www.cioportfolio.co.uk/2018/01/how-shared-services-can-be-made-to-work.html&quot;&gt;next blog post&lt;/a&gt; provides some feebback on the discussions at UKGovCamp.&lt;/p&gt;</content><author><name>Richard Barton</name></author><category term="CIO" /><category term="Transformation" /><category term="Local Government" /><summary type="html">Last week the UK Government launched a new strategy for shared business services (common things such as finance and human resources). The general reaction seemed to be quite negative, at least in my filter bubble. Most of the criticisms are probably reasonable but that may be because there are so few examples of sharing successfully at this scale in other countries or sectors. I am hoping to join a discussion about all this at UKGovCamp at the weekend and some in Government are keen to hear what campers think. Now that would be really helpful. I can&amp;#39;t go but would be really grateful if you could raise this.&amp;mdash; Liam Maxwell (@liammax) January 14, 2018 In the meantime here are some potential challenges and responses to consider. Most of these are relevant for sharing business services in any sector.</summary></entry><entry><title type="html">Forget about being secure</title><link href="http://localhost:4000/2017/08/forget-about-being-secure.html" rel="alternate" type="text/html" title="Forget about being secure" /><published>2017-08-16T20:00:00+00:00</published><updated>2017-09-24T20:00:00+00:00</updated><id>http://localhost:4000/2017/08/forget-about-being-secure</id><content type="html" xml:base="http://localhost:4000/2017/08/forget-about-being-secure.html">&lt;p&gt;If you can only spare 30 seconds &lt;a href=&quot;#have-you-done-enough-to-make-your-organisation-secure&quot;&gt;skip to the test&lt;/a&gt; at the end of this blog post.&lt;/p&gt;
+
+&lt;p&gt;During the recent ransomware crisis it was quite understandable for people to be upset about disruption to &lt;a href=&quot;https://ciso.economictimes.indiatimes.com/news/worlds-biggest-shipper-cyberattack-cost-maersk-up-to-300-million/60086402&quot;&gt;businesses&lt;/a&gt; and &lt;a href=&quot;https://www.theguardian.com/society/2017/may/13/jeremy-hunt-ignored-warning-signs-before-cyber-attack-hit-nhs&quot;&gt;public services&lt;/a&gt;. It is also understandable that leaders of these organisations rushed to &lt;a href=&quot;https://www.digitalhealth.net/2017/07/government-response-to-caldicott-gives-cyber-funds-and-tougher-penalties-for-data-protection/&quot;&gt;announce actions&lt;/a&gt; to make their systems secure. This is all understandable but, in some ways, it is also naive. More cyber-attacks will come and will cause &lt;a href=&quot;https://www.theguardian.com/technology/2017/sep/22/major-cyber-attack-happen-soon-warns-uks-online-security-boss&quot;&gt;more damage&lt;/a&gt; than we have seen so far. We need to take a more nuanced look at the problems and some practical responses.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-illusion-of-complete-security&quot;&gt;The illusion of complete security&lt;/h2&gt;
+
+&lt;p&gt;In the noise and excitement of a crisis only simple messages seem to get through. For IT security and information security the diagnosis often seems to be very binary.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/simplechart_main.png&quot; alt=&quot;Simplistic security chart&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Incidents are happening all the time but most get ignored. If an organisation falls victim to a high-profile attack then we must conclude they are hopelessly incompetent. Pressure will mount to copy IT security measures from organisations which are, quite clearly, secure because they have not succumbed this time. The goal will be to make sure a breach can never happen again.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, there are no simple IT or information security switches that can be set to on or off, safe or unsafe. Real life is more like the chart below. Different organisations may shift the scales to reduce the frequency or impact of security problems but there is no way to shift the graph to be completely safe and secure. All of our IT (which will soon include cars, TVs, fridges and utility meters) is under a constant, withering attack. Much of this is generated by tireless banks of computers outside your organisation but, to do any real damage, it often requires accidental or deliberate human cooperation. We can set up barriers to defend our organisations but, eventually, something will go wrong. It is likely that the source of your next security breach is already working in your organisation and is getting glowing reviews for their performance. It might even be you.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/realisticchart_main.png&quot; alt=&quot;Realistic security chart&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This has strong parallels with other kinds of security and safety which are all characterised by uncertain trade-offs between various degrees of risk and imperfect mitigations. For example, years of improvements to road safety have not completely eliminated accidents. As driving becomes more digital it is as good as certain that an autonomous car will kill someone because of a software bug or a deliberate hack. That is not a good reason to block the technology because, on balance, autonomous cars may make our roads even safer. Similarly, there are a lot of &lt;a href=&quot;https://www.ncsc.gov.uk/guidance/10-steps-cyber-security&quot;&gt;things we can do&lt;/a&gt; to make IT more secure (much of it is quite easy and cheap) but our systems will never be completely secure and risk free.&lt;/p&gt;
+
+&lt;h2 id=&quot;insecure-but-prepared&quot;&gt;Insecure but prepared&lt;/h2&gt;
+
+&lt;p&gt;If it is impossible to have completely safe and secure IT then what approach should CIOs take? Should you reach for specialist tools and techniques, model threats and vulnerabilities in detail and deploy machine learning systems to spot sophisticated attacks? Perhaps, but this is not a good place to start. High-end security tools and techniques can be expensive, hard to use and will provide little additional security if you have not already got the basics right. Other forms of safety and security have had much more time to mature than IT and are a good source of reference. Here are some of the basic elements which should appear in your IT security portfolio.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Remain alert and keep learning from others&lt;/strong&gt; - There is a good chance that you won’t be the first victim of any new threats which emerge so collaborate with your peers through the various regional and industry networks to keep one step ahead.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Provide information and training&lt;/strong&gt; - Keep your users up to date on what they need to do to stay secure while getting their work done. Help your staff keep their personal IT safe and don’t forget your customers and suppliers as any of these could become a route for an attack.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Use decent quality materials and good maintenance&lt;/strong&gt; - Take care when selecting equipment, software, IT services and people to join your team. Make use of the plentiful advice available to configure your IT in a secure way and keep it in good condition with regular reviews and updates.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Install smoke detectors and alarms&lt;/strong&gt; - Set up and tune tools and processes to monitor IT activity and trigger action if necessary. Trigger your IT security alarms regularly to make sure they work properly.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Consider fire blankets, extinguishers, first aid kits&lt;/strong&gt; - Have equipment, tools and procedures ready to use to respond to common problems. Basic asset management and backups are an absolute minimum. Test these regularly so you can be confident they will work when you need them.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Call emergency services when appropriate&lt;/strong&gt; - It will not be economical to cover every potential situation internally so make use of specialist services where necessary (e.g. penetration testing) and set up appropriate stand-by and call-off arrangements.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Run fire drills&lt;/strong&gt; - Keep all of your arrangements under review. Set up regular exercises to simulate major problems and give your people and partners a chance to practice. Don’t wait for a real attack to find the flaws in your emergency plans.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;have-you-done-enough-to-make-your-organisation-secure&quot;&gt;Have you done enough to make your organisation secure?&lt;/h2&gt;
+
+&lt;p&gt;As you work through these items you will keep finding more opportunities to improve your security but there will also be other claims on your limited time and resources. How much security is enough? Try this little experiment:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Imagine, in spite of all the measures you have taken,  an attacker breaks into your IT and disrupts your operations or exposes some highly sensitive information&lt;/li&gt;
+  &lt;li&gt;Are you clear on your next steps including what you are going to say in any public announcements?&lt;/li&gt;
+  &lt;li&gt;Can you explain what IT security measures you had in place?&lt;/li&gt;
+  &lt;li&gt;Do the trade-offs you made still seem reasonable?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Is it hard to answer these questions or do the answers make you feel uncomfortable? If so, you and your executive peers have more work to do.&lt;/p&gt;</content><author><name>Richard Barton</name></author><category term="CIO" /><summary type="html">If you can only spare 30 seconds skip to the test at the end of this blog post. During the recent ransomware crisis it was quite understandable for people to be upset about disruption to businesses and public services. It is also understandable that leaders of these organisations rushed to announce actions to make their systems secure. This is all understandable but, in some ways, it is also naive. More cyber-attacks will come and will cause more damage than we have seen so far. We need to take a more nuanced look at the problems and some practical responses.</summary></entry><entry><title type="html">Finding a role for Enterprise Architecture in a world of agile and digital transformation</title><link href="http://localhost:4000/2017/07/thanks-but-no-thanks.html" rel="alternate" type="text/html" title="Finding a role for Enterprise Architecture in a world of agile and digital transformation" /><published>2017-07-19T16:00:00+00:00</published><updated>2017-07-19T16:00:00+00:00</updated><id>http://localhost:4000/2017/07/thanks-but-no-thanks</id><content type="html" xml:base="http://localhost:4000/2017/07/thanks-but-no-thanks.html">&lt;p&gt;I gave a presentation at the recent &lt;a href=&quot;http://www.bcs.org/content/ConWebDoc/57789&quot;&gt;British Computer Society (BCS) Enterprise Architecture Conference&lt;/a&gt;. A &lt;a href=&quot;#bcs-talk-replay&quot;&gt;replay of the talk&lt;/a&gt; is available and this post is an outline of the main points. Over the last few years I have worked with many architects and quite a few are unhappy. Executives might appreciate the efforts that go into models and designs but things move on so quickly that, often, the architect’s work does not keep pace with events or arrives too late to be useful. The architect might sadly slope away, loaded down with copies of densely packed designs which are now only good for the recycling bin, or they might become angry at being ignored. Either way, it is not a pleasant situation.&lt;/p&gt;
+
+&lt;p&gt;I shared with the conference some ideas about why this is happening and offered some suggestions of how to respond.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;relentless-change-and-uncertainty&quot;&gt;Relentless change and uncertainty&lt;/h2&gt;
+
+&lt;p&gt;The source of this unhappiness is change and uncertainty. The surprising results in recent elections (particularly in the UK and US) provide lots of engaging and entertaining material for talks about uncertainty but they are probably too removed from most architects’ work to provide any lessons. More practical examples are the forward plans or target architectures that consume a great deal of architecture effort. Let’s imagine we are back in 2012 and considering the target architecture for the future - looking ahead 5 years is typical. In 2012 this seemed like a perfectly sensible thing to do but, with the benefit of hindsight, we can see how easy it is to get things wrong.&lt;/p&gt;
+
+&lt;p&gt;First of all consider some of the things which did not exist in 2012. This includes new technical components (such as &lt;a href=&quot;https://www.docker.com/&quot;&gt;Docker’s&lt;/a&gt; first release in 2013) but also new ways of working (four year old &lt;a href=&quot;https://slack.com/is&quot;&gt;slack&lt;/a&gt; and three year old &lt;a href=&quot;https://trello.com/about&quot;&gt;trello&lt;/a&gt; are the default tools for many of my teams), new business models (&lt;a href=&quot;https://monzo.com/about/&quot;&gt;Monzo&lt;/a&gt; was founded in 2015), new competion (&lt;a href=&quot;https://www.airbnb.co.uk/how-it-works?af=14732389&quot;&gt;Airbnb&lt;/a&gt; expanding into Europe) and other threats.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/targetnew.png&quot; alt=&quot;target with new elements&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;But it gets worse. What about all of those things which existed in 2012 but we ignored, either because they had not broken into the mainstream or were considered too imature. It may have been ok to put off &lt;a href=&quot;/2017/02/serverless-computing-will-be-big.html&quot;&gt;serverless technology&lt;/a&gt;, like &lt;a href=&quot;https://en.wikipedia.org/wiki/Node.js&quot;&gt;node.js&lt;/a&gt;, in your plans but could you really afford to exclude Android, which is now dominating that part of industy? There are also the things we assumed would be important and stable which have become obsolete. There were several people in the BCS audience who, like me, had been caught by surprise at how quickly people abandoned their, once cherrished, Blackberry devices. Companies and whole segments can shrink extraordinarily quickly if they run into problems.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/targetgone.png&quot; alt=&quot;target with old elements&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;blistering-pace&quot;&gt;Blistering pace&lt;/h2&gt;
+
+&lt;p&gt;To add to the uncertainty, things do not always develop or progress at a steady pace. Enterprise architects are familiar with &lt;a href=&quot;https://en.wikipedia.org/wiki/Moore%27s_law&quot;&gt;“Moores Law”&lt;/a&gt; but many other products and services exhibit this kind of growth. The value for money of personal DNA sequencing has improved by a factor of 10 over the last 10 years. The improvement for solar power and mobile data is 20 and 25 respectively. How confident can we be that the trade-offs we are making will still be sensible in 2 or 3 years, let alone 5 years and beyond? It shoud be no surprise that exectives are finding this sort of long range planning less and less useful.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/expo.png&quot; alt=&quot;exponential change&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If some other disciplines had found ways to cope with all this change and uncertainty perhaps we could learn from them? Product development teams (especially for software products) can provide useful lessons. When I started my career, project timescales were typically measured in years. Today, teams are using short, fast cycles to work at a much faster pace. Even in the public sector, which has a poor reputation for speed and agility, you can find teams who can go from discussing an idea to launching a new public service in a matter of weeks. The giants of the internet era move even faster and there are opportunities to use machine learning and artificial intelligence to go beyond the pace and scale of the fastest human teams.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/wirlwind.png&quot; alt=&quot;wirlwind&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;What these teams have learnt is that:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/fast.png&quot; alt=&quot;Fast iterations with users wins&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There have obviously been some mistakes and setbacks along the way but many organisations find they have a better chance of getting better results using the kind of agile techniques employed by the best digital teams. An agile team does not have to be flawless, it just has to do better than the alternatives. Traditional contributions from architects are not so much better that they are worth the wait. Even when dealing with sensitive topics like security, safety and compliance agile techniques often get to better answers more quickly.&lt;/p&gt;
+
+&lt;p&gt;However, that is not the end of the story. There are some things which agile and digital teams struggle with where architects and their tools might be able to help. Here are four to consider.&lt;/p&gt;
+
+&lt;h3 id=&quot;breaks-in-the-flow&quot;&gt;Breaks in the flow&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/flow.png&quot; alt=&quot;break in the flow&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sometimes teams come across breaks in the flow of iterations. Initially things start well and each iteration gets better until something breaks down. A common example arises in efforts to move existing processes online. Initially a paper form might be copied, more-or-less, into an electronic form and then iterated to make it more useful and accessible. Occasionally, several iterations in, the team discover that there is a better way to arrange the service which does not require a form at all and it is dropped. Perhaps architects can be looking out for these breaks and helping agile teams handle them.&lt;/p&gt;
+
+&lt;h3 id=&quot;troublesome-users&quot;&gt;Troublesome users&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/antiusers.png&quot; alt=&quot;target with new elements&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Fast iterations with users wins but getting to your users is not always easy. Competitors, campaigners and criminals may not want your service to be a success, at least not in the way you intend, but they still need to be understood. Users with different roles, for example, customers, service agents and investors may have apparently conflicting needs which must be unravelled or traded. This might be an area where architecture tools can help.&lt;/p&gt;
+
+&lt;h3 id=&quot;sharing-and-re-use&quot;&gt;Sharing and re-use&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/shared.png&quot; alt=&quot;target with new elements&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We are still learning how to develop common standards and share components in a user-centred, agile way. Good teams will investigate what they can share or re-use but deliberate coordination is hard and teams can end up creating duplicate components which are highly tuned to their users. Even when teams identify components which are good candidates for sharing and re-use it can re-ignite the challenges of finding the right users and stakeholders for them. The layered approach that architects often use may provide some new ways to deal with this challenge.&lt;/p&gt;
+
+&lt;h3 id=&quot;are-you-sure-you-want-to-delete&quot;&gt;Are you sure you want to delete?&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/notsw.png&quot; alt=&quot;target with new elements&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The final challenge I have picked out for this post is that products and services are not just built from software. There are lots of important aspects which cannot be deleted and recreated at will. Some are robust things such as facilities, fixed assets and skills. Others are extremely fragile, such as trust, relationships and collaboration. Architects are used to applying the kind of whole-systems thinking which may help agile teams handle these aspects.&lt;/p&gt;
+
+&lt;h2 id=&quot;rising-to-the-challenge&quot;&gt;Rising to the challenge&lt;/h2&gt;
+&lt;p&gt;It makes sense to consider where agile and digital techniques are falling short but do not be fooled.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/fast.png&quot; alt=&quot;Fast iterations with users wins&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There is no point in using these challenges to argue against techniques which are proving so effective in practice. Teams do not adopt these techniques because they are flawless. They adopt them because they often produce better results than the traditional alternatives. It may take a few more iterations but agile teams that are focused on their users will absorb setbacks, work around them and learn to do better in future. As architects, we need to be thinking about how we can support these teams and enrich their agle approaches so that they can work even better.&lt;/p&gt;
+
+&lt;p&gt;Over the last few years I have had the chance to develop architecture within fast moving digital teams. Here are some of the tactics that I have found are helpful, so far.&lt;/p&gt;
+
+&lt;h3 id=&quot;dont-be-too-ambitious&quot;&gt;Don’t be too ambitious&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/focus.png&quot; alt=&quot;target with new elements&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;No achitect or even a team of architects can cover everything, at least not at the pace that agile teams need. We need to learn to focus and work with our stakeholders to deliberately chose where to invest our efforts. There will be little need for long, jargon-filled documents or comprehensive, detailed models. In most cases these sorts of products will not be required as they won’t be timely, robust or accessible enough to be of value. It will be necessary and useful to reach up into abstract concepts and down into details on occasions but this will need to be justified and, most importantly, supported by the teams and executives who will be expected to use the results.&lt;/p&gt;
+
+&lt;h3 id=&quot;work-on-the-problem&quot;&gt;Work on the problem&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/problem.png&quot; alt=&quot;target with new elements&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Achitects have traditionally spent a lot of their time looking at the components of the product and service and how they work together. This is the solution side of the architecture equation. This is the area where agile teams iterate at a fast rate and it will be very difficult for any architect to stay far enough ahead of the team to be of much use. Instead, architects could put more energy into understanding the problem side of the equation - who are the main actors, how do they interact and what results from this? Although this may be unfamiliar teritory, architecture tools and approaches are just as valid here. I find that the architecture of problems changes at a much slower pace and the insights that the architect uncovers are usually more relevant and useful to agile teams.&lt;/p&gt;
+
+&lt;h3 id=&quot;whole-services-and-business-capabilities&quot;&gt;Whole services and business capabilities&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/capability.png&quot; alt=&quot;target with new elements&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Business capabilities provide a way of thinking about products and services that blends technology with the people involved and how they work. I am finding that a focus on capabilities encourages architects to explore things that have enduring use for agile teams such as spotting and exploiting re-use and blending slower moving changes to facilities, organisations and culture with the fast iteration of IT.&lt;/p&gt;
+
+&lt;h3 id=&quot;iterate-fast-with-your-users&quot;&gt;Iterate fast with your users&lt;/h3&gt;
+&lt;p&gt;If fast iteration with users wins in so many areas would it also win in architecture? Architecture only comes to life when stakeholders have absorbed it and use it in their decision making. Why not treat decision makers as users and develop architecture in fast iterations with them? This is the approach I have been taking with my customers over the last few years.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/waysofworking.png&quot; alt=&quot;target with new elements&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It can feel uncomfortable working out loud and engaging with executives before anyone has robust results. But it is even more uncomfortable to consume a lot of time and effort on things which are not understood, are not relevent or get in the way of teams delivering value to their users and employers.&lt;/p&gt;
+
+&lt;h2 id=&quot;in-case-you-missed-the-message&quot;&gt;In case you missed the message&lt;/h2&gt;
+
+&lt;p&gt;No one has yet worked out repeatable and portable method for doing architecture this way but that is ok. Let’s start, iterate and get better because:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/fast.png&quot; alt=&quot;Fast iterations with users wins&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;bcs-talk-replay&quot;&gt;BCS Talk Replay&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;About 20 minutes&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;iframe width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/2k_wiczNNFc?start=6&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Richard Barton</name></author><category term="Transformation" /><category term="Digital" /><category term="Agile" /><summary type="html">I gave a presentation at the recent British Computer Society (BCS) Enterprise Architecture Conference. A replay of the talk is available and this post is an outline of the main points. Over the last few years I have worked with many architects and quite a few are unhappy. Executives might appreciate the efforts that go into models and designs but things move on so quickly that, often, the architect’s work does not keep pace with events or arrives too late to be useful. The architect might sadly slope away, loaded down with copies of densely packed designs which are now only good for the recycling bin, or they might become angry at being ignored. Either way, it is not a pleasant situation. I shared with the conference some ideas about why this is happening and offered some suggestions of how to respond.</summary></entry><entry><title type="html">Essential ingredients for digital transformation</title><link href="http://localhost:4000/2017/02/essential-ingredients-for-digital.html" rel="alternate" type="text/html" title="Essential ingredients for digital transformation" /><published>2017-02-11T00:00:00+00:00</published><updated>2017-10-23T18:00:00+00:00</updated><id>http://localhost:4000/2017/02/essential-ingredients-for-digital</id><content type="html" xml:base="http://localhost:4000/2017/02/essential-ingredients-for-digital.html">&lt;p&gt;I recently read a &lt;a href=&quot;https://cloudrumblings.io/the-richmond-project-f4ce7949d9e8&amp;quot;&amp;gt;really nice post&quot;&gt;really nice post&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/drewfirment&quot;&gt;Drew Firment&lt;/a&gt; (thanks go to &lt;a href=&quot;https://twitter.com/cpswan&quot;&gt;Chis Swan&lt;/a&gt; for sharing it). Drew’s article reminded me of some patterns I have seen in big transformations - most recently in my &lt;a href=&quot;/2016/07/beyond-agile-delivery.html&quot;&gt;digital transformation&lt;/a&gt; work but also in the earlier rounds of change we called internet- or electronic-business transformation. This post is a first attempt at making these patterns explicit, initially so I can use them in my own work. It would be great to get your feedback if you think they will help you too. Lots of other people have already been trying to make sense of this area through frameworks, maturity models, life-cycles and other models. I have started to collect a list of some of these at the end of this post and they are worth reviewing as well.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-ingredients-of-transformation&quot;&gt;The ingredients of transformation&lt;/h2&gt;
+
+&lt;p&gt;I’ll start with four main ingredients which, when combined, form the basis of digital transformation. The key ingredients are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The &lt;strong&gt;passion&lt;/strong&gt;, or drive, which ultimately powers the transformation&lt;/li&gt;
+  &lt;li&gt;A pool of &lt;strong&gt;talented people&lt;/strong&gt; who can build the new understanding, ways of working or operational capabilities needed for the transformation&lt;/li&gt;
+  &lt;li&gt;This team’s &lt;strong&gt;reputation&lt;/strong&gt; for delivery which grows as they create a track record of successes&lt;/li&gt;
+  &lt;li&gt;An &lt;strong&gt;ecosystem&lt;/strong&gt; of partners and capabilities which accumulates from the efforts of the team.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I have deliberately left out things like process models and technical infrastructure. Transformation does have technical and procedural aspects but the progress of transformation does not feel like the flow of a structured process or the operation of a machine. It is very much more organic than that. In many cases, it defies simplistic measurement and analogies based upon politics or ecology would probably be more fitting, for example:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Financial models and other kinds of business justification might support the drive for change but are not a substitute for the emotional and personal commitment associated with passion. People who are passionate about the changes ask questions like, “Are we being ambitious enough?” rather than, “What is the return on investment?”&lt;/li&gt;
+  &lt;li&gt;People can grow and develop but completion of training courses and accumulation of experience do not automatically create talent.&lt;/li&gt;
+  &lt;li&gt;A strong reputation can be built in the face of obstacles and setbacks but can be elusive even if time, costs and quality metrics are on track.&lt;/li&gt;
+  &lt;li&gt;The performance of an ecosystem is as much about the balance and interaction of the participants as it is about their individual attributes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ebbs-and-flows-of-transformation&quot;&gt;Ebbs and flows of transformation&lt;/h2&gt;
+
+&lt;p&gt;The diagram below illustrates the simple pattern that I have observed - at least in successful transformations.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Project_main.png&quot; alt=&quot;alt text&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Nothing happens without &lt;strong&gt;passion&lt;/strong&gt;. This might be the result of some shock or revelation or can be fuelled by insights or rationale which builds up over time. Passion sets the pace and direction of the transformation.&lt;/li&gt;
+  &lt;li&gt;Passion is the element that initially attracts and motivates &lt;strong&gt;talented people&lt;/strong&gt;. Later the ingredients create a virtuous circle with more talented people inspired by the team’s reputation or accessed through the ecosystem.&lt;/li&gt;
+  &lt;li&gt;Passion is also essential to help the team overcome obstacles, objections and setbacks and successfully make progress. A track record of success is what builds the &lt;strong&gt;reputation&lt;/strong&gt; for delivery.&lt;/li&gt;
+  &lt;li&gt;Passion is the source of the shared purpose and values which binds various organisations, communities, operating units and infrastructure in the &lt;strong&gt;ecosystem&lt;/strong&gt; into a larger, united entity.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Clearly, there will be a need to engage and manage stakeholders, establish a common vision and roadmap and deal with administrative requirements such as securing funding, facilities, infrastructure and commercial services but, to a certain extent, these are details that executives can leave to their talented teams. If the transformation ingredients are in place these things will emerge anyway. Without the transformation ingredients they will simply become bureaucratic overhead.&lt;/p&gt;
+
+&lt;p&gt;What if something changes or goes wrong? My theory is this pattern can still help make sense of these situations.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/project2_main.png&quot; alt=&quot;alt text&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Most of the problems I have observed can be traced back to passion, or lack of it. Examples can include the departure of a key leader or an external shock which shifts the drive and energy onto a different track. Competing passions leading in different directions can also damage one or both goals. The effect of this is often a gradual and slow decline as talented people leave, the reputation for delivering wanes and the ecosystem falls into obsolescence when it is not maintained and refreshed.&lt;/p&gt;
+
+&lt;p&gt;Another class of problem appears when the ingredients are out of balance, such as a lack of attention on growing the pool of talented people or not actively cultivating a reputation. Transformation will stall without the positive feedback loops between these ingredients.&lt;/p&gt;
+
+&lt;h2 id=&quot;exploiting-the-patterns&quot;&gt;Exploiting the patterns&lt;/h2&gt;
+
+&lt;p&gt;In a follow up post I will share some ideas about how to exploit these patterns to maintain, accelerate or scale a transformation initiative. In the meantime I would really appreciate any feedback you have on these ideas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/project3_header.png&quot; alt=&quot;alt text&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;related-posts&quot;&gt;Related posts:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/race-against-digital-darwinism-six-stages-brian-solis&quot;&gt;The six stages of digital transformation&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/briansolis&quot;&gt;Brian Solis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blogs.starcio.com/2015/10/what-is-digital-business-digital-transformation.html&quot;&gt;What is Digital Business and Digital Transformation?&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/nyike&quot;&gt;Isaac Sacolick&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dionhinchcliffe.com/2016/10/20/in-digital-transformation-culture-change-goes-hand-in-hand-with-tech-change/&quot;&gt;In Digital Transformation, Culture Change Goes Hand in Hand with Tech Change&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/dhinchcliffe&quot;&gt;Dion Hinchcliffe&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.computing.co.uk/ctg/opinion/3004023/stop-wasting-money-on-digital-transformation-start-building-the-team-to-make-it-happen&quot;&gt;Stop Wasting Money on Digital Transformation&lt;/a&gt; an interview with &lt;a href=&quot;https://twitter.com/informatics_lab&quot;&gt;the Met Office’s Dr Alberto Arribas&lt;/a&gt; in Computing&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/change-more-like-adding-milk-coffee-niels-pflaeging?trk=mp-reader-card&quot;&gt;Change is more like adding milk to coffee&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/NielsPflaeging&quot;&gt;Niels Pflaeging&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.businesswire.com/news/home/20150608005232/en/IDC-MaturityScape-Urges-Digital-Transformation-Leaders-Create&quot;&gt;Digital Maturity Model&lt;/a&gt; from &lt;a href=&quot;https://twitter.com/IDC&quot;&gt;IDC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.wearefuturegov.com/a-digital-maturity-assessment-that-your-organisation-can-act-upon-2eedfc456c26&quot;&gt;A digital maturity assessment that your organisation can act upon&lt;/a&gt; by &lt;a href=&quot;https://www.wearefuturegov.com/&quot;&gt;FutureGov&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>@CIOPortfolio</name></author><category term="Transformation" /><category term="Digital" /><summary type="html">I recently read a really nice post by Drew Firment (thanks go to Chis Swan for sharing it). Drew’s article reminded me of some patterns I have seen in big transformations - most recently in my digital transformation work but also in the earlier rounds of change we called internet- or electronic-business transformation. This post is a first attempt at making these patterns explicit, initially so I can use them in my own work. It would be great to get your feedback if you think they will help you too. Lots of other people have already been trying to make sense of this area through frameworks, maturity models, life-cycles and other models. I have started to collect a list of some of these at the end of this post and they are worth reviewing as well.</summary></entry><entry><title type="html">Serverless computing will be big…</title><link href="http://localhost:4000/2017/02/serverless-computing-will-be-big.html" rel="alternate" type="text/html" title="Serverless computing will be big..." /><published>2017-02-01T14:45:00+00:00</published><updated>2017-02-01T14:45:00+00:00</updated><id>http://localhost:4000/2017/02/serverless-computing-will-be-big</id><content type="html" xml:base="http://localhost:4000/2017/02/serverless-computing-will-be-big.html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;…but developer productivity and commercial flexibility are bigger&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This post goes into technology a little more than usual so the &lt;a href=&quot;https://en.wikipedia.org/wiki/TL;DR&quot;&gt;TL;DR&lt;/a&gt; version for busy CIO’s is:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Please make sure some of your teams are experimenting with serverless technology from Amazon or other providers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The rest of this post explains why Amazon is leading the transformation of software development with an obscure bit of technology from Google.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-long-time-in-the-making&quot;&gt;A long time in the making&lt;/h2&gt;
+
+&lt;p&gt;Great ideas can sometimes simmer in obscurity for many years until someone finds the right commercial and technical package to ignite them. Then the old idea can burst into the headlines as a brand new innovation. This is happening now with a collection of ideas being branded as &lt;a href=&quot;https://martinfowler.com/articles/serverless.html&quot;&gt;“serverless” computing&lt;/a&gt;. &lt;a href=&quot;https://aws.amazon.com/&quot;&gt;Amazon Web Services&lt;/a&gt; attracted all the &lt;a href=&quot;http://sdtimes.com/amazon-introduces-lambda-containers/&quot;&gt;headlines in 2014&lt;/a&gt; when they released their &lt;a href=&quot;https://aws.amazon.com/lambda/&quot;&gt;Lambda service&lt;/a&gt;. I suspect Amazon will claim the bulk of serverless revenues over the next few years but the ideas and technology behind Lambda are at least a decade old.&lt;/p&gt;
+
+&lt;p&gt;The obscure bit of technology inside AWS Lambda is &lt;a href=&quot;https://en.wikipedia.org/wiki/V8_(JavaScript_engine)&quot;&gt;Google’s V8 JavaScript engine&lt;/a&gt;. Developers use &lt;a href=&quot;https://en.wikipedia.org/wiki/JavaScript&quot;&gt;JavaScript&lt;/a&gt; to create rich, interactive web sites and it is supported by pretty much every browser on every device today. V8 powers Google’s Chrome browser but in 2009, it was used to build a small, fast platform, &lt;a href=&quot;https://en.wikipedia.org/wiki/Node.js&quot;&gt;node.js&lt;/a&gt;, that let JavaScript software run on backend servers. In its short life, node.js has avoided a small &lt;a href=&quot;https://nodejs.org/en/blog/announcements/foundation-v4-announce/&quot;&gt;standards war&lt;/a&gt;, attracted a &lt;a href=&quot;http://thenewstack.io/javascript-popularity-surpasses-java-php-stack-overflow-developer-survey/&quot;&gt;huge following&lt;/a&gt; and accumulated a &lt;a href=&quot;https://en.wikipedia.org/wiki/Npm_(software)&quot;&gt;massive library of clever tools and utilities&lt;/a&gt;. By 2014, when Amazon was getting ready to launch Lambda, node.js had become a reasonably mature platform and was being used in anger by some &lt;a href=&quot;https://brainhub.eu/blog/2016/05/30/9-famous-apps-using-node-js/&quot;&gt;major organisations&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;disposable-systems&quot;&gt;Disposable systems&lt;/h2&gt;
+
+&lt;p&gt;Node.js is small and fast enough to be disposable. It is economical to start a node.js server in a &lt;a href=&quot;http://searchservervirtualization.techtarget.com/definition/container-based-virtualization-operating-system-level-virtualization&quot;&gt;container&lt;/a&gt; just to run a trivial bit of software - a simple function - and then throw it away once the function has completed. The whole cycle might last just a few tenths of a second. This is just what Amazon needed as the basis for its new serverless offering. Lambda now supports a range of languages and tools but still uses node.js as the small, fast workhorse behind the scenes. But cloud service performance is not the only, or even the most important, factor. Developer performance and commercial flexibility are also big considerations.&lt;/p&gt;
+
+&lt;p&gt;Many serverless functions are trivial but they do not have to be. A function could be an interactive web application, interrogating a database and provisioning other sophisticated services. The breakthrough this allows is that, with a little care, a piece of JavaScript will work, without modification, on a laptop, a small private server, a virtual machine from any of the leading cloud providers and inside a serverless function. Since your tablet and smartphone already include a JavaScript engine it will not be long before you find node.js functions there and AWS is already &lt;a href=&quot;https://aws.amazon.com/greengrass/&quot;&gt;getting Lambda ready&lt;/a&gt; for the &lt;a href=&quot;https://en.wikipedia.org/wiki/Internet_of_things&quot;&gt;Internet of Things&lt;/a&gt;. This is a level of portability which has been promised since the dawn of computing but, until recently, has never actually materialised.&lt;/p&gt;
+
+&lt;p&gt;This means you can demonstrate an application or service on a relatively low specification laptop, trial and scale it at very low cost as cloud functions and switch to dedicated virtual servers (in the cloud or in your own data centres) when demand is stable or the scale makes Lambda’s pricing model less economical. I am not sure that Amazon set out to achieve this kind of portability or that Amazon’s competitors have realised how significant this is.&lt;/p&gt;
+
+&lt;h2 id=&quot;try-before-you-buy&quot;&gt;Try before you buy&lt;/h2&gt;
+
+&lt;p&gt;This sounds too good to be true but the &lt;a href=&quot;https://claudiajs.com/&quot;&gt;tools and frameworks&lt;/a&gt; are maturing rapidly and it is already a realistic option for interested, part-time, amateur developers - like me.&lt;/p&gt;
+
+&lt;p&gt;I’ve recently ported a &lt;a href=&quot;https://app.cioportfolio.co.uk&quot;&gt;web app that I use for my business&lt;/a&gt; over to node.js on Lambda. With a few configuration settings the same software will run in a virtual machine on my laptop or a physical or virtual server in the cloud. In fact, I can run different parts of the app on different infrastructure e.g. serve end-user parts over Lambda and keep admin features on private machines. As a bonus, my level of use is probably low enough to stay within Amazon’s &lt;a href=&quot;https://aws.amazon.com/free/&quot;&gt;free usage tier&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I am sure it is only a matter of time before node.js and AWS Lambda are superseded by something else - many people, including me, won’t miss JavaScript and the &lt;a href=&quot;https://aws.amazon.com/sdk-for-node-js/&quot;&gt;AWS interface&lt;/a&gt; when something more user friendly comes along. Taking some time, right now, to understand how to build systems from small, portable, disposable containers will be a good, long-term investment.&lt;/p&gt;
+
+&lt;h2 id=&quot;and-the-runner-up-prize-goes-to&quot;&gt;And the runner-up prize goes to…&lt;/h2&gt;
+
+&lt;p&gt;Here is a final word of commiseration for Google - they had the right ideas but at the wrong time. Unfortunately, when Google launched its serverless offering, &lt;a href=&quot;https://cloud.google.com/appengine/&quot;&gt;Google App Engine&lt;/a&gt;, back in 2008, node.js did not exist and many popular development frameworks did not support the serverless model very well. App Engine was good but something developed for the Google platform would not work very well, if at all, on private servers or another public cloud platform. Google had to &lt;a href=&quot;https://cloudplatform.googleblog.com/2014/03/bringing-together-best-of-paas-and-iaas.html&quot;&gt;back-track and offer virtual machine services&lt;/a&gt; alongside Amazon, Microsoft and others. Google is now moving slowly to offer a &lt;a href=&quot;https://cloud.google.com/functions/&quot;&gt;Lambda look-alike service&lt;/a&gt;. This time, Google is giving a lot more attention to portability and other major players should do the same.&lt;/p&gt;
+
+&lt;h3 id=&quot;an-even-more-technical-footnote&quot;&gt;&lt;em&gt;An even more technical footnote&lt;/em&gt;&lt;/h3&gt;
+
+&lt;p&gt;I had already worked with node.js and &lt;a href=&quot;http://expressjs.com/&quot;&gt;express&lt;/a&gt; for some voluntary work so I jumped straight to the the &lt;a href=&quot;https://github.com/awslabs/aws-serverless-express&quot;&gt;aws-serverless-express library&lt;/a&gt; to get started with AWS Lambda. The deployed version of my app makes use of other AWS services, such as S3, DynamoDB, API Gateway and Cloud Front, as well as Lambda but the platform specific details are taken care of by one or two configuration files. The application software will run on any instance of node.js. I found&lt;a href=&quot;https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/&quot;&gt; Keith Cirkel’s post about npm&lt;/a&gt; really useful in deciphering what AWS had done in their library and then extending it to avoid storing any sensitive information, like access keys, in files locally or in the cloud.&lt;/p&gt;
+
+&lt;p&gt;The previous version of the app was developed with &lt;a href=&quot;https://www.djangoproject.com/&quot;&gt;Django&lt;/a&gt; using &lt;a href=&quot;https://aws.amazon.com/elasticbeanstalk/&quot;&gt;Elastic Beanstalk&lt;/a&gt;. The move from the user friendly &lt;a href=&quot;https://www.python.org/&quot;&gt;Python language&lt;/a&gt; used in Django to the more temperamental JavaScript used in node.js consumed most of the effort in the migration. If the original app had been developed on node.js the migration to serverless on Lambda would have been trivial.&lt;/p&gt;</content><author><name>@CIOPortfolio</name></author><category term="CIO" /><category term="Applications" /><category term="Agile" /><category term="Futures" /><category term="Cloud" /><summary type="html">…but developer productivity and commercial flexibility are bigger This post goes into technology a little more than usual so the TL;DR version for busy CIO’s is: Please make sure some of your teams are experimenting with serverless technology from Amazon or other providers. The rest of this post explains why Amazon is leading the transformation of software development with an obscure bit of technology from Google.</summary></entry><entry><title type="html">Not so fast!</title><link href="http://localhost:4000/2016/07/not-so-fast.html" rel="alternate" type="text/html" title="Not so fast!" /><published>2016-07-20T07:03:00+00:00</published><updated>2016-07-20T07:03:00+00:00</updated><id>http://localhost:4000/2016/07/not-so-fast</id><content type="html" xml:base="http://localhost:4000/2016/07/not-so-fast.html">&lt;p&gt;I recently noticed that I have been using &lt;a href=&quot;https://twitter.com/CIOPortfolio&quot;&gt;@CIOPortfolio&lt;/a&gt; for 5 years now and that got me thinking about what has changed for CIOs over that time. Although digital technology is renowned for its frenetic pace of innovation (&lt;a href=&quot;http://www.bbc.co.uk/news/technology-36824737&quot;&gt;here we go again!&lt;/a&gt;) you could argue that not much has changed. Surprisingly, that is a terrifically useful insight for CIOs.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;been-there-done-that&quot;&gt;Been there, done that&lt;/h2&gt;
+
+&lt;p&gt;As an example, all of the technology that we have today was in evidence back in 2011. Pick any of the categories which have attracted exciting headlines recently and a few searches will uncover working examples in 2011 and a development history stretching back decades. Wearables, virtual reality, artificial intelligence, microservices, containers,  autonomous cars, drones and blockchain were all in use when I first signed on with @CIOPortfolio. The same applies to IT working practices such as “DevOps” and “Scrum”.&lt;/p&gt;
+
+&lt;p&gt;Developments which appeared within the last 5 years have often been variations on existing products or interesting combinations - think of Snapchat, Apple’s Siri, Slack, and Microsoft’s Surface. Even then the headlines often flattered the new arrivals by focusing on new shipments and down playing the enormous installed base of older technologies. For example, some surveys suggest Android has only recently pushed Windows into second place in the installed operating system rankings.&lt;/p&gt;
+
+&lt;p&gt;For some organisations, these smaller scale shifts have still made this a pretty exciting period. Over the last 5 years Apple, Microsoft and Google have remained near the top of company valuation lists but the likes of IBM and Walmart have dropped down to be replaced by Facebook and Amazon. HP has split into two firms and Dell is trying to redefine itself by swallowing EMC.&lt;/p&gt;
+
+&lt;h2 id=&quot;less-haste-more-speed&quot;&gt;Less haste, more speed&lt;/h2&gt;
+
+&lt;p&gt;For many CIOs and IT functions the last five years has been a period of recovery and consolidation and the steady pace is likely to continue despite some of the more shrill headlines. That doesn’t mean that CIOs can relax entirely but it does mean that the changes that are needed over the next 5-years are already reasonably well understood, even if they have not been widely adopted yet. Here are some of the most significant examples.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Organisation&lt;/strong&gt; - Projects will still be employed as a useful way to organise special, discrete initiatives, such as a merger. Already, very little of what IT does falls into this category and that share will continue to shrink. Most IT work will be delivered in small, frequent batches by mixed product teams. There will still be a need to look far ahead for strategy and architecture but this will be to explore possible scenarios and not make fixed grand plans.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Risk&lt;/strong&gt; - Everyone is exposed to the internet and the threats which lurk there which means that all of your IT is also exposed. Firewalled networks and datacentres provide a comforting, but false, sense of security. We need to educate our staff, customers and partners to help them become trust worthy users of our IT and have tried and tested responses ready when the inevitable breaches or failures occur.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Delivery&lt;/strong&gt; - Assume that any new services you are considering now will be offered through APIs based upon published standards. Build a mobile, accessible, web front-end but expect your users to choose third-party clients as standards mature - think about the way email has worked for many years now.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Development&lt;/strong&gt; - Most of your needs will be met by configuring cloud services (usually software as a service). The rest will be constructed using open source frameworks and platforms which already include re-usable libraries for most common needs. The talented people you want to attract and retain will expect to contribute their work back into these communities.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Compute and storage&lt;/strong&gt; - Anything you are developing now will have to run in the public cloud by the time it is decommissioned - most likely load balancing across a couple of preferred providers - so build for it now. Private and hybrid cloud might have made sense in 2011 but it does not now and certainly won’t in 2021. The rest of your hardware will be a diverse selection of portable and wearable devices - most of which you will not own or administer.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;calm-within-the-storm&quot;&gt;Calm within the storm&lt;/h2&gt;
+
+&lt;p&gt;Given all of the shocks and turmoil going on in the world at the moment I hope CIOs can take some comfort from seeing how steady and predictable progress can be in their professional lives.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Related Posts&lt;/strong&gt;: &lt;a href=&quot;http://blog.gardeviance.org/2015/02/on-two-forms-of-disruptions.html&quot;&gt;On the two forms of disruption&lt;/a&gt; - on second thoughts, read &lt;em&gt;everything&lt;/em&gt; from &lt;a href=&quot;https://twitter.com/swardley&quot;&gt;@swardley&lt;/a&gt;&lt;/p&gt;</content><author><name>@CIOPortfolio</name></author><category term="CIO" /><category term="Transformation" /><category term="Agile" /><category term="Futures" /><category term="Digital" /><category term="Cloud" /><summary type="html">I recently noticed that I have been using @CIOPortfolio for 5 years now and that got me thinking about what has changed for CIOs over that time. Although digital technology is renowned for its frenetic pace of innovation (here we go again!) you could argue that not much has changed. Surprisingly, that is a terrifically useful insight for CIOs.</summary></entry><entry><title type="html">Beyond Agile Delivery</title><link href="http://localhost:4000/2016/07/beyond-agile-delivery.html" rel="alternate" type="text/html" title="Beyond Agile Delivery" /><published>2016-07-02T00:00:00+00:00</published><updated>2017-10-23T18:00:00+00:00</updated><id>http://localhost:4000/2016/07/beyond-agile-delivery</id><content type="html" xml:base="http://localhost:4000/2016/07/beyond-agile-delivery.html">&lt;p&gt;You could be forgiven for thinking that the &lt;a href=&quot;https://en.wikipedia.org/wiki/Agile_software_development&quot;&gt;agile movement&lt;/a&gt; is taking over the world. For example, Amazon is famously agile and because it can &lt;a href=&quot;http://www.allthingsdistributed.com/2014/11/apollo-amazon-deployment-engine.html&quot;&gt;make changes to its software every second&lt;/a&gt; it can maintain its lead in existing markets whilst conquering new ones. But look more carefully and, of course, things are more complicated than that. In many respects, leading digital businesses are not as agile as they seem.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Organisations like Amazon, Apple and Microsoft have grown to employ more than 100,000 people and operate massive facilities. Even Uber, famed for disrupting taxis without owning any cars, might be considering &lt;a href=&quot;http://www.dezeen.com/2016/05/20/uber-testing-driverless-taxi-self-driving-navigating-car-transport-pittsburgh-pennsylvania-usa/&quot;&gt;building a fleet of vehicles&lt;/a&gt; - even if they do happen to be autonomous. These organisations might be able to change their software in seconds but they can’t acquire and dispose of people, assets, relationships and physical infrastructure in minutes or days. Amazon’s CEO, Jeff Bezos, has even upset financial markets by taking things to the opposite extreme - &lt;a href=&quot;http://www.thepassivevoice.com/2016/01/amazons-long-term-growth/&quot;&gt;ignoring the clamour for short term results&lt;/a&gt; and making large scale investments with payback periods measured in years.&lt;/p&gt;
+
+&lt;h2 id=&quot;if-you-cant-beat-them-fake-it&quot;&gt;If you cant beat them, fake it!&lt;/h2&gt;
+
+&lt;p&gt;Out of the spotlight, many more organisations are struggling to get their, less ambitious, agile efforts to scale or make an impact on their traditional products and services. Some end up cutting corners, &lt;a href=&quot;http://www.cioinsight.com/it-management/innovation/saying-goodbye-to-bimodal-it.html&quot;&gt;create technical or operational silos&lt;/a&gt; or just &lt;a href=&quot;http://www.forbes.com/sites/stevedenning/2015/06/22/is-agile-just-another-management-fad/&quot;&gt;fake it&lt;/a&gt; to look good. New approaches are emerging, such as &lt;a href=&quot;http://www.scaledagileframework.com/&quot;&gt;SAFe&lt;/a&gt;, which promise to deal with this more complex landscape but can get &lt;a href=&quot;http://www.ambitiousmanager.com/defence-scaled-agile-framework-safe/&quot;&gt;mixed results&lt;/a&gt;. There are also multi-headed monsters such as &lt;a href=&quot;https://www.scrumalliance.org/community/articles/2015/june/water-scrum-fal&quot;&gt;Waterscrumfall&lt;/a&gt;. Some think the difficulties are caused by the lingering influence of out of date practices. They suggest abandoning ideas such as &lt;a href=&quot;http://www.forbes.com/sites/jasonbloomberg/2014/07/11/is-enterprise-architecture-completely-broken/#3df944572f30&quot;&gt;enterprise architecture&lt;/a&gt;, &lt;a href=&quot;http://www.holacracy.org/&quot;&gt;organisation design&lt;/a&gt; and even &lt;a href=&quot;https://www.infoq.com/articles/noprojects1-projects-flawed&quot;&gt;project management&lt;/a&gt; in order to avoid clashes with new agile approaches.&lt;/p&gt;
+
+&lt;p&gt;So, should you continue to wrestle with agile techniques and hope that, eventually, you will make it work or should you dismiss it all as an impractical ideal that not even the agile leaders live up to? Fortunately, there is a way to reconcile these conflicting positions. A common thread in all of these approaches and methods, both old and new, is that all of them have been developed as a response to risk. They all provide a template or pattern to mitigate certain types of risk. For example, project management addresses the risks involved in making large, unfamiliar investments. The various flavours of agile software development mitigate risk by reducing the impact of undiscovered errors. Working with risks and understanding how the various methods try to mitigate them provides a way of blending different approaches in a pragmatic way.&lt;/p&gt;
+
+&lt;h2 id=&quot;taking-calculated-risks&quot;&gt;Taking calculated risks&lt;/h2&gt;
+
+&lt;p&gt;There is a good example of this kind of thing going on in &lt;a href=&quot;https://digitaldwp.blog.gov.uk/2015/07/23/are-you-just-playing-at-digital-transformation/&quot;&gt;my current assignment&lt;/a&gt;. I am leading a team in a large scale digital transformation which involves lots of different sorts of risks and draws upon a whole range of methods and tools. My team is focused on transforming some enterprise-wide processes and we are involved in all of the following simultaneously:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Iterating the details of some back-office processes using a bespoke approach which is largely based on Scrum.&lt;/li&gt;
+  &lt;li&gt;Applying traditional data modelling techniques to define standards for systems being developed by separate agile teams. We are replacing some existing monolithic systems but still have to satisfy stakeholder needs for consolidated information.&lt;/li&gt;
+  &lt;li&gt;Running a fairly traditional project to define the learning and development activities needed to get operational teams ready for some significant changes.&lt;/li&gt;
+  &lt;li&gt;Writing business cases to reserve staff effort and funding for future work. The business case documents themselves look quite traditional but they are being developed iteratively alongside agile service development.&lt;/li&gt;
+  &lt;li&gt;Developing customer facing services using the hybrid approach promoted in the UK Governments’s &lt;a href=&quot;https://www.gov.uk/service-manual&quot;&gt;GDS service manual&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Exploring long range options for organisation structures and ways of working through some internal events modelled on recent &lt;a href=&quot;http://ukgovhack.com/&quot;&gt;“unconferences” and “hacks”&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My team regularly discusses the merits of different approaches. Occasionally, some strongly held personal preferences creep into these debates but they are usually settled quickly by considering the most significant risks and practical responses.&lt;/p&gt;
+
+&lt;h2 id=&quot;go-as-fast-as-your-team-but-not-faster&quot;&gt;Go as fast as your team, but not faster&lt;/h2&gt;
+
+&lt;p&gt;My team is making great progress but we are not going to publish some kind of &lt;em&gt;beyond-agile&lt;/em&gt; methodology - you should be suspicious if we did. My team’s approach is just a natural evolution as we become more mature in how we understand and respond to risk. Like many teams before us, we are shifting from a dogmatic adherence to methods to applying them selectively, where they make most sense. If you would like some help to get started on a similar journey, please get in touch, but don’t expect to be carried to the destination. As I said at the start, “things are more complicated than that!”.&lt;/p&gt;
+
+&lt;h3 id=&quot;related-posts&quot;&gt;Related posts&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.netobjectives.com/blogs/time-abandon-agile&quot;&gt;Time to abandon agile?&lt;/a&gt; One of a number of thoughtful posts by &lt;a href=&quot;https://twitter.com/alshalloway&quot;&gt;@alshalloway&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=R2o-Xm3UVjs&quot;&gt;Spotify’s Engineering Culture [VIDEO]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hackernoon.com/why-isnt-agile-working-d7127af1c552&quot;&gt;Why Isn’t Agile Working?&lt;/a&gt; Great insight from &lt;a href=&quot;https://twitter.com/johncutlefish&quot;&gt;John Cutler&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>@CIOPortfolio</name></author><category term="Agile" /><category term="IT Projects" /><category term="Digital" /><summary type="html">You could be forgiven for thinking that the agile movement is taking over the world. For example, Amazon is famously agile and because it can make changes to its software every second it can maintain its lead in existing markets whilst conquering new ones. But look more carefully and, of course, things are more complicated than that. In many respects, leading digital businesses are not as agile as they seem.</summary></entry></feed>

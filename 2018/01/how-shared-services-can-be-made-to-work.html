@@ -1,0 +1,843 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.18.1 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Getting shared services to work - @CIOPortfolio</title>
+<meta name="description" content="In my last post1 I mentioned that I was going to make a pitch about the UK Government Shared Services Strategy2 at UKGovCamp. In the end I didn’t need to pitch as @lexij got there first with a great title: The Shared Services Strategy - OMG! Let’s fix it. This post is a personal reflection on what was discussed but the raw notes from the session are also available online3.                 Blog post: Will shared services ever work? &#8617;                 UK Government Shared Services Strategy &#8617;                 Raw notes from the UK Gov Camp shared services session &#8617;          ">
+
+
+  <meta name="author" content="Richard Barton">
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en">
+<meta property="og:site_name" content="@CIOPortfolio">
+<meta property="og:title" content="Getting shared services to work">
+<meta property="og:url" content="http://localhost:4000/2018/01/how-shared-services-can-be-made-to-work.html">
+
+
+  <meta property="og:description" content="In my last post1 I mentioned that I was going to make a pitch about the UK Government Shared Services Strategy2 at UKGovCamp. In the end I didn’t need to pitch as @lexij got there first with a great title: The Shared Services Strategy - OMG! Let’s fix it. This post is a personal reflection on what was discussed but the raw notes from the session are also available online3.                 Blog post: Will shared services ever work? &#8617;                 UK Government Shared Services Strategy &#8617;                 Raw notes from the UK Gov Camp shared services session &#8617;          ">
+
+
+
+  <meta property="og:image" content="http://localhost:4000/assets/images/logo.png">
+
+
+
+  <meta name="twitter:site" content="@CIOPortfolio">
+  <meta name="twitter:title" content="Getting shared services to work">
+  <meta name="twitter:description" content="In my last post1 I mentioned that I was going to make a pitch about the UK Government Shared Services Strategy2 at UKGovCamp. In the end I didn’t need to pitch as @lexij got there first with a great title: The Shared Services Strategy - OMG! Let’s fix it. This post is a personal reflection on what was discussed but the raw notes from the session are also available online3.                 Blog post: Will shared services ever work? &#8617;                 UK Government Shared Services Strategy &#8617;                 Raw notes from the UK Gov Camp shared services session &#8617;          ">
+  <meta name="twitter:url" content="http://localhost:4000/2018/01/how-shared-services-can-be-made-to-work.html">
+
+  
+    <meta name="twitter:card" content="summary">
+    
+      <meta name="twitter:image" content="http://localhost:4000/assets/images/logo.png">
+    
+  
+
+  
+    <meta name="twitter:creator" content="@cioportfolio">
+  
+
+
+
+  <meta property="article:published_time" content="2018-01-21T12:00:00+00:00">
+
+
+
+  <meta property="article:modified_time" content="2018-01-23T13:00:00+00:00">
+
+
+
+  
+    <meta property="article:publisher" content="https://www.facebook.com/CIOPortfolio/">
+  
+
+  
+
+
+<link rel="canonical" href="http://localhost:4000/2018/01/how-shared-services-can-be-made-to-work.html">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "@CIOPortfolio",
+      "url": "http://localhost:4000/"
+    
+  }
+</script>
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="@CIOPortfolio Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<!--[if IE]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+
+    <!-- start custom head snippets -->
+<meta property="fb:app_id" content="187921742554149" />
+<!-- insert favicons. use http://realfavicongenerator.net/ -->
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/images/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/images/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/images/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/images/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/images/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/images/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/images/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/images/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/assets/images/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/assets/images/favicons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/assets/images/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/assets/images/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/assets/images/favicons/manifest.json">
+<link rel="shortcut icon" href="/assets/images/favicons/favicon.ico">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-TileImage" content="/assets/images/favicons/mstile-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+<link href="https://fonts.googleapis.com/css?family=Questrial" rel="stylesheet">
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-35202161-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- end custom head snippets -->
+  </head>
+
+  <body class="layout--post">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+<!--RB Element added-->
+    <a class="site-title" href="http://localhost:4000/" style="display: block; max-width: 940px;">
+      <img id='header_img' src="/assets/images/banner.png" alt="@CIOPortfolio" style='display: block;' width='100%'/>
+    </a>
+      <nav id="site-nav" class="greedy-nav">
+        
+<!--RB Removed
+        <a class="site-title" href="/">
+          @CIOPortfolio
+          
+        </a>-->
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/about.html" >About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/tags/agile" >Agile</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/binary-thinking" >Binary Thinking</a>
+            </li><li class="masthead__menu-item">
+              <a href="/tags/cio" >CIO</a>
+            </li><li class="masthead__menu-item">
+              <a href="/tags/cloud" >Cloud</a>
+            </li><li class="masthead__menu-item">
+              <a href="/tags/digital" >Digital</a>
+            </li><li class="masthead__menu-item">
+              <a href="/tags/futures" >Futures</a>
+            </li><li class="masthead__menu-item">
+              <a href="/tags/local-government" >Local Gov</a>
+            </li><li class="masthead__menu-item">
+              <a href="/archive.html" >Archive</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
+            <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
+          </svg>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle Menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      <!-- RB Based upon Single.html moved
+
+
+-->
+
+
+<div id="main" role="main">
+<!--RB moved -->
+
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person">
+
+  
+    <div class="author__avatar">
+      
+
+      
+        <img src="/assets/images/profile.jpg" alt="Richard Barton" itemprop="image">
+      
+    </div>
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name">Richard Barton</h3>
+    
+    
+      <div class="author__bio" itemprop="description">
+        <p>Agile Coach at <a href="https://www.cornwall.gov.uk/">Cornwall Council</a></p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Cornwall, UK</span>
+        </li>
+      
+
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+
+      
+
+      
+
+      
+
+      
+        <li>
+          <a href="https://twitter.com/cioportfolio" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
+          </a>
+        </li>
+      
+
+      
+        <li>
+          <a href="https://www.facebook.com/CIOPortfolio" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook
+          </a>
+        </li>
+      
+
+      
+        <li>
+          <a href="https://www.linkedin.com/in/cioportfolio" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn
+          </a>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+        <li>
+          <a href="https://bitbucket.org/rbarton_uk" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket
+          </a>
+        </li>
+      
+
+      
+        <li>
+          <a href="https://github.com/cioportfolio" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub
+          </a>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+<!--RB Line dded-->
+<a class="twitter-timeline" data-width="220" href="https://twitter.com/CIOPortfolio?ref_src=twsrc%5Etfw">Tweets by CIOPortfolio</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Getting shared services to work">
+    <meta itemprop="description" content="In my last post1 I mentioned that I was going to make a pitch about the UK Government Shared Services Strategy2 at UKGovCamp. In the end I didn’t need to pitch as @lexij got there first with a great title: The Shared Services Strategy - OMG! Let’s fix it. This post is a personal reflection on what was discussed but the raw notes from the session are also available online3.            Blog post: Will shared services ever work? &#8617;              UK Government Shared Services Strategy &#8617;              Raw notes from the UK Gov Camp shared services session &#8617;      ">
+    <meta itemprop="datePublished" content="2018-01-21T12:00:00+00:00">
+    <meta itemprop="dateModified" content="2018-01-23T13:00:00+00:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Getting shared services to work
+</h1>
+          
+            <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  3 minute read
+
+</p>
+          
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+<!--RB Replaced
+        { content }-->
+        <p>In my last post<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> I mentioned that I was going to make a pitch about the UK Government Shared Services Strategy<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> at <a href="https://www.ukgovcamp.com/">UKGovCamp</a>. In the end I didn’t need to pitch as <a href="https://twitter.com/lexij">@lexij</a> got there first with a great title: <em>The Shared Services Strategy - OMG! Let’s fix it</em>. This post is a personal reflection on what was discussed but the raw notes from the session are also available online<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup>.
+<!--more--></p>
+
+<h2 id="doing-the-same-thing-and-expecting-a-different-result">Doing the same thing and expecting a different result</h2>
+
+<p>The theory that business services always get better as they get bigger is persistent but the econmies of scale have turned out to be elusive. The most recent attempt in Central Government<sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup> has produced disappointing results<sup id="fnref:5"><a href="#fn:5" class="footnote">5</a></sup>, so far, but the new strategy retains many of the same elements. Some examples that got my attention in the latest strategy were:</p>
+
+<ul>
+  <li class="blue"><span class="normal">The UK Government has a lot of buying power and can effectively wield this to get good value from technology and service centre suppliers.</span></li>
+  <li class="blue"><span class="normal">The notoriously poor user interfaces of the leading ERP systems can be addressed by bolting on a new shared front-end.</span></li>
+  <li class="blue"><span class="normal">Limiting the technology options will help align back-office operations in spite of fragmented funding and governance.</span></li>
+  <li class="blue"><span class="normal">Innovation in back-office services (such as automation and artificial intelligence) is unlikely to change the operating model or supplier landscape very much over 10 years.</span></li>
+  <li class="blue"><span class="normal">Experience from industry means we can be confident this is the right direction and approach.</span></li>
+</ul>
+
+<p>What evidence do we have that the new strategy will produce better results? Perhaps the assumptions behind the strategy could be made to work but there is plenty of evidence which points the other way<sup id="fnref:6"><a href="#fn:6" class="footnote">6</a></sup>. What other options were considered and ruled out?</p>
+
+<h2 id="give-digital-another-chance">Give Digital another chance</h2>
+
+<p><a href="https://twitter.com/tomskitomski">@tomskitomski</a> defines “Digital” as: applying the culture, practices, processes &amp; technologies of the Internet-era to respond to people’s raised expectations. This thinking has proven so successful that all public facing transactional services must now be developed this way<sup id="fnref:7"><a href="#fn:7" class="footnote">7</a></sup>. Why not apply this approach to back-office business services? A few years ago some teams started to look at this<sup id="fnref:8"><a href="#fn:8" class="footnote">8</a></sup> and I would like to hear more about how far they got and what they discovered.</p>
+
+<p>A more digital approach would come with its own set of challenges, including:</p>
+
+<ul>
+  <li class="blue"><span class="normal">is this the best use of relatively scarce digital skills?</span></li>
+  <li class="blue"><span class="normal">will the benefits be so much greater than buying complete services and systems from the market?</span></li>
+  <li class="blue"><span class="normal">will it be any more successful if the funding and governance issues are not addressed?</span></li>
+</ul>
+
+<p>I don’t think anyone promoting a more digital approach would suggest it would be an easy option but a wise response would be to proceed with caution and learn along the way - not abandon the idea altogether.</p>
+
+<h2 id="the-3rd-way">The 3rd Way</h2>
+
+<p>The authors of the Shared Services Strategy and the attendees at UKGovCamp are clearly approaching this from very different positions but we don’t need to stop there. As <a href="https://twitter.com/liammax">@liammax</a> suggests we could work together to make it a success.</p>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">8/ So I’m going to advise that we help this team make something properly good, the leader of it is open to constructive feedback and in that sense it’s a great opportunity.</p>&mdash; Liam Maxwell (@liammax) <a href="https://twitter.com/liammax/status/952289542022795265?ref_src=twsrc%5Etfw">January 13, 2018</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>How can we do this in practice? Alongside the main ERP vendors the strategy includes a 3rd sponsored platform. This is intended to be “modern” and “provide a cheaper, more flexible alternative” to Oracle and SAP. Why not develop the 3rd platform using the Government Service Manual<sup id="fnref:9"><a href="#fn:9" class="footnote">9</a></sup>? This might not result in a single integrated alternative to SAP and Oracle but then the choice of technology might not be the biggest obstacle in discovering and addressing the real needs. We can’t be sure that a digital 3rd platform would become a great success but there is certainly room in a programme of this scale to experiment and iterate with an approach that has proven so effective in other circumstances.</p>
+
+<h4 id="footnotes">Footnotes</h4>
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p><a href="https://www.cioportfolio.co.uk/2018/01/will-shared-services-ever-work.html">Blog post: Will shared services ever work?</a> <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </span></li>
+    <li id="fn:2">
+      <p><a href="https://www.gov.uk/government/publications/a-shared-services-strategy-for-government">UK Government Shared Services Strategy</a> <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </span></li>
+    <li id="fn:3">
+      <p><a href="https://j.mp/ukgc18s3r1a">Raw notes from the UK Gov Camp shared services session</a> <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
+    </span></li>
+    <li id="fn:4">
+      <p><a href="https://www.gov.uk/government/publications/next-generation-shared-services-strategic-plan">Previous UK Government Shared Services Strategy</a> <a href="#fnref:4" class="reversefootnote">&#8617;</a></p>
+    </span></li>
+    <li id="fn:5">
+      <p><a href="https://www.nao.org.uk/report/shared-service-centres/">UK National Audit Office report on shared services</a> <a href="#fnref:5" class="reversefootnote">&#8617;</a></p>
+    </span></li>
+    <li id="fn:6">
+      <p><a href="https://vanguard-method.net/2018/01/do-shared-services-bake-bread/">Do shared services bake bread?</a> <a href="#fnref:6" class="reversefootnote">&#8617;</a></p>
+    </span></li>
+    <li id="fn:7">
+      <p><a href="https://www.gov.uk/service-manual/service-standard">UK Government Service Standard</a> <a href="#fnref:7" class="reversefootnote">&#8617;</a></p>
+    </span></li>
+    <li id="fn:8">
+      <p><a href="https://gds.blog.gov.uk/2015/09/28/civil-servants-are-users-too/">Blog post on applying the service standard for back-office services</a> <a href="#fnref:8" class="reversefootnote">&#8617;</a></p>
+    </span></li>
+    <li id="fn:9">
+      <p><a href="https://www.gov.uk/service-manual">UK Government Service Manual</a> <a href="#fnref:9" class="reversefootnote">&#8617;</a></p>
+    </span></li>
+  </ol>
+</div>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+  
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="/tags/cio" class="page__taxonomy-item" rel="tag">CIO</a><span class="sep">, </span>
+    
+      
+      
+      <a href="/tags/local-government" class="page__taxonomy-item" rel="tag">Local Government</a><span class="sep">, </span>
+    
+      
+      
+      <a href="/tags/transformation" class="page__taxonomy-item" rel="tag">Transformation</a>
+    
+    </span>
+  </p>
+
+
+
+
+        
+          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2018-01-23">January 23, 2018</time></p>
+        
+      </footer>
+
+      <section class="page__share">
+  
+    <h4 class="page__share-title">Share on</h4>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=CIOPortfolio&text=Getting+shared+services+to+work%20http%3A%2F%2Flocalhost%3A4000%2F2018%2F01%2Fhow-shared-services-can-be-made-to-work.html" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2F2018%2F01%2Fhow-shared-services-can-be-made-to-work.html" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2F2018%2F01%2Fhow-shared-services-can-be-made-to-work.html" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/2018/01/will-shared-services-ever-work.html" class="pagination--pager" title="Will shared services ever work?
+">Previous</a>
+    
+    
+      <a href="/2019/10/living-the-deam.html" class="pagination--pager" title="Living the dream
+">Next</a>
+    
+  </nav>
+
+    </div>
+<!-- RB line added -->
+    
+    <meta itemprop="interactionCount" content="UserComments:0"/>
+
+
+    
+      <div class="page__comments">
+  
+  
+      <h4 class="page__comments-title">Leave a Comment</h4>
+      <section class="fb-comments" data-href="http://localhost:4000/2018/01/how-shared-services-can-be-made-to-work.html" data-mobile="true" data-num-posts="5" data-width="100%" data-colorscheme="light"></section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h4 class="page__related-title">You May Also Enjoy</h4>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+<!--RB Updated
+    % if include.type == "grid" and teaser %
+      <div class="archive__item-teaser"> -->
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/2019/11/so-what-exactly-is-a-sprint.html" rel="permalink">So, what exactly is a sprint?
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  2 minute read
+
+</p>
+    
+<!--RB Updated
+    <p class="archive__item-excerpt" itemprop="description">I don’t think the people behind Scrum and other agile methods participated in sports very much. They seem to have borrowed a lot of sporting terms but haven’...</p>
+-->
+
+  
+    <p class="archive__item-excerpt" itemprop="description">I don’t think the people behind Scrum and other agile methods participated in sports very much. They seem to have borrowed a lot of sporting terms but haven’...</p>
+  
+
+</article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+<!--RB Updated
+    % if include.type == "grid" and teaser %
+      <div class="archive__item-teaser"> -->
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/2019/10/living-the-deam.html" rel="permalink">Living the dream
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  2 minute read
+
+</p>
+    
+<!--RB Updated
+    <p class="archive__item-excerpt" itemprop="description">Today is a big deal for me. For the last few years I have had a ball with colleagues at NTT DATA; working on digital and agile transformation whilst learning...</p>
+-->
+
+  
+    <p class="archive__item-excerpt" itemprop="description">Today is a big deal for me. For the last few years I have had a ball with colleagues at NTT DATA; working on digital and agile transformation whilst learning...</p>
+  
+
+</article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+<!--RB Updated
+    % if include.type == "grid" and teaser %
+      <div class="archive__item-teaser"> -->
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/2018/01/will-shared-services-ever-work.html" rel="permalink">Will shared services ever work?
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  3 minute read
+
+</p>
+    
+<!--RB Updated
+    <p class="archive__item-excerpt" itemprop="description">Last week the UK Government launched a new strategy for shared business services (common things such as finance and human resources). The general reaction se...</p>
+-->
+
+  
+    <p class="archive__item-excerpt" itemprop="description">Last week the UK Government launched a new strategy for shared business services (common things such as finance and human resources). The general reaction se...</p>
+  
+
+</article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+<!--RB Updated
+    % if include.type == "grid" and teaser %
+      <div class="archive__item-teaser"> -->
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/2017/08/forget-about-being-secure.html" rel="permalink">Forget about being secure
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  5 minute read
+
+</p>
+    
+<!--RB Updated
+    <p class="archive__item-excerpt" itemprop="description">If you can only spare 30 seconds skip to the test at the end of this blog post.
+
+During the recent ransomware crisis it was quite understandable for people t...</p>
+-->
+
+  
+    <p class="archive__item-excerpt" itemprop="description">If you can only spare 30 seconds skip to the test at the end of this blog post.
+
+During the recent ransomware crisis it was quite understandable for people t...</p>
+  
+
+</article>
+</div>
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="https://twitter.com/cioportfolio" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://www.facebook.com/CIOPortfolio" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+        
+      
+        
+          <li><a href="https://github.com/cioportfolio" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+        
+      
+        
+          <li><a href="https://bitbucket.org/rbarton_uk" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
+        
+      
+        
+      
+    
+
+    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2020 @CIOPortfolio. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+  <script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35202161-2']);
+  
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+
+
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=187921742554149";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  
+
+
+
+
+
+  </body>
+</html>

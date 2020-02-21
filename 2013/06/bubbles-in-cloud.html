@@ -1,0 +1,843 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.18.1 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Bubbles in the cloud - @CIOPortfolio</title>
+<meta name="description" content="Have you stopped to think about how the leading cloud computing providers are able to provide enormous quantities of computing resources at the click of a button? Clearly, they have massive data centres around the world filled with racks of high performance IT. If you were their only customer that might be the end of the story but, of course, they serve huge numbers of customers, many with enormously volatile workloads, and are taking on more every minute. Now and again you might get a little reminder that this does not all come about through magic (have you noticed the occasional “our servers are busy” message when trying to use Twitter?). So how does it all work and what risks does this pose to your business? How confident can you be that your next ad-hoc request for a virtual machine will be satisfied? Even worse, how do you know that your existing cloud based services will not be constrained by your cloud provider’s next wave of new customers? ">
+
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en">
+<meta property="og:site_name" content="@CIOPortfolio">
+<meta property="og:title" content="Bubbles in the cloud">
+<meta property="og:url" content="http://localhost:4000/2013/06/bubbles-in-cloud.html">
+
+
+  <meta property="og:description" content="Have you stopped to think about how the leading cloud computing providers are able to provide enormous quantities of computing resources at the click of a button? Clearly, they have massive data centres around the world filled with racks of high performance IT. If you were their only customer that might be the end of the story but, of course, they serve huge numbers of customers, many with enormously volatile workloads, and are taking on more every minute. Now and again you might get a little reminder that this does not all come about through magic (have you noticed the occasional “our servers are busy” message when trying to use Twitter?). So how does it all work and what risks does this pose to your business? How confident can you be that your next ad-hoc request for a virtual machine will be satisfied? Even worse, how do you know that your existing cloud based services will not be constrained by your cloud provider’s next wave of new customers? ">
+
+
+
+  <meta property="og:image" content="http://localhost:4000/assets/images/background_header.jpg">
+
+
+
+  <meta name="twitter:site" content="@CIOPortfolio">
+  <meta name="twitter:title" content="Bubbles in the cloud">
+  <meta name="twitter:description" content="Have you stopped to think about how the leading cloud computing providers are able to provide enormous quantities of computing resources at the click of a button? Clearly, they have massive data centres around the world filled with racks of high performance IT. If you were their only customer that might be the end of the story but, of course, they serve huge numbers of customers, many with enormously volatile workloads, and are taking on more every minute. Now and again you might get a little reminder that this does not all come about through magic (have you noticed the occasional “our servers are busy” message when trying to use Twitter?). So how does it all work and what risks does this pose to your business? How confident can you be that your next ad-hoc request for a virtual machine will be satisfied? Even worse, how do you know that your existing cloud based services will not be constrained by your cloud provider’s next wave of new customers? ">
+  <meta name="twitter:url" content="http://localhost:4000/2013/06/bubbles-in-cloud.html">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="http://localhost:4000/assets/images/background_header.jpg">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2013-06-09T14:57:00+00:00">
+
+
+
+
+
+  
+    <meta property="article:publisher" content="https://www.facebook.com/CIOPortfolio/">
+  
+
+  
+
+
+<link rel="canonical" href="http://localhost:4000/2013/06/bubbles-in-cloud.html">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "@CIOPortfolio",
+      "url": "http://localhost:4000/"
+    
+  }
+</script>
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="@CIOPortfolio Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<!--[if IE]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+
+    <!-- start custom head snippets -->
+<meta property="fb:app_id" content="187921742554149" />
+<!-- insert favicons. use http://realfavicongenerator.net/ -->
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/images/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/images/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/images/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/images/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/images/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/images/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/images/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/images/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/assets/images/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/assets/images/favicons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/assets/images/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/assets/images/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/assets/images/favicons/manifest.json">
+<link rel="shortcut icon" href="/assets/images/favicons/favicon.ico">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-TileImage" content="/assets/images/favicons/mstile-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+<link href="https://fonts.googleapis.com/css?family=Questrial" rel="stylesheet">
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-35202161-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- end custom head snippets -->
+  </head>
+
+  <body class="layout--post">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+<!--RB Element added-->
+    <a class="site-title" href="http://localhost:4000/" style="display: block; max-width: 940px;">
+      <img id='header_img' src="/assets/images/banner.png" alt="@CIOPortfolio" style='display: block;' width='100%'/>
+    </a>
+      <nav id="site-nav" class="greedy-nav">
+        
+<!--RB Removed
+        <a class="site-title" href="/">
+          @CIOPortfolio
+          
+        </a>-->
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/about.html" >About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/tags/agile" >Agile</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/binary-thinking" >Binary Thinking</a>
+            </li><li class="masthead__menu-item">
+              <a href="/tags/cio" >CIO</a>
+            </li><li class="masthead__menu-item">
+              <a href="/tags/cloud" >Cloud</a>
+            </li><li class="masthead__menu-item">
+              <a href="/tags/digital" >Digital</a>
+            </li><li class="masthead__menu-item">
+              <a href="/tags/futures" >Futures</a>
+            </li><li class="masthead__menu-item">
+              <a href="/tags/local-government" >Local Gov</a>
+            </li><li class="masthead__menu-item">
+              <a href="/archive.html" >Archive</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
+            <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
+          </svg>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle Menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      <!-- RB Based upon Single.html moved
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+<div class="page__hero"
+  style=" "
+>
+  
+    <img src="/assets/images/background_header.jpg" alt="Bubbles in the cloud" class="page__hero-image">
+  
+  
+</div>
+
+
+-->
+
+
+<div id="main" role="main">
+<!--RB moved -->
+
+  
+
+
+
+
+
+
+
+
+
+
+
+<div class="page__hero"
+  style=" "
+>
+  
+    <img src="/assets/images/background_header.jpg" alt="Bubbles in the cloud" class="page__hero-image">
+  
+  
+</div>
+
+
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person">
+
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name"></h3>
+    
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+<!--RB Line dded-->
+<a class="twitter-timeline" data-width="220" href="https://twitter.com/CIOPortfolio?ref_src=twsrc%5Etfw">Tweets by CIOPortfolio</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Bubbles in the cloud">
+    <meta itemprop="description" content="Have you stopped to think about how the leading cloud computing providers are able to provide enormous quantities of computing resources at the click of a button? Clearly, they have massive data centres around the world filled with racks of high performance IT. If you were their only customer that might be the end of the story but, of course, they serve huge numbers of customers, many with enormously volatile workloads, and are taking on more every minute. Now and again you might get a little reminder that this does not all come about through magic (have you noticed the occasional “our servers are busy” message when trying to use Twitter?). So how does it all work and what risks does this pose to your business? How confident can you be that your next ad-hoc request for a virtual machine will be satisfied? Even worse, how do you know that your existing cloud based services will not be constrained by your cloud provider’s next wave of new customers?">
+    <meta itemprop="datePublished" content="2013-06-09T14:57:00+00:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Bubbles in the cloud
+</h1>
+          
+            <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  5 minute read
+
+</p>
+          
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+<!--RB Replaced
+        { content }-->
+        <p>Have you stopped to think about how the leading cloud computing providers are able to provide enormous quantities of computing resources at the click of a button? Clearly, they have <a href="http://ow.ly/lQSFY">massive data centres</a> around the world filled with racks of high performance IT. If you were their only customer that might be the end of the story but, of course, they serve huge numbers of customers, many with enormously volatile workloads, and are <a href="http://ow.ly/lQSCQ">taking on more every minute</a>. Now and again you might get a little reminder that this does not all come about through <a href="http://ow.ly/lpnTk">magic</a> (have you noticed the occasional “our servers are busy” message when trying to use Twitter?). So how does it all work and what risks does this pose to your business? How confident can you be that your next ad-hoc request for a virtual machine will be satisfied? Even worse, how do you know that your existing cloud based services will not be constrained by your cloud provider’s <a href="http://ow.ly/nr2Lb">next wave of new customers</a>?
+<!--more--></p>
+
+<h2 id="the-sky-is-the-limit">The sky is the limit</h2>
+
+<p>The technical answer to this question is deceptively simple - enormous spare capacity. The leading cloud providers carry enormous reserves and are building new capacity at an extraordinary rate, comfortably ahead of demand (see “<a href="http://ow.ly/lpnEO">Google pumps $400 million more into Iowa</a>” and <a href="http://www.cio.com/article/746531/IBM_Pumps_1.2_Billion_Into_Global_Cloud_Data_Centers">“IBM pumps $1.2 Billion into Global Cloud”</a>). For internal corporate IT this would be seen as a problem and virtualisation technology is used to drive up utilisation and get more work out of the IT estate. In the public cloud virtualisation is also important but only to speed up and automate service provision - utilisation is irrelevant. If you have 50% to 100% reserve capacity who cares about utilisation rates?</p>
+
+<p>The financial answer is more difficult. The major cloud providers are world leaders in <a href="http://ow.ly/lppsu">driving down the unit prices of their IT</a> and <a href="http://ow.ly/lppGj">passing on those savings to their customers</a> but global, industrial-scale IT is still incredibly expensive (see “<a href="http://ow.ly/p8Czz">Google Has Spent $21 Billion on Data Centers</a>” via <a href="https://twitter.com/wattersjames">@wattersjames</a> but allow for another $2 billion a quarter since then). It would be nice to think that this is just a problem for the providers but this is only true up to a point.</p>
+
+<p>For example, who is actually paying for the reserves in public cloud services? If all the spare capacity is funded from the surplus generated from current customer revenues then the public cloud business would be extremely stable and secure. If it is financed by investors and based on projections of revenue growth then the levels of spare capacity and the resilience of your cloud services are dependent upon investor sentiments. If investors are also subsidising current capacity to hold down prices and buy market share the business will be even more fragile and starts to look like a giant <a href="http://en.wikipedia.org/wiki/Ponzi_scheme">Ponzi scheme</a>. As long as investors think that the cloud business will continue to grow at a spectacular rate the cloud providers will have plenty of money to build reserves ahead of demand and keep absorbing short term demand shocks. What would it take to change the investors’ expectations (see “<a href="http://ow.ly/lpodp">Is there enough cloud biz to go around?</a>” from <a href="https://twitter.com/gigaom">@GigaOM</a>) and what would happen to cloud services then?</p>
+
+<p>The truth is probably some where between these extremes but, unfortunately, it is quite difficult to find out how cloud services are being financed (see this <a href="http://ow.ly/lpo6R">analysis of Amazon’s cloud finances</a> by <a href="https://twitter.com/bernardgolden">@BernardGolden</a>).  All of the major cloud providers are business units of much bigger organisations and are probably the largest customers of their own cloud services which makes the flow of investment and revenue hard to follow.</p>
+
+<h2 id="bringing-clouds-down-to-earth">Bringing clouds down to earth</h2>
+
+<p>This post is not leading up to an argument to avoid public cloud services. This would be the financial equivalent of keeping all your cash under your mattress. That would be unwise for individuals and inefficient for organisations. Instead, my plea is for CIOs, media analysts and academics to stay alert, to pay attention to the financial engineering behind the cloud as well as the technical engineering and to make plans for business continuity. Continuing the financial analogy, much of the economic pain we have experienced recently is not because our financial systems were fundamentally flawed but because of complacency and carelessness.</p>
+
+<p>There are more useful lessons we can draw from the financial services sector:</p>
+
+<ul>
+  <li class="blue"><span class="normal">commodities (e.g. shares and debt, computer chips and memory) can be assembled into easy to consume packaged services (investment funds, cloud services) but the assembled services no longer behave like commodities and do not have the same low risk profiles</span></li>
+  <li class="blue"><span class="normal">the competence of the people who assemble and maintain the packaged services is as important as the performance of the underlying commodities</span></li>
+  <li class="blue"><span class="normal">it can be hard to track risks around these systems and make the right provisions against systemic shocks</span></li>
+  <li class="blue"><span class="normal">some packaged services (e.g. insurance, bank accounts, computer networks) pool resources for a large number of customers and only work as long as there is little correlation between the patterns of demand from these customers</span></li>
+  <li class="blue"><span class="normal">if something looks too good to be true - guess what - it probably is!</span></li>
+</ul>
+
+<p>Financial services can also offer some solutions but the cloud service industry still needs to do more work on this. For example, what are the cloud computing equivalents of <a href="http://en.wikipedia.org/wiki/Capital_requirement">capital adequacy</a>, <a href="http://en.wikipedia.org/wiki/Value_at_risk">value at risk</a>, <a href="http://en.wikipedia.org/wiki/Leverage_(finance)">leverage</a>, <a href="http://en.wikipedia.org/wiki/Market_liquidity">liquidity</a> and <a href="http://en.wikipedia.org/wiki/Cash_flow">cash flow</a>? What kinds of disclosure are needed from cloud providers? What are the roles of auditors and ratings agencies?</p>
+
+<p>It is going to be some time before we can answer these questions but it will also be <a href="http://www.theregister.co.uk/2015/06/17/mass_adoption_of_public_cloud_long_way_off_report/">some time</a> before cloud is a <a href="https://www.theregister.co.uk/2017/02/22/idc_cloud_spending_prediction">large enough share</a> of computing provision to pose a systemic threat. In the meantime, please go ahead and capture your share of the value that cloud services will create but take the time to stay well informed about how the cloud business works (not just the technology) and take prudent steps to protect yourself.</p>
+
+<p>Do you have any insights into cloud finances? Add a comment or use the Twitter button below to let me know what you think.</p>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+  
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="/tags/cloud" class="page__taxonomy-item" rel="tag">Cloud</a><span class="sep">, </span>
+    
+      
+      
+      <a href="/tags/it-finance" class="page__taxonomy-item" rel="tag">IT Finance</a>
+    
+    </span>
+  </p>
+
+
+
+
+        
+          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2013-06-09T14:57:00+00:00">June 9, 2013</time></p>
+        
+      </footer>
+
+      <section class="page__share">
+  
+    <h4 class="page__share-title">Share on</h4>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=CIOPortfolio&text=Bubbles+in+the+cloud%20http%3A%2F%2Flocalhost%3A4000%2F2013%2F06%2Fbubbles-in-cloud.html" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2F2013%2F06%2Fbubbles-in-cloud.html" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2F2013%2F06%2Fbubbles-in-cloud.html" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/2013/05/have-you-forgotten-that-before-erp.html" class="pagination--pager" title="Have you forgotten that before ERP there was MRP?
+">Previous</a>
+    
+    
+      <a href="/2014/02/is-cloud-computing-creating-new-type-of.html" class="pagination--pager" title="Is cloud computing creating a new type of technical debt?
+">Next</a>
+    
+  </nav>
+
+    </div>
+<!-- RB line added -->
+    
+    <meta itemprop="interactionCount" content="UserComments:2"/>
+
+<script>
+function dispComments() {
+    var comments=document.getElementsByClassName("dsq-comment");
+    for (var i = 0; i < comments.length; i++) {
+    	comments[i].style.display = "block";
+    }
+}
+</script>
+<div id="disqus_thread">
+	<div id="dsq-comments">
+        <button class=".btn .btn--info" onclick="dispComments();">Comments from old site</button>
+		
+			<div id="c7799208641569948396" class="notice dsq-comment dsq-clearfix" itemprop="comment" itemscope="itemscope" itemtype="http://schema.org/UserComments" style="display: none;">
+				<div class="dsq-avatar dsq-tt">
+					<a href="https://www.blogger.com/profile/14077706740772451079">
+						<img src="//lh3.googleusercontent.com/zFdxGE77vvD2w5xHy6jkVuElKv-U9_9qLkRYK8OnbDeJPtjSZ82UPq5w6hJ-SA=s35" class="" alt="Greg T">
+					</a>
+				</div>
+				<div class="dsq-comment-body">
+					<div class="dsq-comment-header">
+						<a href="https://www.blogger.com/profile/14077706740772451079" class="dsq-commenter-name" rel="nofollow" itemprop="creator">
+							Greg T
+						</a>
+					</div>
+					<div class="dsq-comment-message">
+						<div class="dsq-comment-text" itemprop="commentText">
+							<p><p>Richard,<br /><br />Another informative and thought-provoking post, as usual. The generic answer to how are the new data centers funded is through a combination of shareholder equity, leverage, or retained earnings. This generic answer applies universally to all businesses.<br /><br />While I haven&#39;t studied Amazon&#39;s business model in detail, its focus on scale and cost is probably similar to the early rise of Ford (autos), Intel and Micron (DRAM), Samsung (diversified electronics) and a slew of other companies. We can assume that Amazon&#39;s investors will expect its investments now will lead to dominant market share and superior earnings in the future (another truism). There may be too much investment, but I disagree this is a ponzi-scheme in which subsequent investor funds are used to pay off early investors, with minimal investment in actual product delivery. <br /><br />Regarding AWS I wrote about (but did not make up) the idea that cloud computing is not currently about efficient utilization, contrary to popular myth. http://itsminfo.com/driving-it-in-the-cloud-era/ <br /><br />Regards,<br />Greg</p></p>
+						</div>
+					</div>
+					<div class="dsq-comment-footer">
+						<ul class="dsq-comment-meta">
+							<li>
+								<a href="" title="Link to comment" itemprop="url">
+									<time datetime='2013-06-13T07:12:10+00:00' itemprop="commentTime">Jun 13 2013</time>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		
+			<div id="c975505326788684338" class="notice dsq-comment dsq-clearfix" itemprop="comment" itemscope="itemscope" itemtype="http://schema.org/UserComments" style="display: none;">
+				<div class="dsq-avatar dsq-tt">
+					<a href="https://www.blogger.com/profile/14173557845412610229">
+						<img src="//2.bp.blogspot.com/-ud46YS2-Cyw/T5_BUzZREYI/AAAAAAAAAAU/rM8CHJs-ViE/s32/19f4152.jpg" class="" alt="@CIOPortfolio">
+					</a>
+				</div>
+				<div class="dsq-comment-body">
+					<div class="dsq-comment-header">
+						<a href="https://www.blogger.com/profile/14173557845412610229" class="dsq-commenter-name" rel="nofollow" itemprop="creator">
+							@CIOPortfolio
+						</a>
+					</div>
+					<div class="dsq-comment-message">
+						<div class="dsq-comment-text" itemprop="commentText">
+							<p><p>Greg,<br /><br />Thank you. I think service businesses like cloud computing pose some interesting challenges. I have a Ford but if the firm changed priorities I am comfortable to keep running my car and getting it serviced somewhere else. I am not sure of my options if my cloud provider changed their plans or raised their prices.<br /><br />Regards<br /><br />Richard</p></p>
+						</div>
+					</div>
+					<div class="dsq-comment-footer">
+						<ul class="dsq-comment-meta">
+							<li>
+								<a href="" title="Link to comment" itemprop="url">
+									<time datetime='2013-06-13T20:12:07+00:00' itemprop="commentTime">Jun 13 2013</time>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		
+	</div>
+</div>
+
+
+    
+      <div class="page__comments">
+  
+  
+      <h4 class="page__comments-title">Leave a Comment</h4>
+      <section class="fb-comments" data-href="http://localhost:4000/2013/06/bubbles-in-cloud.html" data-mobile="true" data-num-posts="5" data-width="100%" data-colorscheme="light"></section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h4 class="page__related-title">You May Also Enjoy</h4>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+<!--RB Updated
+    % if include.type == "grid" and teaser %
+      <div class="archive__item-teaser"> -->
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/2019/11/so-what-exactly-is-a-sprint.html" rel="permalink">So, what exactly is a sprint?
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  2 minute read
+
+</p>
+    
+<!--RB Updated
+    <p class="archive__item-excerpt" itemprop="description">I don’t think the people behind Scrum and other agile methods participated in sports very much. They seem to have borrowed a lot of sporting terms but haven’...</p>
+-->
+
+  
+    <p class="archive__item-excerpt" itemprop="description">I don’t think the people behind Scrum and other agile methods participated in sports very much. They seem to have borrowed a lot of sporting terms but haven’...</p>
+  
+
+</article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+<!--RB Updated
+    % if include.type == "grid" and teaser %
+      <div class="archive__item-teaser"> -->
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/2019/10/living-the-deam.html" rel="permalink">Living the dream
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  2 minute read
+
+</p>
+    
+<!--RB Updated
+    <p class="archive__item-excerpt" itemprop="description">Today is a big deal for me. For the last few years I have had a ball with colleagues at NTT DATA; working on digital and agile transformation whilst learning...</p>
+-->
+
+  
+    <p class="archive__item-excerpt" itemprop="description">Today is a big deal for me. For the last few years I have had a ball with colleagues at NTT DATA; working on digital and agile transformation whilst learning...</p>
+  
+
+</article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+<!--RB Updated
+    % if include.type == "grid" and teaser %
+      <div class="archive__item-teaser"> -->
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/2018/01/how-shared-services-can-be-made-to-work.html" rel="permalink">Getting shared services to work
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  3 minute read
+
+</p>
+    
+<!--RB Updated
+    <p class="archive__item-excerpt" itemprop="description">In my last post1 I mentioned that I was going to make a pitch about the UK Government Shared Services Strategy2 at UKGovCamp. In the end I didn’t need to pit...</p>
+-->
+
+  
+    <p class="archive__item-excerpt" itemprop="description">In my last post1 I mentioned that I was going to make a pitch about the UK Government Shared Services Strategy2 at UKGovCamp. In the end I didn’t need to pit...</p>
+  
+
+</article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+<!--RB Updated
+    % if include.type == "grid" and teaser %
+      <div class="archive__item-teaser"> -->
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/2018/01/will-shared-services-ever-work.html" rel="permalink">Will shared services ever work?
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  3 minute read
+
+</p>
+    
+<!--RB Updated
+    <p class="archive__item-excerpt" itemprop="description">Last week the UK Government launched a new strategy for shared business services (common things such as finance and human resources). The general reaction se...</p>
+-->
+
+  
+    <p class="archive__item-excerpt" itemprop="description">Last week the UK Government launched a new strategy for shared business services (common things such as finance and human resources). The general reaction se...</p>
+  
+
+</article>
+</div>
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="https://twitter.com/cioportfolio" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://www.facebook.com/CIOPortfolio" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+        
+      
+        
+          <li><a href="https://github.com/cioportfolio" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+        
+      
+        
+          <li><a href="https://bitbucket.org/rbarton_uk" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
+        
+      
+        
+      
+    
+
+    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2020 @CIOPortfolio. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+  <script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35202161-2']);
+  
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+
+
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=187921742554149";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  
+
+
+
+
+
+  </body>
+</html>

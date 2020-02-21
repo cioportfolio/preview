@@ -1,0 +1,799 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.18.1 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Serverless computing will be big… - @CIOPortfolio</title>
+<meta name="description" content="…but developer productivity and commercial flexibility are bigger  This post goes into technology a little more than usual so the TL;DR version for busy CIO’s is:     Please make sure some of your teams are experimenting with serverless technology from Amazon or other providers.   The rest of this post explains why Amazon is leading the transformation of software development with an obscure bit of technology from Google. ">
+
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en">
+<meta property="og:site_name" content="@CIOPortfolio">
+<meta property="og:title" content="Serverless computing will be big…">
+<meta property="og:url" content="http://localhost:4000/2017/02/serverless-computing-will-be-big.html">
+
+
+  <meta property="og:description" content="…but developer productivity and commercial flexibility are bigger  This post goes into technology a little more than usual so the TL;DR version for busy CIO’s is:     Please make sure some of your teams are experimenting with serverless technology from Amazon or other providers.   The rest of this post explains why Amazon is leading the transformation of software development with an obscure bit of technology from Google. ">
+
+
+
+  <meta property="og:image" content="http://localhost:4000/assets/images/25900727782_35d924115a_z_header.jpg">
+
+
+
+  <meta name="twitter:site" content="@CIOPortfolio">
+  <meta name="twitter:title" content="Serverless computing will be big…">
+  <meta name="twitter:description" content="…but developer productivity and commercial flexibility are bigger  This post goes into technology a little more than usual so the TL;DR version for busy CIO’s is:     Please make sure some of your teams are experimenting with serverless technology from Amazon or other providers.   The rest of this post explains why Amazon is leading the transformation of software development with an obscure bit of technology from Google. ">
+  <meta name="twitter:url" content="http://localhost:4000/2017/02/serverless-computing-will-be-big.html">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="http://localhost:4000/assets/images/25900727782_35d924115a_z_header.jpg">
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2017-02-01T14:45:00+00:00">
+
+
+
+
+
+  
+    <meta property="article:publisher" content="https://www.facebook.com/CIOPortfolio/">
+  
+
+  
+
+
+<link rel="canonical" href="http://localhost:4000/2017/02/serverless-computing-will-be-big.html">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "@CIOPortfolio",
+      "url": "http://localhost:4000/"
+    
+  }
+</script>
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="@CIOPortfolio Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<!--[if IE]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+
+    <!-- start custom head snippets -->
+<meta property="fb:app_id" content="187921742554149" />
+<!-- insert favicons. use http://realfavicongenerator.net/ -->
+<link rel="apple-touch-icon" sizes="57x57" href="/assets/images/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/images/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/images/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/images/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/images/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/images/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/images/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/images/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/assets/images/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/assets/images/favicons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/assets/images/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/assets/images/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/assets/images/favicons/manifest.json">
+<link rel="shortcut icon" href="/assets/images/favicons/favicon.ico">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-TileImage" content="/assets/images/favicons/mstile-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+<link href="https://fonts.googleapis.com/css?family=Questrial" rel="stylesheet">
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-35202161-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- end custom head snippets -->
+  </head>
+
+  <body class="layout--post">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+<!--RB Element added-->
+    <a class="site-title" href="http://localhost:4000/" style="display: block; max-width: 940px;">
+      <img id='header_img' src="/assets/images/banner.png" alt="@CIOPortfolio" style='display: block;' width='100%'/>
+    </a>
+      <nav id="site-nav" class="greedy-nav">
+        
+<!--RB Removed
+        <a class="site-title" href="/">
+          @CIOPortfolio
+          
+        </a>-->
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/about.html" >About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/tags/agile" >Agile</a>
+            </li><li class="masthead__menu-item">
+              <a href="/categories/binary-thinking" >Binary Thinking</a>
+            </li><li class="masthead__menu-item">
+              <a href="/tags/cio" >CIO</a>
+            </li><li class="masthead__menu-item">
+              <a href="/tags/cloud" >Cloud</a>
+            </li><li class="masthead__menu-item">
+              <a href="/tags/digital" >Digital</a>
+            </li><li class="masthead__menu-item">
+              <a href="/tags/futures" >Futures</a>
+            </li><li class="masthead__menu-item">
+              <a href="/tags/local-government" >Local Gov</a>
+            </li><li class="masthead__menu-item">
+              <a href="/archive.html" >Archive</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
+            <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
+          </svg>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle Menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      <!-- RB Based upon Single.html moved
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+<div class="page__hero"
+  style=" "
+>
+  
+    <img src="/assets/images/25900727782_35d924115a_z_header.jpg" alt="Serverless computing will be big…" class="page__hero-image">
+  
+  
+    <span class="page__hero-caption">Photo credit: <a href="http://www.wocintechchat.com/">http://www.wocintechchat.com/</a>
+</span>
+  
+</div>
+
+
+-->
+
+
+<div id="main" role="main">
+<!--RB moved -->
+
+  
+
+
+
+
+
+
+
+
+
+
+
+<div class="page__hero"
+  style=" "
+>
+  
+    <img src="/assets/images/25900727782_35d924115a_z_header.jpg" alt="Serverless computing will be big…" class="page__hero-image">
+  
+  
+    <span class="page__hero-caption">Photo credit: <a href="http://www.wocintechchat.com/">http://www.wocintechchat.com/</a>
+</span>
+  
+</div>
+
+
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person">
+
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name"></h3>
+    
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+<!--RB Line dded-->
+<a class="twitter-timeline" data-width="220" href="https://twitter.com/CIOPortfolio?ref_src=twsrc%5Etfw">Tweets by CIOPortfolio</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Serverless computing will be big…">
+    <meta itemprop="description" content="…but developer productivity and commercial flexibility are biggerThis post goes into technology a little more than usual so the TL;DR version for busy CIO’s is:  Please make sure some of your teams are experimenting with serverless technology from Amazon or other providers.The rest of this post explains why Amazon is leading the transformation of software development with an obscure bit of technology from Google.">
+    <meta itemprop="datePublished" content="2017-02-01T14:45:00+00:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">Serverless computing will be big…
+</h1>
+          
+            <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  5 minute read
+
+</p>
+          
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+<!--RB Replaced
+        { content }-->
+        <p><strong><em>…but developer productivity and commercial flexibility are bigger</em></strong></p>
+
+<p>This post goes into technology a little more than usual so the <a href="https://en.wikipedia.org/wiki/TL;DR">TL;DR</a> version for busy CIO’s is:</p>
+
+<ul>
+  <li class="blue"><span class="normal">Please make sure some of your teams are experimenting with serverless technology from Amazon or other providers.</span></li>
+</ul>
+
+<p>The rest of this post explains why Amazon is leading the transformation of software development with an obscure bit of technology from Google.
+<!--more--></p>
+
+<h2 id="a-long-time-in-the-making">A long time in the making</h2>
+
+<p>Great ideas can sometimes simmer in obscurity for many years until someone finds the right commercial and technical package to ignite them. Then the old idea can burst into the headlines as a brand new innovation. This is happening now with a collection of ideas being branded as <a href="https://martinfowler.com/articles/serverless.html">“serverless” computing</a>. <a href="https://aws.amazon.com/">Amazon Web Services</a> attracted all the <a href="http://sdtimes.com/amazon-introduces-lambda-containers/">headlines in 2014</a> when they released their <a href="https://aws.amazon.com/lambda/">Lambda service</a>. I suspect Amazon will claim the bulk of serverless revenues over the next few years but the ideas and technology behind Lambda are at least a decade old.</p>
+
+<p>The obscure bit of technology inside AWS Lambda is <a href="https://en.wikipedia.org/wiki/V8_(JavaScript_engine)">Google’s V8 JavaScript engine</a>. Developers use <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a> to create rich, interactive web sites and it is supported by pretty much every browser on every device today. V8 powers Google’s Chrome browser but in 2009, it was used to build a small, fast platform, <a href="https://en.wikipedia.org/wiki/Node.js">node.js</a>, that let JavaScript software run on backend servers. In its short life, node.js has avoided a small <a href="https://nodejs.org/en/blog/announcements/foundation-v4-announce/">standards war</a>, attracted a <a href="http://thenewstack.io/javascript-popularity-surpasses-java-php-stack-overflow-developer-survey/">huge following</a> and accumulated a <a href="https://en.wikipedia.org/wiki/Npm_(software)">massive library of clever tools and utilities</a>. By 2014, when Amazon was getting ready to launch Lambda, node.js had become a reasonably mature platform and was being used in anger by some <a href="https://brainhub.eu/blog/2016/05/30/9-famous-apps-using-node-js/">major organisations</a>.</p>
+
+<h2 id="disposable-systems">Disposable systems</h2>
+
+<p>Node.js is small and fast enough to be disposable. It is economical to start a node.js server in a <a href="http://searchservervirtualization.techtarget.com/definition/container-based-virtualization-operating-system-level-virtualization">container</a> just to run a trivial bit of software - a simple function - and then throw it away once the function has completed. The whole cycle might last just a few tenths of a second. This is just what Amazon needed as the basis for its new serverless offering. Lambda now supports a range of languages and tools but still uses node.js as the small, fast workhorse behind the scenes. But cloud service performance is not the only, or even the most important, factor. Developer performance and commercial flexibility are also big considerations.</p>
+
+<p>Many serverless functions are trivial but they do not have to be. A function could be an interactive web application, interrogating a database and provisioning other sophisticated services. The breakthrough this allows is that, with a little care, a piece of JavaScript will work, without modification, on a laptop, a small private server, a virtual machine from any of the leading cloud providers and inside a serverless function. Since your tablet and smartphone already include a JavaScript engine it will not be long before you find node.js functions there and AWS is already <a href="https://aws.amazon.com/greengrass/">getting Lambda ready</a> for the <a href="https://en.wikipedia.org/wiki/Internet_of_things">Internet of Things</a>. This is a level of portability which has been promised since the dawn of computing but, until recently, has never actually materialised.</p>
+
+<p>This means you can demonstrate an application or service on a relatively low specification laptop, trial and scale it at very low cost as cloud functions and switch to dedicated virtual servers (in the cloud or in your own data centres) when demand is stable or the scale makes Lambda’s pricing model less economical. I am not sure that Amazon set out to achieve this kind of portability or that Amazon’s competitors have realised how significant this is.</p>
+
+<h2 id="try-before-you-buy">Try before you buy</h2>
+
+<p>This sounds too good to be true but the <a href="https://claudiajs.com/">tools and frameworks</a> are maturing rapidly and it is already a realistic option for interested, part-time, amateur developers - like me.</p>
+
+<p>I’ve recently ported a <a href="https://app.cioportfolio.co.uk">web app that I use for my business</a> over to node.js on Lambda. With a few configuration settings the same software will run in a virtual machine on my laptop or a physical or virtual server in the cloud. In fact, I can run different parts of the app on different infrastructure e.g. serve end-user parts over Lambda and keep admin features on private machines. As a bonus, my level of use is probably low enough to stay within Amazon’s <a href="https://aws.amazon.com/free/">free usage tier</a>.</p>
+
+<p>I am sure it is only a matter of time before node.js and AWS Lambda are superseded by something else - many people, including me, won’t miss JavaScript and the <a href="https://aws.amazon.com/sdk-for-node-js/">AWS interface</a> when something more user friendly comes along. Taking some time, right now, to understand how to build systems from small, portable, disposable containers will be a good, long-term investment.</p>
+
+<h2 id="and-the-runner-up-prize-goes-to">And the runner-up prize goes to…</h2>
+
+<p>Here is a final word of commiseration for Google - they had the right ideas but at the wrong time. Unfortunately, when Google launched its serverless offering, <a href="https://cloud.google.com/appengine/">Google App Engine</a>, back in 2008, node.js did not exist and many popular development frameworks did not support the serverless model very well. App Engine was good but something developed for the Google platform would not work very well, if at all, on private servers or another public cloud platform. Google had to <a href="https://cloudplatform.googleblog.com/2014/03/bringing-together-best-of-paas-and-iaas.html">back-track and offer virtual machine services</a> alongside Amazon, Microsoft and others. Google is now moving slowly to offer a <a href="https://cloud.google.com/functions/">Lambda look-alike service</a>. This time, Google is giving a lot more attention to portability and other major players should do the same.</p>
+
+<h3 id="an-even-more-technical-footnote"><em>An even more technical footnote</em></h3>
+
+<p>I had already worked with node.js and <a href="http://expressjs.com/">express</a> for some voluntary work so I jumped straight to the the <a href="https://github.com/awslabs/aws-serverless-express">aws-serverless-express library</a> to get started with AWS Lambda. The deployed version of my app makes use of other AWS services, such as S3, DynamoDB, API Gateway and Cloud Front, as well as Lambda but the platform specific details are taken care of by one or two configuration files. The application software will run on any instance of node.js. I found<a href="https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/"> Keith Cirkel’s post about npm</a> really useful in deciphering what AWS had done in their library and then extending it to avoid storing any sensitive information, like access keys, in files locally or in the cloud.</p>
+
+<p>The previous version of the app was developed with <a href="https://www.djangoproject.com/">Django</a> using <a href="https://aws.amazon.com/elasticbeanstalk/">Elastic Beanstalk</a>. The move from the user friendly <a href="https://www.python.org/">Python language</a> used in Django to the more temperamental JavaScript used in node.js consumed most of the effort in the migration. If the original app had been developed on node.js the migration to serverless on Lambda would have been trivial.</p>
+
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+  
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="/tags/agile" class="page__taxonomy-item" rel="tag">Agile</a><span class="sep">, </span>
+    
+      
+      
+      <a href="/tags/applications" class="page__taxonomy-item" rel="tag">Applications</a><span class="sep">, </span>
+    
+      
+      
+      <a href="/tags/cio" class="page__taxonomy-item" rel="tag">CIO</a><span class="sep">, </span>
+    
+      
+      
+      <a href="/tags/cloud" class="page__taxonomy-item" rel="tag">Cloud</a><span class="sep">, </span>
+    
+      
+      
+      <a href="/tags/futures" class="page__taxonomy-item" rel="tag">Futures</a>
+    
+    </span>
+  </p>
+
+
+
+
+        
+          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2017-02-01T14:45:00+00:00">February 1, 2017</time></p>
+        
+      </footer>
+
+      <section class="page__share">
+  
+    <h4 class="page__share-title">Share on</h4>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=CIOPortfolio&text=Serverless+computing+will+be+big...%20http%3A%2F%2Flocalhost%3A4000%2F2017%2F02%2Fserverless-computing-will-be-big.html" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2F2017%2F02%2Fserverless-computing-will-be-big.html" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2F2017%2F02%2Fserverless-computing-will-be-big.html" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/2016/07/not-so-fast.html" class="pagination--pager" title="Not so fast!
+">Previous</a>
+    
+    
+      <a href="/2017/02/essential-ingredients-for-digital.html" class="pagination--pager" title="Essential ingredients for digital transformation
+">Next</a>
+    
+  </nav>
+
+    </div>
+<!-- RB line added -->
+    
+    <meta itemprop="interactionCount" content="UserComments:0"/>
+
+
+    
+      <div class="page__comments">
+  
+  
+      <h4 class="page__comments-title">Leave a Comment</h4>
+      <section class="fb-comments" data-href="http://localhost:4000/2017/02/serverless-computing-will-be-big.html" data-mobile="true" data-num-posts="5" data-width="100%" data-colorscheme="light"></section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h4 class="page__related-title">You May Also Enjoy</h4>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+<!--RB Updated
+    % if include.type == "grid" and teaser %
+      <div class="archive__item-teaser"> -->
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/2019/11/so-what-exactly-is-a-sprint.html" rel="permalink">So, what exactly is a sprint?
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  2 minute read
+
+</p>
+    
+<!--RB Updated
+    <p class="archive__item-excerpt" itemprop="description">I don’t think the people behind Scrum and other agile methods participated in sports very much. They seem to have borrowed a lot of sporting terms but haven’...</p>
+-->
+
+  
+    <p class="archive__item-excerpt" itemprop="description">I don’t think the people behind Scrum and other agile methods participated in sports very much. They seem to have borrowed a lot of sporting terms but haven’...</p>
+  
+
+</article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+<!--RB Updated
+    % if include.type == "grid" and teaser %
+      <div class="archive__item-teaser"> -->
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/2019/10/living-the-deam.html" rel="permalink">Living the dream
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  2 minute read
+
+</p>
+    
+<!--RB Updated
+    <p class="archive__item-excerpt" itemprop="description">Today is a big deal for me. For the last few years I have had a ball with colleagues at NTT DATA; working on digital and agile transformation whilst learning...</p>
+-->
+
+  
+    <p class="archive__item-excerpt" itemprop="description">Today is a big deal for me. For the last few years I have had a ball with colleagues at NTT DATA; working on digital and agile transformation whilst learning...</p>
+  
+
+</article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+<!--RB Updated
+    % if include.type == "grid" and teaser %
+      <div class="archive__item-teaser"> -->
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/2018/01/how-shared-services-can-be-made-to-work.html" rel="permalink">Getting shared services to work
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  3 minute read
+
+</p>
+    
+<!--RB Updated
+    <p class="archive__item-excerpt" itemprop="description">In my last post1 I mentioned that I was going to make a pitch about the UK Government Shared Services Strategy2 at UKGovCamp. In the end I didn’t need to pit...</p>
+-->
+
+  
+    <p class="archive__item-excerpt" itemprop="description">In my last post1 I mentioned that I was going to make a pitch about the UK Government Shared Services Strategy2 at UKGovCamp. In the end I didn’t need to pit...</p>
+  
+
+</article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+<!--RB Updated
+    % if include.type == "grid" and teaser %
+      <div class="archive__item-teaser"> -->
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/2018/01/will-shared-services-ever-work.html" rel="permalink">Will shared services ever work?
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  3 minute read
+
+</p>
+    
+<!--RB Updated
+    <p class="archive__item-excerpt" itemprop="description">Last week the UK Government launched a new strategy for shared business services (common things such as finance and human resources). The general reaction se...</p>
+-->
+
+  
+    <p class="archive__item-excerpt" itemprop="description">Last week the UK Government launched a new strategy for shared business services (common things such as finance and human resources). The general reaction se...</p>
+  
+
+</article>
+</div>
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="https://twitter.com/cioportfolio" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://www.facebook.com/CIOPortfolio" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+        
+      
+        
+          <li><a href="https://github.com/cioportfolio" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+        
+      
+        
+          <li><a href="https://bitbucket.org/rbarton_uk" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
+        
+      
+        
+      
+    
+
+    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2020 @CIOPortfolio. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+<script src="/assets/js/lunr/lunr.min.js"></script>
+<script src="/assets/js/lunr/lunr-store.js"></script>
+<script src="/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+  <script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35202161-2']);
+  
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+
+
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=187921742554149";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  
+
+
+
+
+
+  </body>
+</html>
