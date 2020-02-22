@@ -56,7 +56,7 @@ var store = [{
         "teaser":"https://cioportfolio.github.io/preview/assets/images/shared_teaser.jpg"},{
         "title": "There is IT and there is Business - Binary Thinking Hex No. 1",
         "excerpt":"Why has IT management become so cursed with Binary Thinking? No. 1: There is IT and there is business Binary Thinking: Everything that exists within an organisation (strategies, policies, processes, people, teams, assets, budgets, requirements, projects etc) can have a label of “IT” or “Business”. Nothing can carry both labels....","categories": ["Binary Thinking"],
-        "tags": [],
+        "tags": ["CIO"],
         "url": "https://cioportfolio.github.io/preview/2012/07/binary-thinking-hex-no-1.html",
         "teaser":null},{
         "title": "Binary Thinking - a hex on IT management",
