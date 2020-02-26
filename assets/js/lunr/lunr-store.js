@@ -248,4 +248,9 @@ var store = [{
         "excerpt":"I don’t think the people behind Scrum and other agile methods participated in sports very much. They seem to have borrowed a lot of sporting terms but haven’t used them very wisely. The phrase “Sprint” is a good example of this. In athletics, a sprint involves individuals trying to run...","categories": [],
         "tags": ["Local Government","Agile"],
         "url": "https://cioportfolio.github.io/preview/2019/11/so-what-exactly-is-a-sprint.html",
+        "teaser":null},{
+        "title": "An introduction to backlogs",
+        "excerpt":"In this post, we’re taking a closer look at another agile term: Backlog. The dictionary definition is: an accumulation of tasks unperformed or materials not processed In agile working, backlogs are a list of things that a team still has to do. If you are struggling to get started, brainstorming...","categories": [],
+        "tags": ["Local Government","Agile"],
+        "url": "https://cioportfolio.github.io/preview/2019/11/an-introduction-to-backlogs.html",
         "teaser":null}]
