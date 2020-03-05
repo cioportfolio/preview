@@ -253,4 +253,9 @@ var store = [{
         "excerpt":"In this post, we’re taking a closer look at another agile term: Backlog. The dictionary definition is: an accumulation of tasks unperformed or materials not processed In agile working, backlogs are a list of things that a team still has to do. If you are struggling to get started, brainstorming...","categories": [],
         "tags": ["Local Government","Agile"],
         "url": "https://cioportfolio.github.io/preview/2019/11/an-introduction-to-backlogs.html",
+        "teaser":null},{
+        "title": "Getting started with user stories",
+        "excerpt":"Think about the last time you bought something at a shop or online: Did you care what brand of vehicle delivered the goods? Probably not! In the Cornwall Council IS team, our products exist to help people get things done and they, in turn, are helping other people get on...","categories": [],
+        "tags": ["Local Government","Agile"],
+        "url": "https://cioportfolio.github.io/preview/2019/12/getting-started-with-user-stories.html",
         "teaser":null}]
