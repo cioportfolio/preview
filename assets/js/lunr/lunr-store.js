@@ -258,4 +258,14 @@ var store = [{
         "excerpt":"Think about the last time you bought something at a shop or online: Did you care what brand of vehicle delivered the goods? Probably not! In the Cornwall Council IS team, our products exist to help people get things done and they, in turn, are helping other people get on...","categories": [],
         "tags": ["Local Government","Agile"],
         "url": "https://cioportfolio.github.io/preview/2019/12/getting-started-with-user-stories.html",
+        "teaser":null},{
+        "title": "Weeknote 18-24 January 2020",
+        "excerpt":"On UK Gov Camp 2020, Scrum Master training and working with agile teams. About agile in Cornwall Council We are starting to adopt more agile and open ways of working. We have been experimenting internally with weeknotes1 and, with a little time lag, we would like to see what publishing...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/01/weeknote-1.html",
+        "teaser":null},{
+        "title": "Estimating in and agile way",
+        "excerpt":"People would love it if we could predict the future. We get this all the time in our work: How much is the project going to cost? When will it be finished so that we can go live? We are really busy so how much of Dave’s time do you...","categories": [],
+        "tags": ["Local Government","Agile"],
+        "url": "https://cioportfolio.github.io/preview/2020/01/estimating-in-an-agile-way.html",
         "teaser":null}]

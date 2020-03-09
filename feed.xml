@@ -1,4 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-03-05T20:17:08+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Getting started with user stories</title><link href="https://cioportfolio.github.io/preview/2019/12/getting-started-with-user-stories.html" rel="alternate" type="text/html" title="Getting started with user stories" /><published>2019-12-04T00:00:00+00:00</published><updated>2020-03-05T19:20:15+00:00</updated><id>https://cioportfolio.github.io/preview/2019/12/getting-started-with-user-stories</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2019/12/getting-started-with-user-stories.html">&lt;p&gt;Think about the last time you bought something at a shop or online: Did you care what brand of vehicle delivered the goods? Probably not!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-03-09T16:43:59+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Estimating in and agile way</title><link href="https://cioportfolio.github.io/preview/2020/01/estimating-in-an-agile-way.html" rel="alternate" type="text/html" title="Estimating in and agile way" /><published>2020-01-30T00:00:00+00:00</published><updated>2020-03-09T16:00:15+00:00</updated><id>https://cioportfolio.github.io/preview/2020/01/estimating-in-an-agile-way</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/01/estimating-in-an-agile-way.html">&lt;p&gt;People would love it if we could predict the future. We get this all the time in our work:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;How much is the project going to cost?&lt;/li&gt;
+  &lt;li&gt;When will it be finished so that we can go live?&lt;/li&gt;
+  &lt;li&gt;We are really busy so how much of Dave’s time do you need next month?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We only get the actual answers to these questions after the work is done (occasionally years later) but people need estimates, forecasts and indications to help coordinate people and activities. Agile ways of working do not immediately remove these needs but techniques like Scrum can help avoid some of the common pitfalls.&lt;/p&gt;
+
+&lt;!--more--&gt;
+&lt;blockquote class=&quot;notice--info&quot;&gt;
+  &lt;h4 id=&quot;about-agile-in-cornwall-council&quot;&gt;About agile in Cornwall Council&lt;/h4&gt;
+  &lt;p&gt;We are starting to adopt more agile ways of working. My role involves helping people develop their skills and apply agile techniques to improve the services we provide to the public. This series of posts is adapted from the articles I write for our internal teams. They cover some common agile terms and what it all really means.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;avoiding-the-common-estimating-pitfalls&quot;&gt;Avoiding the common estimating pitfalls&lt;/h2&gt;
+&lt;p&gt;Here are some examples of how agile ways of working can help:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Agile approaches encourage stable, long-running teams which can make cost management much easier, especially in the public sector where money is often locked into specific financial periods.&lt;/li&gt;
+  &lt;li&gt;Two people can take a very different amount of time to perform the same task. The agile emphasis on team working can smooth out these differences and be more predictable.&lt;/li&gt;
+  &lt;li&gt;The timescales for delivery are often dominated by delays between work rather than the effort to complete the work. Multi-skilled teams working on small batches can massively reduce these delays.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;How can you start to take advantage of agile ways of working in estimating? Here are some suggestions to get started.&lt;/p&gt;
+
+&lt;h2 id=&quot;engage-and-educate-your-stakeholders&quot;&gt;Engage and educate your stakeholders&lt;/h2&gt;
+&lt;p&gt;It is quite reasonable to ask for estimates but people can get into the habit of asking for far more detail and accuracy than they actually need and usually more than you need to manage your work well. You may also find that people have had a bad experience in the past and mistakenly use estimates to try to control teams, put people under pressure or to gain a negotiating advantage. Your stakeholders won’t change over-night but you can try to have an honest conversation about:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;what information they really need to do their job&lt;/li&gt;
+  &lt;li&gt;the unavoidable uncertainty involved in the kind of work we do&lt;/li&gt;
+  &lt;li&gt;the sorts of things they can do to help the work go well.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Over time you may find people start asking for different things. Some people even stop asking for forecasts when they can see and touch what the team has delivered in regular demonstrations.&lt;/p&gt;
+
+&lt;h2 id=&quot;use-sprints-to-keep-improving-your-estimating&quot;&gt;Use sprints to keep improving your estimating&lt;/h2&gt;
+&lt;p&gt;Working in sprints&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; does several things which help with estimating.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Getting work done in small chunks sometimes eliminates the need to estimate. For example, waiting two weeks for the actual answer, or a much better informed answer could be better than an immediate but uninformed guess.&lt;/li&gt;
+  &lt;li&gt;Sprints create a very fast feedback loop so you can see how accurate your estimates are, look at what you missed while it is fresh in your mind and see if you can adjust in the next sprint. For example, how much time was taken up by unplanned work and what allowance can you make for it next time?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Over a few sprints you will start to see patterns and trends&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; which you can use to guide decisions. The sorts of things teams can do with this are:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;make and maintain longer range estimates based upon actual delivery progress&lt;/li&gt;
+  &lt;li&gt;improve risk management by understanding how steady or volatile their work is&lt;/li&gt;
+  &lt;li&gt;make the case to automate or standardise things to make work more predicable.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;move-from-individual-to-team-based-estimates&quot;&gt;Move from individual to team-based estimates&lt;/h2&gt;
+&lt;p&gt;Individual estimates are really hard to get right because they are sensitive to so many factors:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;do we know in advance what skills are need to complete the work and who in the team has these?&lt;/li&gt;
+  &lt;li&gt;if the individual has the skills how proficient and productive are they?&lt;/li&gt;
+  &lt;li&gt;if they are absent or busy on other things when the work is needed, what happens?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Looking at all of this at a team level can help by smoothing out the individual variations and allow the team to move work around as events play out. You end up with less precise but more robust estimates and, for many people, this is more useful that precise but volatile estimates. You can introduce team-based estimating by:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;adding up the total amount of work that the whole team can do together in the next sprint&lt;/li&gt;
+  &lt;li&gt;considering the total amount of work that could be needed to complete each backlog item&lt;/li&gt;
+  &lt;li&gt;reviewing these estimates each sprint and then adjusting.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Some teams find it helpful to change the units they use for estimating (e.g. story points&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; or t-shirt sizing) so they can cover things like risk and complexity along with quantity in a single measure of how hard a bit of work is.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h4&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;See an &lt;a href=&quot;/preview/2019/11/so-what-exactly-is-a-sprint.html&quot;&gt;earlier post&lt;/a&gt; about sprints. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.agilealliance.org/glossary/burndown-chart&quot;&gt;Burndown charts&lt;/a&gt; are easy to make and can help you spot patterns and make more reliable forecasts. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;There is lots to read up about story points. &lt;a href=&quot;https://www.mountaingoatsoftware.com/blog/what-are-story-points&quot;&gt;This one is quite an easy to read place to start&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Agile" /><summary type="html">People would love it if we could predict the future. We get this all the time in our work: How much is the project going to cost? When will it be finished so that we can go live? We are really busy so how much of Dave’s time do you need next month? We only get the actual answers to these questions after the work is done (occasionally years later) but people need estimates, forecasts and indications to help coordinate people and activities. Agile ways of working do not immediately remove these needs but techniques like Scrum can help avoid some of the common pitfalls.</summary></entry><entry><title type="html">Weeknote 18-24 January 2020</title><link href="https://cioportfolio.github.io/preview/2020/01/weeknote-1.html" rel="alternate" type="text/html" title="Weeknote 18-24 January 2020" /><published>2020-01-27T00:00:00+00:00</published><updated>2020-03-09T16:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/01/weeknote-1</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/01/weeknote-1.html">&lt;p&gt;On UK Gov Camp 2020, Scrum Master training and working with agile teams.
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;blockquote class=&quot;notice--info&quot;&gt;
+  &lt;h4 id=&quot;about-agile-in-cornwall-council&quot;&gt;About agile in Cornwall Council&lt;/h4&gt;
+  &lt;p&gt;We are starting to adopt more agile and open ways of working. We have been experimenting internally with weeknotes&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; and, with a little time lag, we would like to see what publishing these might achieve.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;On Saturday I attended UK Gov Camp&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; along with a couple of hundred people passionate about digital&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; public services. Whilst Gov Camp is a crazy idea which really should not work, previous attendees, like me, jump through all sorts of obstacles to go each year. It is a chance to connect with like minded people and receive an injection of energy and insight which keeps us going for the next year. The boost from previous years has got me off my backside to properly give back through volunteering, become an ally for under-represented groups in tech and is part of the motivating for moving from the commercial world to become a Council employee.&lt;/p&gt;
+
+&lt;p&gt;Two big topics captured my interest this year:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;sharing ideas, solutions and even services to address common problems faced by councils&lt;/li&gt;
+  &lt;li&gt;deepening the join up between social care and health.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These topics guided my choices about which sessions to attend. One sharing focused session was about working in the open. I asked about how to get started and several people recommended writing weeknotes&lt;sup id=&quot;fnref:1:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; - so here I am!&lt;/p&gt;
+
+&lt;p&gt;Switching to the end of the week, I spent a couple of days with colleagues going through Certified Scrum Master training. I’ve been working with agile for many years, hold some other agile qualifications and am responsible for coaching some of our teams so this may seem like a waste of time. I don’t think so, for several reasons:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;All professionals need to keep in good condition with training and practice. Scrum master training helps me stay intellectually “fit” as an Agile Coach.&lt;/li&gt;
+  &lt;li&gt;Our agile transformation relies on good team work and personal relationships which is strengthened by learning together.&lt;/li&gt;
+  &lt;li&gt;In many ways my role is about on-the-job training so it will help to see, first-hand, the class-room experience people have so I can link my on-the-job work to it.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Between Gov Camp and Scrum Master training I divided my time between two teams which are pushing the limits of agile working in the Council: fast-change and Customer Experience Platform. I haven’t sought permission from the teams to write about their work so, for now, I will focus on some personal observations and lessons.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Play or pass?&lt;/strong&gt; I can’t remember the last time I had a bit of independent work to do. Pretty much all of my job is about facilitating the work of other people, usually big teams. This means there are always far more potential actions you can take than is possible in the time. You need to decide when to play and when to pass. For both teams I had some big choices to make about what I took on and what I left for others. I guess I won’t know for some time how good my choices were this week.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Getting the basics right&lt;/strong&gt; Agile approaches rely on personal interaction rather than lots of rules and procedures but a few boundaries and written records help, especially with part time teams that do not spend all of their time together. This week involved a lot of work around budgets, roles, architecture, commercial arrangements and for both teams we have sometimes let the discussions go on a bit too long and it would have been easier to commit some things into writing, even if they are acknowledged as working assumptions or first drafts to iterate later.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Uncertainty is hard&lt;/strong&gt; I’ve spent most of my career in commercial organisations and always hated the uncertainty of the sales process - I could be busy for 2 years or out of work depending upon on a customer decision. I think I have become complacent with other types of uncertainty and not supportive enough when people are struggling e.g. our sprint backlog is not very clear or our product backlog doesn’t give us much clarity beyond a few sprints.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h4&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;This is a &lt;a href=&quot;https://productforthepeople.xyz/the-why-of-weeknotes-c1cd98967842&quot;&gt;good introduction to the idea of weeknotes&lt;/a&gt;. Some Government Departments and Council’s make their weeknotes public. Hackney and Essex are good examples. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:1:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Find out more by visiting the &lt;a href=&quot;https://www.ukgovcamp.com/&quot;&gt;Gov Camp website&lt;/a&gt; or checking the &lt;a href=&quot;https://twitter.com/hashtag/ukgc20&quot;&gt;#ukgc20 topic in Twitter&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;Digital in the sense of a way of working rather than about technology. Tom Loosemore has &lt;a href=&quot;https://definitionofdigital.com/&quot;&gt;captured this well&lt;/a&gt;. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On UK Gov Camp 2020, Scrum Master training and working with agile teams.</summary></entry><entry><title type="html">Getting started with user stories</title><link href="https://cioportfolio.github.io/preview/2019/12/getting-started-with-user-stories.html" rel="alternate" type="text/html" title="Getting started with user stories" /><published>2019-12-04T00:00:00+00:00</published><updated>2020-03-05T19:20:15+00:00</updated><id>https://cioportfolio.github.io/preview/2019/12/getting-started-with-user-stories</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2019/12/getting-started-with-user-stories.html">&lt;p&gt;Think about the last time you bought something at a shop or online: Did you care what brand of vehicle delivered the goods? Probably not!&lt;/p&gt;
 
 &lt;p&gt;In the Cornwall Council IS team, our products exist to help people get things done and they, in turn, are helping other people get on with their lives. Often, as long as these people can do what they need, the details of how our products work do not matter very much to them.&lt;/p&gt;
 
@@ -53,7 +176,7 @@
       &lt;p&gt;If you are brand new to this topic take a look at Mark Shead’s &lt;a href=&quot;https://www.youtube.com/watch?v=apOvF9NVguA&quot;&gt;video on you tube&lt;/a&gt;. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;See the &lt;a href=&quot;/preview/2019/11/an-introduction-to-backlogs.html#what-is-a-product-backlog.html&quot;&gt;previous post&lt;/a&gt; for more about the product backlog. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;See the &lt;a href=&quot;/preview/2019/11/an-introduction-to-backlogs.html#what-is-a-product-backlog&quot;&gt;previous post&lt;/a&gt; for more about the product backlog. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:4&quot;&gt;
       &lt;p&gt;Some people would say that the written story is just a placeholder for a conversation. This is a really good way to think about it and fits with the agile approach of valuing individuals and interactions over processes and tools. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
@@ -438,107 +561,4 @@ requests, architecture, enablers and risks.&lt;/p&gt;
 
 &lt;h1 id=&quot;bcs-talk-replay&quot;&gt;BCS Talk Replay&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;About 20 minutes&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;iframe width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/2k_wiczNNFc?start=6&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Richard Barton</name></author><category term="Transformation" /><category term="Digital" /><category term="Agile" /><summary type="html">I gave a presentation at the recent British Computer Society (BCS) Enterprise Architecture Conference. A replay of the talk is available and this post is an outline of the main points. Over the last few years I have worked with many architects and quite a few are unhappy. Executives might appreciate the efforts that go into models and designs but things move on so quickly that, often, the architect’s work does not keep pace with events or arrives too late to be useful. The architect might sadly slope away, loaded down with copies of densely packed designs which are now only good for the recycling bin, or they might become angry at being ignored. Either way, it is not a pleasant situation. I shared with the conference some ideas about why this is happening and offered some suggestions of how to respond.</summary></entry><entry><title type="html">Essential ingredients for digital transformation</title><link href="https://cioportfolio.github.io/preview/2017/02/essential-ingredients-for-digital.html" rel="alternate" type="text/html" title="Essential ingredients for digital transformation" /><published>2017-02-11T00:00:00+00:00</published><updated>2017-10-23T18:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2017/02/essential-ingredients-for-digital</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2017/02/essential-ingredients-for-digital.html">&lt;p&gt;I recently read a &lt;a href=&quot;https://cloudrumblings.io/the-richmond-project-f4ce7949d9e8&amp;quot;&amp;gt;really nice post&quot;&gt;really nice post&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/drewfirment&quot;&gt;Drew Firment&lt;/a&gt; (thanks go to &lt;a href=&quot;https://twitter.com/cpswan&quot;&gt;Chis Swan&lt;/a&gt; for sharing it). Drew’s article reminded me of some patterns I have seen in big transformations - most recently in my &lt;a href=&quot;/preview/2016/07/beyond-agile-delivery.html&quot;&gt;digital transformation&lt;/a&gt; work but also in the earlier rounds of change we called internet- or electronic-business transformation. This post is a first attempt at making these patterns explicit, initially so I can use them in my own work. It would be great to get your feedback if you think they will help you too. Lots of other people have already been trying to make sense of this area through frameworks, maturity models, life-cycles and other models. I have started to collect a list of some of these at the end of this post and they are worth reviewing as well.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;the-ingredients-of-transformation&quot;&gt;The ingredients of transformation&lt;/h2&gt;
-
-&lt;p&gt;I’ll start with four main ingredients which, when combined, form the basis of digital transformation. The key ingredients are:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The &lt;strong&gt;passion&lt;/strong&gt;, or drive, which ultimately powers the transformation&lt;/li&gt;
-  &lt;li&gt;A pool of &lt;strong&gt;talented people&lt;/strong&gt; who can build the new understanding, ways of working or operational capabilities needed for the transformation&lt;/li&gt;
-  &lt;li&gt;This team’s &lt;strong&gt;reputation&lt;/strong&gt; for delivery which grows as they create a track record of successes&lt;/li&gt;
-  &lt;li&gt;An &lt;strong&gt;ecosystem&lt;/strong&gt; of partners and capabilities which accumulates from the efforts of the team.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I have deliberately left out things like process models and technical infrastructure. Transformation does have technical and procedural aspects but the progress of transformation does not feel like the flow of a structured process or the operation of a machine. It is very much more organic than that. In many cases, it defies simplistic measurement and analogies based upon politics or ecology would probably be more fitting, for example:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Financial models and other kinds of business justification might support the drive for change but are not a substitute for the emotional and personal commitment associated with passion. People who are passionate about the changes ask questions like, “Are we being ambitious enough?” rather than, “What is the return on investment?”&lt;/li&gt;
-  &lt;li&gt;People can grow and develop but completion of training courses and accumulation of experience do not automatically create talent.&lt;/li&gt;
-  &lt;li&gt;A strong reputation can be built in the face of obstacles and setbacks but can be elusive even if time, costs and quality metrics are on track.&lt;/li&gt;
-  &lt;li&gt;The performance of an ecosystem is as much about the balance and interaction of the participants as it is about their individual attributes.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ebbs-and-flows-of-transformation&quot;&gt;Ebbs and flows of transformation&lt;/h2&gt;
-
-&lt;p&gt;The diagram below illustrates the simple pattern that I have observed - at least in successful transformations.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/preview/assets/images/Project_main.png&quot; alt=&quot;alt text&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Nothing happens without &lt;strong&gt;passion&lt;/strong&gt;. This might be the result of some shock or revelation or can be fuelled by insights or rationale which builds up over time. Passion sets the pace and direction of the transformation.&lt;/li&gt;
-  &lt;li&gt;Passion is the element that initially attracts and motivates &lt;strong&gt;talented people&lt;/strong&gt;. Later the ingredients create a virtuous circle with more talented people inspired by the team’s reputation or accessed through the ecosystem.&lt;/li&gt;
-  &lt;li&gt;Passion is also essential to help the team overcome obstacles, objections and setbacks and successfully make progress. A track record of success is what builds the &lt;strong&gt;reputation&lt;/strong&gt; for delivery.&lt;/li&gt;
-  &lt;li&gt;Passion is the source of the shared purpose and values which binds various organisations, communities, operating units and infrastructure in the &lt;strong&gt;ecosystem&lt;/strong&gt; into a larger, united entity.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Clearly, there will be a need to engage and manage stakeholders, establish a common vision and roadmap and deal with administrative requirements such as securing funding, facilities, infrastructure and commercial services but, to a certain extent, these are details that executives can leave to their talented teams. If the transformation ingredients are in place these things will emerge anyway. Without the transformation ingredients they will simply become bureaucratic overhead.&lt;/p&gt;
-
-&lt;p&gt;What if something changes or goes wrong? My theory is this pattern can still help make sense of these situations.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/preview/assets/images/project2_main.png&quot; alt=&quot;alt text&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Most of the problems I have observed can be traced back to passion, or lack of it. Examples can include the departure of a key leader or an external shock which shifts the drive and energy onto a different track. Competing passions leading in different directions can also damage one or both goals. The effect of this is often a gradual and slow decline as talented people leave, the reputation for delivering wanes and the ecosystem falls into obsolescence when it is not maintained and refreshed.&lt;/p&gt;
-
-&lt;p&gt;Another class of problem appears when the ingredients are out of balance, such as a lack of attention on growing the pool of talented people or not actively cultivating a reputation. Transformation will stall without the positive feedback loops between these ingredients.&lt;/p&gt;
-
-&lt;h2 id=&quot;exploiting-the-patterns&quot;&gt;Exploiting the patterns&lt;/h2&gt;
-
-&lt;p&gt;In a follow up post I will share some ideas about how to exploit these patterns to maintain, accelerate or scale a transformation initiative. In the meantime I would really appreciate any feedback you have on these ideas.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/preview/assets/images/project3_header.png&quot; alt=&quot;alt text&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;related-posts&quot;&gt;Related posts:&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/race-against-digital-darwinism-six-stages-brian-solis&quot;&gt;The six stages of digital transformation&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/briansolis&quot;&gt;Brian Solis&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blogs.starcio.com/2015/10/what-is-digital-business-digital-transformation.html&quot;&gt;What is Digital Business and Digital Transformation?&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/nyike&quot;&gt;Isaac Sacolick&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://dionhinchcliffe.com/2016/10/20/in-digital-transformation-culture-change-goes-hand-in-hand-with-tech-change/&quot;&gt;In Digital Transformation, Culture Change Goes Hand in Hand with Tech Change&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/dhinchcliffe&quot;&gt;Dion Hinchcliffe&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.computing.co.uk/ctg/opinion/3004023/stop-wasting-money-on-digital-transformation-start-building-the-team-to-make-it-happen&quot;&gt;Stop Wasting Money on Digital Transformation&lt;/a&gt; an interview with &lt;a href=&quot;https://twitter.com/informatics_lab&quot;&gt;the Met Office’s Dr Alberto Arribas&lt;/a&gt; in Computing&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/pulse/change-more-like-adding-milk-coffee-niels-pflaeging?trk=mp-reader-card&quot;&gt;Change is more like adding milk to coffee&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/NielsPflaeging&quot;&gt;Niels Pflaeging&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.businesswire.com/news/home/20150608005232/en/IDC-MaturityScape-Urges-Digital-Transformation-Leaders-Create&quot;&gt;Digital Maturity Model&lt;/a&gt; from &lt;a href=&quot;https://twitter.com/IDC&quot;&gt;IDC&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blog.wearefuturegov.com/a-digital-maturity-assessment-that-your-organisation-can-act-upon-2eedfc456c26&quot;&gt;A digital maturity assessment that your organisation can act upon&lt;/a&gt; by &lt;a href=&quot;https://www.wearefuturegov.com/&quot;&gt;FutureGov&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Richard Barton</name></author><category term="Transformation" /><category term="Digital" /><summary type="html">I recently read a really nice post by Drew Firment (thanks go to Chis Swan for sharing it). Drew’s article reminded me of some patterns I have seen in big transformations - most recently in my digital transformation work but also in the earlier rounds of change we called internet- or electronic-business transformation. This post is a first attempt at making these patterns explicit, initially so I can use them in my own work. It would be great to get your feedback if you think they will help you too. Lots of other people have already been trying to make sense of this area through frameworks, maturity models, life-cycles and other models. I have started to collect a list of some of these at the end of this post and they are worth reviewing as well.</summary></entry><entry><title type="html">Serverless computing will be big…</title><link href="https://cioportfolio.github.io/preview/2017/02/serverless-computing-will-be-big.html" rel="alternate" type="text/html" title="Serverless computing will be big..." /><published>2017-02-01T14:45:00+00:00</published><updated>2017-02-01T14:45:00+00:00</updated><id>https://cioportfolio.github.io/preview/2017/02/serverless-computing-will-be-big</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2017/02/serverless-computing-will-be-big.html">&lt;p&gt;&lt;strong&gt;&lt;em&gt;…but developer productivity and commercial flexibility are bigger&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This post goes into technology a little more than usual so the &lt;a href=&quot;https://en.wikipedia.org/wiki/TL;DR&quot;&gt;TL;DR&lt;/a&gt; version for busy CIO’s is:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Please make sure some of your teams are experimenting with serverless technology from Amazon or other providers.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The rest of this post explains why Amazon is leading the transformation of software development with an obscure bit of technology from Google.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;a-long-time-in-the-making&quot;&gt;A long time in the making&lt;/h2&gt;
-
-&lt;p&gt;Great ideas can sometimes simmer in obscurity for many years until someone finds the right commercial and technical package to ignite them. Then the old idea can burst into the headlines as a brand new innovation. This is happening now with a collection of ideas being branded as &lt;a href=&quot;https://martinfowler.com/articles/serverless.html&quot;&gt;“serverless” computing&lt;/a&gt;. &lt;a href=&quot;https://aws.amazon.com/&quot;&gt;Amazon Web Services&lt;/a&gt; attracted all the &lt;a href=&quot;http://sdtimes.com/amazon-introduces-lambda-containers/&quot;&gt;headlines in 2014&lt;/a&gt; when they released their &lt;a href=&quot;https://aws.amazon.com/lambda/&quot;&gt;Lambda service&lt;/a&gt;. I suspect Amazon will claim the bulk of serverless revenues over the next few years but the ideas and technology behind Lambda are at least a decade old.&lt;/p&gt;
-
-&lt;p&gt;The obscure bit of technology inside AWS Lambda is &lt;a href=&quot;https://en.wikipedia.org/wiki/V8_(JavaScript_engine)&quot;&gt;Google’s V8 JavaScript engine&lt;/a&gt;. Developers use &lt;a href=&quot;https://en.wikipedia.org/wiki/JavaScript&quot;&gt;JavaScript&lt;/a&gt; to create rich, interactive web sites and it is supported by pretty much every browser on every device today. V8 powers Google’s Chrome browser but in 2009, it was used to build a small, fast platform, &lt;a href=&quot;https://en.wikipedia.org/wiki/Node.js&quot;&gt;node.js&lt;/a&gt;, that let JavaScript software run on backend servers. In its short life, node.js has avoided a small &lt;a href=&quot;https://nodejs.org/en/blog/announcements/foundation-v4-announce/&quot;&gt;standards war&lt;/a&gt;, attracted a &lt;a href=&quot;http://thenewstack.io/javascript-popularity-surpasses-java-php-stack-overflow-developer-survey/&quot;&gt;huge following&lt;/a&gt; and accumulated a &lt;a href=&quot;https://en.wikipedia.org/wiki/Npm_(software)&quot;&gt;massive library of clever tools and utilities&lt;/a&gt;. By 2014, when Amazon was getting ready to launch Lambda, node.js had become a reasonably mature platform and was being used in anger by some &lt;a href=&quot;https://brainhub.eu/blog/2016/05/30/9-famous-apps-using-node-js/&quot;&gt;major organisations&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;disposable-systems&quot;&gt;Disposable systems&lt;/h2&gt;
-
-&lt;p&gt;Node.js is small and fast enough to be disposable. It is economical to start a node.js server in a &lt;a href=&quot;http://searchservervirtualization.techtarget.com/definition/container-based-virtualization-operating-system-level-virtualization&quot;&gt;container&lt;/a&gt; just to run a trivial bit of software - a simple function - and then throw it away once the function has completed. The whole cycle might last just a few tenths of a second. This is just what Amazon needed as the basis for its new serverless offering. Lambda now supports a range of languages and tools but still uses node.js as the small, fast workhorse behind the scenes. But cloud service performance is not the only, or even the most important, factor. Developer performance and commercial flexibility are also big considerations.&lt;/p&gt;
-
-&lt;p&gt;Many serverless functions are trivial but they do not have to be. A function could be an interactive web application, interrogating a database and provisioning other sophisticated services. The breakthrough this allows is that, with a little care, a piece of JavaScript will work, without modification, on a laptop, a small private server, a virtual machine from any of the leading cloud providers and inside a serverless function. Since your tablet and smartphone already include a JavaScript engine it will not be long before you find node.js functions there and AWS is already &lt;a href=&quot;https://aws.amazon.com/greengrass/&quot;&gt;getting Lambda ready&lt;/a&gt; for the &lt;a href=&quot;https://en.wikipedia.org/wiki/Internet_of_things&quot;&gt;Internet of Things&lt;/a&gt;. This is a level of portability which has been promised since the dawn of computing but, until recently, has never actually materialised.&lt;/p&gt;
-
-&lt;p&gt;This means you can demonstrate an application or service on a relatively low specification laptop, trial and scale it at very low cost as cloud functions and switch to dedicated virtual servers (in the cloud or in your own data centres) when demand is stable or the scale makes Lambda’s pricing model less economical. I am not sure that Amazon set out to achieve this kind of portability or that Amazon’s competitors have realised how significant this is.&lt;/p&gt;
-
-&lt;h2 id=&quot;try-before-you-buy&quot;&gt;Try before you buy&lt;/h2&gt;
-
-&lt;p&gt;This sounds too good to be true but the &lt;a href=&quot;https://claudiajs.com/&quot;&gt;tools and frameworks&lt;/a&gt; are maturing rapidly and it is already a realistic option for interested, part-time, amateur developers - like me.&lt;/p&gt;
-
-&lt;p&gt;I’ve recently ported a &lt;a href=&quot;https://app.cioportfolio.co.uk&quot;&gt;web app that I use for my business&lt;/a&gt; over to node.js on Lambda. With a few configuration settings the same software will run in a virtual machine on my laptop or a physical or virtual server in the cloud. In fact, I can run different parts of the app on different infrastructure e.g. serve end-user parts over Lambda and keep admin features on private machines. As a bonus, my level of use is probably low enough to stay within Amazon’s &lt;a href=&quot;https://aws.amazon.com/free/&quot;&gt;free usage tier&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I am sure it is only a matter of time before node.js and AWS Lambda are superseded by something else - many people, including me, won’t miss JavaScript and the &lt;a href=&quot;https://aws.amazon.com/sdk-for-node-js/&quot;&gt;AWS interface&lt;/a&gt; when something more user friendly comes along. Taking some time, right now, to understand how to build systems from small, portable, disposable containers will be a good, long-term investment.&lt;/p&gt;
-
-&lt;h2 id=&quot;and-the-runner-up-prize-goes-to&quot;&gt;And the runner-up prize goes to…&lt;/h2&gt;
-
-&lt;p&gt;Here is a final word of commiseration for Google - they had the right ideas but at the wrong time. Unfortunately, when Google launched its serverless offering, &lt;a href=&quot;https://cloud.google.com/appengine/&quot;&gt;Google App Engine&lt;/a&gt;, back in 2008, node.js did not exist and many popular development frameworks did not support the serverless model very well. App Engine was good but something developed for the Google platform would not work very well, if at all, on private servers or another public cloud platform. Google had to &lt;a href=&quot;https://cloudplatform.googleblog.com/2014/03/bringing-together-best-of-paas-and-iaas.html&quot;&gt;back-track and offer virtual machine services&lt;/a&gt; alongside Amazon, Microsoft and others. Google is now moving slowly to offer a &lt;a href=&quot;https://cloud.google.com/functions/&quot;&gt;Lambda look-alike service&lt;/a&gt;. This time, Google is giving a lot more attention to portability and other major players should do the same.&lt;/p&gt;
-
-&lt;h3 id=&quot;an-even-more-technical-footnote&quot;&gt;&lt;em&gt;An even more technical footnote&lt;/em&gt;&lt;/h3&gt;
-
-&lt;p&gt;I had already worked with node.js and &lt;a href=&quot;http://expressjs.com/&quot;&gt;express&lt;/a&gt; for some voluntary work so I jumped straight to the the &lt;a href=&quot;https://github.com/awslabs/aws-serverless-express&quot;&gt;aws-serverless-express library&lt;/a&gt; to get started with AWS Lambda. The deployed version of my app makes use of other AWS services, such as S3, DynamoDB, API Gateway and Cloud Front, as well as Lambda but the platform specific details are taken care of by one or two configuration files. The application software will run on any instance of node.js. I found&lt;a href=&quot;https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/&quot;&gt; Keith Cirkel’s post about npm&lt;/a&gt; really useful in deciphering what AWS had done in their library and then extending it to avoid storing any sensitive information, like access keys, in files locally or in the cloud.&lt;/p&gt;
-
-&lt;p&gt;The previous version of the app was developed with &lt;a href=&quot;https://www.djangoproject.com/&quot;&gt;Django&lt;/a&gt; using &lt;a href=&quot;https://aws.amazon.com/elasticbeanstalk/&quot;&gt;Elastic Beanstalk&lt;/a&gt;. The move from the user friendly &lt;a href=&quot;https://www.python.org/&quot;&gt;Python language&lt;/a&gt; used in Django to the more temperamental JavaScript used in node.js consumed most of the effort in the migration. If the original app had been developed on node.js the migration to serverless on Lambda would have been trivial.&lt;/p&gt;</content><author><name>Richard Barton</name></author><category term="CIO" /><category term="Applications" /><category term="Agile" /><category term="Futures" /><category term="Cloud" /><summary type="html">…but developer productivity and commercial flexibility are bigger This post goes into technology a little more than usual so the TL;DR version for busy CIO’s is: Please make sure some of your teams are experimenting with serverless technology from Amazon or other providers. The rest of this post explains why Amazon is leading the transformation of software development with an obscure bit of technology from Google.</summary></entry></feed>
+&lt;iframe width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/2k_wiczNNFc?start=6&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Richard Barton</name></author><category term="Transformation" /><category term="Digital" /><category term="Agile" /><summary type="html">I gave a presentation at the recent British Computer Society (BCS) Enterprise Architecture Conference. A replay of the talk is available and this post is an outline of the main points. Over the last few years I have worked with many architects and quite a few are unhappy. Executives might appreciate the efforts that go into models and designs but things move on so quickly that, often, the architect’s work does not keep pace with events or arrives too late to be useful. The architect might sadly slope away, loaded down with copies of densely packed designs which are now only good for the recycling bin, or they might become angry at being ignored. Either way, it is not a pleasant situation. I shared with the conference some ideas about why this is happening and offered some suggestions of how to respond.</summary></entry></feed>
