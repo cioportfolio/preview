@@ -264,7 +264,7 @@ var store = [{
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/01/weeknote-1.html",
         "teaser":null},{
-        "title": "Estimating in and agile way",
+        "title": "Estimating in an agile way",
         "excerpt":"People would love it if we could predict the future. We get this all the time in our work: How much is the project going to cost? When will it be finished so that we can go live? We are really busy so how much of Dave’s time do you...","categories": [],
         "tags": ["Local Government","Agile"],
         "url": "https://cioportfolio.github.io/preview/2020/01/estimating-in-an-agile-way.html",
