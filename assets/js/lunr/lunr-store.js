@@ -248,17 +248,17 @@ var store = [{
         "excerpt":"I don’t think the people behind Scrum and other agile methods participated in sports very much. They seem to have borrowed a lot of sporting terms but haven’t used them very wisely. The phrase “Sprint” is a good example of this. In athletics, a sprint involves individuals trying to run...","categories": [],
         "tags": ["Local Government","Agile"],
         "url": "https://cioportfolio.github.io/preview/2019/11/so-what-exactly-is-a-sprint.html",
-        "teaser":null},{
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/4782204077_999129edfc_k_teaser.jpg"},{
         "title": "An introduction to backlogs",
         "excerpt":"In this post, we’re taking a closer look at another agile term: Backlog. The dictionary definition is: an accumulation of tasks unperformed or materials not processed In agile working, backlogs are a list of things that a team still has to do. If you are struggling to get started, brainstorming...","categories": [],
         "tags": ["Local Government","Agile"],
         "url": "https://cioportfolio.github.io/preview/2019/11/an-introduction-to-backlogs.html",
-        "teaser":null},{
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/cornwallboard_teaser.jpg"},{
         "title": "Getting started with user stories",
         "excerpt":"Think about the last time you bought something at a shop or online: Did you care what brand of vehicle delivered the goods? Probably not! In the Cornwall Council IS team, our products exist to help people get things done and they, in turn, are helping other people get on...","categories": [],
         "tags": ["Local Government","Agile"],
         "url": "https://cioportfolio.github.io/preview/2019/12/getting-started-with-user-stories.html",
-        "teaser":null},{
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/3731275681_c97c9ee538_k_teaser.jpg"},{
         "title": "Weeknote 18-24 January 2020",
         "excerpt":"On UK Gov Camp 2020, Scrum Master training and working with agile teams. About agile in Cornwall Council We are starting to adopt more agile and open ways of working. We have been experimenting internally with weeknotes1 and, with a little time lag, we would like to see what publishing...","categories": [],
         "tags": ["Local Government","Weeknotes"],
@@ -268,4 +268,4 @@ var store = [{
         "excerpt":"People would love it if we could predict the future. We get this all the time in our work: How much is the project going to cost? When will it be finished so that we can go live? We are really busy so how much of Dave’s time do you...","categories": [],
         "tags": ["Local Government","Agile"],
         "url": "https://cioportfolio.github.io/preview/2020/01/estimating-in-an-agile-way.html",
-        "teaser":null}]
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/estimate_teaser.jpg"}]
