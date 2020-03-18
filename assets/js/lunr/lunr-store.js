@@ -268,4 +268,9 @@ var store = [{
         "excerpt":"People would love it if we could predict the future. We get this all the time in our work: How much is the project going to cost? When will it be finished so that we can go live? We are really busy so how much of Dave’s time do you...","categories": [],
         "tags": ["Local Government","Agile"],
         "url": "https://cioportfolio.github.io/preview/2020/01/estimating-in-an-agile-way.html",
-        "teaser":"https://cioportfolio.github.io/preview/assets/images/estimate_teaser.jpg"}]
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/estimate_teaser.jpg"},{
+        "title": "Refining your backlogs",
+        "excerpt":"My previous update on Backlogs provided an introduction to the term. This post provides a little more detail on how to work with Backlogs. About agile in Cornwall Council We are starting to adopt more agile ways of working. My role involves helping people develop their skills and apply agile...","categories": [],
+        "tags": ["Local Government","Agile"],
+        "url": "https://cioportfolio.github.io/preview/2020/02/refining-your-backlogs.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/cornwallboard_teaser.jpg"}]

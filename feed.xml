@@ -1,4 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-03-13T18:50:09+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Estimating in an agile way</title><link href="https://cioportfolio.github.io/preview/2020/01/estimating-in-an-agile-way.html" rel="alternate" type="text/html" title="Estimating in an agile way" /><published>2020-01-30T00:00:00+00:00</published><updated>2020-03-13T16:00:15+00:00</updated><id>https://cioportfolio.github.io/preview/2020/01/estimating-in-an-agile-way</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/01/estimating-in-an-agile-way.html">&lt;p&gt;People would love it if we could predict the future. We get this all the time in our work:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-03-18T10:46:59+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Refining your backlogs</title><link href="https://cioportfolio.github.io/preview/2020/02/refining-your-backlogs.html" rel="alternate" type="text/html" title="Refining your backlogs" /><published>2020-02-05T00:00:00+00:00</published><updated>2020-03-18T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/02/refining-your-backlogs</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/02/refining-your-backlogs.html">&lt;p&gt;My previous update on Backlogs provided an introduction to the term. This post provides a little more detail on how to work with Backlogs.&lt;/p&gt;
+
+&lt;!--more--&gt;
+&lt;blockquote class=&quot;notice--info&quot;&gt;
+  &lt;h4 id=&quot;about-agile-in-cornwall-council&quot;&gt;About agile in Cornwall Council&lt;/h4&gt;
+  &lt;p&gt;We are starting to adopt more agile ways of working. My role involves helping people develop their skills and apply agile techniques to improve the services we provide to the public. This series of posts is adapted from the articles I write for our internal teams. They cover some common agile terms and what it all really means.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In my first note&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; I described two types of backlogs, product backlogs and work backlogs, which have slightly different roles.&lt;/p&gt;
+
+&lt;h2 id=&quot;refining-your-product-backlog&quot;&gt;Refining your Product Backlog&lt;/h2&gt;
+&lt;p&gt;The product backlog is made up of the things that describe what your product or service will need to do for your users e.g. “let an officer capture the results of an inspection while they are away from the office”. Your first product backlog might be quite scrappy but the team can refine the backlog bit by bit each sprint&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. The sorts of refinements you might see are:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Moving the items around so the most important and urgent items go at the top of the list and less urgent and important ones move towards the bottom. Getting a good order that works for the team and other stakeholders is one of the key jobs of the product owner.&lt;/li&gt;
+  &lt;li&gt;Rewording items to make them clearer with a user focused format (see our earlier post on user stories&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; for a common format but there are others you can use). People with business analysis experience are usually pretty good at helping the team do this.&lt;/li&gt;
+  &lt;li&gt;Merging small items or breaking down large ones so that they are easier to manage (some of our teams are already using labels like story, feature, epic and theme to indicate the scale of the their items)&lt;/li&gt;
+  &lt;li&gt;Adding additional information such as business impact, key constraints, estimates and acceptance criteria.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;refining-your-work-backlog&quot;&gt;Refining your Work Backlog&lt;/h2&gt;
+&lt;p&gt;The work backlog is made up of all of key tasks and activities that the team needs to do. Many of these will link directly to something on the product backlog e.g. “amend some code to implement a new feature”. There will usually be some housekeeping tasks such as setting up the team workspace and improvement activities coming out from regular team reviews. In the first sprints quite a lot of the work could be this sort of housekeeping but it is a good idea to have a mix each sprint. Generally, teams find that they don’t need much structure for the work backlog but typical things the team will do when planning a sprint is to:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Review how much work they can realistically get done&lt;/li&gt;
+  &lt;li&gt;Decide on what work is the highest priority&lt;/li&gt;
+  &lt;li&gt;Juggle things around to get a sensible work list for the next sprint&lt;/li&gt;
+  &lt;li&gt;Add other helpful information such as status of the work, sub-tasks or checklists, any external help needed and estimates&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h4&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;/preview/2019/11/an-introduction-to-backlogs.html&quot;&gt;My introduction to backlogs&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;See an &lt;a href=&quot;/preview/2019/11/so-what-exactly-is-a-sprint.html&quot;&gt;earlier post&lt;/a&gt; about sprints. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;/preview/2019/12/getting-started-with-user-stories&quot;&gt;User stories post&lt;/a&gt; for more about backlogs. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;Take a look at the previous post on &lt;a href=&quot;/preview/2020/01/estimating-in-an-agile-way.html&quot;&gt;estimating in an agile way&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Agile" /><summary type="html">My previous update on Backlogs provided an introduction to the term. This post provides a little more detail on how to work with Backlogs.</summary></entry><entry><title type="html">Estimating in an agile way</title><link href="https://cioportfolio.github.io/preview/2020/01/estimating-in-an-agile-way.html" rel="alternate" type="text/html" title="Estimating in an agile way" /><published>2020-01-30T00:00:00+00:00</published><updated>2020-03-13T16:00:15+00:00</updated><id>https://cioportfolio.github.io/preview/2020/01/estimating-in-an-agile-way</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/01/estimating-in-an-agile-way.html">&lt;p&gt;People would love it if we could predict the future. We get this all the time in our work:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;How much is the project going to cost?&lt;/li&gt;
   &lt;li&gt;When will it be finished so that we can go live?&lt;/li&gt;
@@ -470,99 +514,4 @@ requests, architecture, enablers and risks.&lt;/p&gt;
   &lt;li&gt;Do the trade-offs you made still seem reasonable?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Is it hard to answer these questions or do the answers make you feel uncomfortable? If so, you and your executive peers have more work to do.&lt;/p&gt;</content><author><name>Richard Barton</name></author><category term="CIO" /><summary type="html">If you can only spare 30 seconds skip to the test at the end of this blog post. During the recent ransomware crisis it was quite understandable for people to be upset about disruption to businesses and public services. It is also understandable that leaders of these organisations rushed to announce actions to make their systems secure. This is all understandable but, in some ways, it is also naive. More cyber-attacks will come and will cause more damage than we have seen so far. We need to take a more nuanced look at the problems and some practical responses.</summary></entry><entry><title type="html">Finding a role for Enterprise Architecture in a world of agile and digital transformation</title><link href="https://cioportfolio.github.io/preview/2017/07/thanks-but-no-thanks.html" rel="alternate" type="text/html" title="Finding a role for Enterprise Architecture in a world of agile and digital transformation" /><published>2017-07-19T16:00:00+00:00</published><updated>2017-07-19T16:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2017/07/thanks-but-no-thanks</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2017/07/thanks-but-no-thanks.html">&lt;p&gt;I gave a presentation at the recent &lt;a href=&quot;http://www.bcs.org/content/ConWebDoc/57789&quot;&gt;British Computer Society (BCS) Enterprise Architecture Conference&lt;/a&gt;. A &lt;a href=&quot;#bcs-talk-replay&quot;&gt;replay of the talk&lt;/a&gt; is available and this post is an outline of the main points. Over the last few years I have worked with many architects and quite a few are unhappy. Executives might appreciate the efforts that go into models and designs but things move on so quickly that, often, the architect’s work does not keep pace with events or arrives too late to be useful. The architect might sadly slope away, loaded down with copies of densely packed designs which are now only good for the recycling bin, or they might become angry at being ignored. Either way, it is not a pleasant situation.&lt;/p&gt;
-
-&lt;p&gt;I shared with the conference some ideas about why this is happening and offered some suggestions of how to respond.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;relentless-change-and-uncertainty&quot;&gt;Relentless change and uncertainty&lt;/h2&gt;
-
-&lt;p&gt;The source of this unhappiness is change and uncertainty. The surprising results in recent elections (particularly in the UK and US) provide lots of engaging and entertaining material for talks about uncertainty but they are probably too removed from most architects’ work to provide any lessons. More practical examples are the forward plans or target architectures that consume a great deal of architecture effort. Let’s imagine we are back in 2012 and considering the target architecture for the future - looking ahead 5 years is typical. In 2012 this seemed like a perfectly sensible thing to do but, with the benefit of hindsight, we can see how easy it is to get things wrong.&lt;/p&gt;
-
-&lt;p&gt;First of all consider some of the things which did not exist in 2012. This includes new technical components (such as &lt;a href=&quot;https://www.docker.com/&quot;&gt;Docker’s&lt;/a&gt; first release in 2013) but also new ways of working (four year old &lt;a href=&quot;https://slack.com/is&quot;&gt;slack&lt;/a&gt; and three year old &lt;a href=&quot;https://trello.com/about&quot;&gt;trello&lt;/a&gt; are the default tools for many of my teams), new business models (&lt;a href=&quot;https://monzo.com/about/&quot;&gt;Monzo&lt;/a&gt; was founded in 2015), new competion (&lt;a href=&quot;https://www.airbnb.co.uk/how-it-works?af=14732389&quot;&gt;Airbnb&lt;/a&gt; expanding into Europe) and other threats.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/preview/assets/images/targetnew.png&quot; alt=&quot;target with new elements&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;But it gets worse. What about all of those things which existed in 2012 but we ignored, either because they had not broken into the mainstream or were considered too imature. It may have been ok to put off &lt;a href=&quot;/preview/2017/02/serverless-computing-will-be-big.html&quot;&gt;serverless technology&lt;/a&gt;, like &lt;a href=&quot;https://en.wikipedia.org/wiki/Node.js&quot;&gt;node.js&lt;/a&gt;, in your plans but could you really afford to exclude Android, which is now dominating that part of industy? There are also the things we assumed would be important and stable which have become obsolete. There were several people in the BCS audience who, like me, had been caught by surprise at how quickly people abandoned their, once cherrished, Blackberry devices. Companies and whole segments can shrink extraordinarily quickly if they run into problems.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/preview/assets/images/targetgone.png&quot; alt=&quot;target with old elements&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;blistering-pace&quot;&gt;Blistering pace&lt;/h2&gt;
-
-&lt;p&gt;To add to the uncertainty, things do not always develop or progress at a steady pace. Enterprise architects are familiar with &lt;a href=&quot;https://en.wikipedia.org/wiki/Moore%27s_law&quot;&gt;“Moores Law”&lt;/a&gt; but many other products and services exhibit this kind of growth. The value for money of personal DNA sequencing has improved by a factor of 10 over the last 10 years. The improvement for solar power and mobile data is 20 and 25 respectively. How confident can we be that the trade-offs we are making will still be sensible in 2 or 3 years, let alone 5 years and beyond? It shoud be no surprise that exectives are finding this sort of long range planning less and less useful.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/preview/assets/images/expo.png&quot; alt=&quot;exponential change&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;If some other disciplines had found ways to cope with all this change and uncertainty perhaps we could learn from them? Product development teams (especially for software products) can provide useful lessons. When I started my career, project timescales were typically measured in years. Today, teams are using short, fast cycles to work at a much faster pace. Even in the public sector, which has a poor reputation for speed and agility, you can find teams who can go from discussing an idea to launching a new public service in a matter of weeks. The giants of the internet era move even faster and there are opportunities to use machine learning and artificial intelligence to go beyond the pace and scale of the fastest human teams.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/preview/assets/images/wirlwind.png&quot; alt=&quot;wirlwind&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;What these teams have learnt is that:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/preview/assets/images/fast.png&quot; alt=&quot;Fast iterations with users wins&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;There have obviously been some mistakes and setbacks along the way but many organisations find they have a better chance of getting better results using the kind of agile techniques employed by the best digital teams. An agile team does not have to be flawless, it just has to do better than the alternatives. Traditional contributions from architects are not so much better that they are worth the wait. Even when dealing with sensitive topics like security, safety and compliance agile techniques often get to better answers more quickly.&lt;/p&gt;
-
-&lt;p&gt;However, that is not the end of the story. There are some things which agile and digital teams struggle with where architects and their tools might be able to help. Here are four to consider.&lt;/p&gt;
-
-&lt;h3 id=&quot;breaks-in-the-flow&quot;&gt;Breaks in the flow&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/preview/assets/images/flow.png&quot; alt=&quot;break in the flow&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Sometimes teams come across breaks in the flow of iterations. Initially things start well and each iteration gets better until something breaks down. A common example arises in efforts to move existing processes online. Initially a paper form might be copied, more-or-less, into an electronic form and then iterated to make it more useful and accessible. Occasionally, several iterations in, the team discover that there is a better way to arrange the service which does not require a form at all and it is dropped. Perhaps architects can be looking out for these breaks and helping agile teams handle them.&lt;/p&gt;
-
-&lt;h3 id=&quot;troublesome-users&quot;&gt;Troublesome users&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/preview/assets/images/antiusers.png&quot; alt=&quot;target with new elements&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Fast iterations with users wins but getting to your users is not always easy. Competitors, campaigners and criminals may not want your service to be a success, at least not in the way you intend, but they still need to be understood. Users with different roles, for example, customers, service agents and investors may have apparently conflicting needs which must be unravelled or traded. This might be an area where architecture tools can help.&lt;/p&gt;
-
-&lt;h3 id=&quot;sharing-and-re-use&quot;&gt;Sharing and re-use&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/preview/assets/images/shared.png&quot; alt=&quot;target with new elements&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We are still learning how to develop common standards and share components in a user-centred, agile way. Good teams will investigate what they can share or re-use but deliberate coordination is hard and teams can end up creating duplicate components which are highly tuned to their users. Even when teams identify components which are good candidates for sharing and re-use it can re-ignite the challenges of finding the right users and stakeholders for them. The layered approach that architects often use may provide some new ways to deal with this challenge.&lt;/p&gt;
-
-&lt;h3 id=&quot;are-you-sure-you-want-to-delete&quot;&gt;Are you sure you want to delete?&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/preview/assets/images/notsw.png&quot; alt=&quot;target with new elements&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The final challenge I have picked out for this post is that products and services are not just built from software. There are lots of important aspects which cannot be deleted and recreated at will. Some are robust things such as facilities, fixed assets and skills. Others are extremely fragile, such as trust, relationships and collaboration. Architects are used to applying the kind of whole-systems thinking which may help agile teams handle these aspects.&lt;/p&gt;
-
-&lt;h2 id=&quot;rising-to-the-challenge&quot;&gt;Rising to the challenge&lt;/h2&gt;
-&lt;p&gt;It makes sense to consider where agile and digital techniques are falling short but do not be fooled.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/preview/assets/images/fast.png&quot; alt=&quot;Fast iterations with users wins&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;There is no point in using these challenges to argue against techniques which are proving so effective in practice. Teams do not adopt these techniques because they are flawless. They adopt them because they often produce better results than the traditional alternatives. It may take a few more iterations but agile teams that are focused on their users will absorb setbacks, work around them and learn to do better in future. As architects, we need to be thinking about how we can support these teams and enrich their agle approaches so that they can work even better.&lt;/p&gt;
-
-&lt;p&gt;Over the last few years I have had the chance to develop architecture within fast moving digital teams. Here are some of the tactics that I have found are helpful, so far.&lt;/p&gt;
-
-&lt;h3 id=&quot;dont-be-too-ambitious&quot;&gt;Don’t be too ambitious&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/preview/assets/images/focus.png&quot; alt=&quot;target with new elements&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;No achitect or even a team of architects can cover everything, at least not at the pace that agile teams need. We need to learn to focus and work with our stakeholders to deliberately chose where to invest our efforts. There will be little need for long, jargon-filled documents or comprehensive, detailed models. In most cases these sorts of products will not be required as they won’t be timely, robust or accessible enough to be of value. It will be necessary and useful to reach up into abstract concepts and down into details on occasions but this will need to be justified and, most importantly, supported by the teams and executives who will be expected to use the results.&lt;/p&gt;
-
-&lt;h3 id=&quot;work-on-the-problem&quot;&gt;Work on the problem&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/preview/assets/images/problem.png&quot; alt=&quot;target with new elements&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Achitects have traditionally spent a lot of their time looking at the components of the product and service and how they work together. This is the solution side of the architecture equation. This is the area where agile teams iterate at a fast rate and it will be very difficult for any architect to stay far enough ahead of the team to be of much use. Instead, architects could put more energy into understanding the problem side of the equation - who are the main actors, how do they interact and what results from this? Although this may be unfamiliar teritory, architecture tools and approaches are just as valid here. I find that the architecture of problems changes at a much slower pace and the insights that the architect uncovers are usually more relevant and useful to agile teams.&lt;/p&gt;
-
-&lt;h3 id=&quot;whole-services-and-business-capabilities&quot;&gt;Whole services and business capabilities&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/preview/assets/images/capability.png&quot; alt=&quot;target with new elements&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Business capabilities provide a way of thinking about products and services that blends technology with the people involved and how they work. I am finding that a focus on capabilities encourages architects to explore things that have enduring use for agile teams such as spotting and exploiting re-use and blending slower moving changes to facilities, organisations and culture with the fast iteration of IT.&lt;/p&gt;
-
-&lt;h3 id=&quot;iterate-fast-with-your-users&quot;&gt;Iterate fast with your users&lt;/h3&gt;
-&lt;p&gt;If fast iteration with users wins in so many areas would it also win in architecture? Architecture only comes to life when stakeholders have absorbed it and use it in their decision making. Why not treat decision makers as users and develop architecture in fast iterations with them? This is the approach I have been taking with my customers over the last few years.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/preview/assets/images/waysofworking.png&quot; alt=&quot;target with new elements&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It can feel uncomfortable working out loud and engaging with executives before anyone has robust results. But it is even more uncomfortable to consume a lot of time and effort on things which are not understood, are not relevent or get in the way of teams delivering value to their users and employers.&lt;/p&gt;
-
-&lt;h2 id=&quot;in-case-you-missed-the-message&quot;&gt;In case you missed the message&lt;/h2&gt;
-
-&lt;p&gt;No one has yet worked out repeatable and portable method for doing architecture this way but that is ok. Let’s start, iterate and get better because:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/preview/assets/images/fast.png&quot; alt=&quot;Fast iterations with users wins&quot; class=&quot;align-center&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;bcs-talk-replay&quot;&gt;BCS Talk Replay&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;About 20 minutes&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;iframe width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/2k_wiczNNFc?start=6&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Richard Barton</name></author><category term="Transformation" /><category term="Digital" /><category term="Agile" /><summary type="html">I gave a presentation at the recent British Computer Society (BCS) Enterprise Architecture Conference. A replay of the talk is available and this post is an outline of the main points. Over the last few years I have worked with many architects and quite a few are unhappy. Executives might appreciate the efforts that go into models and designs but things move on so quickly that, often, the architect’s work does not keep pace with events or arrives too late to be useful. The architect might sadly slope away, loaded down with copies of densely packed designs which are now only good for the recycling bin, or they might become angry at being ignored. Either way, it is not a pleasant situation. I shared with the conference some ideas about why this is happening and offered some suggestions of how to respond.</summary></entry></feed>
+&lt;p&gt;Is it hard to answer these questions or do the answers make you feel uncomfortable? If so, you and your executive peers have more work to do.&lt;/p&gt;</content><author><name>Richard Barton</name></author><category term="CIO" /><summary type="html">If you can only spare 30 seconds skip to the test at the end of this blog post. During the recent ransomware crisis it was quite understandable for people to be upset about disruption to businesses and public services. It is also understandable that leaders of these organisations rushed to announce actions to make their systems secure. This is all understandable but, in some ways, it is also naive. More cyber-attacks will come and will cause more damage than we have seen so far. We need to take a more nuanced look at the problems and some practical responses.</summary></entry></feed>
