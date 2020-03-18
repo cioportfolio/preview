@@ -263,12 +263,17 @@ var store = [{
         "excerpt":"On UK Gov Camp 2020, Scrum Master training and working with agile teams. About agile in Cornwall Council We are starting to adopt more agile and open ways of working. We have been experimenting internally with weeknotes1 and, with a little time lag, we would like to see what publishing...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/01/weeknote-1.html",
-        "teaser":null},{
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/weeknotes_teaser.jpg"},{
         "title": "Estimating in an agile way",
         "excerpt":"People would love it if we could predict the future. We get this all the time in our work: How much is the project going to cost? When will it be finished so that we can go live? We are really busy so how much of Dave’s time do you...","categories": [],
         "tags": ["Local Government","Agile"],
         "url": "https://cioportfolio.github.io/preview/2020/01/estimating-in-an-agile-way.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/estimate_teaser.jpg"},{
+        "title": "Weeknote 27-31 January 2020",
+        "excerpt":"On making connections, agile training and recycling sticky notes. About agile in Cornwall Council We are starting to adopt more agile and open ways of working. We have been experimenting internally with weeknotes1 and, with a little time lag, we would like to see what publishing these might achieve. This...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/02/weeknote-2.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/weeknotes_teaser.jpg"},{
         "title": "Refining your backlogs",
         "excerpt":"My previous update on Backlogs provided an introduction to the term. This post provides a little more detail on how to work with Backlogs. About agile in Cornwall Council We are starting to adopt more agile ways of working. My role involves helping people develop their skills and apply agile...","categories": [],
         "tags": ["Local Government","Agile"],
