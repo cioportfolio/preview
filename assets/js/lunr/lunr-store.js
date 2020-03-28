@@ -287,5 +287,15 @@ var store = [{
         "title": "Weeknote 10-14 February 2020",
         "excerpt":"On being caught between storms. About agile in Cornwall Council We are starting to adopt more agile and open ways of working. We have been experimenting internally with weeknotes and, with a little time lag, we would like to see what publishing these might achieve. It is great living near...","categories": [],
         "tags": ["Local Government","Weeknotes"],
-        "url": "https://cioportfolio.github.io/preview/2020/03/weeknote-4.html",
+        "url": "https://cioportfolio.github.io/preview/2020/02/weeknote-4.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/weeknotes_teaser.jpg"},{
+        "title": "Weeknote 17-21 February 2020",
+        "excerpt":"On financial approvals, learning together and package-free shopping About agile in Cornwall Council We are starting to adopt more agile and open ways of working. We have been experimenting internally with weeknotes and, with a little time lag, we would like to see what publishing these might achieve. I certainly...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/02/weeknote-5.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/weeknotes_teaser.jpg"},{
+        "title": "Weeknote 24-27 February 2020",
+        "excerpt":"On spreading too thin, agile infrastructure, part-time teams and diversity in tech “In product development, our greatest waste is not unproductive engineers, but work products sitting idle in process queues.” Donald G. Reinertsen, The Principles of Product Development Flow: Second Generation Lean Product Development1 I have to confess to letting...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/03/weeknote-6.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/weeknotes_teaser.jpg"}]
