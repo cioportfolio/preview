@@ -303,4 +303,9 @@ var store = [{
         "excerpt":"On Cornwall Geeks, agile forecasting and risk management, scrum-of-scrums, product roadmaps and a first weeknote mention for COVID-19! My week notes came out before my trip to Cornwall Geeks1 last week. There was a bigger crowd this time so I didn’t manage to talk to everyone but there was an...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/03/weeknote-7.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/weeknotes_teaser.jpg"},{
+        "title": "Weeknote 9 - 13 March 2020",
+        "excerpt":"On business cases, fine tuning teams, jazz fusion, the RSA and COVID-19’s impact on the climate At the start of the week I took the opportunity to contribute to a Government Digital Service experiment on business cases1. I’ve done something similar in public sector organisations before but not so openly....","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/03/weeknote-8.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/weeknotes_teaser.jpg"}]
