@@ -298,4 +298,9 @@ var store = [{
         "excerpt":"On spreading too thin, agile infrastructure, part-time teams and diversity in tech “In product development, our greatest waste is not unproductive engineers, but work products sitting idle in process queues.” Donald G. Reinertsen, The Principles of Product Development Flow: Second Generation Lean Product Development1 I have to confess to letting...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/03/weeknote-6.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/weeknotes_teaser.jpg"},{
+        "title": "Weeknote 2 - 6 March 2020",
+        "excerpt":"On Cornwall Geeks, agile forecasting and risk management, scrum-of-scrums, product roadmaps and a first weeknote mention for COVID-19! My week notes came out before my trip to Cornwall Geeks1 last week. There was a bigger crowd this time so I didn’t manage to talk to everyone but there was an...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/03/weeknote-7.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/weeknotes_teaser.jpg"}]

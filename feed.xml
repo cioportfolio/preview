@@ -1,4 +1,88 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-03-28T09:39:53+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 24-27 February 2020</title><link href="https://cioportfolio.github.io/preview/2020/03/weeknote-6.html" rel="alternate" type="text/html" title="Weeknote 24-27 February 2020" /><published>2020-03-04T00:00:00+00:00</published><updated>2020-03-28T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/03/weeknote-6</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/03/weeknote-6.html">&lt;p&gt;On spreading too thin, agile infrastructure, part-time teams and diversity in tech
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-04-06T20:46:37+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 2 - 6 March 2020</title><link href="https://cioportfolio.github.io/preview/2020/03/weeknote-7.html" rel="alternate" type="text/html" title="Weeknote 2 - 6 March 2020" /><published>2020-03-06T00:00:00+00:00</published><updated>2020-04-06T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/03/weeknote-7</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/03/weeknote-7.html">&lt;p&gt;On Cornwall Geeks, agile forecasting and risk management, scrum-of-scrums, product roadmaps and a first weeknote mention for COVID-19!
+&lt;!--more--&gt;
+My week notes came out before my trip to Cornwall Geeks&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; last week. There was a bigger crowd this time so I didn’t manage to talk to everyone but there was an IT teacher, a doctor working on an idea linking computers and poetry, some of the Game Academy team from Falmouth University and one of the organisers of Future Sync. It was interesting to find out a bit about how new computer games are developed and funded and how similar it now is to the film industry.&lt;/p&gt;
+
+&lt;p&gt;Enough about last week. This week our fast change team started Sprint 9. We have been frustrated by some blockers recently including the need to get approvals from outside the team but there was also some better news. Some of our capacity had been drained by more critical projects recently but that seems to have cleared so we should be able to up the pace this sprint. We also sorted out the network links between some of our on-premises systems and an external cloud system. This will support some mobile working tools which have completed initial field trials ready for a launch with the first wave of users in April.&lt;/p&gt;
+
+&lt;p&gt;The Council has approved the overall 2020/21 budget&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; and budgets have been interesting at a smaller scale too. Some of the teams that use Council IT services are quite small and can only afford to make small investments in their systems each year. Working in an agile way means we can deliver useful things in small chunks and avoid asking these teams to make big upfront commitments which could impact the rest of their work. We are going to try to do this with one of the custom development teams that I support.&lt;/p&gt;
+
+&lt;h2 id=&quot;delivery-commitments&quot;&gt;Delivery commitments&lt;/h2&gt;
+&lt;p&gt;I had a short session with a Product Manager and Delivery Manager to tackle one of the parking lot topics from our Scrum Master training. We looked at how agile ways of working could help if customers are asking for big up-front commitments to timescale and cost limits. Some of the things we discussed are just as applicable to agile and traditional ways of working and more to do with human nature. Some examples included:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Humans are naturally too optimistic with estimates&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;It doesn’t help to hide the uncertainty that we cannot avoid at the beginning of something new&lt;/li&gt;
+  &lt;li&gt;Costs and budgets are not really interesting without the benefits profile they support&lt;/li&gt;
+  &lt;li&gt;People behave differently to others depending upon whether they feel they are in the same or different teams.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Some tactics inspired by agile ways of working include:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Be transparent about uncertainty. It can be uncomfortable at first but people quickly get used to working with ranges of delivery dates and costs rather than artificially precise point estimates.&lt;/li&gt;
+  &lt;li&gt;Find ways to demonstrate practical delivery, even if this is just a “hello world”&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; version to show the infrastructure is working&lt;/li&gt;
+  &lt;li&gt;Work with the users to find the subset of features which deliver the majority of the value. In some cases 70% of the value is provided by 30% of the features so progressing and demonstrating these is a good idea even if you can’t put them into service on their own.&lt;/li&gt;
+  &lt;li&gt;Build relationships and team spirit to get people helping each other to improve the vital services that the Council delivers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This also crossed-over with a discussion with one of the Delivery Managers in the Cabinet Office who used to work in the UK Government Digital Service. This was a chance virtual meeting facilitated through the Agile in the Ether&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; community. We talked about the transition from being a traditional project manager to an agile delivery manager&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; and how that fitted with roles such as the scrum master&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; defined in the Scrum Guide. Delivery Management, like Product Management, is a complex role with lots of links and relationships across the organisation. The published role descriptions and guides are a good place to start but Delivery Managers probably can’t avoid negotiating the details of their day-to-day role with the unique network of other people they work with. It is good that there are communities&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt; working together to make sense of all of this.&lt;/p&gt;
+
+&lt;h2 id=&quot;risky-business&quot;&gt;Risky Business&lt;/h2&gt;
+&lt;p&gt;Also this week was a trial of a scrum-of-scrum-masters session following the success of a smaller scale gathering focusing on our Windows 10 programme. The session was dominated by shifting around priorities. We aren’t yet in a panic about COVID-19 (wash your hands!) but, as a vital public service, we need to be more prepared than most. Work on our networking capacity in case lots of people need to work remotely meant some less urgent things would have to wait. These are always difficult decisions but our Business Relationship Team have already ranked our whole portfolio with our directorates so we have a pretty good idea about what trade-offs to make.&lt;/p&gt;
+
+&lt;p&gt;Later, I joined a deep dive into one of our custom development projects which we are struggling to get live. This was dependent upon some network changes but, fortunately, it is high in our portfolio rankings so it should be sorted out in the next sprint.&lt;/p&gt;
+
+&lt;p&gt;Our product management community catch up included some good discussions on what tools to use for product roadmaps. This is not as easy as it sounds as these are not just tools for product managers. Lots of stakeholders want to get to our roadmaps but they have quite different assumptions about what the roadmaps should be able to tell them. We also covered the Council’s risk management approach. It was great to hear that the whole Council will be taking a more agile approach to risk&lt;sup id=&quot;fnref:9&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;. Key elements I noted were:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;focusing to making progress on a few big risks rather than getting lost in a huge list&lt;/li&gt;
+  &lt;li&gt;more emphasis on taking action rather than administering logs and review meetings&lt;/li&gt;
+  &lt;li&gt;allowing teams to weave risk management into how they work day-to-day rather than being an optional extra or an administrative chore.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;a-word-about-a-good-cause-or-two&quot;&gt;A word about a good cause (or two)&lt;/h2&gt;
+&lt;p&gt;Next weekend I will be joining in with the Cornwall Tech Jam&lt;sup id=&quot;fnref:10&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt;. In between helping kids and their parents work through some miniature projects I’ll be working on the LED display&lt;sup id=&quot;fnref:11&quot;&gt;&lt;a href=&quot;#fn:11&quot; class=&quot;footnote&quot;&gt;11&lt;/a&gt;&lt;/sup&gt; I have been building over the last couple of years. One of the organisers has offered to help me with some of the soldering! Next development is to improve the controls and add scoring to a tetris-style game and build a musical beat detector so the display can double as a set of disco lights! Let me know if you are interested in getting involved, either to help out or try your hand at the challenges. Kids are optional!&lt;/p&gt;
+
+&lt;p&gt;Did you know International Women’s day falls on Sunday 8th March&lt;sup id=&quot;fnref:12&quot;&gt;&lt;a href=&quot;#fn:12&quot; class=&quot;footnote&quot;&gt;12&lt;/a&gt;&lt;/sup&gt;?&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://cornwallgeeks.github.io/&quot;&gt;Cornwall Geeks&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.cornwall.gov.uk/council-and-democracy/council-news-room/media-releases/news-from-2020/news-from-february-2020/cabinet-agree-budget-proposals-for-202021/&quot;&gt;Cornwall Council 2020/21 proposals&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.gov.uk/government/publications/green-book-supplementary-guidance-optimism-bias&quot;&gt;Optimism bias guide&lt;/a&gt; from the UK Government. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;Traditionally this is one of the first ways to demonstrate any new computer programing language. More on &lt;a href=&quot;https://en.wikipedia.org/wiki/%22Hello%2c_World%21%22_program&quot;&gt;Wikipedia&lt;/a&gt;. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;More about Agile in the Ether in a &lt;a href=&quot;/preview/2020/02/weeknote-4.html&quot;&gt;previous weeknote&lt;/a&gt;. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;There is an introduction to the role in the &lt;a href=&quot;https://www.gov.uk/service-manual/the-team/what-each-role-does-in-service-team#delivery-manager&quot;&gt;UK Government Service Manual&lt;/a&gt;. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot;&gt;
+      &lt;p&gt;Definition of the Scrum Master role in the &lt;a href=&quot;https://www.scrumguides.org/scrum-guide.html#team-sm&quot;&gt;Scrum Guide&lt;/a&gt;. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:8&quot;&gt;
+      &lt;p&gt;The UK Government &lt;a href=&quot;https://www.gov.uk/service-manual/communities/agile-delivery-community&quot;&gt;Agile Delivery Community&lt;/a&gt;. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:9&quot;&gt;
+      &lt;p&gt;I was probably a bit too excited about this but then I am a bit of a risk nerd and have &lt;a href=&quot;/preview/2016/03/breaking-free-from-tyranny-of-time.html&quot;&gt;blogged&lt;/a&gt; about this sort of thing. &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:10&quot;&gt;
+      &lt;p&gt;There is more about this regular event in a &lt;a href=&quot;/preview/2020/02/weeknote-4.html#a-word-about-a-good-cause&quot;&gt;previous weeknote&lt;/a&gt;. &lt;a href=&quot;#fnref:10&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:11&quot;&gt;
+      &lt;p&gt;This started with a power supply, &lt;a href=&quot;https://randomnerdtutorials.com/guide-for-ws2812b-addressable-rgb-led-strip-with-arduino/&quot;&gt;addressable LEDs, a tiny computer&lt;/a&gt;, and some appalling soldering. &lt;a href=&quot;#fnref:11&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:12&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.internationalwomensday.com/&quot;&gt;International Women’s Day&lt;/a&gt; &lt;a href=&quot;#fnref:12&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On Cornwall Geeks, agile forecasting and risk management, scrum-of-scrums, product roadmaps and a first weeknote mention for COVID-19!</summary></entry><entry><title type="html">Weeknote 24-27 February 2020</title><link href="https://cioportfolio.github.io/preview/2020/03/weeknote-6.html" rel="alternate" type="text/html" title="Weeknote 24-27 February 2020" /><published>2020-03-04T00:00:00+00:00</published><updated>2020-03-28T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/03/weeknote-6</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/03/weeknote-6.html">&lt;p&gt;On spreading too thin, agile infrastructure, part-time teams and diversity in tech
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -543,54 +627,4 @@ Team Bumblebee&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; cla
       &lt;p&gt;Team Bumblee is a part-time Scrum team overseeing the agile transformation in the Cornwall Council IS department and we have written our stories on our physical scum board on a wall in New County Hall. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Agile" /><summary type="html">Think about the last time you bought something at a shop or online: Did you care what brand of vehicle delivered the goods? Probably not! In the Cornwall Council IS team, our products exist to help people get things done and they, in turn, are helping other people get on with their lives. Often, as long as these people can do what they need, the details of how our products work do not matter very much to them. User stories are a way of capturing the needs of our users and leaving out the rest of the details. They are very efficient, easy-to-use and have become the typical way for agile teams to define their products in the product backlog.</summary></entry><entry><title type="html">An introduction to backlogs</title><link href="https://cioportfolio.github.io/preview/2019/11/an-introduction-to-backlogs.html" rel="alternate" type="text/html" title="An introduction to backlogs" /><published>2019-11-27T00:00:00+00:00</published><updated>2020-03-13T19:20:15+00:00</updated><id>https://cioportfolio.github.io/preview/2019/11/an-introduction-to-backlogs</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2019/11/an-introduction-to-backlogs.html">&lt;p&gt;In this post, we’re taking a closer look at another agile term: &lt;em&gt;Backlog&lt;/em&gt;. The dictionary definition is:&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;an accumulation of tasks unperformed or materials not processed&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;In agile working, backlogs are a list of things that a team still has to do. If you are struggling to get started, brainstorming a list of what a team needs to do is a good first step.
-&lt;!--more--&gt;&lt;/p&gt;
-&lt;blockquote class=&quot;notice--info&quot;&gt;
-  &lt;h4 id=&quot;about-agile-in-cornwall-council&quot;&gt;About agile in Cornwall Council&lt;/h4&gt;
-  &lt;p&gt;We are starting to adopt more agile ways of working. My role involves helping people develop their skills and apply agile techniques to improve the services we provide to the public. This series of posts is adapted from the articles I write for our internal teams. They cover some common agile terms and what it all really means.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;getting-your-work-organised&quot;&gt;Getting your work organised&lt;/h2&gt;
-
-&lt;p&gt;For most teams, organising your backlog&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; can help. Start by sorting your list into a &lt;strong&gt;product backlog&lt;/strong&gt; and a &lt;strong&gt;work backlog&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;h3 id=&quot;what-is-a-product-backlog--&quot;&gt;What is a Product Backlog?  &lt;img src=&quot;/preview/assets/images/cornwallboard3_reduced.PNG&quot; alt=&quot;Example scrappy board&quot; class=&quot;align-right&quot; style=&quot;max-height: 350px&quot; /&gt;&lt;/h3&gt;
-    &lt;p&gt;The product backlog is made up of the things that describe what the product or
-service you are building needs to do for your users. Your first product backlog might be quite scrappy (see the Bumblebee board&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; for an example of how scrappy this can be!) but the team can refine the backlog gradually through each sprint.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h3 id=&quot;what-is-a-work-backlog&quot;&gt;What is a Work Backlog?&lt;/h3&gt;
-    &lt;p&gt;The work backlog is made up of all of the key tasks and activities that the team
-needs to do. Many of these will link to something directly on the product backlog e.g. amending code to implement a new feature. There will usually be some housekeeping tasks such as setting up the team workspace and improvement activities coming out from regular team reviews. In the first sprint, quite a lot of the work could be this sort of housekeeping, but it is a good idea to have a mix of work in each sprint.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/preview/assets/images/cornwallboardx_reduced.PNG&quot; alt=&quot;Example azure board&quot; class=&quot;align-left&quot; style=&quot;max-width:400px&quot; /&gt;You can keep track of your backlogs in a variety of ways. Some use sticky notes and white boards and there are others who use software tools. Many of the IS teams at Cornwall use Azure Boards&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. Some teams keep their product and work backlogs separate, while others use a single list with labels.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/preview/assets/images/cornwallboard4_reduced.PNG&quot; alt=&quot;Example MI board&quot; class=&quot;align-right&quot; style=&quot;max-width:400px&quot; /&gt;Backlogs can be a great source of management information. Some of our teams are already generating this in real-time as their work progresses.&lt;/p&gt;
-
-&lt;p&gt;Most teams can get what they need from product and work backlogs, but you
-may come across teams using other backlogs covering things such as service
-requests, architecture, enablers and risks.&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h4&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.agilealliance.org/glossary/backlog/&quot;&gt;Agile backlog definition&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Team Bumblee is a part-time Scrum team overseeing the agile transformation in the Cornwall Council IS department and our Scum board is on the wall in New County Hall. In theory, the team should be showing the way in applying agile ideas but several of our product and service teams have passed us. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://docs.microsoft.com/en-us/azure/devops/boards/get-started/what-is-azure-boards&quot;&gt;Azure Boards&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Agile" /><summary type="html">In this post, we’re taking a closer look at another agile term: Backlog. The dictionary definition is: an accumulation of tasks unperformed or materials not processed In agile working, backlogs are a list of things that a team still has to do. If you are struggling to get started, brainstorming a list of what a team needs to do is a good first step.</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Agile" /><summary type="html">Think about the last time you bought something at a shop or online: Did you care what brand of vehicle delivered the goods? Probably not! In the Cornwall Council IS team, our products exist to help people get things done and they, in turn, are helping other people get on with their lives. Often, as long as these people can do what they need, the details of how our products work do not matter very much to them. User stories are a way of capturing the needs of our users and leaving out the rest of the details. They are very efficient, easy-to-use and have become the typical way for agile teams to define their products in the product backlog.</summary></entry></feed>
