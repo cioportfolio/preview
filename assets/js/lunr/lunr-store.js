@@ -308,4 +308,14 @@ var store = [{
         "excerpt":"On business cases, fine tuning teams, jazz fusion, the RSA and COVID-19’s impact on the climate At the start of the week I took the opportunity to contribute to a Government Digital Service experiment on business cases1. I’ve done something similar in public sector organisations before but not so openly....","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/03/weeknote-8.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/weeknotes_teaser.jpg"},{
+        "title": "Weeknote 16 - 20 March 2020",
+        "excerpt":"On a face-to-face tech event (remember those?), closing projects in an agile way and fixing ink jet printers…or not! Like you, I am still reeling from the pace of events at the moment. This is only a personal weeknote so please don’t expect a thoroughly argued essay on current affairs....","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/03/weeknote-9.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/weeknotes_teaser.jpg"},{
+        "title": "Weeknote 23 - 27 March 2020",
+        "excerpt":"On business-as-usual when everything is different, enormous satisfaction from tiny successes and helping each other through all this. Being in the “backroom” of our corona virus response means I am pretty sheltered from some of the hardest work and toughest decisions. I only get to see a tiny part of...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/03/weeknote-10.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/weeknotes_teaser.jpg"}]
