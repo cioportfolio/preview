@@ -318,4 +318,19 @@ var store = [{
         "excerpt":"On business-as-usual when everything is different, enormous satisfaction from tiny successes and helping each other through all this. Being in the “backroom” of our corona virus response means I am pretty sheltered from some of the hardest work and toughest decisions. I only get to see a tiny part of...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/03/weeknote-10.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/weeknotes_teaser.jpg"},{
+        "title": "Weeknote 30 March - 9 April 2020",
+        "excerpt":"On making trade-offs, when information systems do not mean IT, when numbers are not facts and when probability is meaningless. This time I have traded weeknotes for a fortnightnote1. The rest of this period has also involved a lot of trades. Here are a variety of examples I have bumped...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/04/weeknote-11.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/weeknotes_teaser.jpg"},{
+        "title": "Weeknote 14 - 17 April 2020",
+        "excerpt":"On the endless stream of video calls. Like many office workers my day revolves around a series of conference calls1. I’m writing part of my weeknote over my morning coffee before the first of 5 hours of calls planned today. This isn’t a normal day in terms of the number...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/04/weeknote-12.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/weeknotes_teaser.jpg"},{
+        "title": "Weeknote 20 - 24 April 2020",
+        "excerpt":"On “zoombombing” and getting “forward” to normal Do not post links or codes for online meetings (e.g. Zoom) in public! Please take care when sharing links to online calls. Tools like Zoom have become a popular way to stay in touch but please don’t post links or meeting codes in...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/04/weeknote-13.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/weeknotes_teaser.jpg"}]
