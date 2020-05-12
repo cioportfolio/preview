@@ -330,7 +330,17 @@ var store = [{
         "url": "https://cioportfolio.github.io/preview/2020/04/weeknote-12.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/weeknotes_teaser.jpg"},{
         "title": "Weeknote 20 - 24 April 2020",
-        "excerpt":"On “zoombombing” and getting “forward” to normal Do not post links or codes for online meetings (e.g. Zoom) in public! Please take care when sharing links to online calls. Tools like Zoom have become a popular way to stay in touch but please don’t post links or meeting codes in...","categories": [],
+        "excerpt":"On “zoombombing” and getting “forward” to normal. Do not post links or codes for online meetings (e.g. Zoom) in public! Please take care when sharing links to online calls. Tools like Zoom have become a popular way to stay in touch but please don’t post links or meeting codes in...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/04/weeknote-13.html",
-        "teaser":"https://cioportfolio.github.io/preview/assets/images/weeknotes_teaser.jpg"}]
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/weeknotes_teaser.jpg"},{
+        "title": "Weeknote 27 April - 1 May 2020",
+        "excerpt":"On home offices, generic capabilities and insensitive language I’ve been working from home full-time for about 7 weeks. I am lucky as we’ve got a decent desk at home and the Council was already well set up to support working from home. This week I added an aerobic stepper and...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/05/weeknote-14.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Weeknote 4 - 7 May 2020",
+        "excerpt":"On not wasting a crisis, morning routines, kids coding and the National Grid This week started with the first retrospective for a team which came together on the 7th April. This multi-skilled team was formed in a hurry with people from across the council to improve how our COVID-19 response...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/05/weeknote-15.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"}]

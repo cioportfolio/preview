@@ -1,4 +1,115 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-04-28T17:21:04+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 20 - 24 April 2020</title><link href="https://cioportfolio.github.io/preview/2020/04/weeknote-13.html" rel="alternate" type="text/html" title="Weeknote 20 - 24 April 2020" /><published>2020-04-24T00:00:00+00:00</published><updated>2020-04-28T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/04/weeknote-13</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/04/weeknote-13.html">&lt;p&gt;On “zoombombing” and getting “forward” to normal&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-05-12T16:44:12+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 4 - 7 May 2020</title><link href="https://cioportfolio.github.io/preview/2020/05/weeknote-15.html" rel="alternate" type="text/html" title="Weeknote 4 - 7 May 2020" /><published>2020-05-07T00:00:00+00:00</published><updated>2020-05-12T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/05/weeknote-15</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/05/weeknote-15.html">&lt;p&gt;On not wasting a crisis, morning routines, kids coding and the National Grid&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;This week started with the first retrospective for a team which came together on the 7th April. This multi-skilled team was formed in a hurry with people from across the council to improve how our COVID-19 response teams (known as Cells) were working. The Cells had come into existence just weeks before but were beginning to struggle to stay on top of things with the usual hand-made spreadsheets. The improvement team have iterated some better tools and processes over the last few weeks.&lt;/p&gt;
+
+&lt;p&gt;The team have been fantastic given everything we were throwing at them. They:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;put time and energy into joining 15 other people for 15 minutes each morning to coordinate our efforts&lt;/li&gt;
+  &lt;li&gt;openly shared what they were finding difficult&lt;/li&gt;
+  &lt;li&gt;learnt how to self-serve using our new collaboration tools&lt;/li&gt;
+  &lt;li&gt;worked directly with developers to add on essential reports, automation and controls.&lt;/li&gt;
+  &lt;li&gt;switched over to new processes on the fly.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The whole thing has been done using remote, agile ways of working - including the retrospective. We did identify things we could improve or do differently next time but, overall, it has been a really positive and productive experience. The last few components will be rolled-out in the next couple of weeks so the team has decided drop into a lower gear. We will continue with less frequent calls and a smaller core group of people to finish of the roll-out and look at opportunities to make the same improvements in less critical areas.&lt;/p&gt;
+
+&lt;p&gt;The improvement team catch up had become part of my morning routine which also includes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;start of the day chat with my part of the IS department where we can talk about things outside of work and check everyone is still ok&lt;/li&gt;
+  &lt;li&gt;daily catch-up with one of our infrastructure product teams where I put on my agile coach hat&lt;/li&gt;
+  &lt;li&gt;people and redeployment call where representatives from the whole of IS jump on any new requirements or sort out any cross-team issues&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Some days these take up most of the morning but we are getting better at covering things the whole team needs to do in the first few minutes of each session and drop down to smaller, focused groups needed for the topics that day.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-word-about-some-good-causes&quot;&gt;A word about some good causes&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/preview/assets/images/anim.gif&quot; alt=&quot;Micro:bit spirit level&quot; class=&quot;align-right&quot; style=&quot;max-height: 350px&quot; /&gt;Before the lock down I had started to get involved with the TechJams&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; organised through Software Cornwall. When we knew the face-to-face events were going to have to pause I borrowed some of the TechJam equipment so that I could practice and be more help when we start again - which might have to be virtually.&lt;/p&gt;
+
+&lt;p&gt;Last weekend I was working through some of the exercises for the Raspberry Pi&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; and BBC Micro:bit&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. My first coding experiences were on a Commodore Pet my uncle had for work closely followed by my older brother’s Sinclair ZX81&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;. The options for kids these days are loads better and much easier to use. However, you still need access to a few quid&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;, an internet connection and an encouraging helper. What do we do for the households that don’t have any of these?&lt;/p&gt;
+
+&lt;p&gt;On a completely different subject, we haven’t used any coal-fired electricity generation since 10th April&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. Demand for electricity has shifted but the total is down significantly. This isn’t all good news. Too much generation causes as many issues as too little generation but some power stations can’t be turned on and off quickly. Demand may fall below “base load” during the summer which is causing some head scratching at the National Grid&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.cornwalltechjam.uk/&quot;&gt;Cornwall Tech Jam site&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.raspberrypi.org/&quot;&gt;Raspberry Pi site&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.microbit.org/&quot;&gt;BBC Micro:bit site&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;Not sure you will find any of these today but &lt;a href=&quot;https://en.wikipedia.org/wiki/ZX81&quot;&gt;here is a description&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;You can get hold of a Micro:bit for less than £20 (a few days food for some) but you need at least a smart phone to program it. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;Some near real-time data on the &lt;a href=&quot;https://gridwatch.co.uk/&quot;&gt;UK grid&lt;/a&gt;. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot;&gt;
+      &lt;p&gt;One of the &lt;a href=&quot;https://www.theguardian.com/business/2020/apr/16/low-demand-for-power-causes-problems-for-national-grid&quot;&gt;recent articles&lt;/a&gt; about this problem. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On not wasting a crisis, morning routines, kids coding and the National Grid</summary></entry><entry><title type="html">Weeknote 27 April - 1 May 2020</title><link href="https://cioportfolio.github.io/preview/2020/05/weeknote-14.html" rel="alternate" type="text/html" title="Weeknote 27 April - 1 May 2020" /><published>2020-05-02T00:00:00+00:00</published><updated>2020-05-02T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/05/weeknote-14</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/05/weeknote-14.html">&lt;p&gt;On home offices, generic capabilities and insensitive language&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;I’ve been working from home full-time for about 7 weeks. I am lucky as we’ve got a decent desk at home and the Council was already well set up to support working from home. This week I added an aerobic stepper and a cardboard vegetable box to raise my laptop and PC screen as I’ve noticed I’ve been stooping, especially towards the end of a day full of video calls.&lt;/p&gt;
+
+&lt;p&gt;We’ve sorted out the basics to allow over 4000 office workers to keep working at home. Getting a device to someone who needs it is quick, easy and requires minimal bureaucracy. We may have to do more if the lock down continues or we decide to make working from home the default. There are going to be lots of difficult questions about furniture and home utilities. What do we do for people who don’t have a corner of a kitchen table to work on, let alone a spare room?&lt;/p&gt;
+
+&lt;h2 id=&quot;generic-capabilities-vs-specific-use-cases&quot;&gt;Generic capabilities vs specific use cases&lt;/h2&gt;
+
+&lt;p&gt;Some of our attention has been shifting from the tactical response to the COVID-19 crisis back to the strategic changes on our roadmaps. Some old debates have resurfaced including where we should be putting our limited money and effort. For example, should we be building generic capabilities that can then be used in many places or should we work on the most urgent use cases? I don’t think there is much of a choice to make.&lt;/p&gt;
+
+&lt;p&gt;I am a fan of generic, re-usable capabilities. You might not be proud to admit it but spreadsheets are easy to use for all sorts of things and are often the first step in automating or digitising something. We are getting better at quickly moving to shared work spaces and better list making tools&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; and they have been really useful for teams leading our COVID-19 response. Unfortunately, it is nearly impossible to design these sorts of building blocks up front. With hindsight, the capabilities we are using now seem obvious but they emerged over time as the result of providing things needed for specific, pressing use cases. They are the survivors from a chaotic, iterative, evolutionary process and there are many other carefully designed and planned tools which have failed along the way.&lt;/p&gt;
+
+&lt;p&gt;We should leave the job of creating generic capabilities to others who can afford to put in (and lose) all the effort and money needed. We should focus on combining and adapting these to provide tools for specific use cases. Sometimes we may find we can re-use what we have built and we might get better at spotting these opportunities in advance but the main driver of our work should be what our service teams and their service users need right now.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
+
+&lt;p&gt;The National Cyber Security Centre attracted attention for replacing ‘whitelist’ and ‘blacklist’ with ‘allow list’ and ‘deny list’&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. I particularly liked the quote in the press release.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;“If you’re thinking about getting in touch saying this is political correctness gone mad, don’t bother.”&lt;/strong&gt;&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Ian Levy, NCSC Technical Director&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is a small step for the NCSC to make and, obviously, doesn’t mean there are no more significant issues to tackle but I hope it sets a good example for people who haven’t had to face racism (or other sorts of prejudice):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;learn about the effect that phrases and behaviour can have on others&lt;/li&gt;
+  &lt;li&gt;accept how this makes other people feel, especially if you are lucky enough not to have to experience it yourself&lt;/li&gt;
+  &lt;li&gt;encourage feedback, own up when you get it wrong and fix it&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;amplify the voices and efforts of those affected and their allies.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;We are using Microsoft Teams and SharePoint lists &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.ncsc.gov.uk/blog-post/terminology-its-not-black-and-white&quot;&gt;NCSC press release&lt;/a&gt; on their change to terminology &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;Every time I write a list like I remember an occasion when I didn’t live up to it or realise I’ve recently got it wrong again. If you are also finding this difficult I recommend following &lt;a href=&quot;https://twitter.com/betterallies&quot;&gt;Better Allies&lt;/a&gt; for regular reminders and practical suggestions. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On home offices, generic capabilities and insensitive language</summary></entry><entry><title type="html">Weeknote 20 - 24 April 2020</title><link href="https://cioportfolio.github.io/preview/2020/04/weeknote-13.html" rel="alternate" type="text/html" title="Weeknote 20 - 24 April 2020" /><published>2020-04-24T00:00:00+00:00</published><updated>2020-04-28T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/04/weeknote-13</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/04/weeknote-13.html">&lt;p&gt;On “zoombombing” and getting “forward” to normal.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Do not&lt;/strong&gt; post links or codes for online meetings (e.g. Zoom) in public!&lt;/p&gt;
 
@@ -36,7 +147,7 @@
       &lt;p&gt;This is pretty shocking stuff but &lt;a href=&quot;https://twitter.com/OnyekaOnline&quot;&gt;Onyeka Onyekwelu&lt;/a&gt; was a victim of one of these attacks and has bravely &lt;a href=&quot;https://www.linkedin.com/pulse/why-im-longer-accepting-invitations-zoom-meetings-onyeka-onyekwelu&quot;&gt;shared her story&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On “zoombombing” and getting “forward” to normal Do not post links or codes for online meetings (e.g. Zoom) in public!</summary></entry><entry><title type="html">Weeknote 14 - 17 April 2020</title><link href="https://cioportfolio.github.io/preview/2020/04/weeknote-12.html" rel="alternate" type="text/html" title="Weeknote 14 - 17 April 2020" /><published>2020-04-17T00:00:00+00:00</published><updated>2020-04-28T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/04/weeknote-12</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/04/weeknote-12.html">&lt;p&gt;On the endless stream of video calls.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On “zoombombing” and getting “forward” to normal. Do not post links or codes for online meetings (e.g. Zoom) in public!</summary></entry><entry><title type="html">Weeknote 14 - 17 April 2020</title><link href="https://cioportfolio.github.io/preview/2020/04/weeknote-12.html" rel="alternate" type="text/html" title="Weeknote 14 - 17 April 2020" /><published>2020-04-17T00:00:00+00:00</published><updated>2020-04-28T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/04/weeknote-12</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/04/weeknote-12.html">&lt;p&gt;On the endless stream of video calls.&lt;/p&gt;
 
 &lt;!--more--&gt;
 &lt;p&gt;Like many office workers my day revolves around a series of conference calls&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. I’m writing part of my weeknote over my morning coffee before the first of 5 hours of calls planned today. This isn’t a normal day in terms of the number of calls but the range is a good summary of my week overall. Here’s how things looked when I got to my final coffee.&lt;/p&gt;
@@ -60,7 +171,7 @@
 
 &lt;p&gt;If your family know you work in the IT industry you may well be the unofficial support engineer for everything from connecting up a WiFi printer for a grand parent to setting up a Minecraft server for a grandchild. We obviously can’t pop round to sort things out during the lock down so I have been using remote control tools&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; to help members of my family from a distance. Remote controlling someone’s home PC is fraught with issues and shouldn’t be done without appropriate care but it might be better than leaving problems unresolved.&lt;/p&gt;
 
-&lt;h3 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h3&gt;
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
 
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
@@ -131,6 +242,7 @@
 &lt;p&gt;There are a huge number of volunteer groups springing up to help people during the crisis. The engineer in me feels like these should be joined up into a coordinated system but, right now, hyper-local groups are probably beating the regional or national ones in terms of flexibility and pace. The COVID-19 Mutual Aid site&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; has a pretty comprehensive list of groups and has post-code and map-based search facilities to help you find what is around you.&lt;/p&gt;
 
 &lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
@@ -433,118 +545,4 @@
       &lt;p&gt;More about privilege and allies in an &lt;a href=&quot;/preview/2020/02/weeknote-3.html#a-word-about-a-good-cause&quot;&gt;earlier week note&lt;/a&gt;. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:8:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On spreading too thin, agile infrastructure, part-time teams and diversity in tech</summary></entry><entry><title type="html">Weeknote 17-21 February 2020</title><link href="https://cioportfolio.github.io/preview/2020/02/weeknote-5.html" rel="alternate" type="text/html" title="Weeknote 17-21 February 2020" /><published>2020-02-21T00:00:00+00:00</published><updated>2020-03-28T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/02/weeknote-5</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/02/weeknote-5.html">&lt;p&gt;On financial approvals, learning together and package-free shopping
-&lt;!--more--&gt;&lt;/p&gt;
-&lt;blockquote class=&quot;notice--info&quot;&gt;
-  &lt;h4 id=&quot;about-agile-in-cornwall-council&quot;&gt;About agile in Cornwall Council&lt;/h4&gt;
-  &lt;p&gt;We are starting to adopt more agile and open ways of working. We have been experimenting internally with weeknotes and, with a little time lag, we would like to see what publishing these might achieve.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;I certainly noticed the half-term effect on the morning commute and the number of out-of-office replies but, otherwise, things didn’t let up.&lt;/p&gt;
-
-&lt;p&gt;In the fast change team we started Sprint 8. We are still low on effort due to our “storms”&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; but, by coincidence, we are blocked on a few items so have not suffered as much as we might. One of our backlog items needs financial and procurement approval. It would be good to look at how to make this easier in future by being clearer about the roles of the people involved, asking the relevant questions once and recording the relevant answers once.&lt;/p&gt;
-
-&lt;p&gt;We did manage to catch up with another council to swap notes on call centre recording. No major surprises but it does give us confidence that we are going in the right direction. I am using the Local Government Digital community&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; more and more to find people who have done or are doing the same things that we want to do. Nice to talk to knowledgeable people who aren’t, usually, trying to sell something&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;I ran a Learning Lunch with a small group on Planning Poker&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;. I should probably write a Team Bumblebee&lt;sup id=&quot;fnref:11&quot;&gt;&lt;a href=&quot;#fn:11&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; update on this and see if the people at the Lunch would be happy to teach others.&lt;/p&gt;
-
-&lt;p&gt;I facilitated the kick-off for one of our development teams. We are going to redevelop the service that schools use to plan trips and events. This could be a good opportunity to try out a range of new things, e.g. cloud infrastructure, but we are not sure if, collectively, we are ready for it.&lt;/p&gt;
-
-&lt;p&gt;I’ve started to re-post some of our agile ideas on my personal blog&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. I am hoping this is just a stepping stone and eventually we will be publishing more about our work through Council channels. It also got me thinking about the technology I am using for my blog&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;. It is incredibly cheap to run but is not that user friendly.&lt;/p&gt;
-
-&lt;p&gt;Final thing this week was a telephone call to swap notes with one of the agile coaches at the Department for Education. This was a random introduction organised through the Agile in the Ether&lt;sup id=&quot;fnref:9&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt; community and the idea is to keep having short 1 to 1 calls with others every two weeks or so. New “in the Ether” groups are starting up on UK Public Sector product management and cyber security and there may be more depending how well these work.&lt;/p&gt;
-
-&lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
-&lt;p&gt;All of the big retailers claim they are cutting down on waste and packaging. Some smaller organisations are going further and let you collect groceries and other basic goods in your own jars, bottles, bags and containers. My wife has tracked down a few locally and you might be able to find alternatives near you&lt;sup id=&quot;fnref:10&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;A reference to &lt;a href=&quot;/preview/2020/02/weeknote-4.html&quot;&gt;last week’s note&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://localgov.digital/&quot;&gt;LocalGov Digital&lt;/a&gt;. Not to be confused with &lt;a href=&quot;https://localdigital.gov.uk/&quot;&gt;Local Digital&lt;/a&gt;! &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;The are some private sector members but there is a screening process so that they are people who are there to help the community and not just to make their sales quota. I used to be one of the private sector volunteers. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;Agile alliance introduction to &lt;a href=&quot;https://www.agilealliance.org/glossary/poker/&quot;&gt;planning poker&lt;/a&gt; &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:11&quot;&gt;
-      &lt;p&gt;Team Bumblee is a part-time Scrum team overseeing the agile transformation in the Cornwall Council IS department &lt;a href=&quot;#fnref:11&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:6&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;/preview/2019/11/so-what-exactly-is-a-sprint.html&quot;&gt;So what exactly is a sprint&lt;/a&gt; blog post &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:7&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html&quot;&gt;Amazon S3 Websites&lt;/a&gt; and &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll blog framework&lt;/a&gt; &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:9&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://agileintheether.co.uk/&quot;&gt;Agile in the Ether&lt;/a&gt; &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:10&quot;&gt;
-      &lt;p&gt;UPDATE: These are generally small businesses which will need support during the crisis and some are better stocked than the big brand supermarkets right now. &lt;a href=&quot;#fnref:10&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On financial approvals, learning together and package-free shopping</summary></entry><entry><title type="html">Weeknote 10-14 February 2020</title><link href="https://cioportfolio.github.io/preview/2020/02/weeknote-4.html" rel="alternate" type="text/html" title="Weeknote 10-14 February 2020" /><published>2020-02-14T00:00:00+00:00</published><updated>2020-03-27T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/02/weeknote-4</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/02/weeknote-4.html">&lt;p&gt;On being caught between storms.
-&lt;!--more--&gt;&lt;/p&gt;
-&lt;blockquote class=&quot;notice--info&quot;&gt;
-  &lt;h4 id=&quot;about-agile-in-cornwall-council&quot;&gt;About agile in Cornwall Council&lt;/h4&gt;
-  &lt;p&gt;We are starting to adopt more agile and open ways of working. We have been experimenting internally with weeknotes and, with a little time lag, we would like to see what publishing these might achieve.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;It is great living near the coast and have a constantly changing view but there are down sides. Storm Ciara has produced some spectacular waves but I am still not used to the way our little bungalow creaks, groans, clatters and shakes in a storm. Not the best few nights sleep I have had but maybe I will be more used to it by the time Dennis arrives this weekend. It will take even longer to block all the drafty holes that Ciara managed to find. One minor success is the compost bin is still in place in the garden now that we have attached concrete blocks!&lt;/p&gt;
-
-&lt;p&gt;Similar weather in our portfolio this week too. Many in our team are being kept awake by our Oracle and Windows 10 “storms”. They will blow over eventually but they are more enduring than Ciara and Dennis and lower priority work may have to wait while we sort things out. Many in team Falcon are caught up in this so we took the drop in capacity into account when we did our advanced planning for Sprint 8.&lt;/p&gt;
-
-&lt;p&gt;These “storms” are inevitable given the creative, high-risk sort of work we do but the good side is the change, variety and the nice surprises. Here are some examples from this week:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Another council is in the process of refreshing their intranet and are happy to share prototypes and the user research they have done. I’ve set up a call for them to chat with our HR team who are planning to do something similar.&lt;/li&gt;
-  &lt;li&gt;Our fast change work for Cornwall Housing is going into test so we have updated our Services team and are creating the Service Delivery Plan together using the Wiki feature in AzureDevOps.&lt;/li&gt;
-  &lt;li&gt;Our customer services team are going to draft the business justification and business benefits for upgrading our call centre call recording.&lt;/li&gt;
-  &lt;li&gt;I’ve started working with the Custom Apps team to kick-off some agile development work for Cornwall Outdoors.&lt;/li&gt;
-  &lt;li&gt;I’ve started to learn more about the work in the Database Product Team and Operations Centre so we can see where agile ideas might help and put some of them to the test.&lt;/li&gt;
-  &lt;li&gt;Over lunch on Friday, I attended another Agile in the Ether&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; call to share ideas about applying agile in all sort of organisations and situations. Topics included: making progress visible when a project is about culture and behaviour change; estimating and long-term forecasts; how to work with small teams where everyone is part time. The event itself is an experiment in building a team or community which cannot spend much time together and are never in the same location. We might be able to adopt some of how this works for some of our teams or communities of practice&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
-&lt;p&gt;Due to a family commitment I had to miss Cornwall Tech Jam&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; last weekend. From social media&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; it looked like it was another busy session with parents and kids working through a series of computing challenges from simple visual programming&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; through to building and controlling electronic devices&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. The event has a great atmosphere so I will make sure I get along to the next event in March&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; and also the Open Tech Challenge&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;. I realise I was spoilt by the range of meet ups and tech for good events when I worked in London so it is good to find a group of committed people here in Cornwall&lt;sup id=&quot;fnref:9&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;. I’m now on the look out for a local hackathon in support of a good cause, rather like the regular NHS Hack Days&lt;sup id=&quot;fnref:10&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt; or a less regular event like HomelessHack&lt;sup id=&quot;fnref:11&quot;&gt;&lt;a href=&quot;#fn:11&quot; class=&quot;footnote&quot;&gt;11&lt;/a&gt;&lt;/sup&gt;. If there isn’t one do you want to help me set one up?&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://agileintheether.co.uk/&quot;&gt;Agile in the Ether&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;We have several communities of practice including product management and agile delivery manager which are relatively new roles in our organisation. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.cornwalltechjam.uk/&quot;&gt;Cornwall Tech Jam&lt;/a&gt;. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://twitter.com/astrotutor9/status/1226250712977494018&quot;&gt;Tweet about the weekend Tech Jam&lt;/a&gt;. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;At the Tech Jam we get kids (and adults!) working with &lt;a href=&quot;https://scratch.mit.edu/&quot;&gt;Scratch&lt;/a&gt; as an introduction to programming. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:6&quot;&gt;
-      &lt;p&gt;More experienced people can build and control a &lt;a href=&quot;https://www.softwarecornwall.org/mission-to-mars-bytesize-announced/&quot;&gt;Mars Rover&lt;/a&gt;! &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:7&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.cornwalltechjam.uk/&quot;&gt;Details for the Tech Jam in March&lt;/a&gt;. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:8&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.softwarecornwall.org/open-tech-challenge-spring-2020/&quot;&gt;Open Tech Challenge details&lt;/a&gt;. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:9&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.softwarecornwall.org/&quot;&gt;Software Cornwall&lt;/a&gt;. &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:10&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://nhshackday.com/&quot;&gt;NHS Hack Day&lt;/a&gt;. &lt;a href=&quot;#fnref:10&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:11&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://homelesshack.github.io/&quot;&gt;Homelesshack&lt;/a&gt;. &lt;a href=&quot;#fnref:11&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On being caught between storms.</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On spreading too thin, agile infrastructure, part-time teams and diversity in tech</summary></entry></feed>
