@@ -390,7 +390,7 @@ var store = [{
         "url": "https://cioportfolio.github.io/preview/2020/07/weeknote-24.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
         "title": "Weeknote 20 - 24 July 2020",
-        "excerpt":"On unlocking great ideas, project epilogues, fragmenting systems and wheel chairs by the sea. Unlocking great ideas During the COVID-19 crisis we officially paused our agile transformation and the group which coordinated our efforts, called Team Bumblebee. We’ve relaunched Team Bumblebee recently but it didn’t seem right to just continue...","categories": [],
+        "excerpt":"On unlocking great ideas, project epilogues, fragmenting systems and wheelchairs by the sea. Unlocking great ideas During the COVID-19 crisis we officially paused our agile transformation and the group which coordinated our efforts, called Team Bumblebee. We’ve relaunched Team Bumblebee recently but it didn’t seem right to just continue where...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/07/weeknote-25.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"}]
