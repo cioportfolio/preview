@@ -1,4 +1,61 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-07-27T15:25:26+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 20 - 24 July 2020</title><link href="https://cioportfolio.github.io/preview/2020/07/weeknote-25.html" rel="alternate" type="text/html" title="Weeknote 20 - 24 July 2020" /><published>2020-07-20T00:00:00+00:00</published><updated>2020-07-24T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/07/weeknote-25</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/07/weeknote-25.html">&lt;p&gt;On unlocking great ideas, project epilogues, fragmenting systems and wheelchairs by the sea.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-07-31T15:06:19+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 27 - 31 July 2020</title><link href="https://cioportfolio.github.io/preview/2020/07/weeknote-26.html" rel="alternate" type="text/html" title="Weeknote 27 - 31 July 2020" /><published>2020-07-31T00:00:00+00:00</published><updated>2020-07-31T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/07/weeknote-26</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/07/weeknote-26.html">&lt;p&gt;On more tweaks to our agile ways of working, getting comfortable with a 20% success rate and shared learning.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;more-agile-iterations&quot;&gt;More agile iterations&lt;/h2&gt;
+
+&lt;p&gt;The team working on our new web site completed another sprint&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. I was able to join in their show and tell, sprint retrospective and planning for the next sprint. The team are having to blend their own work with the outputs from other teams so they are adapting agile techniques to work for their circumstances.&lt;/p&gt;
+
+&lt;p&gt;For example, the team are working through a list of web site features which need to be upgraded but, in parallel, they are working with an outside agency to refresh our user research and the overall design. They will also be working with our infrastructure teams on a new technology platform for the site. It will be several sprints before they can finally publish any of the features so the team are working with an unusual definition of “done”&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Initially they are demonstrating basic functions in a raw form, without the branding and styling you would normally see in a website. The demonstrations are in a development environment, without the performance and resilience features of our real web site. In later sprints the new design and technology platform will be available and the definition of “done” will evolve to include these.&lt;/p&gt;
+
+&lt;p&gt;In an ideal world we would have a single team&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; and publish every sprint but demonstrating something every sprint, even with some caveats, is a good compromise.&lt;/p&gt;
+
+&lt;h2 id=&quot;getting-comfortable-with-a-20-success-rate&quot;&gt;Getting comfortable with a 20% success rate&lt;/h2&gt;
+
+&lt;p&gt;Last week I mentioned the re-launch of team Bumblebee&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; and this week we closed the first few cards on our board - in Microsoft Planner now that we can’t routinely meet in front of our physical board in the office. We’ve added another new idea to explore. This is a way to fund new shared IT services inspired by businesses like Groupon and Kickstarter. It helps that someone in the team has already used Kickstarter to turn a hobby into a small business and now advises others on how to do it.&lt;/p&gt;
+
+&lt;p&gt;Perhaps this new funding idea will work but we know a lot of innovation ideas are going to get stuck along the way. Some will turn out to be too difficult or expensive and some will struggle because we can’t find the passion or courage to push on. That sounds like a lot of failures but we only need 1 in 5 to take off. We are going to have to learn a load of new things along the way, even things as basic as how to talk to our teams and customers about such a chaotic and uncertain process.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
+
+&lt;p&gt;I’ve started working with a team from across the public sector to develop digital service training. We are starting with a self-managed learning programme developed at the Home Office and are going to adapt it so other organisations can use it. Eventually this might be taken up by a public sector professional community&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; or be offered through the Government Digital Service Academy&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;I got involved after attending an online presentation by the lead of the Home Office programme. I was really impressed with the innovative way the course was put together including:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;getting attendees into small teams to work through the course together at a pace they decide&lt;/li&gt;
+  &lt;li&gt;guiding people through the huge body of knowledge that has already been published rather than re-inventing the wheel&lt;/li&gt;
+  &lt;li&gt;practically applying digital and agile techniques to how the course is run, for example, using a prioritised backlog&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; of learning and working through it in regular, short cycles over a period of weeks.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Once we have made the Home Office materials more generic I am hoping to pilot the course with a small group at Cornwall Council and I am really interested in seeing if the same approach could work for other areas. Loads of the important skills we need to develop need reflection and practice which will never fit into the usual professional training format - one or two days of lectures with a few narrow exercises.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;More on how we think about &lt;a href=&quot;/preview/2019/11/so-what-exactly-is-a-sprint.html&quot;&gt;sprints&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;A quick internet search will turn up lots of articles about definitions of done. Here is &lt;a href=&quot;https://www.agilealliance.org/glossary/definition-of-done&quot;&gt;an example&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;Many agile approaches, including &lt;a href=&quot;https://www.scrumguides.org/scrum-guide.html#team&quot;&gt;Scrum&lt;/a&gt; encourage self sufficient teams but, like many organisations, we have to make some trade-offs. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;Team Bumblebee was mentioned &lt;a href=&quot;/preview/2020/07/weeknote-25.html#unlocking-great-ideas&quot;&gt;last week&lt;/a&gt;. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;Many of the people involved will be members of the &lt;a href=&quot;https://www.gov.uk/government/organisations/digital-data-and-technology-profession&quot;&gt;Digital, Data and Technology Profession&lt;/a&gt; or have roles closely aligned with the profession. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.gov.uk/government/groups/gds-academy&quot;&gt;The GDS Academy&lt;/a&gt; &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot;&gt;
+      &lt;p&gt;More on how we think about &lt;a href=&quot;/preview/2019/11/an-introduction-to-backlogs.html&quot;&gt;backlogs&lt;/a&gt; &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On more tweaks to our agile ways of working, getting comfortable with a 20% success rate and shared learning.</summary></entry><entry><title type="html">Weeknote 20 - 24 July 2020</title><link href="https://cioportfolio.github.io/preview/2020/07/weeknote-25.html" rel="alternate" type="text/html" title="Weeknote 20 - 24 July 2020" /><published>2020-07-20T00:00:00+00:00</published><updated>2020-07-24T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/07/weeknote-25</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/07/weeknote-25.html">&lt;p&gt;On unlocking great ideas, project epilogues, fragmenting systems and wheelchairs by the sea.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -14,15 +71,15 @@
 
 &lt;h2 id=&quot;project-epilogues&quot;&gt;Project epilogues&lt;/h2&gt;
 
-&lt;p&gt;In previous week notes&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; I’ve mentioned our experiments with light weight project closures. This week four projects were presented for closure through the new process. One was obviously ready to close, one obviously needed to continue for a while but the other two were more complicated. After a little discussion one was closed with some caveats and the other was left open to complete some minor outstanding tasks. You could argue that we are being inconsistent but, while we are still experimenting this is probably ok. Whatever clever process or rules are defined we are bound to find a project which won’t fit. Perhaps it is better to keep things simple and empower the people reviewing the project to decide how best to handle any complications. Taken together the new process is still more efficient and effective than what went before and it is easy to update our guidance if we learn that we need to put in more control.&lt;/p&gt;
+&lt;p&gt;In previous week notes&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; I’ve mentioned our experiments with light weight project closures. This week four projects were presented for closure through the new process. One was obviously ready to close, one obviously needed to continue for a while but the other two were more complicated. After a little discussion one was closed with some caveats and the other was left open to complete some minor outstanding tasks. You could argue that we are being inconsistent, but while we are still experimenting this is probably ok. Whatever clever processes or rules are defined we are bound to find a project which won’t fit. Perhaps it is better to keep things simple and empower the people reviewing the project to decide how best to handle any complications. Taken together the new process is still more efficient and effective than what went before and it is easy to update our guidance if we learn that we need to put in more control.&lt;/p&gt;
 
 &lt;h2 id=&quot;fragmenting-systems&quot;&gt;Fragmenting systems&lt;/h2&gt;
 
-&lt;p&gt;I’ve been thinking about how one of my projects is challenging a number of conventions. One convention is IT consolidation&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Most IT professionals will tell you that you should consolidate your IT systems. This means looking at the IT your organisation uses and if two systems do a similar job then you should make plans to have only one. I understand why this has become established good practice in IT but the rationale behind it is weak and there are plenty of examples where it is the wrong step to take. Our overall plan is to consolidate systems but one of my projects is doing the exact opposite - taking a single, shared system and splitting it into two. Initially the copies will be almost identical but in the future they will probably diverge as the needs of the services they support evolve. In this case the costs and effort in running the system - soon two systems - is a small portion of the overall cost of the services which use it and the benefits of IT consolidation are out weighed by the cost, effort and compromises needed to force two sets of user needs into one.&lt;/p&gt;
+&lt;p&gt;I’ve been thinking about how one of my projects is challenging a number of conventions. One convention is IT consolidation&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Most IT professionals will tell you that you should consolidate your IT systems. This means looking at the IT your organisation uses and if two systems do a similar job then you should make plans to have only one. I understand why this has become established good practice in IT but the rationale behind it is weak and there are plenty of examples where it is the wrong step to take. Our overall plan is to consolidate systems but one of my projects is doing the exact opposite - taking a single, shared system and splitting it into two. Initially the copies will be almost identical but in the future they will probably diverge as the needs of the services they support evolve. In this case the costs and effort in running the system - soon two systems - is a small portion of the overall cost of the services which use it. The benefits of IT consolidation are outweighed by the cost, effort and compromises needed to force two sets of user needs into one.&lt;/p&gt;
 
 &lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
 
-&lt;p&gt;Over the last few weekends I’ve visited a few local beaches with a frail relative and we’ve needed to use a wheelchair. Like a lot of people I take my mobility for granted and I haven’t really considered what impact a few steps or a poorly maintained path can have. Cornwall will always have natural and rugged places that won’t be very accessible but there are lots of small touches which can make a big difference. I’ll be on the lookout for a few more wheelchair accessible beauty spots during the summer.&lt;/p&gt;
+&lt;p&gt;Over the last few weekends I’ve visited a few local beaches with a frail relative and we’ve needed to use a wheelchair. Like a lot of people, I take my mobility for granted and I haven’t really considered what impact a few steps or a poorly maintained path can have. Cornwall will always have natural and rugged places that won’t be very accessible but there are lots of small touches which can make a big difference. I’ll be on the lookout for a few more wheelchair accessible beauty spots during the summer.&lt;/p&gt;
 
 &lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
 &lt;div class=&quot;footnotes&quot;&gt;
@@ -522,62 +579,4 @@ list change quite quickly. It would be very hard to draw up what the portfolio w
       &lt;p&gt;Here are some &lt;a href=&quot;https://www.mind.org.uk/information-support/types-of-mental-health-problems/statistics-and-facts-about-mental-health/how-common-are-mental-health-problems/&quot;&gt;statistics from mind&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On agile roles, documentation, shared infrastructure and mental health.</summary></entry><entry><title type="html">Weeknote 11 - 15 May 2020</title><link href="https://cioportfolio.github.io/preview/2020/05/weeknote-16.html" rel="alternate" type="text/html" title="Weeknote 11 - 15 May 2020" /><published>2020-05-12T00:00:00+00:00</published><updated>2020-05-15T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/05/weeknote-16</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/05/weeknote-16.html">&lt;p&gt;On virtual Mexican waves, crossing invisible silos, the downside of agile backlogs and the benefits of traditional project management.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;In a slight change to my usual routine I am not writing an internal week note this week. I’ll simply add a link to this post. Another tiny step towards working more openly and following in the footsteps of many other public sector workers (respecting social distancing, of course). Another slight change was visible in some of our virtual team meetings. We have the update to Microsoft Teams which means we can see up to nine other faces on video calls. I managed to get a few people to join in a virtual Mexican wave but it didn’t really live up to the stadium experience.&lt;/p&gt;
-
-&lt;p&gt;Here are some of the themes that have got me thinking hard this week.&lt;/p&gt;
-
-&lt;h2 id=&quot;crossing-invisible-silos&quot;&gt;Crossing invisible silos&lt;/h2&gt;
-
-&lt;p&gt;Many of our systems are deeply entwined with our operational services. These range from our main Customer Relationship Management system which is used in our call centres through to specialised systems for critical services such as social care. There really is no space for the technology, people or ways of working to diverge. They can only work together as a unit and need to be managed that way. At the same time we need to grow our skills in technology, operations and change which means getting people together in specialist groups so that they can share, learn and develop together. It is hard to keep both these structures working well at the same time because it is hard for people to professionally and emotionally commit to several groups at the same time. Anyone working in a matrix organisation structure will experience the same challenge. I am working with several teams which are finding this difficult and I am using a combination of tactics to try to help.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Recognise and acknowledge that everyone finds working across organisation boundaries difficult. I’ve got lots of stories from across the public and private sector to help people realise that everyone struggles with this.&lt;/li&gt;
-  &lt;li&gt;Help create an environment where people feel it is ok to confront the internal “politics” which sometimes means taking a risk and speaking up about it.&lt;/li&gt;
-  &lt;li&gt;Getting people with different views to talk through things together rather than let others pass messages or let confusing chains of emails proliferate.&lt;/li&gt;
-  &lt;li&gt;Allow some time to give people a chance to build relationships across teams or even set up activities and event with the explicit goal of helping a group develop as a team.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;the-downsides-of-agile-backlogs&quot;&gt;The downsides of agile backlogs&lt;/h2&gt;
-
-&lt;p&gt;As an organisation we are getting more used to working with backlogs&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; to make it easier to see what our teams are being asked to do and then focus on the most important things. We don’t want to put too many controls around our backlogs as we don’t want to put obstacles in the way of good ideas or critical needs but that means backlogs can grow without limit. Most of the time this is ok but it is giving us some challenges.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;People can think that getting something on a backlog means that our teams are actively working on it. The reality is we will only be working on the top few items at any point in time and many things on the backlog will never progress as new, more valuable items will keep going ahead of them.&lt;/li&gt;
-  &lt;li&gt;Items with relatively small benefits can keep getting pushed down the backlog. Sometimes this is the right thing to do but, if the item is relatively quick and easy to do, it could have a very high return on investment and we are missing out by not getting it done.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We are still working out what to do about this but other organisations have faced the same issues so we should be able to learn from their experience. I would prefer not to put controls around the backlogs and, instead, work harder on explaining what they mean and how our users and customers can work with us to focus on the most valuable items. There are some well established techniques we can use so small, valuable items do not get crowded out but they are not common sense&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; and will also need great, clear communication if we introduce them.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-benefits-of-traditional-project-management&quot;&gt;The benefits of traditional project management&lt;/h2&gt;
-
-&lt;p&gt;Some of my colleagues in the agile community can be very dismissive of traditional project management and the various techniques that go with it. Some of my colleagues in the project management community (yes, you can be both) can be very dismissive of Scrum and other agile techniques. What both communities are really commenting on is how they have seen these approachs applied in their workplaces, which are often not ideal. My view is project management, like agile, is just a tool and is excellent when applied with skill in the right circumstances. If you trace back to the source, they both have a lot in common.&lt;/p&gt;
-
-&lt;p&gt;I tend to use traditional project management language when talking about commercial management, finance and assurance. Agile approaches offer a great way to handle these topics but it often gets ignored or misunderstood. In the same way, traditional project management offers great ways to deal with user needs and responding to change but it is easy to miss them at first glance. Taking this stance is a pragmatic way of getting things done but it can also be misunderstood. Making use of traditional project management techniques does not mean there are no issues with the way we manage projects or that we don’t need to push on with our agile transformation.&lt;/p&gt;
-
-&lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
-
-&lt;p&gt;Among other things I have been thinking about “mental load” or what some people call “emotional labour” this week. I fear most of my male readers will have no idea what this is. In the footnotes&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; is a helpful link suggested by my daughter. The arcticle focuses on families with young children but I have to confess that this can still be an issue for families whose kids are in their 20’s and have already moved out. Yes, this could have been written about me.&lt;/p&gt;
-
-&lt;p&gt;We re-configured our household for the lockdown and so, for a change, I have picked up some of the “mental load” for a few weeks. Even now I have not picked up all of it. I don’t have to worry about feeding the kids but I have no idea how to feed the house plants! Emotional labour is also needed at work and I suspect it is also poorly recognised and unfairly allocated. Come on guys&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;, we need to do better than this.&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;See the &lt;a href=&quot;/preview/2019/11/an-introduction-to-backlogs.html&quot;&gt;previous post&lt;/a&gt; for more about backlogs. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;I think Don Reinertsen’s explanations of &lt;a href=&quot;https://www.youtube.com/watch?v=du2WV1IbULU&quot;&gt;Cost of Delay&lt;/a&gt; are excellent but many people struggle with the conclusions it produces and find it hard to put values on public sector outcomes like safety and well-being. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;An &lt;a href=&quot;https://www.theguardian.com/world/2017/may/26/gender-wars-household-chores-comic&quot;&gt;engaging introduction&lt;/a&gt; to “mental load”. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;For once, a gendered term is probably appropriate here. More about gendered language in a &lt;a href=&quot;/preview/2020/02/weeknote-3.html#a-word-about-a-good-cause&quot;&gt;previous week note&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On virtual Mexican waves, crossing invisible silos, the downside of agile backlogs and the benefits of traditional project management.</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On agile roles, documentation, shared infrastructure and mental health.</summary></entry></feed>
