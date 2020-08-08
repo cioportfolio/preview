@@ -395,7 +395,12 @@ var store = [{
         "url": "https://cioportfolio.github.io/preview/2020/07/weeknote-25.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
         "title": "Weeknote 27 - 31 July 2020",
-        "excerpt":"On more tweaks to our agile ways of working, getting comfortable with a 20% success rate and shared learning. More agile iterations The team working on our new web site completed another sprint1. I was able to join in their show and tell, sprint retrospective and planning for the next...","categories": [],
+        "excerpt":"On more tweaks to our agile ways of working, getting comfortable with a 20% success rate and shared learning. More agile iterations The team working on our new website completed another sprint1. I was able to join in their show and tell, sprint retrospective and planning for the next sprint....","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/07/weeknote-26.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Weeknote 03 - 07 August 2020",
+        "excerpt":"On Bob the Builder, balancing the books and assurance without certainty. Can we fix it? Bob the Builder was a big thing while my kids were growing up. No problem can withstand Bob’s relentless, positive, can-do attitude - even if it is a bit wearing for his colleagues now and...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/08/weeknote-27.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"}]
