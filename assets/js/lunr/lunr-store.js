@@ -308,4 +308,109 @@ var store = [{
         "excerpt":"On business cases, fine tuning teams, jazz fusion, the RSA and COVID-19’s impact on the climate At the start of the week I took the opportunity to contribute to a Government Digital Service experiment on business cases1. I’ve done something similar in public sector organisations before but not so openly....","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/03/weeknote-8.html",
-        "teaser":"https://cioportfolio.github.io/preview/assets/images/weeknotes_teaser.jpg"}]
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/weeknotes_teaser.jpg"},{
+        "title": "Weeknote 16 - 20 March 2020",
+        "excerpt":"On a face-to-face tech event (remember those?), closing projects in an agile way and fixing ink jet printers…or not! Like you, I am still reeling from the pace of events at the moment. This is only a personal weeknote so please don’t expect a thoroughly argued essay on current affairs....","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/03/weeknote-9.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/weeknotes_teaser.jpg"},{
+        "title": "Weeknote 23 - 27 March 2020",
+        "excerpt":"On business-as-usual when everything is different, enormous satisfaction from tiny successes and helping each other through all this. Being in the “backroom” of our corona virus response means I am pretty sheltered from some of the hardest work and toughest decisions. I only get to see a tiny part of...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/03/weeknote-10.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/weeknotes_teaser.jpg"},{
+        "title": "Weeknote 30 March - 9 April 2020",
+        "excerpt":"On making trade-offs, when information systems do not mean IT, when numbers are not facts and when probability is meaningless. This time I have traded weeknotes for a fortnightnote1. The rest of this period has also involved a lot of trades. Here are a variety of examples I have bumped...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/04/weeknote-11.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/weeknotes_teaser.jpg"},{
+        "title": "Weeknote 14 - 17 April 2020",
+        "excerpt":"On the endless stream of video calls. Like many office workers my day revolves around a series of conference calls1. I’m writing part of my weeknote over my morning coffee before the first of 5 hours of calls planned today. This isn’t a normal day in terms of the number...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/04/weeknote-12.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/weeknotes_teaser.jpg"},{
+        "title": "Weeknote 20 - 24 April 2020",
+        "excerpt":"On “zoombombing” and getting “forward” to normal. Do not post links or codes for online meetings (e.g. Zoom) in public! Please take care when sharing links to online calls. Tools like Zoom have become a popular way to stay in touch but please don’t post links or meeting codes in...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/04/weeknote-13.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/weeknotes_teaser.jpg"},{
+        "title": "Weeknote 27 April - 1 May 2020",
+        "excerpt":"On home offices, generic capabilities and insensitive language I’ve been working from home full-time for about 7 weeks. I am lucky as we’ve got a decent desk at home and the Council was already well set up to support working from home. This week I added an aerobic stepper and...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/05/weeknote-14.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Weeknote 4 - 7 May 2020",
+        "excerpt":"On not wasting a crisis, morning routines, kids coding and the National Grid This week started with the first retrospective for a team which came together on the 7th April. This multi-skilled team was formed in a hurry with people from across the council to improve how our COVID-19 response...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/05/weeknote-15.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Weeknote 11 - 15 May 2020",
+        "excerpt":"On virtual Mexican waves, crossing invisible silos, the downside of agile backlogs and the benefits of traditional project management. In a slight change to my usual routine I am not writing an internal week note this week. I’ll simply add a link to this post. Another tiny step towards working...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/05/weeknote-16.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Weeknote 18 - 22 May 2020",
+        "excerpt":"On agile roles, documentation, shared infrastructure and mental health. I am looking forward to the long weekend as I feel like I’ve had a hard week. The pattern of our work is shifting. Crisis response has not gone away but is a shinking share of daily work. We are starting...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/05/weeknote-17.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Weeknote 25 - 29 May 2020",
+        "excerpt":"On learning by doing, situational leadership and mentoring. This week the trend in COVID-19 response work is still down a little. Over the next couple of weeks I imagine the recovery work, which our service and operations teams are already designing, will start filtering through as demand for IS work....","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/05/weeknote-18.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Weeknote 1 - 5 June 2020",
+        "excerpt":"On ending things well, iterating agile, grand plans and the killing of George Floyd. The right time to finish This week we closed down one of the teams that we had formed to help deal with our COVID-19 response. The team formed at the beginning of April to provide tactical...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/06/weeknote-19.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Weeknote 8 - 12 June 2020",
+        "excerpt":"On transforming through a crisis, small continuous improvements and the value of communities. Transforming through a crisis As the lockdown took effect we officially paused the IS agile transformation programme. As many organisations have found the crisis has actually accelerated the pace of change. We’ve been collecting and sharing success...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/06/weeknote-20.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Weeknote 15 - 19 June 2020",
+        "excerpt":"On drinking your own champaign and mentoring. I had fun last week but it was a busy one and now I’m running late with my week note. Maybe a short one is better? You have probably heard sayings like: “Cobblers children have the worst shoes.” I’ve seen examples of this...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/06/weeknote-21.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Weeknote 22 - 26 June 2020",
+        "excerpt":"On pushing boundaries, technical frustrations and race science. Pushing at our boundaries We’ve been gradually getting more disciplined at prioritising our work and trying to get a few things done well rather than having loads of things partially finished. This is probably harder in a Council like Cornwall than most...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/06/weeknote-22.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Weeknote 29 June - 10 July 2020",
+        "excerpt":"On an exciting future for Cornwall, reducing the cost of indecision and talking to white people about race. An exciting future for Cornwall The Council’s strategic directors have been holding a series of briefings to update all staff on where the council is heading and seek feedback. It was great...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/06/weeknote-23.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Weeknote 13 - 17 July 2020",
+        "excerpt":"On the many faces of progress and virtual privilege walks Successes in different guises There are lots of good things to look back on this week although some of them need a bit of interpretation. First the obvious successes. We went live with a system which will help our Public...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/07/weeknote-24.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Weeknote 20 - 24 July 2020",
+        "excerpt":"On unlocking great ideas, project epilogues, fragmenting systems and wheelchairs by the sea. Unlocking great ideas During the COVID-19 crisis we officially paused our agile transformation and the group which coordinated our efforts, called Team Bumblebee. We’ve relaunched Team Bumblebee recently but it didn’t seem right to just continue where...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/07/weeknote-25.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Weeknote 27 - 31 July 2020",
+        "excerpt":"On more tweaks to our agile ways of working, getting comfortable with a 20% success rate and shared learning. More agile iterations The team working on our new website completed another sprint1. I was able to join in their show and tell, sprint retrospective and planning for the next sprint....","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/07/weeknote-26.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Weeknote 03 - 07 August 2020",
+        "excerpt":"On Bob the Builder, balancing the books and assurance without certainty. Can we fix it? Bob the Builder was a big thing while my kids were growing up. No problem can withstand Bob’s relentless, positive, can-do attitude - even if it is a bit wearing for his colleagues now and...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/08/weeknote-27.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Weeknote 10 - 14 August 2020",
+        "excerpt":"On innovation allies, always learning, fighting for flow and more shared learning. Innovation allies Team Bumblebee1 will be a little quieter than usual as we enter the peak of the summer holidays. We had another good session this week with a proposal for some public cloud work from one of...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/08/weeknote-28.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Weeknote 1 - 4 September 2020",
+        "excerpt":"On user needs, Troika Consulting, scaled agile and being a BAME ally. I’m back to my weekly notes after the summer break. I’ve been catching up on things so it has been a mentally chaotic four days. My collection of random reflections are below but, if you are short on...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/09/weeknote-29.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"}]

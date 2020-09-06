@@ -1,628 +1,568 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-04-06T21:12:46+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 2 - 6 March 2020</title><link href="https://cioportfolio.github.io/preview/2020/03/weeknote-7.html" rel="alternate" type="text/html" title="Weeknote 2 - 6 March 2020" /><published>2020-03-06T00:00:00+00:00</published><updated>2020-04-06T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/03/weeknote-7</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/03/weeknote-7.html">&lt;p&gt;On Cornwall Geeks, agile forecasting and risk management, scrum-of-scrums, product roadmaps and a first weeknote mention for COVID-19!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-09-06T11:53:53+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 1 - 4 September 2020</title><link href="https://cioportfolio.github.io/preview/2020/09/weeknote-29.html" rel="alternate" type="text/html" title="Weeknote 1 - 4 September 2020" /><published>2020-09-06T00:00:00+00:00</published><updated>2020-09-06T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/09/weeknote-29</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/09/weeknote-29.html">&lt;p&gt;On user needs, Troika Consulting, scaled agile and being a BAME ally.&lt;/p&gt;
 
 &lt;!--more--&gt;
-&lt;p&gt;My week notes came out before my trip to Cornwall Geeks&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; last week. There was a bigger crowd this time so I didn’t manage to talk to everyone but there was an IT teacher, a doctor working on an idea linking computers and poetry, some of the Game Academy team from Falmouth University and one of the organisers of Future Sync. It was interesting to find out a bit about how new computer games are developed and funded and how similar it now is to the film industry.&lt;/p&gt;
 
-&lt;p&gt;Enough about last week. This week our fast change team started Sprint 9. We have been frustrated by some blockers recently including the need to get approvals from outside the team but there was also some better news. Some of our capacity had been drained by more critical projects recently but that seems to have cleared so we should be able to up the pace this sprint. We also sorted out the network links between some of our on-premises systems and an external cloud system. This will support some mobile working tools which have completed initial field trials ready for a launch with the first wave of users in April.&lt;/p&gt;
+&lt;p&gt;I’m back to my weekly notes after the summer break. I’ve been catching up on things so it has been a mentally chaotic four days. My collection of random reflections are below but, if you are short on time, please check out how we are developing our new Council website based upon user needs&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
-&lt;p&gt;The Council has approved the overall 2020/21 budget&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; and budgets have been interesting at a smaller scale too. Some of the teams that use Council IT services are quite small and can only afford to make small investments in their systems each year. Working in an agile way means we can deliver useful things in small chunks and avoid asking these teams to make big upfront commitments which could impact the rest of their work. We are going to try to do this with one of the custom development teams that I support.&lt;/p&gt;
+&lt;p&gt;I joined a virtual lunch and learn session for delivery managers and product managers across Government. This session was an experiment in using Troika Consulting&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; which is one of the techniques within Liberating Structures&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. I had done the face-to-face version of this before and the virtual version worked really well. Instead of physically turning our backs we switch off our cameras&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; to get the same effect. As well as practicing the technique I got some really helpful advice from the others in my Troika.&lt;/p&gt;
 
-&lt;h2 id=&quot;delivery-commitments&quot;&gt;Delivery commitments&lt;/h2&gt;
-&lt;p&gt;I had a short session with a Product Manager and Delivery Manager to tackle one of the parking lot topics from our Scrum Master training. We looked at how agile ways of working could help if customers are asking for big up-front commitments to timescale and cost limits. Some of the things we discussed are just as applicable to agile and traditional ways of working and more to do with human nature. Some examples included:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Humans are naturally too optimistic with estimates&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;It doesn’t help to hide the uncertainty that we cannot avoid at the beginning of something new&lt;/li&gt;
-  &lt;li&gt;Costs and budgets are not really interesting without the benefits profile they support&lt;/li&gt;
-  &lt;li&gt;People behave differently to others depending upon whether they feel they are in the same or different teams.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Some tactics inspired by agile ways of working include:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Be transparent about uncertainty. It can be uncomfortable at first but people quickly get used to working with ranges of delivery dates and costs rather than artificially precise point estimates.&lt;/li&gt;
-  &lt;li&gt;Find ways to demonstrate practical delivery, even if this is just a “hello world”&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; version to show the infrastructure is working&lt;/li&gt;
-  &lt;li&gt;Work with the users to find the subset of features which deliver the majority of the value. In some cases 70% of the value is provided by 30% of the features so progressing and demonstrating these is a good idea even if you can’t put them into service on their own.&lt;/li&gt;
-  &lt;li&gt;Build relationships and team spirit to get people helping each other to improve the vital services that the Council delivers.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This also crossed-over with a discussion with one of the Delivery Managers in the Cabinet Office who used to work in the UK Government Digital Service. This was a chance virtual meeting facilitated through the Agile in the Ether&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; community. We talked about the transition from being a traditional project manager to an agile delivery manager&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; and how that fitted with roles such as the scrum master&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; defined in the Scrum Guide.&lt;/p&gt;
-
-&lt;p&gt;Delivery Management, like Product Management, is a complex role with lots of links and relationships across the organisation. The published role descriptions and guides are a good place to start but Delivery Managers probably can’t avoid negotiating the details of their day-to-day role with the unique network of other people they work with. It is good that there are communities&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt; working together to make sense of all of this.&lt;/p&gt;
-
-&lt;h2 id=&quot;risky-business&quot;&gt;Risky Business&lt;/h2&gt;
-&lt;p&gt;Also this week was a trial of a scrum-of-scrum-masters session following the success of a smaller scale gathering focusing on our Windows 10 programme. The session was dominated by shifting around priorities. We aren’t yet in a panic about COVID-19 (wash your hands!) but, as a vital public service, we need to be more prepared than most. Work on our networking capacity in case lots of people need to work remotely meant some less urgent things would have to wait. These are always difficult decisions but our Business Relationship Team have already ranked our whole portfolio with our directorates so we have a pretty good idea about what trade-offs to make.&lt;/p&gt;
-
-&lt;p&gt;Later, I joined a deep dive into one of our custom development projects which we are struggling to get live. This was dependent upon some network changes but, fortunately, it is high in our portfolio rankings so it should be sorted out in the next sprint.&lt;/p&gt;
-
-&lt;p&gt;Our product management community catch up included some good discussions on what tools to use for product roadmaps. This is not as easy as it sounds as these are not just tools for product managers. Lots of stakeholders want to get to our roadmaps but they have quite different assumptions about what the roadmaps should be able to tell them. We also covered the Council’s risk management approach. It was great to hear that the whole Council will be taking a more agile approach to risk&lt;sup id=&quot;fnref:9&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;. Key elements I noted were:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;focusing to making progress on a few big risks rather than getting lost in a huge list&lt;/li&gt;
-  &lt;li&gt;more emphasis on taking action rather than administering logs and review meetings&lt;/li&gt;
-  &lt;li&gt;allowing teams to weave risk management into how they work day-to-day rather than being an optional extra or an administrative chore.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;a-word-about-a-good-cause-or-two&quot;&gt;A word about a good cause (or two)&lt;/h2&gt;
-&lt;p&gt;Next weekend I will be joining in with the Cornwall Tech Jam&lt;sup id=&quot;fnref:10&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt;. In between helping kids and their parents work through some miniature projects I’ll be working on the LED display&lt;sup id=&quot;fnref:11&quot;&gt;&lt;a href=&quot;#fn:11&quot; class=&quot;footnote&quot;&gt;11&lt;/a&gt;&lt;/sup&gt; I have been building over the last couple of years. One of the organisers has offered to help me with some of the soldering! Next development is to improve the controls and add scoring to a tetris-style game and build a musical beat detector so the display can double as a set of disco lights! Let me know if you are interested in getting involved, either to help out or try your hand at the challenges. Kids are optional!&lt;/p&gt;
-
-&lt;p&gt;Did you know International Women’s day falls on Sunday 8th March&lt;sup id=&quot;fnref:12&quot;&gt;&lt;a href=&quot;#fn:12&quot; class=&quot;footnote&quot;&gt;12&lt;/a&gt;&lt;/sup&gt;?&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://cornwallgeeks.github.io/&quot;&gt;Cornwall Geeks&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.cornwall.gov.uk/council-and-democracy/council-news-room/media-releases/news-from-2020/news-from-february-2020/cabinet-agree-budget-proposals-for-202021/&quot;&gt;Cornwall Council 2020/21 proposals&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.gov.uk/government/publications/green-book-supplementary-guidance-optimism-bias&quot;&gt;Optimism bias guide&lt;/a&gt; from the UK Government. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;Traditionally this is one of the first ways to demonstrate any new computer programing language. More on &lt;a href=&quot;https://en.wikipedia.org/wiki/%22Hello%2c_World%21%22_program&quot;&gt;Wikipedia&lt;/a&gt;. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;More about Agile in the Ether in a &lt;a href=&quot;/preview/2020/02/weeknote-4.html&quot;&gt;previous weeknote&lt;/a&gt;. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:6&quot;&gt;
-      &lt;p&gt;There is an introduction to the role in the &lt;a href=&quot;https://www.gov.uk/service-manual/the-team/what-each-role-does-in-service-team#delivery-manager&quot;&gt;UK Government Service Manual&lt;/a&gt;. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:7&quot;&gt;
-      &lt;p&gt;Definition of the Scrum Master role in the &lt;a href=&quot;https://www.scrumguides.org/scrum-guide.html#team-sm&quot;&gt;Scrum Guide&lt;/a&gt;. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:8&quot;&gt;
-      &lt;p&gt;The UK Government &lt;a href=&quot;https://www.gov.uk/service-manual/communities/agile-delivery-community&quot;&gt;Agile Delivery Community&lt;/a&gt;. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:9&quot;&gt;
-      &lt;p&gt;I was probably a bit too excited about this but then I am a bit of a risk nerd and have &lt;a href=&quot;/preview/2016/03/breaking-free-from-tyranny-of-time.html&quot;&gt;blogged&lt;/a&gt; about this sort of thing. &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:10&quot;&gt;
-      &lt;p&gt;There is more about this regular event in a &lt;a href=&quot;/preview/2020/02/weeknote-4.html#a-word-about-a-good-cause&quot;&gt;previous weeknote&lt;/a&gt;. &lt;a href=&quot;#fnref:10&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:11&quot;&gt;
-      &lt;p&gt;This started with a power supply, &lt;a href=&quot;https://randomnerdtutorials.com/guide-for-ws2812b-addressable-rgb-led-strip-with-arduino/&quot;&gt;addressable LEDs, a tiny computer&lt;/a&gt;, and some appalling soldering. &lt;a href=&quot;#fnref:11&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:12&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.internationalwomensday.com/&quot;&gt;International Women’s Day&lt;/a&gt; &lt;a href=&quot;#fnref:12&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On Cornwall Geeks, agile forecasting and risk management, scrum-of-scrums, product roadmaps and a first weeknote mention for COVID-19!</summary></entry><entry><title type="html">Weeknote 9 - 13 March 2020</title><link href="https://cioportfolio.github.io/preview/2020/03/weeknote-8.html" rel="alternate" type="text/html" title="Weeknote 9 - 13 March 2020" /><published>2020-03-06T00:00:00+00:00</published><updated>2020-04-06T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/03/weeknote-8</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/03/weeknote-8.html">&lt;p&gt;On business cases, fine tuning teams, jazz fusion, the RSA and COVID-19’s impact on the climate&lt;/p&gt;
-
-&lt;!--more--&gt;
-&lt;p&gt;At the start of the week I took the opportunity to contribute to a Government Digital Service experiment on business cases&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. I’ve done something similar in public sector organisations before but not so openly. This is a brave thing for that team to do so I hope people respond in the right spirit and make constructive comments.&lt;/p&gt;
-
-&lt;p&gt;We held our first Service Design review for our new mobile service for Cornwall Housing. The review did identify some things we need to sort out but, with a month or so to go, it is looking in good shape. We also need to do some systems integration to release some more advanced features later so I have been talking to the various suppliers to make sure the overall design for this hangs together. We also refined the backlog for our fast change team. The potential backlog is shrinking as our product teams get up to speed and can take on more of the fast-change items. In April, we will run another retrospective with our key stakeholders but we might look at changing the role of the team, perhaps to help the product teams deliver their backlog priorities rather than working on our own, separate, backlog.&lt;/p&gt;
-
-&lt;p&gt;I’ve been joining in the daily stand-ups for one our infrastructure teams and, this week, joined their regular team meeting. Like many of our teams, they are spread across the county so most of these meetings are over Skype. To be honest, it is hard for me to follow the daily stand-ups because of all of the specialist jargon so the team meeting was a good chance to hear about the bigger picture including how the team was cross-skilling, overall service performance and some strategic risks that could easily get overlooked in the day-to-day activities. Guitars, Jazz Fusion, the Popmasters quiz and the Board Masters Festival also came up. Seemed there are some strong views both for and against Jazz Fusion!&lt;/p&gt;
-
-&lt;p&gt;We are halfway through the first 4-week sprint for the custom development team I am helping. The team already have some mock-ups and prototypes for some of the key features and will organise a review with the lead user. Since the team is only working part-time this is really positive progress.&lt;/p&gt;
-
-&lt;p&gt;The customer experience team held another short discovery session looking at how we handle reports of pot holes and the insurance claims that are sometimes associated with them. We’ll use this overview to prioritise the opportunity alongside other candidates but there seemed to be several potential quick wins that would make things better for residents and staff.&lt;/p&gt;
-
-&lt;p&gt;I know lots of people who are members of the RSA&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; who don’t seem to have much to do with the Arts. The organisation is putting renewed energy into their Cornish activities so I went along to one of their events to find out more. I hadn’t realised that the RSA is actually the RSAMC&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; which explains why there are so many members in my network. The focus on the event was “community” and covered topics very relevant to the work we do in the Council. I shared a couple of tweets from the event&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; and will try to make the next one which will explore the world of work.&lt;/p&gt;
-
-&lt;p&gt;I’ve continued to re-publish some of our agile guides externally&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;. Also, for the first time this week, I’ve published my first week note&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. Eventually, the idea is to publish externally in real-time but, as we are new to this, we are being more cautious. I’m hoping more people in the Council will eventually be sharing more about the great work we are doing.&lt;/p&gt;
-
-&lt;p&gt;Final meeting this week was our agile coaches catch up. We had postponed these a few times as we were sorting out some priority delivery projects so it was great to check-in with the team, see what common patterns were emerging and discuss how we could best use out collective efforts to keep the agile transformation moving in the right direction.&lt;/p&gt;
+&lt;p&gt;I talked about the various forms of “scaled agile” at our Product Managers meeting. I have some qualifications in this area but in most cases I think it is a bit of a distraction. Most organisations have plenty more they can get out of the basic techniques and principles such as listening to their teams and trying our the improvements they suggest &lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
-&lt;p&gt;COVID-19 is already an issue or a tragedy for thousands of people and has not yet run its course. There may be a small sliver lining for the environment. Reducing air travel can have a massive impact on your individual carbon foot-print&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; and other forms of transport are not far behind&lt;sup id=&quot;fnref:9&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;. There will be a sharp short-term impact from COVID-19&lt;sup id=&quot;fnref:10&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt; but people may make enduring changes after having a forced opportunity to learn how to work remotely.&lt;/p&gt;
 
-&lt;p&gt;I am a member of several virtual communities and there are currently lots of questions about how to run teams and events remotely. A combination of our geography and some wise choices we made some time ago means that our Council seems to be ahead of the game in remote working. We haven’t sorted out everything - e.g. we have some physical Kanban boards around - but remote team working is routine and generally, very effective. Our video calling tech is more reliable than in most organisations I have worked in and our BYOD service is excellent (one of my colleagues was up and running on the same day she requested the service).&lt;/p&gt;
-
-&lt;p&gt;Personally, I still need to do something about my drive from home to New County Hall. I don’t need to commute every day but the trips I do are often in a mid-sized diesel which we thought was the environmentally friendly choice 10 years ago. It is not clear what I should do now. A lot of the environmental impact of a car is in production and disposal (exactly how much does not seem to be clear) so this needs to be a factor when considering attractive new offers like the Council-backed scheme for electric cars. Public transport does exist but that would add 3 hours to the day. There are plans for improvements on my route over the next couple of years but that is linked to plans for Newquay airport which had a shock last week&lt;sup id=&quot;fnref:11&quot;&gt;&lt;a href=&quot;#fn:11&quot; class=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt;. Let’s hope for good weather this summer and the motorbike can take some of the strain&lt;sup id=&quot;fnref:12&quot;&gt;&lt;a href=&quot;#fn:12&quot; class=&quot;footnote&quot;&gt;11&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;I’ll be joining the next meeting of the Council BAME&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; Forum this month. I’ve helped similar groups when I was working in London but I am not sure how relevant that will be as the population of Cornwall is very different&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;. I’ll try to put aside my assumptions and just listen to what the forum would like from allies&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
 &lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:8&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.cornwall.gov.uk/council-and-democracy/website-information-and-help/about-our-website/website-improvement-blog/&quot;&gt;Cornwall Council Website Improvement Blog&lt;/a&gt;. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.liberatingstructures.com/8-troika-consulting/&quot;&gt;Troika Consulting&lt;/a&gt; from… &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.liberatingstructures.com/&quot;&gt;Liberating Structures&lt;/a&gt;. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;I can’t always use my laptop camera so I’ve got an app which lets me use the camera on my phone as a webcam. Some of these apps are free to use and even the paid versions are much cheaper than a stand-alone webcam. Your phone cameras are probably much better quality anyway. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://dannorth.net/2018/01/26/in-praise-of-swarming/&quot;&gt;Dan North has written&lt;/a&gt; and &lt;a href=&quot;https://www.youtube.com/watch?v=q87wNNiygaM&quot;&gt;talked&lt;/a&gt; about some helpful ideas. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://civilservice.blog.gov.uk/2019/07/08/please-dont-call-me-bame-or-bme/&quot;&gt;This post explains the term and some of the problems with it&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Demography_of_London&quot;&gt;Demography of London&lt;/a&gt; versus &lt;a href=&quot;https://en.wikipedia.org/wiki/Demography_of_Cornwall&quot;&gt;Cornwall&lt;/a&gt;. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;I have found &lt;a href=&quot;https://twitter.com/betterallies&quot;&gt;@betterallies&lt;/a&gt; is a helpful guide on being a good ally. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On user needs, Troika Consulting, scaled agile and being a BAME ally.</summary></entry><entry><title type="html">Weeknote 10 - 14 August 2020</title><link href="https://cioportfolio.github.io/preview/2020/08/weeknote-28.html" rel="alternate" type="text/html" title="Weeknote 10 - 14 August 2020" /><published>2020-08-17T00:00:00+00:00</published><updated>2020-08-18T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/08/weeknote-28</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/08/weeknote-28.html">&lt;p&gt;On innovation allies, always learning, fighting for flow and more shared learning.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;innovation-allies&quot;&gt;Innovation allies&lt;/h2&gt;
+
+&lt;p&gt;Team Bumblebee&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; will be a little quieter than usual as we enter the peak of the summer holidays. We had another good session this week with a proposal for some public cloud work from one of our product teams. The product team already had a well developed idea of what they wanted to do but needed some help with funding and prioritising the work. One of Team Bumblebee volunteered to act as an ally to help the team make the case for some investment.&lt;/p&gt;
+
+&lt;h2 id=&quot;never-stop-learning&quot;&gt;Never stop learning&lt;/h2&gt;
+
+&lt;p&gt;Some agile coaches may think they have nothing left to learn but I am not one of them. 30 years experience can be very useful but people are complex animals and are full of surprises. Put people into teams and they become a new creature that even the team members have never experienced before. An agile coach does not need to know everything, but they need to know how to learn and how to help people and teams learn. Also, in a fast changing field like IT, what you know can get stale quite quickly. You need to be ready to let ideas go when they are no longer useful.&lt;/p&gt;
+
+&lt;p&gt;One of my lessons this week was about keeping people safe. I am grateful to some of my colleagues for helping me learn by challenging the way I handled a situation. I had approached an issue in an open and direct way without taking into account some tensions between a couple of our teams. As a result I ended up creating a stressful situation for some of my colleagues.&lt;/p&gt;
+
+&lt;p&gt;I’m pleased that they called me quickly to help sort things out but I should have taken more care. I’ve been working on changing organisations for years. Change can’t happen without a degree of tension and, over time, I have become a bit too complacent about it and have forgotten how it used to feel earlier in my career. I’m glad my colleagues helped me to learn but I’m sorry that they needed to on this occasion.&lt;/p&gt;
+
+&lt;h2 id=&quot;fighting-for-flow&quot;&gt;Fighting for flow&lt;/h2&gt;
+
+&lt;p&gt;Lots of my work this week has got me thinking about flow. Flow is one of those agile ideas that has been around long before agile became fashionable. In a factory, the flow of parts through assembly and on to distribution is important. In my work other types of flow are important, such as the flow of ideas and needs into improvements to a Council service. The agile manifesto&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; emphasises the flow of working software features. Thinking about flow can help you optimise a whole system or activity, but it can have odd side effects which can get in the way.&lt;/p&gt;
+
+&lt;p&gt;Eliyahu Goldratt&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; wrote extensively about this and has loads of interesting stories about having to break conventional management thinking to maximise flow. For example, many managers strive for high utilisation which means keeping a person or some equipment fully occupied. Idle time is a waste and so you might think it is good to minimise it. It turns out that this is only true in isolation. When you look at a service or activity with many steps, high utilisation can result in queues, delays and interruptions which disrupt the flow. This can be more expensive than the waste you were trying to avoid. It is better to suffer some local idle time and protect the flow that you are really interested in.&lt;/p&gt;
+
+&lt;p&gt;You probably have lots of examples from your work, or from being stuck in one of those phantom traffic jams which seem to form and disperse without any obvious cause. This is why busy motorways have variable speed limits. Reducing individual speeds protects the flow and avoids the traffic jam which brings everything to a halt.&lt;/p&gt;
+
+&lt;p&gt;In my department there are several things which can threaten our flow.You will see similar things where you work, such as:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;queues of decisions awaiting attention from an authorising manager&lt;/li&gt;
+  &lt;li&gt;inconsistent priorities across teams&lt;/li&gt;
+  &lt;li&gt;competing demands for the time of engineers in a specialist team&lt;/li&gt;
+  &lt;li&gt;too much attention on projects to create new systems at the expense of keeping existing things working well.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I think I need to get my copy of The Goal&lt;sup id=&quot;fnref:3:1&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; out again and be ready to fight for the flow.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
+
+&lt;p&gt;I joined an online meeting on a new initiative&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; to build up the digital skills of public sector leaders. To be honest, I was a bit out of my depth and in awe of some of the people involved. A degree in Digital Public Services won’t be for everyone but the group want to find creative, non-traditional ways to get the material out to people. We might be able to use some of this as part of the cross-government digital learning I am involved&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; in or as part of a local development programme at Cornwall Council.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://github.com/alphagov/prototype-case-joined-up-services&quot;&gt;Prototype Business Case&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;There is more about Team Bumblebee in a &lt;a href=&quot;/preview/2020/07/weeknote-25.html#unlocking-great-ideas&quot;&gt;previous week note&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.thersa.org/events/fellowship-events/2020/03/rsa-cornwall-meetup&quot;&gt;RSA Community Event&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a href=&quot;https://agilemanifesto.org/&quot;&gt;The manifesto for agile software development&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Royal_Society_of_Arts&quot;&gt;Overview of the RSA&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;I really like &lt;a href=&quot;https://en.wikipedia.org/wiki/Eliyahu_M._Goldratt&quot;&gt;Eliyahu Goldratt’s&lt;/a&gt; thinking and he uses novels in an authentic and effective way to get them across. My favourites are &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Goal_(novel)&quot;&gt;The Goal&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Critical_Chain_(novel)&quot;&gt;Critical Chain&lt;/a&gt;. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:3:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://twitter.com/rsa_sw&quot;&gt;The RSA South West Twitter feed&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.teachingpublicservice.digital/&quot;&gt;Teaching Public Service in the Digital Age&lt;/a&gt;. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:6&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;/preview/2020/01/estimating-in-an-agile-way.html&quot;&gt;Blog post on estimating&lt;/a&gt; &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:7&quot;&gt;
-      &lt;p&gt;The original versions of these weeknotes were only published internally &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:8&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/environment/ng-interactive/2019/jul/19/carbon-calculator-how-taking-one-flight-emits-as-much-as-many-people-do-in-a-year&quot;&gt;Carbon emissions from flying&lt;/a&gt; &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:9&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://energysavingtrust.org.uk/blog/planes-trains-and-automobiles-%E2%80%93-carbon-emissions-compared-between-london-and-edinburgh&quot;&gt;Transport emissions comparison&lt;/a&gt; &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:10&quot;&gt;
-      &lt;p&gt;It is early days but the &lt;a href=&quot;https://www.dw.com/en/coronavirus-climate-change-pollution-environment-china-covid19-crisis/a-52647140&quot;&gt;impact could be significant&lt;/a&gt; &lt;a href=&quot;#fnref:10&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:11&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.cornwallairportnewquay.com/press/press-releases/cornwall-airport-newquay-secure-edinburgh-route-with-loganair&quot;&gt;Newquay airport and Flybe&lt;/a&gt; &lt;a href=&quot;#fnref:11&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:12&quot;&gt;
-      &lt;p&gt;But I will also need to think about an electric bike at some point. &lt;a href=&quot;#fnref:12&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;I covered this &lt;a href=&quot;/preview/2020/07/weeknote-26.html#a-word-about-a-good-cause&quot;&gt;shared learning initiative&lt;/a&gt; in a previous week note. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On business cases, fine tuning teams, jazz fusion, the RSA and COVID-19’s impact on the climate</summary></entry><entry><title type="html">Weeknote 24-27 February 2020</title><link href="https://cioportfolio.github.io/preview/2020/03/weeknote-6.html" rel="alternate" type="text/html" title="Weeknote 24-27 February 2020" /><published>2020-03-04T00:00:00+00:00</published><updated>2020-03-28T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/03/weeknote-6</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/03/weeknote-6.html">&lt;p&gt;On spreading too thin, agile infrastructure, part-time teams and diversity in tech
-&lt;!--more--&gt;&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On innovation allies, always learning, fighting for flow and more shared learning.</summary></entry><entry><title type="html">Weeknote 03 - 07 August 2020</title><link href="https://cioportfolio.github.io/preview/2020/08/weeknote-27.html" rel="alternate" type="text/html" title="Weeknote 03 - 07 August 2020" /><published>2020-08-03T00:00:00+00:00</published><updated>2020-08-07T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/08/weeknote-27</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/08/weeknote-27.html">&lt;p&gt;On Bob the Builder, balancing the books and assurance without certainty.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;can-we-fix-it&quot;&gt;Can we fix it?&lt;/h2&gt;
+
+&lt;p&gt;Bob the Builder was a big thing while my kids were growing up. No problem can withstand Bob’s relentless, positive, can-do attitude - even if it is a bit wearing for his colleagues now and again&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. This kind of spirit is helping to make our Team Bumblebee&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; catch ups one of my weekly highlights.&lt;/p&gt;
+
+&lt;p&gt;Some new people joined in this week and we bolted through 6 items. We didn’t find an owner for a couple of the ideas but we are going to get on with the rest. That is probably a good ratio given the team all have day jobs to do.&lt;/p&gt;
+
+&lt;p&gt;I wonder if I am allowed to play Bob’s theme tune at the start of the meetings?&lt;/p&gt;
+
+&lt;h2 id=&quot;balancing-the-books&quot;&gt;Balancing the books&lt;/h2&gt;
+
+&lt;p&gt;Making sense of the financial aspects of IT has always been difficult&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. Adding agile and digital ways of working into the mix may solve some of the problems but it also creates new ones. We use a mixed approach at Cornwall Council. IT costs are handled by a mixture of:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;bulk allocation of budget to the IT department&lt;/li&gt;
+  &lt;li&gt;direct pass through of costs from suppliers to user teams.&lt;/li&gt;
+  &lt;li&gt;internal transfers based upon standard service charges or at an hourly rate, often for engineers’ time.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Just as for any large organisation, this is a compromise which tries to put cost-benefit decisions in the right place (usually the end-user or someone close to them) without wasting a lot of effort administering tiny amounts of money. Public sector organisations usually have a hard time with this, as we can’t keep profits to invest later or borrow against future benefits in the same way as a commercial organisation.&lt;/p&gt;
+
+&lt;p&gt;This week I have been working on various aspects of IT finance. One example is automating some of the steps in our financial process. We can’t always eliminate administration but it is good to minimise the manual effort we need to put into it. Another example is making ongoing costs clear in the early stages of developing a new system or service with our customers. Ongoing costs include things like regular maintenance upgrades, or periodically moving onto completely new technology.&lt;/p&gt;
+
+&lt;p&gt;It helps to keep in mind that there isn’t one perfect way to manage IT costs. When choosing between different approaches, money might not be the deciding factor at all. Other things to consider include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;aligning incentives&lt;/li&gt;
+  &lt;li&gt;bringing authority and accountability together&lt;/li&gt;
+  &lt;li&gt;placing risks with the people best able to manage them&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These can have a big impact on what IT costs and who picks up the bill.&lt;/p&gt;
+
+&lt;h2 id=&quot;assurance-without-certainty&quot;&gt;Assurance without certainty&lt;/h2&gt;
+
+&lt;p&gt;Another topic that has come up a few times this week is how assurance and risk can bump into each other.&lt;/p&gt;
+
+&lt;p&gt;From my background as a management consultant, I know the correct answer to many questions is often the unsatisfying one:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;“In product development, our greatest waste is not unproductive engineers, but work products sitting idle in process queues.”&lt;/strong&gt;&lt;/p&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Donald G. Reinertsen, The Principles of Product Development Flow: Second Generation Lean Product Development&lt;sup id=&quot;fnref:10&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-  &lt;/ul&gt;
+  &lt;p&gt;It depends!&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;I have to confess to letting my work-in-progress get out of control so here is a random selection from this week.&lt;/p&gt;
+&lt;p&gt;Quite a lot of our IT work involves product development or analysing problems and this is inherently creative and uncertain work. For someone in an assurance role, it can be incredibly frustrating to get inconclusive answers to apparently simple questions like:&lt;/p&gt;
 
-&lt;p&gt;I had a good catch up with one of our call centre leads to learn more about how we use call recording. I can feed this into the business justification for upgrading our current system. I was particularly interested in how people moderate their behaviour and language because they know they might be recorded.&lt;/p&gt;
-
-&lt;p&gt;I have started to join in the daily stand ups (well, sitting in front of Skype in reality) for one of our infrastructure teams. I like to observe and get a feel for what work the team has and how they handle it before diving in with any suggestions about agile. Very few teams are starting from absolute zero so it is good to recognise and build upon what is already working rather than change things for the sake of it and risk breaking vital services.&lt;/p&gt;
-
-&lt;p&gt;I also had a good session with one of our infrastructure product managers to help with their product road map. The first thing we needed to tackle was the nature of the product. Many people assume IT infrastructure products are just about computers and networks (the physical assets) but we also covered the teams, policies and standards and the services provided to others in the council. We might need to put less technical detail on the road map and include more about developing people and adapting the services.&lt;/p&gt;
-
-&lt;p&gt;I have kicked off the first sprint of a new custom development team. This is a remote and part time team so we have started out with a slower cadence for our sprints compared with most of the teams here. We are going to start building with familiar technology so that we can get something in front of our users as quickly as possible but we may well switch to the cloud before we are fully live with all of the new features. I’ve used most of the cloud providers but not done much with Miscrosoft Azure so I am busy learning in my own time&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; so that I don’t interrupt the team with too many dumb questions.&lt;/p&gt;
-
-&lt;p&gt;I had a good walk through of our service transition and release process from our business services team. One of our fast change team deliveries is about to complete testing so I wanted to make sure we were ready to go-live with the right support in place. There are some forms to complete but it feels like we have got nearly everything ready to go.&lt;/p&gt;
-
-&lt;p&gt;I attended the very first “In the Ether” event for UK Government Product People&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. This is probably a good community for us as it doesn’t involve any travelling and follows a tried and tested format for remote communities. Topics this week included how Product and Delivery managers work together, coordinating deliveries across multiple product teams and how to get started with user research when you don’t have user researchers (a challenge for many Councils).&lt;/p&gt;
-
-&lt;p&gt;I’ve got the next external blog post ready to go but will publish it over the weekend&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;I’m off to Cornwall Geeks&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; again this evening so will share more about that next week.&lt;/p&gt;
-
-&lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
-&lt;p&gt;I was sad to hear that Katherine Johnson&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; died this week. She was one of many amazing women of colour who achieved great things in the face of incredible obstacles. Sadly, many of these obstacles still exist and, in general, the UK IT industry is still not as diverse as the overall population&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;. The Council is setting up some support forums for different groups and I am going to find out more about how allies can get involved to help&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;. I’ve not had to face the obstacles that Katherine and others have had to tackle&lt;sup id=&quot;fnref:8:1&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt; so it will be down to me to put in the work, find out how well we reflect the people we serve and how to find and support the people that need help.&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:10&quot;&gt;
-      &lt;p&gt;Loads more like this at &lt;a href=&quot;https://www.goodreads.com/work/quotes/6461800&quot;&gt;good reads&lt;/a&gt; &lt;a href=&quot;#fnref:10&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;It was very easy to set up and the &lt;a href=&quot;https://github.com/cioportfolio/playpen/tree/react#an-intermediate-web-development-playpen&quot;&gt;playpen&lt;/a&gt; I use for my side-projects ran out-of-the-box. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.eventbrite.co.uk/e/agile-in-the-ether-product-people-in-uk-government-1-tickets-88853532307&quot;&gt;UK Government Product People in the Ether&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;/preview/tags/local-government/&quot;&gt;The collection is on my blog&lt;/a&gt;. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://cornwallgeeks.github.io/&quot;&gt;Cornwall Geeks&lt;/a&gt;. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/world-us-canada-51619848&quot;&gt;BBC report on Katherine Johnson&lt;/a&gt;. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:6&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.bcs.org/media/1653/diversity-report-2017.pdf&quot;&gt;BCS diversity report&lt;/a&gt;. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:8&quot;&gt;
-      &lt;p&gt;More about privilege and allies in an &lt;a href=&quot;/preview/2020/02/weeknote-3.html#a-word-about-a-good-cause&quot;&gt;earlier week note&lt;/a&gt;. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:8:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On spreading too thin, agile infrastructure, part-time teams and diversity in tech</summary></entry><entry><title type="html">Weeknote 17-21 February 2020</title><link href="https://cioportfolio.github.io/preview/2020/02/weeknote-5.html" rel="alternate" type="text/html" title="Weeknote 17-21 February 2020" /><published>2020-02-21T00:00:00+00:00</published><updated>2020-03-28T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/02/weeknote-5</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/02/weeknote-5.html">&lt;p&gt;On financial approvals, learning together and package-free shopping
-&lt;!--more--&gt;&lt;/p&gt;
-&lt;blockquote class=&quot;notice--info&quot;&gt;
-  &lt;h4 id=&quot;about-agile-in-cornwall-council&quot;&gt;About agile in Cornwall Council&lt;/h4&gt;
-  &lt;p&gt;We are starting to adopt more agile and open ways of working. We have been experimenting internally with weeknotes and, with a little time lag, we would like to see what publishing these might achieve.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;I certainly noticed the half-term effect on the morning commute and the number of out-of-office replies but, otherwise, things didn’t let up.&lt;/p&gt;
-
-&lt;p&gt;In the fast change team we started Sprint 8. We are still low on effort due to our “storms”&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; but, by coincidence, we are blocked on a few items so have not suffered as much as we might. One of our backlog items needs financial and procurement approval. It would be good to look at how to make this easier in future by being clearer about the roles of the people involved, asking the relevant questions once and recording the relevant answers once.&lt;/p&gt;
-
-&lt;p&gt;We did manage to catch up with another council to swap notes on call centre recording. No major surprises but it does give us confidence that we are going in the right direction. I am using the Local Government Digital community&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; more and more to find people who have done or are doing the same things that we want to do. Nice to talk to knowledgeable people who aren’t, usually, trying to sell something&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;I ran a Learning Lunch with a small group on Planning Poker&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;. I should probably write a Team Bumblebee&lt;sup id=&quot;fnref:11&quot;&gt;&lt;a href=&quot;#fn:11&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; update on this and see if the people at the Lunch would be happy to teach others.&lt;/p&gt;
-
-&lt;p&gt;I facilitated the kick-off for one of our development teams. We are going to redevelop the service that schools use to plan trips and events. This could be a good opportunity to try out a range of new things, e.g. cloud infrastructure, but we are not sure if, collectively, we are ready for it.&lt;/p&gt;
-
-&lt;p&gt;I’ve started to re-post some of our agile ideas on my personal blog&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. I am hoping this is just a stepping stone and eventually we will be publishing more about our work through Council channels. It also got me thinking about the technology I am using for my blog&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;. It is incredibly cheap to run but is not that user friendly.&lt;/p&gt;
-
-&lt;p&gt;Final thing this week was a telephone call to swap notes with one of the agile coaches at the Department for Education. This was a random introduction organised through the Agile in the Ether&lt;sup id=&quot;fnref:9&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt; community and the idea is to keep having short 1 to 1 calls with others every two weeks or so. New “in the Ether” groups are starting up on UK Public Sector product management and cyber security and there may be more depending how well these work.&lt;/p&gt;
-
-&lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
-&lt;p&gt;All of the big retailers claim they are cutting down on waste and packaging. Some smaller organisations are going further and let you collect groceries and other basic goods in your own jars, bottles, bags and containers. My wife has tracked down a few locally and you might be able to find alternatives near you&lt;sup id=&quot;fnref:10&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;A reference to &lt;a href=&quot;/preview/2020/02/weeknote-4.html&quot;&gt;last week’s note&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://localgov.digital/&quot;&gt;LocalGov Digital&lt;/a&gt;. Not to be confused with &lt;a href=&quot;https://localdigital.gov.uk/&quot;&gt;Local Digital&lt;/a&gt;! &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;The are some private sector members but there is a screening process so that they are people who are there to help the community and not just to make their sales quota. I used to be one of the private sector volunteers. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;Agile alliance introduction to &lt;a href=&quot;https://www.agilealliance.org/glossary/poker/&quot;&gt;planning poker&lt;/a&gt; &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:11&quot;&gt;
-      &lt;p&gt;Team Bumblee is a part-time Scrum team overseeing the agile transformation in the Cornwall Council IS department &lt;a href=&quot;#fnref:11&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:6&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;/preview/2019/11/so-what-exactly-is-a-sprint.html&quot;&gt;So what exactly is a sprint&lt;/a&gt; blog post &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:7&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html&quot;&gt;Amazon S3 Websites&lt;/a&gt; and &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll blog framework&lt;/a&gt; &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:9&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://agileintheether.co.uk/&quot;&gt;Agile in the Ether&lt;/a&gt; &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:10&quot;&gt;
-      &lt;p&gt;UPDATE: These are generally small businesses which will need support during the crisis and some are better stocked than the big brand supermarkets right now. &lt;a href=&quot;#fnref:10&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On financial approvals, learning together and package-free shopping</summary></entry><entry><title type="html">Weeknote 10-14 February 2020</title><link href="https://cioportfolio.github.io/preview/2020/02/weeknote-4.html" rel="alternate" type="text/html" title="Weeknote 10-14 February 2020" /><published>2020-02-14T00:00:00+00:00</published><updated>2020-03-27T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/02/weeknote-4</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/02/weeknote-4.html">&lt;p&gt;On being caught between storms.
-&lt;!--more--&gt;&lt;/p&gt;
-&lt;blockquote class=&quot;notice--info&quot;&gt;
-  &lt;h4 id=&quot;about-agile-in-cornwall-council&quot;&gt;About agile in Cornwall Council&lt;/h4&gt;
-  &lt;p&gt;We are starting to adopt more agile and open ways of working. We have been experimenting internally with weeknotes and, with a little time lag, we would like to see what publishing these might achieve.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;It is great living near the coast and have a constantly changing view but there are down sides. Storm Ciara has produced some spectacular waves but I am still not used to the way our little bungalow creaks, groans, clatters and shakes in a storm. Not the best few nights sleep I have had but maybe I will be more used to it by the time Dennis arrives this weekend. It will take even longer to block all the drafty holes that Ciara managed to find. One minor success is the compost bin is still in place in the garden now that we have attached concrete blocks!&lt;/p&gt;
-
-&lt;p&gt;Similar weather in our portfolio this week too. Many in our team are being kept awake by our Oracle and Windows 10 “storms”. They will blow over eventually but they are more enduring than Ciara and Dennis and lower priority work may have to wait while we sort things out. Many in team Falcon are caught up in this so we took the drop in capacity into account when we did our advanced planning for Sprint 8.&lt;/p&gt;
-
-&lt;p&gt;These “storms” are inevitable given the creative, high-risk sort of work we do but the good side is the change, variety and the nice surprises. Here are some examples from this week:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;Another council is in the process of refreshing their intranet and are happy to share prototypes and the user research they have done. I’ve set up a call for them to chat with our HR team who are planning to do something similar.&lt;/li&gt;
-  &lt;li&gt;Our fast change work for Cornwall Housing is going into test so we have updated our Services team and are creating the Service Delivery Plan together using the Wiki feature in AzureDevOps.&lt;/li&gt;
-  &lt;li&gt;Our customer services team are going to draft the business justification and business benefits for upgrading our call centre call recording.&lt;/li&gt;
-  &lt;li&gt;I’ve started working with the Custom Apps team to kick-off some agile development work for Cornwall Outdoors.&lt;/li&gt;
-  &lt;li&gt;I’ve started to learn more about the work in the Database Product Team and Operations Centre so we can see where agile ideas might help and put some of them to the test.&lt;/li&gt;
-  &lt;li&gt;Over lunch on Friday, I attended another Agile in the Ether&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; call to share ideas about applying agile in all sort of organisations and situations. Topics included: making progress visible when a project is about culture and behaviour change; estimating and long-term forecasts; how to work with small teams where everyone is part time. The event itself is an experiment in building a team or community which cannot spend much time together and are never in the same location. We might be able to adopt some of how this works for some of our teams or communities of practice&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+  &lt;li&gt;Will it work?&lt;/li&gt;
+  &lt;li&gt;When will you be finished?&lt;/li&gt;
+  &lt;li&gt;How much do we have to pay?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It can be just as frustrating for our engineers to be asked for detail and certainty that just doesn’t exist, or to follow a process which assumes it does.&lt;/p&gt;
+
+&lt;p&gt;I am trying a few things that have helped in my previous roles including:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;using stories and analogies to help people understand the nature of our work, the inherent risks and the limits to what we can do about it&lt;/li&gt;
+  &lt;li&gt;making sure the consequences of decisions (or indecision&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;) are understood&lt;/li&gt;
+  &lt;li&gt;trying to be clear about who is advising and performing assurance, and who is accountable and takes the decision&lt;/li&gt;
+  &lt;li&gt;running experiments to provide more information quickly and cheaply&lt;/li&gt;
+  &lt;li&gt;helping decision makers understand the calculated risks they often need to take.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
-&lt;p&gt;Due to a family commitment I had to miss Cornwall Tech Jam&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; last weekend. From social media&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; it looked like it was another busy session with parents and kids working through a series of computing challenges from simple visual programming&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; through to building and controlling electronic devices&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. The event has a great atmosphere so I will make sure I get along to the next event in March&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; and also the Open Tech Challenge&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;. I realise I was spoilt by the range of meet ups and tech for good events when I worked in London so it is good to find a group of committed people here in Cornwall&lt;sup id=&quot;fnref:9&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;. I’m now on the look out for a local hackathon in support of a good cause, rather like the regular NHS Hack Days&lt;sup id=&quot;fnref:10&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt; or a less regular event like HomelessHack&lt;sup id=&quot;fnref:11&quot;&gt;&lt;a href=&quot;#fn:11&quot; class=&quot;footnote&quot;&gt;11&lt;/a&gt;&lt;/sup&gt;. If there isn’t one do you want to help me set one up?&lt;/p&gt;
+
+&lt;p&gt;It has remained relatively mild outside my home recently, but it sometimes passes 30°C in the attic room which has become my office during the lockdown. With a lot of summer still to go, hopefully, I needed to look at cooling.&lt;/p&gt;
+
+&lt;p&gt;A small air conditioning unit would tackle the absolute temperature but I would rather not be the source of all those kilowatt hours and emissions in the middle of a climate emergency. If that wasn’t enough, air conditioning can be expensive and too noisy for video calls.&lt;/p&gt;
+
+&lt;p&gt;The breeze from a cheap fan can make it feel like it is 10°C cooler but they aren’t very quiet and I was surprised at how much power they used.&lt;/p&gt;
+
+&lt;p&gt;Instead, I’ve spent a little bit more on a table-top fan which is efficient and very quiet - it makes about the same amount of noise as the cooling fan in my laptop. The motor technology means it shifts a lot of air without using a lot of energy - it uses the same sort of USB supply that you use to charge your mobile phone. The manufacturer claims it will also last longer than the motors in cheaper fans but let’s see.&lt;/p&gt;
 
 &lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://agileintheether.co.uk/&quot;&gt;Agile in the Ether&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;I remember thinking the &lt;a href=&quot;https://www.youtube.com/watch?v=cNIWq4xgCY0&quot;&gt;bugle episode&lt;/a&gt; was quite funny. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;We have several communities of practice including product management and agile delivery manager which are relatively new roles in our organisation. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;There is more about Team Bumblebee in a &lt;a href=&quot;/preview/2020/07/weeknote-25.html#unlocking-great-ideas&quot;&gt;previous week note&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.cornwalltechjam.uk/&quot;&gt;Cornwall Tech Jam&lt;/a&gt;. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Here is a &lt;a href=&quot;/preview/2014/05/are-you-making-meal-of-your-it-finances.html&quot;&gt;previous blog post&lt;/a&gt; which tries to demystify IT finances. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://twitter.com/astrotutor9/status/1226250712977494018&quot;&gt;Tweet about the weekend Tech Jam&lt;/a&gt;. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;At the Tech Jam we get kids (and adults!) working with &lt;a href=&quot;https://scratch.mit.edu/&quot;&gt;Scratch&lt;/a&gt; as an introduction to programming. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:6&quot;&gt;
-      &lt;p&gt;More experienced people can build and control a &lt;a href=&quot;https://www.softwarecornwall.org/mission-to-mars-bytesize-announced/&quot;&gt;Mars Rover&lt;/a&gt;! &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:7&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.cornwalltechjam.uk/&quot;&gt;Details for the Tech Jam in March&lt;/a&gt;. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:8&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.softwarecornwall.org/open-tech-challenge-spring-2020/&quot;&gt;Open Tech Challenge details&lt;/a&gt;. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:9&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.softwarecornwall.org/&quot;&gt;Software Cornwall&lt;/a&gt;. &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:10&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://nhshackday.com/&quot;&gt;NHS Hack Day&lt;/a&gt;. &lt;a href=&quot;#fnref:10&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:11&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://homelesshack.github.io/&quot;&gt;Homelesshack&lt;/a&gt;. &lt;a href=&quot;#fnref:11&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;The costs of indecision have cropped up in a &lt;a href=&quot;/preview/2020/06/weeknote-23.html#reducing-the-cost-of-indecision&quot;&gt;previous week note&lt;/a&gt;. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On being caught between storms.</summary></entry><entry><title type="html">Weeknote 03-09 February 2020</title><link href="https://cioportfolio.github.io/preview/2020/02/weeknote-3.html" rel="alternate" type="text/html" title="Weeknote 03-09 February 2020" /><published>2020-02-07T00:00:00+00:00</published><updated>2020-03-27T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/02/weeknote-3</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/02/weeknote-3.html">&lt;p&gt;On resident experience, collaboration and trade-offs, privilege and diversity.
-&lt;!--more--&gt;&lt;/p&gt;
-&lt;blockquote class=&quot;notice--info&quot;&gt;
-  &lt;h4 id=&quot;about-agile-in-cornwall-council&quot;&gt;About agile in Cornwall Council&lt;/h4&gt;
-  &lt;p&gt;We are starting to adopt more agile and open ways of working. We have been experimenting internally with weeknotes&lt;sup id=&quot;fnref:9&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; and, with a little time lag, we would like to see what publishing these might achieve.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;This week note is going to jump around alot but that just reflects what kind of a week it has been.&lt;/p&gt;
-
-&lt;p&gt;Team Falcon, our fast change team, started Sprint 7. We are continuing with two deliveries and got going on a third - replacing call recording for our call centres. The technology we expect to use is quite common so I reached out to the Local Government Digital Community and found three other Councils doing similar things and willing to swap notes. The first call with Stevenage on Friday was useful and we’ve got some more to fit in over the next few weeks. I’m keen to keep trying this sort of thing and see how well sharing with peers compares to using industry analysts.&lt;/p&gt;
-
-&lt;p&gt;Our procurement team are also helping us work through what we need to do to make sure that we use Council money wisely. For example, is call recording absolutely necessary and, if so, how do we get the best value? Some of these conversations can feel a bit uncomfortable because new spending gets a lot of scrutiny and the discussions involve powerful stakeholders with differing views. We need to work through this as “delivering” well-informed decisions and an audit trail is just as much a part of good IT as engineering and customer service.&lt;/p&gt;
-
-&lt;p&gt;I also did some work with our HR team this week. They need to update the resourcing pages on our intranet ready for the changes coming with Oracle Cloud. They have been impressed with how effective the CXP&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; team’s agile approach has been and so wanted to see if they could use some of this on the intranet update. I helped run the kick-off session to quickly build a picture of where they wanted to go, pick out what was essential for the Oracle Cloud go-live and find some practical actions to get it done. We aren’t going to try everything in Scrum right now but it is a start. I’ve also found another Council doing something similar so will try to get the teams together to share.&lt;/p&gt;
-
-&lt;p&gt;Also related to CXP, we took another step towards creating a multidisciplinary team focused on resident satisfaction. Confusingly, we have started calling this the “CX” team but it should probably be called “RX” or “Resident Experience”. This is an experiment to see if we can find a more effective way to unravel a knot of overlapping demands and establish a sensible backlog of initiatives to improve resident satisfaction. We have been reviewing initiatives from Digital Cornwall&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; and elsewhere to find the things that give us the biggest uplift in satisfaction for the least effort and cost. Early steps feel good so far but we will have to watch out that we don’t just move the bottleneck somewhere else. I stole some ideas from our BRM&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; team to create a CX pipeline in Microsoft Teams and we have now added an action tracker too - IT delivery in a matter of minutes! I am going to see if I can get some coaching from our BI team and put a dashboard on top of this to use in the weekly CX catch ups.&lt;/p&gt;
-
-&lt;p&gt;One of the “Resident Experience” ideas is to refresh our external website. There are hundreds of Council websites across the country and most are trying to do the same things. A group of councils is researching how we can share and re-use more of this and we had an initial call with this team to find out what they had learnt so far and how we might be able to collaborate. They have immediately shared some of their early work and are happy to discuss further as we develop the plans for our own website. Councils are also collaborating on new ideas for Revs and Bens, Planning Applications and Income Management so it would be good to see where these are on our product roadmaps.&lt;/p&gt;
-
-&lt;p&gt;Nearly 40 of us joined a demonstration of AzureDevOps. I thought it was a good demonstration and there were loads of questions. Some teams are already driving their work from DevOps, some, like team Falcon, are learning how to get the best out of it and others haven’t touched it at all. The Product Management Community are going to look at where these sorts of tools should fit into our roadmaps, how to choose between the various overlapping tools we already have, such as LeanKit and ProdPad, and make sure we get good value from the money the Council puts into these.&lt;/p&gt;
-
-&lt;p&gt;As well as AzureDevOps the Product Management Community talked about our Enterprise Architecture, the challenges of the Windows 10 roll-out and the impact this was having on the new Resolution Centre. There was a strong feeling of being in this together and a willingness to help those who are struggling, even if it impacts other work we want to do.&lt;/p&gt;
-
-&lt;p&gt;The week isn’t over yet but I’ll have to write about agile for infrastructure and signing on with a Cornish dentist next week!&lt;/p&gt;
-
-&lt;h2 id=&quot;common-themes&quot;&gt;Common themes&lt;/h2&gt;
-&lt;p&gt;Although the work this week has been wide ranging there are some common threads.&lt;/p&gt;
-
-&lt;h3 id=&quot;focus-on-users&quot;&gt;Focus on users&lt;/h3&gt;
-&lt;p&gt;We can sometimes get tied up in the demands of our own teams and processes but it is nice to see the needs of end-users (either of our systems or of Council services) having a high profile in all of this. HR want to make the new intranet content work for people and it will also save them time as they won’t be writing a load of pages that no-one ever reads. This thinking is also going to be at the heart of the external website refresh. We can also benefit by thinking this way as we develop new systems and IS services. User research is a big discipline in its own right and a few Councils have started to build up these skills. We will have to think about how we are going to handle user research and where to focus these specialist skills. User research might be re-usable between Councils&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; but this hasn’t been proven in practice yet.&lt;/p&gt;
-
-&lt;h3 id=&quot;operations-vs-architecture&quot;&gt;Operations vs Architecture&lt;/h3&gt;
-&lt;p&gt;Balancing operations and architecture is hard. Operational pressures naturally lead us towards fragmented, point solutions to small problems which don’t scale and are hard to re-use. Architecture pressures naturally lead toward complex, multi-purpose solutions which are hard to design and have long payback times. It is not just us. Central Government, Charities and Businesses are all struggling with this. We need to find a way to build the architecture we need by growing the small operational deliveries. Our product and platform focused approach looks like good start but we need to keep in touch with what other organisations are trying and share what we learn.&lt;/p&gt;
-
-&lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
-&lt;p&gt;As a middle-class, middle-aged, white, heterosexual male I probably couldn’t be more privileged&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. I am trying to learn and adjust my behaviour but I still have a long way to go. Here are some recent slip ups but there are bound to be more I didn’t even notice:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;I keep referring to groups as “guys”&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; without thinking&lt;/li&gt;
-  &lt;li&gt;I started “mansplaining”&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt; during a team standup&lt;/li&gt;
-  &lt;li&gt;I was insensitive when talking about white privilege to someone who turned out to be mixed race.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I use Twitter quite a lot and I have found the regular nudges from following @betterallies&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt; a helpful source on all of this.&lt;/p&gt;
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:9&quot;&gt;
-      &lt;p&gt;This is a &lt;a href=&quot;https://productforthepeople.xyz/the-why-of-weeknotes-c1cd98967842&quot;&gt;good introduction to the idea of weeknotes&lt;/a&gt;. Some Government Departments and Council’s make their weeknotes public. Hackney and Essex are good examples. &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Customer Experience Platform &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.local.gov.uk/cornwall-council-creating-digital-cornwall&quot;&gt;Digital Cornwall Programme&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;Business Relationship Management. This team is part of the IS organisation but is focused on joining up our work with the rest of the Council. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://research.localgov.digital/&quot;&gt;The user research library&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;If you are new to this topic you are probably in for some unpleasant surprises. &lt;a href=&quot;https://medium.com/%40dunn/swimming-in-privilege-e517e4003b7c&quot;&gt;This post has some good examples of privilege in practice&lt;/a&gt; but a quick search will turn up lots more. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:6&quot;&gt;
-      &lt;p&gt;Here is &lt;a href=&quot;https://en.wikipedia.org/wiki/Gender-neutral_language&quot;&gt;more on gender-neutral language&lt;/a&gt; but the topic goes beyond individual words. My last employer got much more diverse applications by changing how job adverts were written. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:7&quot;&gt;
-      &lt;p&gt;“Mansplaining”? Well let me &lt;a href=&quot;https://www.bbc.com/worklife/article/20180727-mansplaining-explained-in-one-chart&quot;&gt;explain…&lt;/a&gt; &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:8&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://twitter.com/betterallies&quot;&gt;Better Allies twitter account&lt;/a&gt; &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On resident experience, collaboration and trade-offs, privilege and diversity.</summary></entry><entry><title type="html">Refining your backlogs</title><link href="https://cioportfolio.github.io/preview/2020/02/refining-your-backlogs.html" rel="alternate" type="text/html" title="Refining your backlogs" /><published>2020-02-05T00:00:00+00:00</published><updated>2020-03-18T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/02/refining-your-backlogs</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/02/refining-your-backlogs.html">&lt;p&gt;My previous update on Backlogs provided an introduction to the term. This post provides a little more detail on how to work with Backlogs.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On Bob the Builder, balancing the books and assurance without certainty.</summary></entry><entry><title type="html">Weeknote 27 - 31 July 2020</title><link href="https://cioportfolio.github.io/preview/2020/07/weeknote-26.html" rel="alternate" type="text/html" title="Weeknote 27 - 31 July 2020" /><published>2020-07-31T00:00:00+00:00</published><updated>2020-07-31T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/07/weeknote-26</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/07/weeknote-26.html">&lt;p&gt;On more tweaks to our agile ways of working, getting comfortable with a 20% success rate and shared learning.&lt;/p&gt;
 
 &lt;!--more--&gt;
-&lt;blockquote class=&quot;notice--info&quot;&gt;
-  &lt;h4 id=&quot;about-agile-in-cornwall-council&quot;&gt;About agile in Cornwall Council&lt;/h4&gt;
-  &lt;p&gt;We are starting to adopt more agile ways of working. My role involves helping people develop their skills and apply agile techniques to improve the services we provide to the public. This series of posts is adapted from the articles I write for our internal teams. They cover some common agile terms and what it all really means.&lt;/p&gt;
-&lt;/blockquote&gt;
 
-&lt;p&gt;In my first note&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; I described two types of backlogs, product backlogs and work backlogs, which have slightly different roles.&lt;/p&gt;
+&lt;h2 id=&quot;more-agile-iterations&quot;&gt;More agile iterations&lt;/h2&gt;
 
-&lt;h2 id=&quot;refining-your-product-backlog&quot;&gt;Refining your Product Backlog&lt;/h2&gt;
-&lt;p&gt;The product backlog is made up of the things that describe what your product or service will need to do for your users e.g. “let an officer capture the results of an inspection while they are away from the office”. Your first product backlog might be quite scrappy but the team can refine the backlog bit by bit each sprint&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. The sorts of refinements you might see are:&lt;/p&gt;
+&lt;p&gt;The team working on our new website completed another sprint&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. I was able to join in their show and tell, sprint retrospective and planning for the next sprint. The team are having to blend their own work with the outputs from other teams so they are adapting agile techniques to work for their circumstances.&lt;/p&gt;
+
+&lt;p&gt;For example, the team are working through a list of website features which need to be upgraded but, in parallel, they are working with an outside agency to refresh our user research and the overall design. They will also be working with our infrastructure teams on a new technology platform for the site. It will be several sprints before they can finally publish any of the features so the team are working with an unusual definition of “done”&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Initially, they are demonstrating basic functions in a raw form, without the branding and styling you would normally see on a website. The demonstrations are in a development environment, without the performance and resilience features of our real website. In later sprints the new design and technology platform will be available and the definition of “done” will evolve to include these.&lt;/p&gt;
+
+&lt;p&gt;In an ideal world we would have a single team&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; and publish every sprint, but demonstrating something every sprint - even with some caveats - is a good compromise.&lt;/p&gt;
+
+&lt;h2 id=&quot;getting-comfortable-with-a-20-success-rate&quot;&gt;Getting comfortable with a 20% success rate&lt;/h2&gt;
+
+&lt;p&gt;Last week I mentioned the re-launch of team Bumblebee&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; and this week we closed the first few cards on our board - which is in Microsoft Planner now that we can’t routinely meet in front of our physical board in the office. We’ve added another new idea to explore: a way to fund new shared IT services inspired by businesses like Groupon and Kickstarter. It helps that someone in the team has already used Kickstarter to turn a hobby into a small business and now advises others on how to do it.&lt;/p&gt;
+
+&lt;p&gt;Perhaps this new funding idea will work but we know a lot of innovation ideas are going to get stuck along the way. Some will turn out to be too difficult or expensive and some will struggle because we can’t find the passion or courage to push on. That sounds like a lot of failures but we only need 1 in 5 to take off. We are going to have to learn a load of new things along the way, even things as basic as how to talk to our teams and customers about such a chaotic and uncertain process.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
+
+&lt;p&gt;I’ve started working with a team from across the public sector to develop digital service training. We are starting with a self-managed learning programme developed at the Home Office and are going to adapt it so other organisations can use it. Eventually, this might be taken up by a public sector professional community&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; or be offered through the Government Digital Service Academy&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;I got involved after attending an online presentation by the lead of the Home Office programme. I was really impressed with the innovative way the course was put together including:&lt;/p&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;Moving the items around so the most important and urgent items go at the top of the list and less urgent and important ones move towards the bottom. Getting a good order that works for the team and other stakeholders is one of the key jobs of the product owner.&lt;/li&gt;
-  &lt;li&gt;Rewording items to make them clearer with a user focused format (see our earlier post on user stories&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; for a common format but there are others you can use). People with business analysis experience are usually pretty good at helping the team do this.&lt;/li&gt;
-  &lt;li&gt;Merging small items or breaking down large ones so that they are easier to manage (some of our teams are already using labels like story, feature, epic and theme to indicate the scale of the their items)&lt;/li&gt;
-  &lt;li&gt;Adding additional information such as business impact, key constraints, estimates and acceptance criteria.&lt;/li&gt;
+  &lt;li&gt;getting attendees into small teams to work through the course together at a pace they decide&lt;/li&gt;
+  &lt;li&gt;guiding people through the huge body of knowledge that has already been published rather than re-inventing the wheel&lt;/li&gt;
+  &lt;li&gt;practically applying digital and agile techniques to how the course is run - for example, using a prioritised backlog&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; of learning and working through it in regular, short cycles over a period of weeks.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;refining-your-work-backlog&quot;&gt;Refining your Work Backlog&lt;/h2&gt;
-&lt;p&gt;The work backlog is made up of all of key tasks and activities that the team needs to do. Many of these will link directly to something on the product backlog e.g. “amend some code to implement a new feature”. There will usually be some housekeeping tasks such as setting up the team workspace and improvement activities coming out from regular team reviews. In the first sprints quite a lot of the work could be this sort of housekeeping but it is a good idea to have a mix each sprint. Generally, teams find that they don’t need much structure for the work backlog but typical things the team will do when planning a sprint is to:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Review how much work they can realistically get done&lt;/li&gt;
-  &lt;li&gt;Decide on what work is the highest priority&lt;/li&gt;
-  &lt;li&gt;Juggle things around to get a sensible work list for the next sprint&lt;/li&gt;
-  &lt;li&gt;Add other helpful information such as status of the work, sub-tasks or checklists, any external help needed and estimates&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Digital and agile skills are not the only ones we need to develop. Many of these need reflection and practice, which will never fit into the usual professional training format - one or two days of lectures with a few narrow exercises. If we can make the Home Office approach work elsewhere it might become a template for other topics too.&lt;/p&gt;
 
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h4&gt;
+&lt;p&gt;Once we have edited the Home Office specific parts I am hoping to pilot the course with a small group at Cornwall Council. I will share more in tweets, posts and week notes as we go along.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;/preview/2019/11/an-introduction-to-backlogs.html&quot;&gt;My introduction to backlogs&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;More on how we think about &lt;a href=&quot;/preview/2019/11/so-what-exactly-is-a-sprint.html&quot;&gt;sprints&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;See an &lt;a href=&quot;/preview/2019/11/so-what-exactly-is-a-sprint.html&quot;&gt;earlier post&lt;/a&gt; about sprints. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;A quick internet search will turn up lots of articles about definitions of done. Here is &lt;a href=&quot;https://www.agilealliance.org/glossary/definition-of-done&quot;&gt;an example&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;/preview/2019/12/getting-started-with-user-stories.html&quot;&gt;User stories post&lt;/a&gt; for more about backlogs. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Many agile approaches, including &lt;a href=&quot;https://www.scrumguides.org/scrum-guide.html#team&quot;&gt;Scrum&lt;/a&gt; encourage self sufficient teams but, like many organisations, we have to make some trade-offs. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;Take a look at the previous post on &lt;a href=&quot;/preview/2020/01/estimating-in-an-agile-way.html&quot;&gt;estimating in an agile way&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Team Bumblebee was mentioned &lt;a href=&quot;/preview/2020/07/weeknote-25.html#unlocking-great-ideas&quot;&gt;last week&lt;/a&gt;. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;Many of the people involved will be members of the &lt;a href=&quot;https://www.gov.uk/government/organisations/digital-data-and-technology-profession&quot;&gt;Digital, Data and Technology Profession&lt;/a&gt; or have roles closely aligned with the profession. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.gov.uk/government/groups/gds-academy&quot;&gt;The GDS Academy&lt;/a&gt; &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot;&gt;
+      &lt;p&gt;More on how we think about &lt;a href=&quot;/preview/2019/11/an-introduction-to-backlogs.html&quot;&gt;backlogs&lt;/a&gt; &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Agile" /><summary type="html">My previous update on Backlogs provided an introduction to the term. This post provides a little more detail on how to work with Backlogs.</summary></entry><entry><title type="html">Weeknote 27-31 January 2020</title><link href="https://cioportfolio.github.io/preview/2020/02/weeknote-2.html" rel="alternate" type="text/html" title="Weeknote 27-31 January 2020" /><published>2020-02-03T00:00:00+00:00</published><updated>2020-03-18T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/02/weeknote-2</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/02/weeknote-2.html">&lt;p&gt;On making connections, agile training and recycling sticky notes.
-&lt;!--more--&gt;&lt;/p&gt;
-&lt;blockquote class=&quot;notice--info&quot;&gt;
-  &lt;h4 id=&quot;about-agile-in-cornwall-council&quot;&gt;About agile in Cornwall Council&lt;/h4&gt;
-  &lt;p&gt;We are starting to adopt more agile and open ways of working. We have been experimenting internally with weeknotes&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; and, with a little time lag, we would like to see what publishing these might achieve.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On more tweaks to our agile ways of working, getting comfortable with a 20% success rate and shared learning.</summary></entry><entry><title type="html">Weeknote 20 - 24 July 2020</title><link href="https://cioportfolio.github.io/preview/2020/07/weeknote-25.html" rel="alternate" type="text/html" title="Weeknote 20 - 24 July 2020" /><published>2020-07-20T00:00:00+00:00</published><updated>2020-07-24T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/07/weeknote-25</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/07/weeknote-25.html">&lt;p&gt;On unlocking great ideas, project epilogues, fragmenting systems and wheelchairs by the sea.&lt;/p&gt;
 
-&lt;p&gt;This week I have been trying to extend our links across and outside of the Council. Our HR department has been pleased with the agile way they have been working with one of our product teams and I am going to help them try some of these ideas for their own, non-IT, projects. I’ve also been working with a cross-functional team to build a backlog of opportunities to improve resident satisfaction. This will help get the ideas into shape and the service teams ready so we can then pass them into our IS priorities.&lt;/p&gt;
+&lt;!--more--&gt;
 
-&lt;p&gt;Outside of the Council I attended the Cornwall Geeks meetup&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; in Truro on Thursday. There was a wide range of very smart people including developers working at Wikipedia, ARM and a company handling nanosecond timing for communications networks. One regular travels over from Cambridge to join in most months! It felt a bit awkward meeting strangers in a bar but it is a welcoming crowd and I will try to keep going.&lt;/p&gt;
+&lt;h2 id=&quot;unlocking-great-ideas&quot;&gt;Unlocking great ideas&lt;/h2&gt;
 
-&lt;p&gt;Outside of Cornwall, I managed to call in to the virtual OneTeamGov&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; West meetup&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;. Similar groups in London have been able to do a lot to share good ideas and help each other. It is more difficult to organise in our region but we are going to try.&lt;/p&gt;
+&lt;p&gt;During the COVID-19 crisis we officially paused our agile transformation and the group which coordinated our efforts, called Team Bumblebee. We’ve relaunched Team Bumblebee recently but it didn’t seem right to just continue where we left off as so much has changed. The crisis forced us to make fast changes and in many ways we are now months ahead of what we had planned last year. Team Bumblebee version 2.0 will continue to push our agile transformation but we are also inviting the whole department to implement their own improvement ideas. If teams need support, Team Bumblebee will help with everything from encouragement and coaching to funding and specialist skills.&lt;/p&gt;
 
-&lt;p&gt;I am also trying to introduce teams working on similar things in other Councils. I am hoping Oxford and Manchester can learn a few things from our our Bring Your Own Device team. I also reached out to a group of Councils who are working together to rebuild their websites to see if we can re-use their ideas and, perhaps, some of their research, design or development work. Solihull and Durham use the same call centre system as us and are going to share what they are doing on call recording as our fast change team are going to start work on this next Sprint. These contacts have been thanks to the Local Government Digital community&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;. I am sure we can get a lot more done by collaborating.&lt;/p&gt;
-&lt;h2 id=&quot;adventures-in-agile&quot;&gt;Adventures in agile&lt;/h2&gt;
-&lt;p&gt;Last week many of our team attended certified Scrum Master training&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; (&lt;strong&gt;UPDATE&lt;/strong&gt; I think everyone passed the exam). This week I starting working through a load of parking lot items we couldn’t cover during the course. The list covers a lot of different topics such as how to adapt the ideas for non-software products, for example, physical infrastructure, and how realistic is it for teams to run without a traditional controlling manager. In some cases we can guide people to great resources outside such as articles and videos from conferences and generous practitioners in the community. In other cases we are going to need to run workshops to get into the details and create our own answers. We will track some of the big items through team Bumblebee&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;.
-Other topics that have come up this week include:&lt;/p&gt;
+&lt;p&gt;I am getting involved in one of the first ideas that needs some support. One of the teams has noticed we have a lot of individual IS projects concerning Adult Social Care and are expecting more over the next 12 - 18 months. We are going to see if we can get more done by building up a shared roadmap with the Adults Services teams and getting a head start on any dependencies and potential blockers early.&lt;/p&gt;
+
+&lt;p&gt;We are also supporting an initiative that one of our IS architects proposed. This involves experimenting with some new public cloud services so we can build up our knowledge and ways of working. In the past we might have done this as part of a project for a customer but that can often end up in a deadlock - customers won’t want to commit until we have confidence about timescales and costs and we don’t want to commit until we have spent time working with the new technology.&lt;/p&gt;
+
+&lt;p&gt;Both these examples are about taking calculated risks. Our current processes do allow working this way but it is not the norm and it is easy to hit obstacles. Team Bumblebee can help our teams push past the obstacles and once a few teams have implemented their ideas we can learn how to make things easier in future.&lt;/p&gt;
+
+&lt;h2 id=&quot;project-epilogues&quot;&gt;Project epilogues&lt;/h2&gt;
+
+&lt;p&gt;In previous week notes&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; I’ve mentioned our experiments with light weight project closures. This week four projects were presented for closure through the new process. One was obviously ready to close, one obviously needed to continue for a while but the other two were more complicated. After a little discussion one was closed with some caveats and the other was left open to complete some minor outstanding tasks. You could argue that we are being inconsistent, but while we are still experimenting this is probably ok. Whatever clever processes or rules are defined we are bound to find a project which won’t fit. Perhaps it is better to keep things simple and empower the people reviewing the project to decide how best to handle any complications. Taken together the new process is still more efficient and effective than what went before and it is easy to update our guidance if we learn that we need to put in more control.&lt;/p&gt;
+
+&lt;h2 id=&quot;fragmenting-systems&quot;&gt;Fragmenting systems&lt;/h2&gt;
+
+&lt;p&gt;I’ve been thinking about how one of my projects is challenging a number of conventions. One convention is IT consolidation&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Most IT professionals will tell you that you should consolidate your IT systems. This means looking at the IT your organisation uses and if two systems do a similar job then you should make plans to have only one. I understand why this has become established good practice in IT but the rationale behind it is weak and there are plenty of examples where it is the wrong step to take. Our overall plan is to consolidate systems but one of my projects is doing the exact opposite - taking a single, shared system and splitting it into two. Initially the copies will be almost identical but in the future they will probably diverge as the needs of the services they support evolve. In this case the costs and effort in running the system - soon two systems - is a small portion of the overall cost of the services which use it. The benefits of IT consolidation are outweighed by the cost, effort and compromises needed to force two sets of user needs into one.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
+
+&lt;p&gt;Over the last few weekends I’ve visited a few local beaches with a frail relative and we’ve needed to use a wheelchair. Like a lot of people, I take my mobility for granted and I haven’t really considered what impact a few steps or a poorly maintained path can have. Cornwall will always have natural and rugged places that won’t be very accessible but there are lots of small touches which can make a big difference. I’ll be on the lookout for a few more wheelchair accessible beauty spots during the summer.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;/preview/2020/03/weeknote-9.html&quot;&gt;Previous week note&lt;/a&gt; which introduced what we are doing on project closure. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;A &lt;a href=&quot;/preview/2012/07/how-to-organise-it-on-global-scale.html&quot;&gt;previous blog post&lt;/a&gt; with more about IT consolidation and its limits &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On unlocking great ideas, project epilogues, fragmenting systems and wheelchairs by the sea.</summary></entry><entry><title type="html">Weeknote 13 - 17 July 2020</title><link href="https://cioportfolio.github.io/preview/2020/07/weeknote-24.html" rel="alternate" type="text/html" title="Weeknote 13 - 17 July 2020" /><published>2020-07-13T00:00:00+00:00</published><updated>2020-07-17T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/07/weeknote-24</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/07/weeknote-24.html">&lt;p&gt;On the many faces of progress and virtual privilege walks&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;successes-in-different-guises&quot;&gt;Successes in different guises&lt;/h2&gt;
+
+&lt;p&gt;There are lots of good things to look back on this week although some of them need a bit of interpretation. First the obvious successes.&lt;/p&gt;
+
+&lt;p&gt;We went live with a system which will help our Public Health teams manage any local outbreaks of COVID-19. The end to end process, including investigating options in the market, make-or-buy decision, formal governance and now getting a basic working product in the hands of users took around three weeks. I think we can be rightly pleased with that. This had the ingredients of some of our other fast deliveries - cross functional team, clear priorities, risk-aware approach - and added in some new elements. It was great to have a member of the procurement department as an integral member of the team to help us navigate the various rules and regulations and provide some assurance we were handling the commercial risks appropriately.&lt;/p&gt;
+
+&lt;p&gt;This week I also saw demonstrations of elements of our future web site. These are the first steps of a long project but, even at this early stage, it is good to be seeing working components and draft content rather than presentations and documents.&lt;/p&gt;
+
+&lt;p&gt;Other successes aren’t always so bold and visible but are critically important. Cross-skilling is one of these. Many of our routine IS operations get taken for granted but they require deep specialist skills and, because of the impact if things went wrong, a fair amount of nerve. Several of the teams I work with have been using pair-working and other types of coaching and training so that more of the team have the skills and confidence to carry out this work. This makes our services more resilient, gives us more flexibility in responding to new demands and gives the team more options when people want to take leave or we need to support work out of normal hours.&lt;/p&gt;
+
+&lt;p&gt;Developing systems is a creative, high risk process and so it is inevitable that things go wrong. If you don’t realise this is an unavoidable aspect of the work then you can make bad choices or create perverse incentives - for example, people padding out estimates to game milestone and budget targets. If you accept that problems are going to be a fact of life you can find successes in how we handle them. Some of the good things this week fell into that category.&lt;/p&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;Making good use of skills that are shared across teams, such as cyber security specialists, architects and agile coaches(!), as we don’t have all the skills to do the work in our Scrum teams.&lt;/li&gt;
-  &lt;li&gt;Working out what parts of an agile approach to adopt in teams that are learning and gaining experience whilst keeping the day job going.&lt;/li&gt;
-  &lt;li&gt;How to handle multiple and, sometimes, clashing priorities, for example, where we are trying to support independent business teams on a common technology platform.&lt;/li&gt;
+  &lt;li&gt;We postponed a major systems upgrade for a modest amount of time so that we can fix and test things which are not working.&lt;/li&gt;
+  &lt;li&gt;We escalated lack of progress in part of a project in order to confirm priorities and then give the team the help and support needed to get back on track.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;There are some ideas which come up repeatedly in these sort of challenges:&lt;/p&gt;
+&lt;p&gt;These don’t always feel like successes, particularly to the teams involved. They can provoke tough conversations and fair amount of anxiety and frustration. Sometimes unhelpful behaviours creep in, such as questioning people’s commitment or motivation or down-playing the impact of other work if there is a priority clash. These are understandable reactions but, generally, we acknowlege the issues, respond in a decisive and collaborative way and build the lessons into the next bit of work.&lt;/p&gt;
+
+&lt;p&gt;The lessons we are learning are a few more of the good thing this week. Sometimes it is pretty obvious what needs to change but often there are a range of responses such as:&lt;/p&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;Understand the nature of the work that you are trying to do. Scrum is a framework for product development but not all of our work is about developing products. Some of it looks like consulting, case work, repetitive process or purchasing. Some of this work, e.g. fixing software defects is close enough to product development to fold into Scrum. Other work may be better addressed by others sorts of agile technique such as those inspired by manufacturing.&lt;/li&gt;
-  &lt;li&gt;Understand the nature of the risks you face. You can take risks and try things in software because it is relatively easy to undo what you have done if is doesn’t work. The risks of getting things wrong with data, relationships, contracts and physical assets are different and need to be managed in a different way. You might still be able to get a lot of benefits from using agile approaches (unlock talent, work as a team, create in small batches, get quick feedback) but you may also need to put effort into up front planning and design.&lt;/li&gt;
-  &lt;li&gt;Maintain focus on making progress. You can usually get close to the right answer by trying to make visible and valuable progress. For example, publish something from the team every sprint, leave each meeting with something the team didn’t have at the start. In isolation, you may still be frustrated that your original idea did not work or that things go too slowly for your liking but slow progress is better than none at all and the small, individual steps do accumulate.&lt;/li&gt;
+  &lt;li&gt;increase capacity&lt;/li&gt;
+  &lt;li&gt;build up skills and understanding&lt;/li&gt;
+  &lt;li&gt;communicate more clearly&lt;/li&gt;
+  &lt;li&gt;apply more checks and controls&lt;/li&gt;
+  &lt;li&gt;test and get feedback more quickly&lt;/li&gt;
+  &lt;li&gt;plan and prepare in more detail.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Learning the wrong lesson can compound the issues we are trying to resolve. This is another area which involves a lot of creativity and uncertainty. We won’t always get it right but we will keep improving.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
+
+&lt;p&gt;This week I took part in a virtual privilege walk as part of an event on race in the public sector&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. I wasn’t surprised I scored highly. 28 of the 30 indications of privilege applied to me and even the other two were questionable. Others at the event scored less than 10. More powerful than the scores was the opportunity to talk about all of this with a wide range of people. If you are prepared to put your assumptions to one side I highly recommend you take part in a similar event if you get the chance.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Nour Sidawi lead and &lt;a href=&quot;https://twitter.com/noursidawi/status/1283886528222167042&quot;&gt;tweeted&lt;/a&gt; about the event. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On the many faces of progress and virtual privilege walks</summary></entry><entry><title type="html">Weeknote 29 June - 10 July 2020</title><link href="https://cioportfolio.github.io/preview/2020/06/weeknote-23.html" rel="alternate" type="text/html" title="Weeknote 29 June - 10 July 2020" /><published>2020-06-29T00:00:00+00:00</published><updated>2020-07-10T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/06/weeknote-23</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/06/weeknote-23.html">&lt;p&gt;On an exciting future for Cornwall, reducing the cost of indecision and talking to white people about race.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;an-exciting-future-for-cornwall&quot;&gt;An exciting future for Cornwall&lt;/h2&gt;
+
+&lt;p&gt;The Council’s strategic directors have been holding a series of briefings to update all staff on where the council is heading and seek feedback. It was great to hear the IS team called out for keeping everything working as we shifted thousands of people to home working and rolled out tools to help teams work virtually. The briefings were hosted using these tools and allowed live surveys and Q&amp;amp;A. I think I actually prefer the online version of Q&amp;amp;As. It felt safe to post questions, natural to give support to questions raised by others and efficient to use the time to address the questions which were most popular.&lt;/p&gt;
+
+&lt;p&gt;I like the open and honest way that we are looking at how we should work in the new world we find ourselves in. Staff will have an input but, obviously, the priority needs to be on serving the people of Cornwall&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. The environment, social justice and technology all have a high profile. We also want to hold on to our new agile ways of working. The crisis created an opportunity and need to try out new things but, hopefully, we have learnt some enduring lessons we can use as we come out of the emergency.&lt;/p&gt;
+
+&lt;h2 id=&quot;reducing-the-cost-of-indecision&quot;&gt;Reducing the cost of indecision&lt;/h2&gt;
+
+&lt;p&gt;Like all councils we are entrusted with a significant amount of money so that we can provide or coordinate vital services in our area. All organisations have to balance supply with demand and income with expenditure and it is hard to get the governance and controls around this right. Here are a couple of examples:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Procuring an asset creates an obligation to maintain and, eventually replace, the asset but these are funded and controlled in different ways. The whole IT industry is relatively immature in this&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+  &lt;li&gt;Controls can achieve some of our goals at the expense of others. For example, we can encourage and trust people to make decisions which affect their work but then not give them the spending authority to put their decisions into effect.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All types of organisations have these issues but, councils have to work with much smaller tolerances than the central government and private sector organisations I have worked with. Sometimes this can have unintended effects.&lt;/p&gt;
+
+&lt;p&gt;Imagine an investment in a major IT system. This could represent a significant portion of a council’s budget. Financial controls may demand this is ratified at a senior level. Executives struggle to grasp the options and the uncertain trade-offs between them. IT specialists struggle to express their insight and experience in a way the executives can understand. It takes a long time to work through this communication process and, because people haven’t recognised that it is a communication process, there is no allowance for the time and effort. This time and effort is expensive in itself but can be dwarfed by the value of postponed benefits or the cost of maintaining current operations while a decision is made. It does not take much for this cost of delay to exceed the difference in cost between the options being considered. From here on the process is threatening rather than protecting the organisation.&lt;/p&gt;
+
+&lt;p&gt;There is lots more to do in this area but this week I have spent some time:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;highlighting the human aspects of governance and controls such as understanding your audience and considering things like trust and confidence&lt;/li&gt;
+  &lt;li&gt;using story lines and visual aids to help people understand the options they have (or don’t have)&lt;/li&gt;
+  &lt;li&gt;translating and simplifing the insights and experience of our engineers so that non-specialists can understand their advice and recommendations.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In future I hope to do more on:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;showing where taking a risk is better value than taking more time&lt;/li&gt;
+  &lt;li&gt;treating governance and control as part of the design process rather than something to bolt on at the end&lt;/li&gt;
+  &lt;li&gt;involving the decision makers in the team rather than try to “sell” the team’s ideas to them later&lt;/li&gt;
+  &lt;li&gt;making sure people are clear about their role (it can seem like there are lots of accountable decision makers but most of the people involved are really providing advice or assurance).&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
-&lt;p&gt;Like many digital and agile teams we tend to use sticky-notes and felt pens to help create an engaging and inclusive&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt; environment in workshops and team sessions. The environmental impact of this has come up at work and I joined in a Twitter debate with others having the same thoughts. My personal conclusion was to keep using them in moderation but make sure we buy recyclable ones.&lt;/p&gt;
 
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h4&gt;
+&lt;p&gt;I am part way through &lt;em&gt;Why I’m No Longer Talking to White People About Race&lt;/em&gt; by Reni Eddo-Lodge&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. The book evolved from an exasperated blog post and retains that emotional and personal edge. I am probably just the same as the people that provoked Reni to write her blog post so I am pleased she has kept going but it isn’t a comfortable read. It is a book we need but I wish we didn’t need it.&lt;/p&gt;
+
+&lt;p&gt;6 weeks on from the killing of George Floyd, social media and news feeds are moving on to other topics&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; and it will get easier for people like me to drop back into a comfortable status quo. Fortunately, we have a lot of control over what we see through social media&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; so I expect to stay uncomfortable about racial injustice and my part in it for quite a while. This isn’t a substitute for action but it is a pre-requisite.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:8&quot;&gt;
-      &lt;p&gt;This is a &lt;a href=&quot;https://productforthepeople.xyz/the-why-of-weeknotes-c1cd98967842&quot;&gt;good introduction to the idea of weeknotes&lt;/a&gt;. Some Government Departments and Council’s make their weeknotes public. Hackney and Essex are good examples. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://cornwallgeeks.github.io/&quot;&gt;Cornwall Geeks&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.oneteamgov.uk/&quot;&gt;OneTeamGov&lt;/a&gt; and … &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;… the &lt;a href=&quot;https://www.eventbrite.com/e/oneteamgov-west-virtual-meet-up-registration-79528278221&quot;&gt;West virtual meetup&lt;/a&gt;. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
     &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://localgov.digital/membership&quot;&gt;Local Government Digital&lt;/a&gt;. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;We want to understand the sort of &lt;a href=&quot;https://www.cornwall.gov.uk/council-and-democracy/have-your-say/the-cornwall-we-want/&quot;&gt;Cornwall We Want&lt;/a&gt; for future generations &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;A bit about this in &lt;a href=&quot;/preview/2020/01/weeknote-1.html&quot;&gt;my last Week Notes&lt;/a&gt;. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;A blog post about &lt;a href=&quot;/preview/2012/06/it-needs-to-get-serious-about-asset.html&quot;&gt;IT asset management&lt;/a&gt; &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:6&quot;&gt;
-      &lt;p&gt;See the &lt;a href=&quot;/preview/2020/01/estimating-in-an-agile-way.html&quot;&gt;previous note on estimating&lt;/a&gt;. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Why_I%27m_No_Longer_Talking_to_White_People_About_Race&quot;&gt;Why I’m No Longer Talking to White People About Race&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:7&quot;&gt;
-      &lt;p&gt;Look at &lt;a href=&quot;https://en.wikipedia.org/wiki/Nominal_group_technique&quot;&gt;Nominal Group Technique&lt;/a&gt; and &lt;a href=&quot;http://www.liberatingstructures.com/&quot;&gt;Liberating Structures&lt;/a&gt;. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://trends.google.com/trends/explore?q=%2Fm%2F012hdhkj&amp;amp;date=today%203-m&amp;amp;geo=GB&quot;&gt;Search trends&lt;/a&gt; are an indication of public focus &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;I’ve added &lt;a href=&quot;https://twitter.com/betterallies&quot;&gt;Better Allies&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/RaceJustice&quot;&gt;The Racial Justice Network&lt;/a&gt; to the main Twitter list I read everyday and they both cover small practical things everyone can do &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On making connections, agile training and recycling sticky notes.</summary></entry><entry><title type="html">Estimating in an agile way</title><link href="https://cioportfolio.github.io/preview/2020/01/estimating-in-an-agile-way.html" rel="alternate" type="text/html" title="Estimating in an agile way" /><published>2020-01-30T00:00:00+00:00</published><updated>2020-03-13T16:00:15+00:00</updated><id>https://cioportfolio.github.io/preview/2020/01/estimating-in-an-agile-way</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/01/estimating-in-an-agile-way.html">&lt;p&gt;People would love it if we could predict the future. We get this all the time in our work:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;How much is the project going to cost?&lt;/li&gt;
-  &lt;li&gt;When will it be finished so that we can go live?&lt;/li&gt;
-  &lt;li&gt;We are really busy so how much of Dave’s time do you need next month?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We only get the actual answers to these questions after the work is done (occasionally years later) but people need estimates, forecasts and indications to help coordinate people and activities. Agile ways of working do not immediately remove these needs but techniques like Scrum can help avoid some of the common pitfalls.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On an exciting future for Cornwall, reducing the cost of indecision and talking to white people about race.</summary></entry><entry><title type="html">Weeknote 22 - 26 June 2020</title><link href="https://cioportfolio.github.io/preview/2020/06/weeknote-22.html" rel="alternate" type="text/html" title="Weeknote 22 - 26 June 2020" /><published>2020-06-23T00:00:00+00:00</published><updated>2020-06-27T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/06/weeknote-22</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/06/weeknote-22.html">&lt;p&gt;On pushing boundaries, technical frustrations and race science.&lt;/p&gt;
 
 &lt;!--more--&gt;
-&lt;blockquote class=&quot;notice--info&quot;&gt;
-  &lt;h4 id=&quot;about-agile-in-cornwall-council&quot;&gt;About agile in Cornwall Council&lt;/h4&gt;
-  &lt;p&gt;We are starting to adopt more agile ways of working. My role involves helping people develop their skills and apply agile techniques to improve the services we provide to the public. This series of posts is adapted from the articles I write for our internal teams. They cover some common agile terms and what it all really means.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h2 id=&quot;pushing-at-our-boundaries&quot;&gt;Pushing at our boundaries&lt;/h2&gt;
 
-&lt;h2 id=&quot;avoiding-the-common-estimating-pitfalls&quot;&gt;Avoiding the common estimating pitfalls&lt;/h2&gt;
-&lt;p&gt;Here are some examples of how agile ways of working can help:&lt;/p&gt;
+&lt;p&gt;We’ve been gradually getting more disciplined at prioritising our work and trying to get a few things done well rather than having loads of things partially finished. This is probably harder in a Council like Cornwall than most other types of organisation due to the huge diversity of what we do. If we have capacity to work on our top thirty projects then almost every service department would have one of their top items in progress. At points during the COVID-19 crisis we have been progressing less than 10 which leaves lots of services frustrated. To help keep this in check we have a transparent way of prioritising work which is moderated by a group of service managers. It also helps that we have a growing reputation for fast delivery so services teams can have some confidence that the top items will get done and we can get onto their work next.&lt;/p&gt;
+
+&lt;p&gt;COVID-19 is still pushing at the limits of this. In the middle of the week some work we had been anticipating arrived. It immediately went near the top of the priority list and we had mobilised a team by lunchtime. By the time I finished on Friday we had a rough cut budget, the key parts of a procurement strategy for the elements we can’t do in-house and a draft options appraisal so that we can apply some appropriate control and governance. Early next week we’ll run some demonstrations to see if we can meet at least part of the need re-using things we have already made and, if we are lucky, have at least part of this running by the end of the week. I was impressed by how everyone responded. A couple of things stood out for me.&lt;/p&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;Agile approaches encourage stable, long-running teams which can make cost management much easier, especially in the public sector where money is often locked into specific financial periods.&lt;/li&gt;
-  &lt;li&gt;Two people can take a very different amount of time to perform the same task. The agile emphasis on team working can smooth out these differences and be more predictable.&lt;/li&gt;
-  &lt;li&gt;The timescales for delivery are often dominated by delays between work rather than the effort to complete the work. Multi-skilled teams working on small batches can massively reduce these delays.&lt;/li&gt;
+  &lt;li&gt;People recognised that there is a risk in going fast but there were also risks in not addressing the needs quickly and we have had some quick, pragmatic discussions about how we far we could go in flexing our processes and controls without breaking them&lt;/li&gt;
+  &lt;li&gt;It is hard to move fast with a new and large team when there are a lot of unknowns. At some point during the last few days each of us has run out of energy or creativity for a while but someone else in the team took up the baton and helped us all keep pushing on.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;How can you start to take advantage of agile ways of working in estimating? Here are some suggestions to get started.&lt;/p&gt;
+&lt;h2 id=&quot;technology-frustrations&quot;&gt;Technology frustrations&lt;/h2&gt;
 
-&lt;h2 id=&quot;engage-and-educate-your-stakeholders&quot;&gt;Engage and educate your stakeholders&lt;/h2&gt;
-&lt;p&gt;It is quite reasonable to ask for estimates but people can get into the habit of asking for far more detail and accuracy than they actually need and usually more than you need to manage your work well. You may also find that people have had a bad experience in the past and mistakenly use estimates to try to control teams, put people under pressure or to gain a negotiating advantage. Your stakeholders won’t change over-night but you can try to have an honest conversation about:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;what information they really need to do their job&lt;/li&gt;
-  &lt;li&gt;the unavoidable uncertainty involved in the kind of work we do&lt;/li&gt;
-  &lt;li&gt;the sorts of things they can do to help the work go well.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;The lockdown has forced us to adopt some new tools and ways of working and mostly it has been working well. For example, one of my projects involves changing some of our internal and external data flows so I ran a workshop with our engineers and architects to map out what needed to change and highlight any obstacles. This sort of thing is easy in a room with a flip chart but is suddenly challenging when everyone is remote. Our bring-you-own-device service meant I could share the screen of my iPad as a digital flip chart page and sketch out the flows and capture the key points from the team. As a bonus we left with a digital copy of what we discussed.&lt;/p&gt;
 
-&lt;p&gt;Over time you may find people start asking for different things. Some people even stop asking for forecasts when they can see and touch what the team has delivered in regular demonstrations.&lt;/p&gt;
+&lt;p&gt;It doesn’t always go that well. I started out as a software engineer and so I tend to use small software scripts and programs rather than spreadsheets to get my work done, for example, to keep track of the costs on projects. For personal things, like this blog, I have got used to quickly starting up things in the public cloud and throwing them away when they are not needed. We are building these sorts of capabilities in the IS department but they have to work in a different way. The value and sensitivity of the things I build myself are small - a few basic security controls are good enough. The risk profile for our main IT systems is on a whole different level. To make sure people don’t accidentally or deliberately cause damage we have to disable many convenient features by default or limit access to people with particular roles. A little productivity aid I could create myself becomes a service request for a busy engineer who has a backlog of much more important things to do. Eventually, we will have more automation and self-service for these sorts of things but it is hard to be patient sometimes.&lt;/p&gt;
 
-&lt;h2 id=&quot;use-sprints-to-keep-improving-your-estimating&quot;&gt;Use sprints to keep improving your estimating&lt;/h2&gt;
-&lt;p&gt;Working in sprints&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; does several things which help with estimating.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Getting work done in small chunks sometimes eliminates the need to estimate. For example, waiting two weeks for the actual answer, or a much better informed answer could be better than an immediate but uninformed guess.&lt;/li&gt;
-  &lt;li&gt;Sprints create a very fast feedback loop so you can see how accurate your estimates are, look at what you missed while it is fresh in your mind and see if you can adjust in the next sprint. For example, how much time was taken up by unplanned work and what allowance can you make for it next time?&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
 
-&lt;p&gt;Over a few sprints you will start to see patterns and trends&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; which you can use to guide decisions. The sorts of things teams can do with this are:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;make and maintain longer range estimates based upon actual delivery progress&lt;/li&gt;
-  &lt;li&gt;improve risk management by understanding how steady or volatile their work is&lt;/li&gt;
-  &lt;li&gt;make the case to automate or standardise things to make work more predicable.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;I recently finished &lt;em&gt;Superior&lt;/em&gt; by Angela Saini&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. It was one of a number of titles highlighted during the recent racial injustice demonstrations. I thought I was reasonably well informed but I learnt a lot of new things about the myths and bias behind race science. It is one of those books that leave a mark and I keep hearing and seeing things that make me recall some of the facts and insights which Angela shares.&lt;/p&gt;
 
-&lt;h2 id=&quot;move-from-individual-to-team-based-estimates&quot;&gt;Move from individual to team-based estimates&lt;/h2&gt;
-&lt;p&gt;Individual estimates are really hard to get right because they are sensitive to so many factors:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;do we know in advance what skills are need to complete the work and who in the team has these?&lt;/li&gt;
-  &lt;li&gt;if the individual has the skills how proficient and productive are they?&lt;/li&gt;
-  &lt;li&gt;if they are absent or busy on other things when the work is needed, what happens?&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
 
-&lt;p&gt;Looking at all of this at a team level can help by smoothing out the individual variations and allow the team to move work around as events play out. You end up with less precise but more robust estimates and, for many people, this is more useful that precise but volatile estimates. You can introduce team-based estimating by:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;adding up the total amount of work that the whole team can do together in the next sprint&lt;/li&gt;
-  &lt;li&gt;considering the total amount of work that could be needed to complete each backlog&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; item&lt;/li&gt;
-  &lt;li&gt;reviewing these estimates each sprint and then adjusting.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Some teams find it helpful to change the units they use for estimating (e.g. story points&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; or t-shirt sizing) so they can cover things like risk and complexity along with quantity in a single measure of how hard a bit of work is.&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h4&gt;
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;See an &lt;a href=&quot;/preview/2019/11/so-what-exactly-is-a-sprint.html&quot;&gt;earlier post&lt;/a&gt; about sprints. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Superior:_The_Return_of_Race_Science&quot;&gt;Superior: The Return of Race Science&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On pushing boundaries, technical frustrations and race science.</summary></entry><entry><title type="html">Weeknote 15 - 19 June 2020</title><link href="https://cioportfolio.github.io/preview/2020/06/weeknote-21.html" rel="alternate" type="text/html" title="Weeknote 15 - 19 June 2020" /><published>2020-06-15T00:00:00+00:00</published><updated>2020-06-19T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/06/weeknote-21</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/06/weeknote-21.html">&lt;p&gt;On drinking your own champaign and mentoring.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;I had fun last week but it was a busy one and now I’m running late with my week note. Maybe a short one is better?&lt;/p&gt;
+
+&lt;p&gt;You have probably heard sayings like:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Cobblers children have the worst shoes.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I’ve seen examples of this in most of the places I have worked: tech companies with less than ideal internal IT; consulting companies which don’t take their own advice. I’m guilty of this personally by running complex projects at work but failing at trivial bits of organisation at home.&lt;/p&gt;
+
+&lt;p&gt;This week we made some progress at removing some of these examples in our department by applying our own technology to tackle some internal issues. As an former colleague says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Drinking our own champaign!”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We have to carefully account for what we spend in IS and how we use the time of our teams. This has always involved technology but, sometimes, managing numbers in a spreadsheet can be as laborious and error prone as pen and paper. We are starting to apply more advanced technology and engineering thinking to these sorts of processes. First are reporting and analytical tools to look at our overall capacity and expose patterns we can use to manage our portfolio of work. We are also experimenting with generating summaries of our progress and status from the data our teams create and rely less on manually created reports and presentations.&lt;/p&gt;
+
+&lt;p&gt;Powerful reporting tools and open source software APIs&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; make this much easier to do than when I started out in IT but, usually, the availability of the technology hasn’t been the problem. The usual obstacles are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;there is always something more valuable for our engineers to do (our customers get our best shoes!)&lt;/li&gt;
+  &lt;li&gt;the currenty process hides some “fudges” that the tools don’t handle&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We are tackling the first problem by putting better tools in the hands of internal users so they can self-serve many of their reporting needs. Our agile ways of working are helping to tackle the second problem by using quick prototypes to expose the judgement and workarounds in the process so we can either eliminate them or capture the logic in the tools.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
+
+&lt;p&gt;One of my mentees&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; got in touch to ask for some advice. Their organisation is having to cut back on some spending so some grand plans we discussed before are having to be cut down. We talked through some ideas for adapting to the situation while keeping the spirit of their ideas alive. It does not feel nice to have to cut things down to size but testing out the ideas at a smaller scale initially may turn out to be a good approach. It was great to be able to spend some time considering a different organisation with a different set of issues. I went back to my own work with some new energy and inspiration. Another example of how mentoring can be as valuable for the mentor as the mentee.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;These days you can do almost anything with a bit of coding. Want to find the time of every drum beat or string pluck of you favourite Spotify track? &lt;a href=&quot;https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-analysis/&quot;&gt;No problem&lt;/a&gt;. Now I just need a reason to use this at work! &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.agilealliance.org/glossary/burndown-chart&quot;&gt;Burndown charts&lt;/a&gt; are easy to make and can help you spot patterns and make more reliable forecasts. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;It finances turn out to be quite hard to pin down. I first &lt;a href=&quot;/preview/2014/05/are-you-making-meal-of-your-it-finances.html&quot;&gt;wrote about this&lt;/a&gt; years ago. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;There is a bit more about mentoring in a &lt;a href=&quot;/preview/2020/05/weeknote-18.html#a-word-about-a-good-cause&quot;&gt;previous week note&lt;/a&gt;. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On drinking your own champaign and mentoring.</summary></entry><entry><title type="html">Weeknote 8 - 12 June 2020</title><link href="https://cioportfolio.github.io/preview/2020/06/weeknote-20.html" rel="alternate" type="text/html" title="Weeknote 8 - 12 June 2020" /><published>2020-06-12T00:00:00+00:00</published><updated>2020-06-13T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/06/weeknote-20</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/06/weeknote-20.html">&lt;p&gt;On transforming through a crisis, small continuous improvements and the value of communities.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;transforming-through-a-crisis&quot;&gt;Transforming through a crisis&lt;/h2&gt;
+
+&lt;p&gt;As the lockdown took effect we officially paused the IS agile transformation programme. As many organisations have found the crisis has actually accelerated the pace of change. We’ve been collecting and sharing success stories internally and this week we had another great example.&lt;/p&gt;
+
+&lt;p&gt;For a couple of months our offices have been virtually empty as we quickly got thousands of staff working at home. This has had lots of positive effects but many people find working at home difficult or next to impossible as they don’t have the space, facilities or equipment they need. As the lockdown restrictions are eased we want to help these people return to an office, if that is what they need, but make sure people are spread out to minimise the risk of passing on the virus. From next week people will be able to use an online tool to book desks in reconfigured office spaces. The life-cycle of this development has been around 9 working days. At the moment, delivery at this pace is still the exception rather than the norm but it is great to have real examples to show what is possible.&lt;/p&gt;
+
+&lt;p&gt;To make sure we don’t go back to business as usual we are looking at getting the IS transformation programme moving again. Something similar is happening across the Council as a whole. We are shifting out of crisis response mode into crisis recovery but we also want to prioritise renewal. Adopting more agile ways of working is a part of this.&lt;/p&gt;
+
+&lt;h2 id=&quot;small-continuous-improvements&quot;&gt;Small continuous improvements&lt;/h2&gt;
+
+&lt;p&gt;I had a very fragmented week at work joining a wide range of teams to help progress our work and also take opportunities to try out or introduce agile ways of working. This is continuous improvement at a number of levels in parallel. We are constantly tweaking:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;how an individual team works&lt;/li&gt;
+  &lt;li&gt;how teams collaborate&lt;/li&gt;
+  &lt;li&gt;the agile practices that we share across teams&lt;/li&gt;
+  &lt;li&gt;how we engage people in the community of practice&lt;/li&gt;
+  &lt;li&gt;how we explain what we are doing to the people we serve&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here are some examples of these layers from the last couple of weeks:&lt;/p&gt;
+
+&lt;h3 id=&quot;individual-teams&quot;&gt;Individual teams&lt;/h3&gt;
+&lt;p&gt;I helped one of our infrastructure teams refine their ways of working. In a previous note&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; I wrote about changing the agenda of their regular team catch ups. This has mostly worked but we’ve been neglecting the kanban board so we will bring back a regular walkthrough with the team.&lt;/p&gt;
+
+&lt;p&gt;I also helped refine the product backlog. This is exposing some competing pressures as the order of items moves around depending upon what we think is most important. We’ve considered:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;customer service&lt;/li&gt;
+  &lt;li&gt;performance targets&lt;/li&gt;
+  &lt;li&gt;money&lt;/li&gt;
+  &lt;li&gt;people&lt;/li&gt;
+  &lt;li&gt;strategy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Of course, in the long run, all of these are important but we can’t do everything well at the same time. We need to make some tough choices, even just for a limited period of time, so we can get things done.&lt;/p&gt;
+
+&lt;h3 id=&quot;team-collaboration&quot;&gt;Team collaboration&lt;/h3&gt;
+&lt;p&gt;We are bringing two teams together to work on a major upgrade to the Council’s main website and this is going to feel uncomfortable for a while. We are starting out with different assumptions and expectations and are gradually uncovering what these are. On top of this we want to adopt some of our new ways of working but are also going to discover some of their limits (or our limits in applying them).&lt;/p&gt;
+
+&lt;p&gt;The discomfort could be a sign we are progressing well and quickly getting to the most important issues. It could be a sign that I am not facilitating well enough. Which it is will hopefully become clear next week.&lt;/p&gt;
+
+&lt;h3 id=&quot;sharing-across-teams&quot;&gt;Sharing across teams&lt;/h3&gt;
+&lt;p&gt;We held another session to review a project we wanted to close and used the simple questions we had drafted&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; from earlier reviews. The questions were quick and easy to apply again. This time the work wasn’t finished but the next steps are clear and manageable so we will leave the project open for a short while to get these done.&lt;/p&gt;
+
+&lt;p&gt;This week we also looked at starting projects and might try a similar approach. At first we tried to describe a process for starting projects but they can arrive in lots of different ways and take different routes. The next thing we are going to try is a simple set of principles about what a team needs to start a project well. As long as most of these principles can be met it won’t matter that much what order things happen. In practice, we may still have to start projects before everything is in place but this could help us be clear about the risk we are taking by starting anyway.&lt;/p&gt;
+
+&lt;h3 id=&quot;community-of-practice&quot;&gt;Community of practice&lt;/h3&gt;
+&lt;p&gt;We have been trying a maturity model as a way to track and share our progress in transforming. We aren’t worried about achieving some arbitrary level of agility but we do want to get some evidence of how we are doing. The first model covered some basic agile activities and our community has been discussing what we would expect to see next as we improve and how we would know we have got there.&lt;/p&gt;
+
+&lt;h3 id=&quot;explaining-the-changes&quot;&gt;Explaining the changes&lt;/h3&gt;
+&lt;p&gt;We are working on some big programmes that started life before our agile transformation and not all of these are going smoothly. Like many organisations, we have a history of trying to tightly constrain scope, time and budget up front and leave very little room for manouver to take on board what we learn later.&lt;/p&gt;
+
+&lt;p&gt;Often, a good response to the risks and issues that come up is to apply some of our agile techniques such as prioritise, focus and deliver the most important things early. This still feels like a leap of faith for some of our stakeholders but we are getting better at making the case and some good results from applying this approach during the COVID-19 response has helped build confience.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
+
+&lt;p&gt;I joined in several community events this week. One silver lining of the lockdown is that everyone has to be remote so it is now much easier for me to join in some groups which used to focus on face-to-face events in London.&lt;/p&gt;
+
+&lt;p&gt;The public sector professional community for Digital, Data and Technology&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; ran a lunch and learn looking at the way part of the Home Office has set up self-managed learning. The course covers agile techniques and also serves as a demonstration of how they work in practice. I’m hoping to get a copy of the materials to see if something similar would work for the Council.&lt;/p&gt;
+
+&lt;p&gt;I also joined in an event on Liberating Structures&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;. This was both a way for new people to learn about the techniques and for the experienced practitioners to experiment with applying them virtually. I’ve used some of the structures already but I am definitely still in learning mode. An international virtual workshop with over 60 attendees could have been chaos but Liberating Structures combined with effective facilitation saved the day. A really diverse group also provided a great opportunity for a middle-aged, white bloke to get more practice at shutting up and listening.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;There is a little more about this in &lt;a href=&quot;/preview/2020/06/weeknote-19.html#iterating-our-agile-approach&quot;&gt;a previous week note&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;The three main questions are: Is all the work finished? Are the project accounts closed? Does the live service seem to be working well? &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;The Digital, Data and Technology (DDaT) Profession &lt;a href=&quot;https://www.gov.uk/government/organisations/digital-data-and-technology-profession&quot;&gt;Home Page&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;See the &lt;a href=&quot;/preview/2019/11/an-introduction-to-backlogs.html#what-is-a-product-backlog&quot;&gt;previous post&lt;/a&gt; for more about backlogs. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;There is lots to read up about story points. &lt;a href=&quot;https://www.mountaingoatsoftware.com/blog/what-are-story-points&quot;&gt;This one is quite an easy to read place to start&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;You can have a go with the Liberating Structures yourself and all the information is &lt;a href=&quot;http://www.liberatingstructures.com/&quot;&gt;available on line&lt;/a&gt; but I recommend taking part in an event first to see how they work. This week I joined an event hosted by a &lt;a href=&quot;https://www.liberatingstructureslondon.org.uk/&quot;&gt;volunteer group based in London&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Agile" /><summary type="html">People would love it if we could predict the future. We get this all the time in our work: How much is the project going to cost? When will it be finished so that we can go live? We are really busy so how much of Dave’s time do you need next month? We only get the actual answers to these questions after the work is done (occasionally years later) but people need estimates, forecasts and indications to help coordinate people and activities. Agile ways of working do not immediately remove these needs but techniques like Scrum can help avoid some of the common pitfalls.</summary></entry><entry><title type="html">Weeknote 18-24 January 2020</title><link href="https://cioportfolio.github.io/preview/2020/01/weeknote-1.html" rel="alternate" type="text/html" title="Weeknote 18-24 January 2020" /><published>2020-01-27T00:00:00+00:00</published><updated>2020-03-09T16:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/01/weeknote-1</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/01/weeknote-1.html">&lt;p&gt;On UK Gov Camp 2020, Scrum Master training and working with agile teams.
-&lt;!--more--&gt;&lt;/p&gt;
-&lt;blockquote class=&quot;notice--info&quot;&gt;
-  &lt;h4 id=&quot;about-agile-in-cornwall-council&quot;&gt;About agile in Cornwall Council&lt;/h4&gt;
-  &lt;p&gt;We are starting to adopt more agile and open ways of working. We have been experimenting internally with weeknotes&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; and, with a little time lag, we would like to see what publishing these might achieve.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;On Saturday I attended UK Gov Camp&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; along with a couple of hundred people passionate about digital&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; public services. Whilst Gov Camp is a crazy idea which really should not work, previous attendees, like me, jump through all sorts of obstacles to go each year. It is a chance to connect with like minded people and receive an injection of energy and insight which keeps us going for the next year. The boost from previous years has got me off my backside to properly give back through volunteering, become an ally for under-represented groups in tech and is part of the motivating for moving from the commercial world to become a Council employee.&lt;/p&gt;
-
-&lt;p&gt;Two big topics captured my interest this year:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;sharing ideas, solutions and even services to address common problems faced by councils&lt;/li&gt;
-  &lt;li&gt;deepening the join up between social care and health.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These topics guided my choices about which sessions to attend. One sharing focused session was about working in the open. I asked about how to get started and several people recommended writing weeknotes&lt;sup id=&quot;fnref:1:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; - so here I am!&lt;/p&gt;
-
-&lt;p&gt;Switching to the end of the week, I spent a couple of days with colleagues going through Certified Scrum Master training. I’ve been working with agile for many years, hold some other agile qualifications and am responsible for coaching some of our teams so this may seem like a waste of time. I don’t think so, for several reasons:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;All professionals need to keep in good condition with training and practice. Scrum master training helps me stay intellectually “fit” as an Agile Coach.&lt;/li&gt;
-  &lt;li&gt;Our agile transformation relies on good team work and personal relationships which is strengthened by learning together.&lt;/li&gt;
-  &lt;li&gt;In many ways my role is about on-the-job training so it will help to see, first-hand, the class-room experience people have so I can link my on-the-job work to it.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Between Gov Camp and Scrum Master training I divided my time between two teams which are pushing the limits of agile working in the Council: fast-change and Customer Experience Platform. I haven’t sought permission from the teams to write about their work so, for now, I will focus on some personal observations and lessons.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Play or pass?&lt;/strong&gt; I can’t remember the last time I had a bit of independent work to do. Pretty much all of my job is about facilitating the work of other people, usually big teams. This means there are always far more potential actions you can take than is possible in the time. You need to decide when to play and when to pass. For both teams I had some big choices to make about what I took on and what I left for others. I guess I won’t know for some time how good my choices were this week.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Getting the basics right&lt;/strong&gt; Agile approaches rely on personal interaction rather than lots of rules and procedures but a few boundaries and written records help, especially with part time teams that do not spend all of their time together. This week involved a lot of work around budgets, roles, architecture, commercial arrangements and for both teams we have sometimes let the discussions go on a bit too long and it would have been easier to commit some things into writing, even if they are acknowledged as working assumptions or first drafts to iterate later.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Uncertainty is hard&lt;/strong&gt; I’ve spent most of my career in commercial organisations and always hated the uncertainty of the sales process - I could be busy for 2 years or out of work depending upon on a customer decision. I think I have become complacent with other types of uncertainty and not supportive enough when people are struggling e.g. our sprint backlog is not very clear or our product backlog doesn’t give us much clarity beyond a few sprints.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h4&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;This is a &lt;a href=&quot;https://productforthepeople.xyz/the-why-of-weeknotes-c1cd98967842&quot;&gt;good introduction to the idea of weeknotes&lt;/a&gt;. Some Government Departments and Council’s make their weeknotes public. Hackney and Essex are good examples. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:1:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;Find out more by visiting the &lt;a href=&quot;https://www.ukgovcamp.com/&quot;&gt;Gov Camp website&lt;/a&gt; or checking the &lt;a href=&quot;https://twitter.com/hashtag/ukgc20&quot;&gt;#ukgc20 topic in Twitter&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;Digital in the sense of a way of working rather than about technology. Tom Loosemore has &lt;a href=&quot;https://definitionofdigital.com/&quot;&gt;captured this well&lt;/a&gt;. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On UK Gov Camp 2020, Scrum Master training and working with agile teams.</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On transforming through a crisis, small continuous improvements and the value of communities.</summary></entry></feed>
