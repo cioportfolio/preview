@@ -413,4 +413,9 @@ var store = [{
         "excerpt":"On user needs, Troika Consulting, scaled agile and being a BAME ally. I’m back to my weekly notes after the summer break. I’ve been catching up on things so it has been a mentally chaotic four days. My collection of random reflections are below but, if you are short on...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/09/weeknote-29.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Weeknote 7 - 11 September 2020",
+        "excerpt":"On broadcast communications, our new website, turning problems into lessons, roadmaps and cross-government collaboration. Broadcast communications We already had good tools in place to help us when the COVID-19 lockdown took effect. Very quickly, thousands of Council staff were productively working away from our offices. Since then we’ve been making...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/09/weeknote-30.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"}]

@@ -1,16 +1,81 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-09-06T12:13:52+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 1 - 4 September 2020</title><link href="https://cioportfolio.github.io/preview/2020/09/weeknote-29.html" rel="alternate" type="text/html" title="Weeknote 1 - 4 September 2020" /><published>2020-09-06T00:00:00+00:00</published><updated>2020-09-06T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/09/weeknote-29</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/09/weeknote-29.html">&lt;p&gt;On user needs, Troika Consulting, scaled agile and being a BAME ally.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-09-11T14:14:28+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 7 - 11 September 2020</title><link href="https://cioportfolio.github.io/preview/2020/09/weeknote-30.html" rel="alternate" type="text/html" title="Weeknote 7 - 11 September 2020" /><published>2020-09-09T00:00:00+00:00</published><updated>2020-09-11T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/09/weeknote-30</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/09/weeknote-30.html">&lt;p&gt;On broadcast communications, our new website, turning problems into lessons, roadmaps and cross-government collaboration.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;broadcast-communications&quot;&gt;Broadcast communications&lt;/h2&gt;
+
+&lt;p&gt;We already had good tools in place to help us when the COVID-19 lockdown took effect. Very quickly, thousands of Council staff were productively working away from our offices. Since then we’ve been making more improvements and rolling out more tools. Our attention was initially on individual productivity and then team working. We are already supporting large scale events that are approaching broadcast scale.&lt;/p&gt;
+
+&lt;p&gt;This week over 3000 staff joined in a briefing from the Council Leadership team to get an update on how we are responding to our big challenges. Some of these are well known - such as helping the people and businesses of Cornwall - but some big ones are new and uncertain - climate change, public sector finances and, of course, the effects of the pandemic.&lt;/p&gt;
+
+&lt;p&gt;COVID-19 has forced us to move these events online but, in doing so, it has improved them, even for people working in our offices. We can post questions and comments during the event or see what others are asking and give our support. The leadership team covered the most urgent and popular questions there and then and the others will be picked up in on-going communications. I was really impressed with the way the event was facilitated, the direct way questions were posed and answered and also with the efforts of our teams in IS who make this possible.&lt;/p&gt;
+
+&lt;p&gt;Next week we will have another virtual cabinet meeting live streamed to the public. The agenda includes short-term and medium-term budgets so this will probably have a big audience.&lt;/p&gt;
+
+&lt;h2 id=&quot;new-council-website&quot;&gt;New council website&lt;/h2&gt;
+
+&lt;blockquote class=&quot;notice--info&quot;&gt;
+  &lt;h4 id=&quot;the-new-cornwall-council-website&quot;&gt;The new Cornwall Council website&lt;/h4&gt;
+  &lt;p&gt;We have started the work to update our website. As well as keeping some of the technology up to date we are taking the opportunity to make it easier for people to find what they need. We are also apply leading practice and ideas from other councils and the wider public sector which includes the latest guidelines on accessibility. There is a &lt;a href=&quot;https://www.cornwall.gov.uk/council-and-democracy/website-information-and-help/about-our-website/website-improvement-blog/&quot;&gt;specific blog&lt;/a&gt; about this.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This week the updated design for the main Council Website was handed over to our development team. The team have already been working on upgrades to the website features and can now add in the look and feel of the new design.&lt;/p&gt;
+
+&lt;p&gt;The next big challenge is to add in a cut down version of the web infrastructure. We will give our development team the same sorts of high performance and high security components as the new public website. Our small and private development environment doesn’t really need these components for its own sake but using these components early means we can sort out any issues and lean lessons as early as possible.&lt;/p&gt;
+
+&lt;p&gt;We already use public cloud services for our main website be we are going to take this even further and make more use of the just-in-time and on-demand options that are available. There is quite a lot of work to do but the benefits appear in cost (turn off capacity when demand is low), quality (better, more realistic testing) and performance (turn on extra capacity at peak times).&lt;/p&gt;
+
+&lt;h2 id=&quot;turning-problems-into-lessons&quot;&gt;Turning problems into lessons&lt;/h2&gt;
+
+&lt;p&gt;We made a big change to one of our systems at the end of August. Overall things went really well but there were some unexpected side effects which impacted some users and created a spike in calls to our service desk. This week we held a Change Implementation Review to walk through what happened and take away lessons.&lt;/p&gt;
+
+&lt;p&gt;We may never need to make the same change again but there were some improvements that are worth following up. For example, some users have created their own links and short-cuts which might break during a future upgrade. We need to think about what to do with these e.g. remove them, provide more instructions or make them an official part of the system. We also think the project team could have helped more when the spike in calls started. Some changes to our ways of working here might help with any release for any of our systems in future.&lt;/p&gt;
+
+&lt;h2 id=&quot;roadmaps&quot;&gt;Roadmaps&lt;/h2&gt;
+
+&lt;p&gt;We made progress on several of our Team Bumblebee&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; items this week including the light-touch way we close projects and handle the on-going support and maintenance costs when we introduce a new system or make major changes. We also continued to look at how we can make our product roadmaps more useful.&lt;/p&gt;
+
+&lt;p&gt;There is quite a lot a consistency across the agile and digital community when it comes to things like backlogs&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; but much less for product roadmaps. Many of us think product roadmaps are useful and should be shared more widely but there are lots of complications. Different audiences have very different ideas about what a roadmap should tell them. Here are some examples:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What time horizon is needed? Some want to cover a year or more and some are just interested in the next 8 weeks.&lt;/li&gt;
+  &lt;li&gt;What degree of confidence is needed before something is included in a roadmap? Some cover ideas and innovations that might never become a reality. Some expect the roadmap to represent a promise or commitment to deliver.&lt;/li&gt;
+  &lt;li&gt;What sort of engagement is needed? Some roadmaps communicate things that have already been decided and others are just a prompt for an on-going dialogue.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I am wondering if talking about roadmaps might actually get in our way as there is such a wide variety. Maybe there isn’t anything that can satisfy all of these demands. I would like to delve further into needs and see what we can do to address them. Sometimes we might produce something that has “Roadmap” in the title but we might well have a collection of artefacts or activities, each fit for their particular purpose.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
+
+&lt;p&gt;I’m continuing to work with a cross-government team to help people in the public sector learn about agile and digital ways of working &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. We are most of the way through adapting a Home Office course to make it generic. Next week, I’ll join the other coaches to walk through what we have and get ready for my first go at guiding a small team through the course.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;There is more about Team Bumblebee in a &lt;a href=&quot;/preview/2020/07/weeknote-25.html#unlocking-great-ideas&quot;&gt;previous week note&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;See a previous post for &lt;a href=&quot;/preview/2019/11/an-introduction-to-backlogs.html#what-is-a-product-backlog&quot;&gt;more about backlogs&lt;/a&gt; . &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;There is more background about this in a &lt;a href=&quot;/preview/2020/07/weeknote-26.html#a-word-about-a-good-cause&quot;&gt;previous week note&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On broadcast communications, our new website, turning problems into lessons, roadmaps and cross-government collaboration.</summary></entry><entry><title type="html">Weeknote 1 - 4 September 2020</title><link href="https://cioportfolio.github.io/preview/2020/09/weeknote-29.html" rel="alternate" type="text/html" title="Weeknote 1 - 4 September 2020" /><published>2020-09-06T00:00:00+00:00</published><updated>2020-09-08T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/09/weeknote-29</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/09/weeknote-29.html">&lt;p&gt;On user needs, Troika Consulting, scaled agile and being a BAME ally.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
 &lt;p&gt;I’m back to my weekly notes after the summer break. I’ve been catching up on things so it has been a mentally chaotic four days. My collection of random reflections are below but, if you are short on time, please check out how we are developing our new Council website based upon user needs&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
-&lt;p&gt;I joined a virtual lunch and learn session for delivery managers and product managers across Government. This session was an experiment in using Troika Consulting&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; which is one of the techniques within Liberating Structures&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. I had done the face-to-face version of this before and the virtual version worked really well. Instead of physically turning our backs we switched off our cameras&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; to get the same effect. As well as practicing the technique I got some really helpful advice from the others in my Troika.&lt;/p&gt;
+&lt;p&gt;I joined a virtual lunch and learn session for delivery managers and product managers across Government. This session was an experiment in using Troika Consulting&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; which is one of the techniques within Liberating Structures&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; - I had done the face-to-face version of this before and the virtual version worked really well. Instead of physically turning our backs we switched off our cameras&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; to get the same effect. As well as practicing the technique I got some really helpful advice from the others in my Troika.&lt;/p&gt;
 
-&lt;p&gt;I talked about the various forms of “scaled agile” at our Product Managers meeting. I have some qualifications in this area but in most cases I think it is a bit of a distraction&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;. Most organisations have plenty more they can get out of the basic techniques and principles such as listening to their teams and trying out the improvements they suggest.&lt;/p&gt;
+&lt;p&gt;I talked about the various forms of “scaled agile” at our Product Managers meeting. I have some qualifications in this area but in most cases I think it is a bit of a distraction&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;. Most organisations have plenty more that they can get out of the basic techniques and principles, such as listening to their teams and trying out the improvements they suggest.&lt;/p&gt;
 
 &lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
 
-&lt;p&gt;I’ll be joining the next meeting of the Council BAME&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; Forum this month. I’ve helped similar groups when I was working in London but I am not sure how relevant that will be as the population of Cornwall is very different&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;. I’ll try to put aside my assumptions and just listen to what the forum would like from allies&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;I’ll be joining the next meeting of the Council BAME&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; Forum this month. I’ve helped similar groups when I was working in London but I am not sure how relevant that will be since the population of Cornwall is very different&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;. I’ll try to put aside my assumptions and just listen to what the forum would like from allies&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
 &lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
 
@@ -481,88 +546,4 @@
       &lt;p&gt;There is a bit more about mentoring in a &lt;a href=&quot;/preview/2020/05/weeknote-18.html#a-word-about-a-good-cause&quot;&gt;previous week note&lt;/a&gt;. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On drinking your own champaign and mentoring.</summary></entry><entry><title type="html">Weeknote 8 - 12 June 2020</title><link href="https://cioportfolio.github.io/preview/2020/06/weeknote-20.html" rel="alternate" type="text/html" title="Weeknote 8 - 12 June 2020" /><published>2020-06-12T00:00:00+00:00</published><updated>2020-06-13T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/06/weeknote-20</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/06/weeknote-20.html">&lt;p&gt;On transforming through a crisis, small continuous improvements and the value of communities.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;transforming-through-a-crisis&quot;&gt;Transforming through a crisis&lt;/h2&gt;
-
-&lt;p&gt;As the lockdown took effect we officially paused the IS agile transformation programme. As many organisations have found the crisis has actually accelerated the pace of change. We’ve been collecting and sharing success stories internally and this week we had another great example.&lt;/p&gt;
-
-&lt;p&gt;For a couple of months our offices have been virtually empty as we quickly got thousands of staff working at home. This has had lots of positive effects but many people find working at home difficult or next to impossible as they don’t have the space, facilities or equipment they need. As the lockdown restrictions are eased we want to help these people return to an office, if that is what they need, but make sure people are spread out to minimise the risk of passing on the virus. From next week people will be able to use an online tool to book desks in reconfigured office spaces. The life-cycle of this development has been around 9 working days. At the moment, delivery at this pace is still the exception rather than the norm but it is great to have real examples to show what is possible.&lt;/p&gt;
-
-&lt;p&gt;To make sure we don’t go back to business as usual we are looking at getting the IS transformation programme moving again. Something similar is happening across the Council as a whole. We are shifting out of crisis response mode into crisis recovery but we also want to prioritise renewal. Adopting more agile ways of working is a part of this.&lt;/p&gt;
-
-&lt;h2 id=&quot;small-continuous-improvements&quot;&gt;Small continuous improvements&lt;/h2&gt;
-
-&lt;p&gt;I had a very fragmented week at work joining a wide range of teams to help progress our work and also take opportunities to try out or introduce agile ways of working. This is continuous improvement at a number of levels in parallel. We are constantly tweaking:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;how an individual team works&lt;/li&gt;
-  &lt;li&gt;how teams collaborate&lt;/li&gt;
-  &lt;li&gt;the agile practices that we share across teams&lt;/li&gt;
-  &lt;li&gt;how we engage people in the community of practice&lt;/li&gt;
-  &lt;li&gt;how we explain what we are doing to the people we serve&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Here are some examples of these layers from the last couple of weeks:&lt;/p&gt;
-
-&lt;h3 id=&quot;individual-teams&quot;&gt;Individual teams&lt;/h3&gt;
-&lt;p&gt;I helped one of our infrastructure teams refine their ways of working. In a previous note&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; I wrote about changing the agenda of their regular team catch ups. This has mostly worked but we’ve been neglecting the kanban board so we will bring back a regular walkthrough with the team.&lt;/p&gt;
-
-&lt;p&gt;I also helped refine the product backlog. This is exposing some competing pressures as the order of items moves around depending upon what we think is most important. We’ve considered:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;customer service&lt;/li&gt;
-  &lt;li&gt;performance targets&lt;/li&gt;
-  &lt;li&gt;money&lt;/li&gt;
-  &lt;li&gt;people&lt;/li&gt;
-  &lt;li&gt;strategy&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Of course, in the long run, all of these are important but we can’t do everything well at the same time. We need to make some tough choices, even just for a limited period of time, so we can get things done.&lt;/p&gt;
-
-&lt;h3 id=&quot;team-collaboration&quot;&gt;Team collaboration&lt;/h3&gt;
-&lt;p&gt;We are bringing two teams together to work on a major upgrade to the Council’s main website and this is going to feel uncomfortable for a while. We are starting out with different assumptions and expectations and are gradually uncovering what these are. On top of this we want to adopt some of our new ways of working but are also going to discover some of their limits (or our limits in applying them).&lt;/p&gt;
-
-&lt;p&gt;The discomfort could be a sign we are progressing well and quickly getting to the most important issues. It could be a sign that I am not facilitating well enough. Which it is will hopefully become clear next week.&lt;/p&gt;
-
-&lt;h3 id=&quot;sharing-across-teams&quot;&gt;Sharing across teams&lt;/h3&gt;
-&lt;p&gt;We held another session to review a project we wanted to close and used the simple questions we had drafted&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; from earlier reviews. The questions were quick and easy to apply again. This time the work wasn’t finished but the next steps are clear and manageable so we will leave the project open for a short while to get these done.&lt;/p&gt;
-
-&lt;p&gt;This week we also looked at starting projects and might try a similar approach. At first we tried to describe a process for starting projects but they can arrive in lots of different ways and take different routes. The next thing we are going to try is a simple set of principles about what a team needs to start a project well. As long as most of these principles can be met it won’t matter that much what order things happen. In practice, we may still have to start projects before everything is in place but this could help us be clear about the risk we are taking by starting anyway.&lt;/p&gt;
-
-&lt;h3 id=&quot;community-of-practice&quot;&gt;Community of practice&lt;/h3&gt;
-&lt;p&gt;We have been trying a maturity model as a way to track and share our progress in transforming. We aren’t worried about achieving some arbitrary level of agility but we do want to get some evidence of how we are doing. The first model covered some basic agile activities and our community has been discussing what we would expect to see next as we improve and how we would know we have got there.&lt;/p&gt;
-
-&lt;h3 id=&quot;explaining-the-changes&quot;&gt;Explaining the changes&lt;/h3&gt;
-&lt;p&gt;We are working on some big programmes that started life before our agile transformation and not all of these are going smoothly. Like many organisations, we have a history of trying to tightly constrain scope, time and budget up front and leave very little room for manouver to take on board what we learn later.&lt;/p&gt;
-
-&lt;p&gt;Often, a good response to the risks and issues that come up is to apply some of our agile techniques such as prioritise, focus and deliver the most important things early. This still feels like a leap of faith for some of our stakeholders but we are getting better at making the case and some good results from applying this approach during the COVID-19 response has helped build confience.&lt;/p&gt;
-
-&lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
-
-&lt;p&gt;I joined in several community events this week. One silver lining of the lockdown is that everyone has to be remote so it is now much easier for me to join in some groups which used to focus on face-to-face events in London.&lt;/p&gt;
-
-&lt;p&gt;The public sector professional community for Digital, Data and Technology&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; ran a lunch and learn looking at the way part of the Home Office has set up self-managed learning. The course covers agile techniques and also serves as a demonstration of how they work in practice. I’m hoping to get a copy of the materials to see if something similar would work for the Council.&lt;/p&gt;
-
-&lt;p&gt;I also joined in an event on Liberating Structures&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;. This was both a way for new people to learn about the techniques and for the experienced practitioners to experiment with applying them virtually. I’ve used some of the structures already but I am definitely still in learning mode. An international virtual workshop with over 60 attendees could have been chaos but Liberating Structures combined with effective facilitation saved the day. A really diverse group also provided a great opportunity for a middle-aged, white bloke to get more practice at shutting up and listening.&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;There is a little more about this in &lt;a href=&quot;/preview/2020/06/weeknote-19.html#iterating-our-agile-approach&quot;&gt;a previous week note&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;The three main questions are: Is all the work finished? Are the project accounts closed? Does the live service seem to be working well? &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;The Digital, Data and Technology (DDaT) Profession &lt;a href=&quot;https://www.gov.uk/government/organisations/digital-data-and-technology-profession&quot;&gt;Home Page&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;You can have a go with the Liberating Structures yourself and all the information is &lt;a href=&quot;http://www.liberatingstructures.com/&quot;&gt;available on line&lt;/a&gt; but I recommend taking part in an event first to see how they work. This week I joined an event hosted by a &lt;a href=&quot;https://www.liberatingstructureslondon.org.uk/&quot;&gt;volunteer group based in London&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On transforming through a crisis, small continuous improvements and the value of communities.</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On drinking your own champaign and mentoring.</summary></entry></feed>
