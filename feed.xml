@@ -1,4 +1,53 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-09-11T14:14:28+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 7 - 11 September 2020</title><link href="https://cioportfolio.github.io/preview/2020/09/weeknote-30.html" rel="alternate" type="text/html" title="Weeknote 7 - 11 September 2020" /><published>2020-09-09T00:00:00+00:00</published><updated>2020-09-11T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/09/weeknote-30</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/09/weeknote-30.html">&lt;p&gt;On broadcast communications, our new website, turning problems into lessons, roadmaps and cross-government collaboration.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-09-21T16:22:47+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 14 - 18 September 2020</title><link href="https://cioportfolio.github.io/preview/2020/09/weeknote-31.html" rel="alternate" type="text/html" title="Weeknote 14 - 18 September 2020" /><published>2020-09-17T00:00:00+00:00</published><updated>2020-09-21T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/09/weeknote-31</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/09/weeknote-31.html">&lt;p&gt;On continuous improvement and being a BAME ally.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Most of my time this week was spent on various type of continuous improvement. Here is a selection of things that cropped up.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We ran a session on project finances which included looking at how we developed estimates. I raised the work that the UK Treasury has done on Optimism Bias&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; which can help counter the natural tendency to under estimate, especially when developing new IT systems. Like many of the Treasury publications the work on Optimism Bias contains excellent advice but the way it is written puts off many people from applying it. We also talked about tactics such as presenting ranges of estimates to help get across the uncertainty, especially early on in a project.&lt;/li&gt;
+  &lt;li&gt;At our regular Team Bumblebee&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; catch up we talked about the progress we were making on our IS improvement initiatives including research and development for new public cloud infrastructure and rationalising some of the tools we use for our team backlogs&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+  &lt;li&gt;We had several sessions working on the cloud infrastructure for our new website&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;. A cross-team group of engineers got together to look at some issues with the demonstration system we had built and after some discussion and screen sharing we got it working. We also agreed to add features and components bit by bit so that, eventually, we could demonstrate everything we will need for the new site.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
+
+&lt;p&gt;I joined in a meeting of our staff BAME&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; forum this week. I am White but joined the group to find out what I could do to help as an ally&lt;sup id=&quot;fnref:9&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. I have spent most of my career working in London which is more diverse than the country as a whole. Cornwall is at the other end of the scale&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;. Some of the issues are the same across the country but in Cornwall this can be compounded by a sense of isolation. This is unlikely to change very quickly as lack of diversity probably deters others from visiting or relocating here.&lt;/p&gt;
+
+&lt;p&gt;I believe the Council is committed to improving racial equality but there are some practical challenges in running this sort of staff forum. Only a small number of staff identify as BAME and not all will want to get involved in a forum or have the time and energy to help keep it going. Encouraging allies or merging forums could help in practical terms but would also change the character of the group and could defeat the purpose e.g. an ethnic minorities forum in Cornwall would cover more staff but could easily end up being dominated by White people. Another option might be to join forces with similar groups in other bits of the public sector, such as the NHS, or local charities and businesses.&lt;/p&gt;
+
+&lt;p&gt;I took away some actions including doing some research towards Black History Month&lt;sup id=&quot;fnref:10&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt; and use my cross-Government network to get hold of ideas and materials the forum can use locally.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.gov.uk/government/publications/green-book-supplementary-guidance-optimism-bias&quot;&gt;UK Treasury Guidance on Optimism Bias&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;There is more about Team Bumblebee in a &lt;a href=&quot;/preview/2020/07/weeknote-25.html#unlocking-great-ideas&quot;&gt;previous week note&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;See a previous post for &lt;a href=&quot;/preview/2019/11/an-introduction-to-backlogs.html#what-is-a-product-backlog&quot;&gt;more about backlogs&lt;/a&gt;. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;There is more about our new website in &lt;a href=&quot;/preview/2020/09/weeknote-30.html#new-council-website&quot;&gt;last week’s note&lt;/a&gt;. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot;&gt;
+      &lt;p&gt;This is the official name of the forum but I know many people don’t like this term. &lt;a href=&quot;https://civilservice.blog.gov.uk/2019/07/08/please-dont-call-me-bame-or-bme/&quot;&gt;This post explains more about this&lt;/a&gt;. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:9&quot;&gt;
+      &lt;p&gt;I have found &lt;a href=&quot;https://twitter.com/betterallies&quot;&gt;@betterallies&lt;/a&gt; is a helpful guide on being a good ally. &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:8&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Demography_of_London&quot;&gt;Demography of London&lt;/a&gt; versus &lt;a href=&quot;https://en.wikipedia.org/wiki/Demography_of_Cornwall&quot;&gt;Cornwall&lt;/a&gt;. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:10&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.blackhistorymonth.org.uk/&quot;&gt;Black History Month&lt;/a&gt; runs throughout October. &lt;a href=&quot;#fnref:10&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On continuous improvement and being a BAME ally.</summary></entry><entry><title type="html">Weeknote 7 - 11 September 2020</title><link href="https://cioportfolio.github.io/preview/2020/09/weeknote-30.html" rel="alternate" type="text/html" title="Weeknote 7 - 11 September 2020" /><published>2020-09-09T00:00:00+00:00</published><updated>2020-09-11T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/09/weeknote-30</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/09/weeknote-30.html">&lt;p&gt;On broadcast communications, our new website, turning problems into lessons, roadmaps and cross-government collaboration.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -6,9 +55,9 @@
 
 &lt;p&gt;We already had good tools in place to help us when the COVID-19 lockdown took effect. Very quickly, thousands of Council staff were productively working away from our offices. Since then we’ve been making more improvements and rolling out more tools. Our attention was initially on individual productivity and then team working. We are already supporting large scale events that are approaching broadcast scale.&lt;/p&gt;
 
-&lt;p&gt;This week over 3000 staff joined in a briefing from the Council Leadership team to get an update on how we are responding to our big challenges. Some of these are well known - such as helping the people and businesses of Cornwall - but some big ones are new and uncertain - climate change, public sector finances and, of course, the effects of the pandemic.&lt;/p&gt;
+&lt;p&gt;This week, more than 3000 staff joined in a briefing from the Council Leadership team to get an update on how we are responding to our big challenges. Some of these are well known (such as helping the people and businesses of Cornwall) but some big ones are new and uncertain (climate change, public sector finances and, of course, the effects of the pandemic).&lt;/p&gt;
 
-&lt;p&gt;COVID-19 has forced us to move these events online but, in doing so, it has improved them, even for people working in our offices. We can post questions and comments during the event or see what others are asking and give our support. The leadership team covered the most urgent and popular questions there and then and the others will be picked up in on-going communications. I was really impressed with the way the event was facilitated, the direct way questions were posed and answered and also with the efforts of our teams in IS who make this possible.&lt;/p&gt;
+&lt;p&gt;COVID-19 has forced us to move these events online but, in doing so, it has improved them, even for people working in our offices. We can post questions and comments during the event or see what others are asking and give our support. The leadership team covered the most urgent and popular questions there and then, while the others will be picked up in on-going communications. I was really impressed with the way the event was facilitated, the direct way that questions were posed and answered, and also with the efforts of our teams in IS who make this possible.&lt;/p&gt;
 
 &lt;p&gt;Next week we will have another virtual cabinet meeting live streamed to the public. The agenda includes short-term and medium-term budgets so this will probably have a big audience.&lt;/p&gt;
 
@@ -16,24 +65,22 @@
 
 &lt;blockquote class=&quot;notice--info&quot;&gt;
   &lt;h4 id=&quot;the-new-cornwall-council-website&quot;&gt;The new Cornwall Council website&lt;/h4&gt;
-  &lt;p&gt;We have started the work to update our website. As well as keeping some of the technology up to date we are taking the opportunity to make it easier for people to find what they need. We are also apply leading practice and ideas from other councils and the wider public sector which includes the latest guidelines on accessibility. There is a &lt;a href=&quot;https://www.cornwall.gov.uk/council-and-democracy/website-information-and-help/about-our-website/website-improvement-blog/&quot;&gt;specific blog&lt;/a&gt; about this.&lt;/p&gt;
+  &lt;p&gt;We have started the work to update our website. As well as keeping some of the technology up to date we are taking the opportunity to make it easier for people to find what they need. We are also applying leading practice and ideas from other councils and the wider public sector which includes the latest guidelines on accessibility. There is a &lt;a href=&quot;https://www.cornwall.gov.uk/council-and-democracy/website-information-and-help/about-our-website/website-improvement-blog/&quot;&gt;specific blog&lt;/a&gt; about this.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;This week the updated design for the main Council Website was handed over to our development team. The team have already been working on upgrades to the website features and can now add in the look and feel of the new design.&lt;/p&gt;
+&lt;p&gt;This week the updated design for the main Council Website was handed over to our development team. The team have already been working on upgrades to the website features and can now add in the look and feel of the new design. The next big challenge is to also add in a cut down version of the web infrastructure. We will give our development team the same sorts of high performance and high security components as the new public website. Our small and private development environment doesn’t really need these components for its own sake, but using these components early means we can sort out any issues and learn lessons as early as possible.&lt;/p&gt;
 
-&lt;p&gt;The next big challenge is to add in a cut down version of the web infrastructure. We will give our development team the same sorts of high performance and high security components as the new public website. Our small and private development environment doesn’t really need these components for its own sake but using these components early means we can sort out any issues and lean lessons as early as possible.&lt;/p&gt;
-
-&lt;p&gt;We already use public cloud services for our main website be we are going to take this even further and make more use of the just-in-time and on-demand options that are available. There is quite a lot of work to do but the benefits appear in cost (turn off capacity when demand is low), quality (better, more realistic testing) and performance (turn on extra capacity at peak times).&lt;/p&gt;
+&lt;p&gt;We already use public cloud services for our main website but we are going to take this even further and make more use of the just-in-time and on-demand options that are available. There is quite a lot of work to do but the benefits appear in cost (turn off capacity when demand is low), quality (better, more realistic testing) and performance (turn on extra capacity at peak times).&lt;/p&gt;
 
 &lt;h2 id=&quot;turning-problems-into-lessons&quot;&gt;Turning problems into lessons&lt;/h2&gt;
 
-&lt;p&gt;We made a big change to one of our systems at the end of August. Overall things went really well but there were some unexpected side effects which impacted some users and created a spike in calls to our service desk. This week we held a Change Implementation Review to walk through what happened and take away lessons.&lt;/p&gt;
+&lt;p&gt;We made a big change to one of our systems at the end of August. Overall, things went really well but there were some unexpected side effects which impacted some users and created a spike in calls to our service desk. This week we held a Change Implementation Review to walk through what happened and take away lessons.&lt;/p&gt;
 
 &lt;p&gt;We may never need to make the same change again but there were some improvements that are worth following up. For example, some users have created their own links and short-cuts which might break during a future upgrade. We need to think about what to do with these e.g. remove them, provide more instructions or make them an official part of the system. We also think the project team could have helped more when the spike in calls started. Some changes to our ways of working here might help with any release for any of our systems in future.&lt;/p&gt;
 
 &lt;h2 id=&quot;roadmaps&quot;&gt;Roadmaps&lt;/h2&gt;
 
-&lt;p&gt;We made progress on several of our Team Bumblebee&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; items this week including the light-touch way we close projects and handle the on-going support and maintenance costs when we introduce a new system or make major changes. We also continued to look at how we can make our product roadmaps more useful.&lt;/p&gt;
+&lt;p&gt;We made progress on several of our Team Bumblebee&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; items this week, including the light-touch way we close projects and handle the on-going support and maintenance costs when we introduce a new system or make major changes. We also continued to look at how we can make our product roadmaps more useful.&lt;/p&gt;
 
 &lt;p&gt;There is quite a lot a consistency across the agile and digital community when it comes to things like backlogs&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; but much less for product roadmaps. Many of us think product roadmaps are useful and should be shared more widely but there are lots of complications. Different audiences have very different ideas about what a roadmap should tell them. Here are some examples:&lt;/p&gt;
 
@@ -43,7 +90,7 @@
   &lt;li&gt;What sort of engagement is needed? Some roadmaps communicate things that have already been decided and others are just a prompt for an on-going dialogue.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;I am wondering if talking about roadmaps might actually get in our way as there is such a wide variety. Maybe there isn’t anything that can satisfy all of these demands. I would like to delve further into needs and see what we can do to address them. Sometimes we might produce something that has “Roadmap” in the title but we might well have a collection of artefacts or activities, each fit for their particular purpose.&lt;/p&gt;
+&lt;p&gt;I am wondering if talking about roadmaps might actually get in our way as there is such a wide variety. Maybe there isn’t anything that can satisfy all of these demands. I would like to delve further into our needs and see what we can do to address them. Sometimes we might produce something that has “Roadmap” in the title but we might well have a collection of artefacts or activities, each fit for their particular purpose.&lt;/p&gt;
 
 &lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
 
@@ -497,53 +544,4 @@
       &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Superior:_The_Return_of_Race_Science&quot;&gt;Superior: The Return of Race Science&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On pushing boundaries, technical frustrations and race science.</summary></entry><entry><title type="html">Weeknote 15 - 19 June 2020</title><link href="https://cioportfolio.github.io/preview/2020/06/weeknote-21.html" rel="alternate" type="text/html" title="Weeknote 15 - 19 June 2020" /><published>2020-06-15T00:00:00+00:00</published><updated>2020-06-19T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/06/weeknote-21</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/06/weeknote-21.html">&lt;p&gt;On drinking your own champaign and mentoring.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;I had fun last week but it was a busy one and now I’m running late with my week note. Maybe a short one is better?&lt;/p&gt;
-
-&lt;p&gt;You have probably heard sayings like:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Cobblers children have the worst shoes.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I’ve seen examples of this in most of the places I have worked: tech companies with less than ideal internal IT; consulting companies which don’t take their own advice. I’m guilty of this personally by running complex projects at work but failing at trivial bits of organisation at home.&lt;/p&gt;
-
-&lt;p&gt;This week we made some progress at removing some of these examples in our department by applying our own technology to tackle some internal issues. As an former colleague says:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Drinking our own champaign!”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;We have to carefully account for what we spend in IS and how we use the time of our teams. This has always involved technology but, sometimes, managing numbers in a spreadsheet can be as laborious and error prone as pen and paper. We are starting to apply more advanced technology and engineering thinking to these sorts of processes. First are reporting and analytical tools to look at our overall capacity and expose patterns we can use to manage our portfolio of work. We are also experimenting with generating summaries of our progress and status from the data our teams create and rely less on manually created reports and presentations.&lt;/p&gt;
-
-&lt;p&gt;Powerful reporting tools and open source software APIs&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; make this much easier to do than when I started out in IT but, usually, the availability of the technology hasn’t been the problem. The usual obstacles are:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;there is always something more valuable for our engineers to do (our customers get our best shoes!)&lt;/li&gt;
-  &lt;li&gt;the currenty process hides some “fudges” that the tools don’t handle&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We are tackling the first problem by putting better tools in the hands of internal users so they can self-serve many of their reporting needs. Our agile ways of working are helping to tackle the second problem by using quick prototypes to expose the judgement and workarounds in the process so we can either eliminate them or capture the logic in the tools.&lt;/p&gt;
-
-&lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
-
-&lt;p&gt;One of my mentees&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; got in touch to ask for some advice. Their organisation is having to cut back on some spending so some grand plans we discussed before are having to be cut down. We talked through some ideas for adapting to the situation while keeping the spirit of their ideas alive. It does not feel nice to have to cut things down to size but testing out the ideas at a smaller scale initially may turn out to be a good approach. It was great to be able to spend some time considering a different organisation with a different set of issues. I went back to my own work with some new energy and inspiration. Another example of how mentoring can be as valuable for the mentor as the mentee.&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;These days you can do almost anything with a bit of coding. Want to find the time of every drum beat or string pluck of you favourite Spotify track? &lt;a href=&quot;https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-analysis/&quot;&gt;No problem&lt;/a&gt;. Now I just need a reason to use this at work! &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;It finances turn out to be quite hard to pin down. I first &lt;a href=&quot;/preview/2014/05/are-you-making-meal-of-your-it-finances.html&quot;&gt;wrote about this&lt;/a&gt; years ago. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;There is a bit more about mentoring in a &lt;a href=&quot;/preview/2020/05/weeknote-18.html#a-word-about-a-good-cause&quot;&gt;previous week note&lt;/a&gt;. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On drinking your own champaign and mentoring.</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On pushing boundaries, technical frustrations and race science.</summary></entry></feed>
