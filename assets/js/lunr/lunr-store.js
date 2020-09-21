@@ -420,7 +420,7 @@ var store = [{
         "url": "https://cioportfolio.github.io/preview/2020/09/weeknote-30.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
         "title": "Weeknote 14 - 18 September 2020",
-        "excerpt":"On continuous improvement and being a BAME ally. Most of my time this week was spent on various type of continuous improvement. Here is a selection of things that cropped up. We ran a session on project finances which included looking at how we developed estimates. I raised the work...","categories": [],
+        "excerpt":"On continuous improvement and being a BAME ally. Most of my time this week was spent on various types of continuous improvement. Here is a selection of things that cropped up: We ran a session on project finances which included looking at how we develop estimates. I raised the work...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/09/weeknote-31.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"}]
