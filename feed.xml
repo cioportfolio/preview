@@ -1,4 +1,70 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-09-21T18:00:34+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 14 - 18 September 2020</title><link href="https://cioportfolio.github.io/preview/2020/09/weeknote-31.html" rel="alternate" type="text/html" title="Weeknote 14 - 18 September 2020" /><published>2020-09-17T00:00:00+00:00</published><updated>2020-09-21T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/09/weeknote-31</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/09/weeknote-31.html">&lt;p&gt;On continuous improvement and being a BAME ally.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-09-25T15:05:26+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 21 - 25 September 2020</title><link href="https://cioportfolio.github.io/preview/2020/09/weeknote-32.html" rel="alternate" type="text/html" title="Weeknote 21 - 25 September 2020" /><published>2020-09-22T00:00:00+00:00</published><updated>2020-09-25T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/09/weeknote-32</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/09/weeknote-32.html">&lt;p&gt;On bots, onions and virtual good byes&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;I’m trying out a slightly different format for this week’s note.&lt;/p&gt;
+
+&lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
+
+&lt;p&gt;Robotic Process Automation (RPA) is a fancy name for a simple idea. It basically means getting a computer to pretend to be a human user of another computer program. There are often much better ways to get computers to work together but RPA can be a useful work around to some problems, for example, if the program is too difficult to change. I’ve used this sort of thing so that people don’t waste time copying bits of data around. With some of the advanced tools around, computers can also take on some of the time consuming and tedious data processing that our teams have to do.&lt;/p&gt;
+
+&lt;p&gt;Where we can, we design away this sort of work but we also have some instances where RPA might be a useful temporary solution. For example, the COVID-19 crisis is changing the demands on our services. Some manual tasks which are currently a regular annoyance could quickly become an overwhelming bottleneck. This week I have been working on a trial to understand where RPA could help us tackle these sorts of problems.&lt;/p&gt;
+
+&lt;p&gt;We are working in a very agile way to develop our new website&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. We made some estimates of the effort involved before we started and, so far, we are consuming less than we expected. That sounds good, but is it really? Low effort could mean that we are more productive than we thought but it could just mean we are going too slow. Ideally, we would put the new features live every sprint&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; or so and it would be easy to judge our progress. At the moment, we are also applying a new design and experimenting with new public cloud infrastructure so there will be quite a gap before we know for sure that each feature is done. This week I’ve been going through some hints and tips with the delivery manager so we can get some confidence that the productivity is real and we won’t get a nasty surprise later on.&lt;/p&gt;
+
+&lt;p&gt;I’ve written before about how we are introducing light weight agile processes&lt;sup id=&quot;fnref:9&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. This week a small group looked at system implementation. We already have thorough processes for this but they are not always used in the best way or at the ideal time. Learning from some of our earlier work we have drafted some simple guidelines in the form of a “Ready for Implementation” definition. This isn’t a substitute for the processes and controls but we hope it will help our teams decide what is right for their particular work. Next step is to iterate it with some of our teams and then add it to our handy collection of “House Rules”.&lt;/p&gt;
+
+&lt;h2 id=&quot;learning&quot;&gt;Learning&lt;/h2&gt;
+
+&lt;p&gt;We are rationalising the number of tools we use to manage our backlogs&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;. This week I joined a workshop for one of our teams that is moving from their current tool to join the rest of our teams. Our teams need some freedom to manage their work in a way that suits them but we are also providing some guidelines to make it easier to manage some of our bigger bits of work that involve coordinating several teams.&lt;/p&gt;
+
+&lt;p&gt;I joined the regular show and tell by our website development team&lt;sup id=&quot;fnref:1:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. I had seen some of the features demonstrated before but, this time, we got to see how these looked using the new website design. The developers also used our new public cloud environment so the team that manage our website can log in and try things out for themselves.&lt;/p&gt;
+
+&lt;p&gt;This week I join another workshop on Liberating Structures&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;. These sessions are both a way to learn about the structures and also help the community work out how to use them online. I must admit I struggled with the “Drawing Together” structure this week but I shared how I felt with the group and got some useful ideas to try next time.&lt;/p&gt;
+
+&lt;p&gt;Many agile techniques recommend that a team has all the people it needs to create and operate the product it is developing. I’ve only worked with one team that has managed this entirely. Most teams have to call in part-time or ad-hoc help to get their work done. Sometimes this is not a major problem but we have several teams which are regularly being blocked because of this. I’m taking a fresh look at Emily Webber’s work on the Team Onion&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; to get some ideas to try. At some point we might need to look at merging or reforming teams to make it easier for people to collaborate on our most important work.&lt;/p&gt;
+
+&lt;p&gt;I am going to be getting more involved with the teams that manage some of our big, back office systems which handle staff and financial information such as budgets, spending, absences and formal approvals. These systems rely on close collaboration between several departments such as People and Workforce, IS and Finance so I have spent some time finding out who is involved and how it is organised.&lt;/p&gt;
+
+&lt;h2 id=&quot;caring&quot;&gt;Caring&lt;/h2&gt;
+
+&lt;p&gt;With the help of some cross-Government contacts I’ve been looking into anti-racism policies. In the UK, most organisation policies on race are based upon the Equalities Act 2010. They probably help prevent many explicit acts of racial discrimination and provide remedies if something has demonstrably gone wrong. I’m learning that this doesn’t go far enough. We are not really treating people fairly unless we also think about unconscious bias, different levels of privilege, systemic racism and the toll that acts of racism on the other side of the world can have on people here. There is a good body of evidence about all of this&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; but it is also easy to find people who have doubts about the scale of the problem and a few who think further action on it would be unfair to them&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;. I am going to keep looking but also investigate alternatives. An anti-racism strategy&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt; might be a better way to get the sort of support and action that is needed.&lt;/p&gt;
+
+&lt;p&gt;A couple of our team are moving on to new things and are leaving the Council - one of them is going to the other side of the World! Remote working has been good for me in many respects but saying good bye over a video call really isn’t good enough.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;There is more about our new website in &lt;a href=&quot;/preview/2020/09/weeknote-30.html#new-council-website&quot;&gt;an earlier week note&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:1:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;There is more about &lt;a href=&quot;/preview/2019/11/so-what-exactly-is-a-sprint.html&quot;&gt;sprints&lt;/a&gt; in an earlier blog post. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:9&quot;&gt;
+      &lt;p&gt;Have a look at this &lt;a href=&quot;/preview/2020/03/weeknote-9.html&quot;&gt;previous week note&lt;/a&gt; for more on this. &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;See a previous post for &lt;a href=&quot;/preview/2019/11/an-introduction-to-backlogs.html#what-is-a-product-backlog&quot;&gt;more about backlogs&lt;/a&gt;. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;You can have a go with the Liberating Structures yourself and all the information is &lt;a href=&quot;http://www.liberatingstructures.com/&quot;&gt;available on line&lt;/a&gt; but I recommend taking part in an event first to see how they work. This week I joined an event hosted by a &lt;a href=&quot;https://www.liberatingstructureslondon.org.uk/&quot;&gt;volunteer group based in London&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;Emily’s &lt;a href=&quot;https://emilywebber.co.uk/agile-team-onion-many-pizzas-really-take-feed-team/&quot;&gt;Team Onion blog post&lt;/a&gt; is a great introduction and you can also request her free ebook. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:8&quot;&gt;
+      &lt;p&gt;The &lt;a href=&quot;https://www.gov.uk/government/publications/lammy-review-final-report&quot;&gt;Lammy Review&lt;/a&gt; is a good place to start. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;Recent examples include those responding to Black Lives Matter demonstrations with “all lives matter” and other &lt;a href=&quot;https://www.macmillandictionary.com/dictionary/british/whataboutery&quot;&gt;whataboutery&lt;/a&gt;. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot;&gt;
+      &lt;p&gt;CIPD have published some good ideas on &lt;a href=&quot;https://www.cipd.co.uk/knowledge/fundamentals/relations/diversity/anti-racism-strategy&quot;&gt;anti-racism strategies&lt;/a&gt;. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On bots, onions and virtual good byes</summary></entry><entry><title type="html">Weeknote 14 - 18 September 2020</title><link href="https://cioportfolio.github.io/preview/2020/09/weeknote-31.html" rel="alternate" type="text/html" title="Weeknote 14 - 18 September 2020" /><published>2020-09-17T00:00:00+00:00</published><updated>2020-09-21T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/09/weeknote-31</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/09/weeknote-31.html">&lt;p&gt;On continuous improvement and being a BAME ally.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -512,36 +578,4 @@
       &lt;p&gt;I’ve added &lt;a href=&quot;https://twitter.com/betterallies&quot;&gt;Better Allies&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/RaceJustice&quot;&gt;The Racial Justice Network&lt;/a&gt; to the main Twitter list I read everyday and they both cover small practical things everyone can do &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On an exciting future for Cornwall, reducing the cost of indecision and talking to white people about race.</summary></entry><entry><title type="html">Weeknote 22 - 26 June 2020</title><link href="https://cioportfolio.github.io/preview/2020/06/weeknote-22.html" rel="alternate" type="text/html" title="Weeknote 22 - 26 June 2020" /><published>2020-06-23T00:00:00+00:00</published><updated>2020-06-27T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/06/weeknote-22</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/06/weeknote-22.html">&lt;p&gt;On pushing boundaries, technical frustrations and race science.&lt;/p&gt;
-
-&lt;!--more--&gt;
-&lt;h2 id=&quot;pushing-at-our-boundaries&quot;&gt;Pushing at our boundaries&lt;/h2&gt;
-
-&lt;p&gt;We’ve been gradually getting more disciplined at prioritising our work and trying to get a few things done well rather than having loads of things partially finished. This is probably harder in a Council like Cornwall than most other types of organisation due to the huge diversity of what we do. If we have capacity to work on our top thirty projects then almost every service department would have one of their top items in progress. At points during the COVID-19 crisis we have been progressing less than 10 which leaves lots of services frustrated. To help keep this in check we have a transparent way of prioritising work which is moderated by a group of service managers. It also helps that we have a growing reputation for fast delivery so services teams can have some confidence that the top items will get done and we can get onto their work next.&lt;/p&gt;
-
-&lt;p&gt;COVID-19 is still pushing at the limits of this. In the middle of the week some work we had been anticipating arrived. It immediately went near the top of the priority list and we had mobilised a team by lunchtime. By the time I finished on Friday we had a rough cut budget, the key parts of a procurement strategy for the elements we can’t do in-house and a draft options appraisal so that we can apply some appropriate control and governance. Early next week we’ll run some demonstrations to see if we can meet at least part of the need re-using things we have already made and, if we are lucky, have at least part of this running by the end of the week. I was impressed by how everyone responded. A couple of things stood out for me.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;People recognised that there is a risk in going fast but there were also risks in not addressing the needs quickly and we have had some quick, pragmatic discussions about how we far we could go in flexing our processes and controls without breaking them&lt;/li&gt;
-  &lt;li&gt;It is hard to move fast with a new and large team when there are a lot of unknowns. At some point during the last few days each of us has run out of energy or creativity for a while but someone else in the team took up the baton and helped us all keep pushing on.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;technology-frustrations&quot;&gt;Technology frustrations&lt;/h2&gt;
-
-&lt;p&gt;The lockdown has forced us to adopt some new tools and ways of working and mostly it has been working well. For example, one of my projects involves changing some of our internal and external data flows so I ran a workshop with our engineers and architects to map out what needed to change and highlight any obstacles. This sort of thing is easy in a room with a flip chart but is suddenly challenging when everyone is remote. Our bring-you-own-device service meant I could share the screen of my iPad as a digital flip chart page and sketch out the flows and capture the key points from the team. As a bonus we left with a digital copy of what we discussed.&lt;/p&gt;
-
-&lt;p&gt;It doesn’t always go that well. I started out as a software engineer and so I tend to use small software scripts and programs rather than spreadsheets to get my work done, for example, to keep track of the costs on projects. For personal things, like this blog, I have got used to quickly starting up things in the public cloud and throwing them away when they are not needed. We are building these sorts of capabilities in the IS department but they have to work in a different way. The value and sensitivity of the things I build myself are small - a few basic security controls are good enough. The risk profile for our main IT systems is on a whole different level. To make sure people don’t accidentally or deliberately cause damage we have to disable many convenient features by default or limit access to people with particular roles. A little productivity aid I could create myself becomes a service request for a busy engineer who has a backlog of much more important things to do. Eventually, we will have more automation and self-service for these sorts of things but it is hard to be patient sometimes.&lt;/p&gt;
-
-&lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
-
-&lt;p&gt;I recently finished &lt;em&gt;Superior&lt;/em&gt; by Angela Saini&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. It was one of a number of titles highlighted during the recent racial injustice demonstrations. I thought I was reasonably well informed but I learnt a lot of new things about the myths and bias behind race science. It is one of those books that leave a mark and I keep hearing and seeing things that make me recall some of the facts and insights which Angela shares.&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Superior:_The_Return_of_Race_Science&quot;&gt;Superior: The Return of Race Science&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On pushing boundaries, technical frustrations and race science.</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On an exciting future for Cornwall, reducing the cost of indecision and talking to white people about race.</summary></entry></feed>

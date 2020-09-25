@@ -423,4 +423,9 @@ var store = [{
         "excerpt":"On continuous improvement and being a BAME ally. Most of my time this week was spent on various types of continuous improvement. Here is a selection of things that cropped up: We ran a session on project finances which included looking at how we develop estimates. I raised the work...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/09/weeknote-31.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Weeknote 21 - 25 September 2020",
+        "excerpt":"On bots, onions and virtual good byes I’m trying out a slightly different format for this week’s note. Doing Robotic Process Automation (RPA) is a fancy name for a simple idea. It basically means getting a computer to pretend to be a human user of another computer program. There are...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/09/weeknote-32.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"}]
