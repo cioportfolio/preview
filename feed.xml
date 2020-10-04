@@ -1,4 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-09-26T10:46:41+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 21 - 25 September 2020</title><link href="https://cioportfolio.github.io/preview/2020/09/weeknote-32.html" rel="alternate" type="text/html" title="Weeknote 21 - 25 September 2020" /><published>2020-09-22T00:00:00+00:00</published><updated>2020-09-25T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/09/weeknote-32</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/09/weeknote-32.html">&lt;p&gt;On bots, onions and virtual good byes&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-10-04T11:36:03+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 28 September - 2 October 2020</title><link href="https://cioportfolio.github.io/preview/2020/10/weeknote-33.html" rel="alternate" type="text/html" title="Weeknote 28 September - 2 October 2020" /><published>2020-10-04T00:00:00+00:00</published><updated>2020-10-04T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/10/weeknote-33</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/10/weeknote-33.html">&lt;p&gt;On back-office systems, exciting administration and Black Voices Cornwall.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
+&lt;p&gt;&lt;i class=&quot;fas fa-comments-dollar&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Most of this week was taken up with work on our big, back office systems (these help us manage things like finance, workforce and procurement). New, public-cloud versions of these systems were launched back in April - pretty impressive given that COVID-19 hit just as the final preparations were being made. The teams are moving the last few processes and departments over to the new systems and then we can get on with the next big tasks.&lt;/p&gt;
+
+&lt;p&gt;One task is to turn off the old versions of the systems but keep any critical data. Regulations require that we keep some of the data for years and even more is needed for 6 - 18 months for routine operations.&lt;/p&gt;
+
+&lt;p&gt;The other big task is to make the shift from a project organisation to a product organisation. Projects are, by definition, temporary. We know these new systems will eventually be replaced too but for most practical purposes they are now a permanent part of the organisation. We need to make maintaining and improving them part of our normal routines.&lt;/p&gt;
+
+&lt;h2 id=&quot;learning&quot;&gt;Learning&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-clipboard-check&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Our Team Bumblebee session over ran this week as we were talking about a new idea to make it easier to keep track of all of our work. This should have been a really short, dull conversation about administration but lots of us find this difficult and confusing. Like many councils, we have the staff and budget of a medium sized business but the breadth of products and services that you would only find in a big conglomerate. Some great ideas were suggested to help us manage this without distracting our teams from getting things done for residents and our other users.&lt;/p&gt;
+
+&lt;h2 id=&quot;planning&quot;&gt;Planning&lt;/h2&gt;
+
+&lt;p&gt;Work on our back office systems will take up the bulk of my time over the coming months. Other things on my mind are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;i class=&quot;fas fa-network-wired&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Helping the website team sort out our future production infrastructure so they can complete the development work on something similar.&lt;/li&gt;
+  &lt;li&gt;&lt;i class=&quot;fas fa-chalkboard-teacher&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Help one of our infrastructure teams move beyond some of the basic agile practices so they can be agile in all aspects of their work.&lt;/li&gt;
+  &lt;li&gt;&lt;i class=&quot;fas fa-graduation-cap&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Running a local pilot of the course I have been working on with a cross-government group. This is a self managed way to learn about developing great digital public services.&lt;/li&gt;
+  &lt;li&gt;&lt;i class=&quot;fas fa-laptop-code&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Running through a basic coding course so I can coach at a future codebar event&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-smile&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Next week I’ll try to join in some of the the Local Gov Camp&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; sessions and watch some lightning talks&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; to get ideas for a home made Xmas display.&lt;/p&gt;
+
+&lt;h2 id=&quot;caring&quot;&gt;Caring&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-universal-access&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I had a really good catch up with a couple of people from our Equality and Inclusion team about what allies could be doing for our Employee Support Forums and how to encourage that to happen. Allies are already contributing to some of the forums but we could probably use many more, if that is what forum members want.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-fist-raised fa-flip-horizontal&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I watched the virtual launch party for Black Voices Cornwall which was a fabulous antidote to a lot of the negativity in the news and social media. The presenters did not gloss over any of the issues but I think their creative, positive and collaborative response sets a great example. Their first campaign, to provide support for schools during Black History Month, has hit its funding target and it will be great to see where this new organisation goes next.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;More about &lt;a href=&quot;https://codebar.io/&quot;&gt;codebar&lt;/a&gt;. They are on the look out for more coaches. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://digitaltransform.org.uk/2020/08/monday-october-5th-friday-october-9th-2020/&quot;&gt;LocalGovCamp2020&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;I’ve not joined in the &lt;a href=&quot;https://twitter.com/PrestonRJam&quot;&gt;PrestonRJam&lt;/a&gt; talks before so I not really sure what to expect. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On back-office systems, exciting administration and Black Voices Cornwall.</summary></entry><entry><title type="html">Weeknote 21 - 25 September 2020</title><link href="https://cioportfolio.github.io/preview/2020/09/weeknote-32.html" rel="alternate" type="text/html" title="Weeknote 21 - 25 September 2020" /><published>2020-09-22T00:00:00+00:00</published><updated>2020-09-25T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/09/weeknote-32</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/09/weeknote-32.html">&lt;p&gt;On bots, onions and virtual good byes&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -15,7 +63,7 @@
 
 &lt;h2 id=&quot;learning&quot;&gt;Learning&lt;/h2&gt;
 
-&lt;p&gt;&lt;i class=&quot;fas fa-clipboard-list&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; We are rationalising the number of tools we use to manage our backlogs&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;. This week I joined a workshop for one of our teams that is moving from their current tool to join the rest of our department. Well all need some freedom to manage our work in a way that suits us but some common guidelines can make it easier to manage bigger bits of work that involve coordinating several groups.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&quot;fas fa-clipboard-list&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; We are rationalising the number of tools we use to manage our backlogs&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;. This week I joined a workshop for one of our teams that is moving from their current tool to join the rest of our department. We all need some freedom to manage our work in a way that suits us but some common guidelines can make it easier to manage bigger bits of work that involve coordinating several groups.&lt;/p&gt;
 
 &lt;p&gt;&lt;i class=&quot;fas fa-globe&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I joined the regular show and tell for our website development&lt;sup id=&quot;fnref:1:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. I had seen some of the features demonstrated before but, this time, we got to see how these looked using the new website design. The developers also used our new public cloud environment so the team that manage our website can log in and try things out for themselves.&lt;/p&gt;
 
@@ -512,69 +560,4 @@
       &lt;p&gt;Nour Sidawi lead and &lt;a href=&quot;https://twitter.com/noursidawi/status/1283886528222167042&quot;&gt;tweeted&lt;/a&gt; about the event. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On the many faces of progress and virtual privilege walks</summary></entry><entry><title type="html">Weeknote 29 June - 10 July 2020</title><link href="https://cioportfolio.github.io/preview/2020/06/weeknote-23.html" rel="alternate" type="text/html" title="Weeknote 29 June - 10 July 2020" /><published>2020-06-29T00:00:00+00:00</published><updated>2020-07-10T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/06/weeknote-23</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/06/weeknote-23.html">&lt;p&gt;On an exciting future for Cornwall, reducing the cost of indecision and talking to white people about race.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;an-exciting-future-for-cornwall&quot;&gt;An exciting future for Cornwall&lt;/h2&gt;
-
-&lt;p&gt;The Council’s strategic directors have been holding a series of briefings to update all staff on where the council is heading and seek feedback. It was great to hear the IS team called out for keeping everything working as we shifted thousands of people to home working and rolled out tools to help teams work virtually. The briefings were hosted using these tools and allowed live surveys and Q&amp;amp;A. I think I actually prefer the online version of Q&amp;amp;As. It felt safe to post questions, natural to give support to questions raised by others and efficient to use the time to address the questions which were most popular.&lt;/p&gt;
-
-&lt;p&gt;I like the open and honest way that we are looking at how we should work in the new world we find ourselves in. Staff will have an input but, obviously, the priority needs to be on serving the people of Cornwall&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. The environment, social justice and technology all have a high profile. We also want to hold on to our new agile ways of working. The crisis created an opportunity and need to try out new things but, hopefully, we have learnt some enduring lessons we can use as we come out of the emergency.&lt;/p&gt;
-
-&lt;h2 id=&quot;reducing-the-cost-of-indecision&quot;&gt;Reducing the cost of indecision&lt;/h2&gt;
-
-&lt;p&gt;Like all councils we are entrusted with a significant amount of money so that we can provide or coordinate vital services in our area. All organisations have to balance supply with demand and income with expenditure and it is hard to get the governance and controls around this right. Here are a couple of examples:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Procuring an asset creates an obligation to maintain and, eventually replace, the asset but these are funded and controlled in different ways. The whole IT industry is relatively immature in this&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
-  &lt;li&gt;Controls can achieve some of our goals at the expense of others. For example, we can encourage and trust people to make decisions which affect their work but then not give them the spending authority to put their decisions into effect.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;All types of organisations have these issues but, councils have to work with much smaller tolerances than the central government and private sector organisations I have worked with. Sometimes this can have unintended effects.&lt;/p&gt;
-
-&lt;p&gt;Imagine an investment in a major IT system. This could represent a significant portion of a council’s budget. Financial controls may demand this is ratified at a senior level. Executives struggle to grasp the options and the uncertain trade-offs between them. IT specialists struggle to express their insight and experience in a way the executives can understand. It takes a long time to work through this communication process and, because people haven’t recognised that it is a communication process, there is no allowance for the time and effort. This time and effort is expensive in itself but can be dwarfed by the value of postponed benefits or the cost of maintaining current operations while a decision is made. It does not take much for this cost of delay to exceed the difference in cost between the options being considered. From here on the process is threatening rather than protecting the organisation.&lt;/p&gt;
-
-&lt;p&gt;There is lots more to do in this area but this week I have spent some time:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;highlighting the human aspects of governance and controls such as understanding your audience and considering things like trust and confidence&lt;/li&gt;
-  &lt;li&gt;using story lines and visual aids to help people understand the options they have (or don’t have)&lt;/li&gt;
-  &lt;li&gt;translating and simplifing the insights and experience of our engineers so that non-specialists can understand their advice and recommendations.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In future I hope to do more on:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;showing where taking a risk is better value than taking more time&lt;/li&gt;
-  &lt;li&gt;treating governance and control as part of the design process rather than something to bolt on at the end&lt;/li&gt;
-  &lt;li&gt;involving the decision makers in the team rather than try to “sell” the team’s ideas to them later&lt;/li&gt;
-  &lt;li&gt;making sure people are clear about their role (it can seem like there are lots of accountable decision makers but most of the people involved are really providing advice or assurance).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
-
-&lt;p&gt;I am part way through &lt;em&gt;Why I’m No Longer Talking to White People About Race&lt;/em&gt; by Reni Eddo-Lodge&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. The book evolved from an exasperated blog post and retains that emotional and personal edge. I am probably just the same as the people that provoked Reni to write her blog post so I am pleased she has kept going but it isn’t a comfortable read. It is a book we need but I wish we didn’t need it.&lt;/p&gt;
-
-&lt;p&gt;6 weeks on from the killing of George Floyd, social media and news feeds are moving on to other topics&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; and it will get easier for people like me to drop back into a comfortable status quo. Fortunately, we have a lot of control over what we see through social media&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; so I expect to stay uncomfortable about racial injustice and my part in it for quite a while. This isn’t a substitute for action but it is a pre-requisite.&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;We want to understand the sort of &lt;a href=&quot;https://www.cornwall.gov.uk/council-and-democracy/have-your-say/the-cornwall-we-want/&quot;&gt;Cornwall We Want&lt;/a&gt; for future generations &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;A blog post about &lt;a href=&quot;/preview/2012/06/it-needs-to-get-serious-about-asset.html&quot;&gt;IT asset management&lt;/a&gt; &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Why_I%27m_No_Longer_Talking_to_White_People_About_Race&quot;&gt;Why I’m No Longer Talking to White People About Race&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://trends.google.com/trends/explore?q=%2Fm%2F012hdhkj&amp;amp;date=today%203-m&amp;amp;geo=GB&quot;&gt;Search trends&lt;/a&gt; are an indication of public focus &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;I’ve added &lt;a href=&quot;https://twitter.com/betterallies&quot;&gt;Better Allies&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/RaceJustice&quot;&gt;The Racial Justice Network&lt;/a&gt; to the main Twitter list I read everyday and they both cover small practical things everyone can do &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On an exciting future for Cornwall, reducing the cost of indecision and talking to white people about race.</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On the many faces of progress and virtual privilege walks</summary></entry></feed>

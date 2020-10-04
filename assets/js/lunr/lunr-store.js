@@ -428,4 +428,9 @@ var store = [{
         "excerpt":"On bots, onions and virtual good byes I’m trying out a slightly different format for this week’s note. Doing Robotic Process Automation (RPA) is a fancy name for a simple idea. It basically means getting a computer to pretend to be a human user of another computer program. There are...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/09/weeknote-32.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Weeknote 28 September - 2 October 2020",
+        "excerpt":"On back-office systems, exciting administration and Black Voices Cornwall. Doing Most of this week was taken up with work on our big, back office systems (these help us manage things like finance, workforce and procurement). New, public-cloud versions of these systems were launched back in April - pretty impressive given...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/10/weeknote-33.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"}]
