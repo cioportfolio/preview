@@ -433,4 +433,9 @@ var store = [{
         "excerpt":"On back-office systems, exciting administration and Black Voices Cornwall. Doing Most of this week was taken up with work on our big, back office systems (these help us manage things like finance, workforce and procurement). New, public-cloud versions of these systems were launched back in April - pretty impressive given...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/10/weeknote-33.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Weeknote 5 - 9 October 2020",
+        "excerpt":"On … Doing Most of this week was basic housekeeping work on our finance, workforce and procurement systems. This included delving into things like funding and staffing for on-going support and maintenance and getting on top of a long list of small issues that have emerged since we made some...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/10/weeknote-34.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"}]
