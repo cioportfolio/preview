@@ -435,7 +435,7 @@ var store = [{
         "url": "https://cioportfolio.github.io/preview/2020/10/weeknote-33.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
         "title": "Weeknote 5 - 9 October 2020",
-        "excerpt":"Mostly back-office systems with a sprinkle of other things Doing Most of this week was basic housekeeping work on our finance, workforce and procurement systems. This included delving into things like funding and staffing for on-going support and maintenance and getting on top of a long list of small issues...","categories": [],
+        "excerpt":"Mostly back-office systems with a sprinkle of other things Doing Most of this week was basic housekeeping work on our finance, workforce and procurement systems. This included delving into things like funding and staffing for on-going support. I’ve also been looking into a long list of small issues that have...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/10/weeknote-34.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"}]
