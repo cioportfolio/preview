@@ -1,4 +1,75 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-10-12T16:41:00+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 5 - 9 October 2020</title><link href="https://cioportfolio.github.io/preview/2020/10/weeknote-34.html" rel="alternate" type="text/html" title="Weeknote 5 - 9 October 2020" /><published>2020-10-12T00:00:00+00:00</published><updated>2020-10-12T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/10/weeknote-34</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/10/weeknote-34.html">&lt;p&gt;Mostly back-office systems with a sprinkle of other things&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-10-18T10:28:10+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 12 - 16 October 2020</title><link href="https://cioportfolio.github.io/preview/2020/10/weeknote-35.html" rel="alternate" type="text/html" title="Weeknote 12 - 16 October 2020" /><published>2020-10-17T00:00:00+00:00</published><updated>2020-10-19T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/10/weeknote-35</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/10/weeknote-35.html">&lt;p&gt;On organising for a complex product team, cyber attacks, tinkering with Xmas lights.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
+&lt;p&gt;&lt;i class=&quot;fas fa-comments-dollar&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Back in April we moved our main finance and workforce systems onto a cloud computing service. This week I was planning what to do with the remains of the old system. Some of this is fairly old IT equipment and software so we will get rid of that as quickly as possible. Some is business critical data which we are required to keep for 6 years or even longer. Finding a new home for that data is fairly easy; presenting it in a way that people can use is a lot harder. Finance and workforce system keep a lot of their information in codes and the raw data is unreadable - for a comparison imagine trying to watch a DVD or streamed film without the app which converts the binary data into shapes and sounds. We can’t keep the original system so we will need to convert the data into something easier to read - the equivalent for a TV show would be an old fashioned reel of film.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-hands-helping&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I’ve been interviewing people for some vacant roles. The applicants were impressive and I am glad I am not the one that has to make the final decisions.&lt;/p&gt;
+
+&lt;h2 id=&quot;thinking&quot;&gt;Thinking&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-sitemap&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; The project which launched our new finance and workforce systems will need to come to an end soon and we will need a different way of organising all the work needed to keep them running. I’ve started to talk to people about product organisations but none of these looks as simple as a project. Some of the on-going work is best organised around the technology as there are a set of components which are shared between all areas of the business. Some of the work involves coordinating specialist professionals, processes and the IT systems together to provide a good service to staff and managers. This sort of work is best organised around business topics such as people management, payroll, accounts and procurement.&lt;/p&gt;
+
+&lt;p&gt;One option is to fall back to how things were organised before we started work on the new systems but so much else has changed I am not sure anyone thinks that can work. We could adopt a structure that is working for another organisation or hire someone to design something specific for us - this can work but, from my time as a management consultant, I know the success rate is quite low. If enough of the teams support the idea, I would like to experiment to find the right structure for us. We can start with a reasonable template, such as the organisation we already have for the first few months of the new systems, and then adapt from there.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-users&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; As well as structure I’m thinking about how we can manage our capacity. We are going to have a fairly steady base load of work which is best handled by permanent staff. There will also be occasional short bursts of workload where we just need more pairs of hands or rare specialist skills that we don’t need all of the time. For most of my career I have worked for technology or management consulting firms and it was fairly easy to run flexible teams. There was not a massive difference between what we offered permanent and temporary staff (for example, total compensation and job security) or our processes (for example, approval for roles). We could react quite quickly and change direction if needed. In a rural local authority the differences can be large and much harder to manage.&lt;/p&gt;
+
+&lt;p&gt;The first thing I am focusing on is priorities. On a day by day basis our capacity is effectively fixed so the only thing we can do is make sure the people we have are working on the most valuable things. The next focus is gathering better information so we can make well informed decisions about moving people or work within the Council and using partners and suppliers when appropriate.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-unlock-alt&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; News of the problems at Hackney&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; was a sobering reminder that no organisation can consider itself immune from a cyber attack. People sometimes moan about the security controls we have at Cornwall but these controls are all designed to get in the way of potential attackers (none of the controls can provide complete protection&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;) and limit the harm that a successful attacker can cause. As well as wishing the Hackney team a speedy recovery we have to assume that the next news story will be about a breach at Cornwall and prepare accordingly.&lt;/p&gt;
+
+&lt;h2 id=&quot;planning&quot;&gt;Planning&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-film&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt;My backlog of conference catch ups has grown, sadly. There is still a lot from Local Gov Camp&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; to look at and this week added Dorset’s Festival of the Future&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;, Digital Leaders Week&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; and UCD Gathering&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. I suspect I am not going to get to participate in many of these sorts of events for a month or two. Also coming up soon are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;i class=&quot;fas fa-road&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; publishing the prototype roadmap we have been building for our IS product teams&lt;/li&gt;
+  &lt;li&gt;&lt;i class=&quot;fas fa-hands-helping&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Swapping notes about agile councils with one of the team at MHCLG&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;i class=&quot;fas fa-lightbulb&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Helping one of our delivery managers get ready for a project retrospective&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;i class=&quot;fas fa-fist-raised fa-flip-horizontal&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Attending the next BAME forum meeting&lt;sup id=&quot;fnref:9&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tinkering&quot;&gt;Tinkering&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-tools&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I’ve worked with software for years but, until I was inspired by one of my colleagues, I’d never got my hands dirty with electronics. Over the last few years I’ve been building something which started as a Christmas light display&lt;sup id=&quot;fnref:10&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt; and has turned into a virtual meeting back drop. I’m now collecting parts and equipment for something a bit larger. It won’t be showing 4K movies but might manage some old fashioned computer game characters.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;It must have been really hard for Matthew Cain &lt;a href=&quot;https://mcain.co.uk/weeknote-special-1&quot;&gt;to write about this&lt;/a&gt; but I am really glad he did. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;I wrote about &lt;a href=&quot;/preview/2017/08/forget-about-being-secure.html&quot;&gt;the limits to security&lt;/a&gt; a couple of years ago. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://digitaltransform.org.uk/2020/08/monday-october-5th-friday-october-9th-2020/&quot;&gt;LocalGovCamp2020&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.dorsetcouncil.gov.uk/your-council/festival-of-the-future/festival-of-the-future.aspx&quot;&gt;Festival of the Future&lt;/a&gt;. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://digileaders.com/week/&quot;&gt;Digital Leaders Week&lt;/a&gt;. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.ucdgathering.net/&quot;&gt;UCD Gathering&lt;/a&gt;. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot;&gt;
+      &lt;p&gt;The &lt;a href=&quot;https://mhclgdigital.blog.gov.uk/&quot;&gt;Digital team at the Ministry of Housing, Communities &amp;amp; Local Government&lt;/a&gt; have a great approach to helping the sector. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:8&quot;&gt;
+      &lt;p&gt;We already do a lot of &lt;a href=&quot;https://www.scrum.org/resources/what-is-a-sprint-retrospective&quot;&gt;sprint retrospectives&lt;/a&gt; but this one for a whole project will need to be a little different. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:9&quot;&gt;
+      &lt;p&gt;There is a &lt;a href=&quot;/preview/2020/09/weeknote-31.html#a-word-about-a-good-cause&quot;&gt;bit more about our BAME forum in a previous note&lt;/a&gt;. &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:10&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;/preview/2020/03/weeknote-7.html#a-word-about-a-good-cause-or-two&quot;&gt;Some more on the light display in a previous week note&lt;/a&gt; &lt;a href=&quot;#fnref:10&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On organising for a complex product team, cyber attacks, tinkering with Xmas lights.</summary></entry><entry><title type="html">Weeknote 5 - 9 October 2020</title><link href="https://cioportfolio.github.io/preview/2020/10/weeknote-34.html" rel="alternate" type="text/html" title="Weeknote 5 - 9 October 2020" /><published>2020-10-12T00:00:00+00:00</published><updated>2020-10-12T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/10/weeknote-34</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/10/weeknote-34.html">&lt;p&gt;Mostly back-office systems with a sprinkle of other things&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -529,40 +600,4 @@
       &lt;p&gt;More on how we think about &lt;a href=&quot;/preview/2019/11/an-introduction-to-backlogs.html&quot;&gt;backlogs&lt;/a&gt; &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On more tweaks to our agile ways of working, getting comfortable with a 20% success rate and shared learning.</summary></entry><entry><title type="html">Weeknote 20 - 24 July 2020</title><link href="https://cioportfolio.github.io/preview/2020/07/weeknote-25.html" rel="alternate" type="text/html" title="Weeknote 20 - 24 July 2020" /><published>2020-07-20T00:00:00+00:00</published><updated>2020-07-24T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/07/weeknote-25</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/07/weeknote-25.html">&lt;p&gt;On unlocking great ideas, project epilogues, fragmenting systems and wheelchairs by the sea.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;unlocking-great-ideas&quot;&gt;Unlocking great ideas&lt;/h2&gt;
-
-&lt;p&gt;During the COVID-19 crisis we officially paused our agile transformation and the group which coordinated our efforts, called Team Bumblebee. We’ve relaunched Team Bumblebee recently but it didn’t seem right to just continue where we left off as so much has changed. The crisis forced us to make fast changes and in many ways we are now months ahead of what we had planned last year. Team Bumblebee version 2.0 will continue to push our agile transformation but we are also inviting the whole department to implement their own improvement ideas. If teams need support, Team Bumblebee will help with everything from encouragement and coaching to funding and specialist skills.&lt;/p&gt;
-
-&lt;p&gt;I am getting involved in one of the first ideas that needs some support. One of the teams has noticed we have a lot of individual IS projects concerning Adult Social Care and are expecting more over the next 12 - 18 months. We are going to see if we can get more done by building up a shared roadmap with the Adults Services teams and getting a head start on any dependencies and potential blockers early.&lt;/p&gt;
-
-&lt;p&gt;We are also supporting an initiative that one of our IS architects proposed. This involves experimenting with some new public cloud services so we can build up our knowledge and ways of working. In the past we might have done this as part of a project for a customer but that can often end up in a deadlock - customers won’t want to commit until we have confidence about timescales and costs and we don’t want to commit until we have spent time working with the new technology.&lt;/p&gt;
-
-&lt;p&gt;Both these examples are about taking calculated risks. Our current processes do allow working this way but it is not the norm and it is easy to hit obstacles. Team Bumblebee can help our teams push past the obstacles and once a few teams have implemented their ideas we can learn how to make things easier in future.&lt;/p&gt;
-
-&lt;h2 id=&quot;project-epilogues&quot;&gt;Project epilogues&lt;/h2&gt;
-
-&lt;p&gt;In previous week notes&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; I’ve mentioned our experiments with light weight project closures. This week four projects were presented for closure through the new process. One was obviously ready to close, one obviously needed to continue for a while but the other two were more complicated. After a little discussion one was closed with some caveats and the other was left open to complete some minor outstanding tasks. You could argue that we are being inconsistent, but while we are still experimenting this is probably ok. Whatever clever processes or rules are defined we are bound to find a project which won’t fit. Perhaps it is better to keep things simple and empower the people reviewing the project to decide how best to handle any complications. Taken together the new process is still more efficient and effective than what went before and it is easy to update our guidance if we learn that we need to put in more control.&lt;/p&gt;
-
-&lt;h2 id=&quot;fragmenting-systems&quot;&gt;Fragmenting systems&lt;/h2&gt;
-
-&lt;p&gt;I’ve been thinking about how one of my projects is challenging a number of conventions. One convention is IT consolidation&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Most IT professionals will tell you that you should consolidate your IT systems. This means looking at the IT your organisation uses and if two systems do a similar job then you should make plans to have only one. I understand why this has become established good practice in IT but the rationale behind it is weak and there are plenty of examples where it is the wrong step to take. Our overall plan is to consolidate systems but one of my projects is doing the exact opposite - taking a single, shared system and splitting it into two. Initially the copies will be almost identical but in the future they will probably diverge as the needs of the services they support evolve. In this case the costs and effort in running the system - soon two systems - is a small portion of the overall cost of the services which use it. The benefits of IT consolidation are outweighed by the cost, effort and compromises needed to force two sets of user needs into one.&lt;/p&gt;
-
-&lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
-
-&lt;p&gt;Over the last few weekends I’ve visited a few local beaches with a frail relative and we’ve needed to use a wheelchair. Like a lot of people, I take my mobility for granted and I haven’t really considered what impact a few steps or a poorly maintained path can have. Cornwall will always have natural and rugged places that won’t be very accessible but there are lots of small touches which can make a big difference. I’ll be on the lookout for a few more wheelchair accessible beauty spots during the summer.&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;/preview/2020/03/weeknote-9.html&quot;&gt;Previous week note&lt;/a&gt; which introduced what we are doing on project closure. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;A &lt;a href=&quot;/preview/2012/07/how-to-organise-it-on-global-scale.html&quot;&gt;previous blog post&lt;/a&gt; with more about IT consolidation and its limits &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On unlocking great ideas, project epilogues, fragmenting systems and wheelchairs by the sea.</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On more tweaks to our agile ways of working, getting comfortable with a 20% success rate and shared learning.</summary></entry></feed>
