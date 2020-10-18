@@ -440,7 +440,7 @@ var store = [{
         "url": "https://cioportfolio.github.io/preview/2020/10/weeknote-34.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
         "title": "Weeknote 12 - 16 October 2020",
-        "excerpt":"On organising for a complex product team, cyber attacks, tinkering with Xmas lights. Doing Back in April we moved our main finance and workforce systems onto a cloud computing service. This week I was planning what to do with the remains of the old system. Some of this is fairly...","categories": [],
+        "excerpt":"On organising for a complex product team, cyber attacks and tinkering with Xmas lights. Doing Back in April we moved our main finance and workforce systems onto a cloud computing service. This week I have been planning what to do with the remains of the old system. Some of it...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/10/weeknote-35.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"}]
