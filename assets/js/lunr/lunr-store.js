@@ -445,7 +445,7 @@ var store = [{
         "url": "https://cioportfolio.github.io/preview/2020/10/weeknote-35.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
         "title": "Weeknote 19 - 23 October 2020",
-        "excerpt":"On interim operating models, pressure and free-speech. Doing Lots of my work this week concerned how we keep our finance and workforce systems working well after the implementation project has closed but before our new long-term operating model has been put into place. This could be a period of several...","categories": [],
+        "excerpt":"On interim operating models, pressure and free speech. Doing Lots of my work this week concerned how we keep our finance and workforce systems working well after the implementation project has closed, but before our new long-term operating model has been put into place. This could be a period of...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/10/weeknote-36.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"}]
