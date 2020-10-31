@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-10-25T21:06:44+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 19 - 23 October 2020</title><link href="https://cioportfolio.github.io/preview/2020/10/weeknote-36.html" rel="alternate" type="text/html" title="Weeknote 19 - 23 October 2020" /><published>2020-10-24T00:00:00+00:00</published><updated>2020-10-25T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/10/weeknote-36</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/10/weeknote-36.html">&lt;p&gt;On interim operating models, pressure and free speech.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-10-31T17:22:51+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 26 - 30 October 2020</title><link href="https://cioportfolio.github.io/preview/2020/10/weeknote-37.html" rel="alternate" type="text/html" title="Weeknote 26 - 30 October 2020" /><published>2020-10-31T00:00:00+00:00</published><updated>2020-11-01T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/10/weeknote-37</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/10/weeknote-37.html">&lt;p&gt;On all the roadmaps and an animated, LED pumpkin&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-road&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; This week included lots of work on roadmaps.&lt;/p&gt;
+
+&lt;p&gt;First up was a prototype of an overall roadmap to cover all of the product teams in IS. We are trying a simple now-next-later format as this is something that all of our product teams could produce&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. We’ve included items for half of the product teams so far but when we have finished it might be overwhelming.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/preview/assets/images/roadmap2_reduced.png&quot; alt=&quot;Excerpt of the prototype IS roadmap&quot; class=&quot;align-center&quot; style=&quot;max-width:800px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The prototype now has some simple filters so people can just look at the things that interest them. I’ve mentioned previously&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; that we are probably going about this in the wrong way, e.g. building something before we are clear who it is for and what they need from it. In our favour it is has been very cheap to produce and if it fails to provoke more productive conversations we can throw it away.&lt;/p&gt;
+
+&lt;p&gt;I’ve also been updating a more unconventional roadmap for one of our product teams. Rather than sharing the priorities and plans that have already been developed this roadmap is to help me make sense of a whole collection of competing demands so that we can develop priorities and plans. I’m using the lanes on this map to help me understand where I should be focusing my attention and get feedback from the product team and other stakeholders.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/preview/assets/images/issues2_reduced.png&quot; alt=&quot;Excerpt of a sense making roadmap&quot; class=&quot;align-center&quot; style=&quot;max-width:800px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The lanes at the bottom cover the basic necessities such as safety and sustainability. Making things safe might include applying security patches or replacing equipment before it fails. Filling one of our open posts so that we are not dependent upon temporary contractors falls into the sustainability lane. The middle lanes covers continuous improvement and the top lanes are about developing new capabilities or extending the product into new areas.&lt;/p&gt;
+
+&lt;p&gt;There are important things in all of the lanes but we can’t tackle them all at once. So far, the lanes are helping to show the things that are non-negotiable, e.g. staying safe, and things where we have more room for manoeuvre, e.g. taking on a new set of users.&lt;/p&gt;
+
+&lt;p&gt;Other roadmaps this week have covered more conventional things such as the feature roadmap for our financial and workforce systems and the improvement roadmap for some of our reporting services.&lt;/p&gt;
+
+&lt;h2 id=&quot;planning&quot;&gt;Planning&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-lightbulb&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Highlights for the next week or so are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Testing the next quarterly release of our financial and workforce systems. It is great getting a regular flow of fixes and improvements but the fixed timetable can be quite nerve-racking.&lt;/li&gt;
+  &lt;li&gt;Sorting out monthly billing. I need to do this for the projects I oversee but I’m also going to share the tools I use with some of our delivery managers to take some of the manual effort away.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tinkering&quot;&gt;Tinkering&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/preview/assets/images/pumpkin.gif&quot; alt=&quot;LED pumpkin gif&quot; class=&quot;align-right&quot; style=&quot;max-height: 150px&quot; /&gt; &lt;i class=&quot;fas fa-tools&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I couldn’t resist having a play to mark Halloween. Not my best effort but it will do until I can find time to build the bigger display I have planned&lt;sup id=&quot;fnref:10&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;I borrowed some of the ideas from the digital roadmap that Croydon published a few months ago. &lt;a href=&quot;https://croydon.digital/roadmap/&quot;&gt;Croydon are now going even further with their map&lt;/a&gt; and it will be good to see the next version soon. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Some &lt;a href=&quot;/preview/2020/09/weeknote-30.html#roadmaps&quot;&gt;background to the roadmap prototype&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:10&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;/preview/2020/03/weeknote-7.html#a-word-about-a-good-cause-or-two&quot;&gt;Some more on the light display in a previous week note&lt;/a&gt; &lt;a href=&quot;#fnref:10&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On all the roadmaps and an animated, LED pumpkin</summary></entry><entry><title type="html">Weeknote 19 - 23 October 2020</title><link href="https://cioportfolio.github.io/preview/2020/10/weeknote-36.html" rel="alternate" type="text/html" title="Weeknote 19 - 23 October 2020" /><published>2020-10-24T00:00:00+00:00</published><updated>2020-10-25T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/10/weeknote-36</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/10/weeknote-36.html">&lt;p&gt;On interim operating models, pressure and free speech.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -495,97 +546,4 @@
       &lt;p&gt;I covered this &lt;a href=&quot;/preview/2020/07/weeknote-26.html#a-word-about-a-good-cause&quot;&gt;shared learning initiative&lt;/a&gt; in a previous week note. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On innovation allies, always learning, fighting for flow and more shared learning.</summary></entry><entry><title type="html">Weeknote 03 - 07 August 2020</title><link href="https://cioportfolio.github.io/preview/2020/08/weeknote-27.html" rel="alternate" type="text/html" title="Weeknote 03 - 07 August 2020" /><published>2020-08-03T00:00:00+00:00</published><updated>2020-08-07T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/08/weeknote-27</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/08/weeknote-27.html">&lt;p&gt;On Bob the Builder, balancing the books and assurance without certainty.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;can-we-fix-it&quot;&gt;Can we fix it?&lt;/h2&gt;
-
-&lt;p&gt;Bob the Builder was a big thing while my kids were growing up. No problem can withstand Bob’s relentless, positive, can-do attitude - even if it is a bit wearing for his colleagues now and again&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. This kind of spirit is helping to make our Team Bumblebee&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; catch ups one of my weekly highlights.&lt;/p&gt;
-
-&lt;p&gt;Some new people joined in this week and we bolted through 6 items. We didn’t find an owner for a couple of the ideas but we are going to get on with the rest. That is probably a good ratio given the team all have day jobs to do.&lt;/p&gt;
-
-&lt;p&gt;I wonder if I am allowed to play Bob’s theme tune at the start of the meetings?&lt;/p&gt;
-
-&lt;h2 id=&quot;balancing-the-books&quot;&gt;Balancing the books&lt;/h2&gt;
-
-&lt;p&gt;Making sense of the financial aspects of IT has always been difficult&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. Adding agile and digital ways of working into the mix may solve some of the problems but it also creates new ones. We use a mixed approach at Cornwall Council. IT costs are handled by a mixture of:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;bulk allocation of budget to the IT department&lt;/li&gt;
-  &lt;li&gt;direct pass through of costs from suppliers to user teams.&lt;/li&gt;
-  &lt;li&gt;internal transfers based upon standard service charges or at an hourly rate, often for engineers’ time.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Just as for any large organisation, this is a compromise which tries to put cost-benefit decisions in the right place (usually the end-user or someone close to them) without wasting a lot of effort administering tiny amounts of money. Public sector organisations usually have a hard time with this, as we can’t keep profits to invest later or borrow against future benefits in the same way as a commercial organisation.&lt;/p&gt;
-
-&lt;p&gt;This week I have been working on various aspects of IT finance. One example is automating some of the steps in our financial process. We can’t always eliminate administration but it is good to minimise the manual effort we need to put into it. Another example is making ongoing costs clear in the early stages of developing a new system or service with our customers. Ongoing costs include things like regular maintenance upgrades, or periodically moving onto completely new technology.&lt;/p&gt;
-
-&lt;p&gt;It helps to keep in mind that there isn’t one perfect way to manage IT costs. When choosing between different approaches, money might not be the deciding factor at all. Other things to consider include:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;aligning incentives&lt;/li&gt;
-  &lt;li&gt;bringing authority and accountability together&lt;/li&gt;
-  &lt;li&gt;placing risks with the people best able to manage them&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These can have a big impact on what IT costs and who picks up the bill.&lt;/p&gt;
-
-&lt;h2 id=&quot;assurance-without-certainty&quot;&gt;Assurance without certainty&lt;/h2&gt;
-
-&lt;p&gt;Another topic that has come up a few times this week is how assurance and risk can bump into each other.&lt;/p&gt;
-
-&lt;p&gt;From my background as a management consultant, I know the correct answer to many questions is often the unsatisfying one:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It depends!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Quite a lot of our IT work involves product development or analysing problems and this is inherently creative and uncertain work. For someone in an assurance role, it can be incredibly frustrating to get inconclusive answers to apparently simple questions like:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Will it work?&lt;/li&gt;
-  &lt;li&gt;When will you be finished?&lt;/li&gt;
-  &lt;li&gt;How much do we have to pay?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;It can be just as frustrating for our engineers to be asked for detail and certainty that just doesn’t exist, or to follow a process which assumes it does.&lt;/p&gt;
-
-&lt;p&gt;I am trying a few things that have helped in my previous roles including:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;using stories and analogies to help people understand the nature of our work, the inherent risks and the limits to what we can do about it&lt;/li&gt;
-  &lt;li&gt;making sure the consequences of decisions (or indecision&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;) are understood&lt;/li&gt;
-  &lt;li&gt;trying to be clear about who is advising and performing assurance, and who is accountable and takes the decision&lt;/li&gt;
-  &lt;li&gt;running experiments to provide more information quickly and cheaply&lt;/li&gt;
-  &lt;li&gt;helping decision makers understand the calculated risks they often need to take.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
-
-&lt;p&gt;It has remained relatively mild outside my home recently, but it sometimes passes 30°C in the attic room which has become my office during the lockdown. With a lot of summer still to go, hopefully, I needed to look at cooling.&lt;/p&gt;
-
-&lt;p&gt;A small air conditioning unit would tackle the absolute temperature but I would rather not be the source of all those kilowatt hours and emissions in the middle of a climate emergency. If that wasn’t enough, air conditioning can be expensive and too noisy for video calls.&lt;/p&gt;
-
-&lt;p&gt;The breeze from a cheap fan can make it feel like it is 10°C cooler but they aren’t very quiet and I was surprised at how much power they used.&lt;/p&gt;
-
-&lt;p&gt;Instead, I’ve spent a little bit more on a table-top fan which is efficient and very quiet - it makes about the same amount of noise as the cooling fan in my laptop. The motor technology means it shifts a lot of air without using a lot of energy - it uses the same sort of USB supply that you use to charge your mobile phone. The manufacturer claims it will also last longer than the motors in cheaper fans but let’s see.&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;I remember thinking the &lt;a href=&quot;https://www.youtube.com/watch?v=cNIWq4xgCY0&quot;&gt;bugle episode&lt;/a&gt; was quite funny. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;There is more about Team Bumblebee in a &lt;a href=&quot;/preview/2020/07/weeknote-25.html#unlocking-great-ideas&quot;&gt;previous week note&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;Here is a &lt;a href=&quot;/preview/2014/05/are-you-making-meal-of-your-it-finances.html&quot;&gt;previous blog post&lt;/a&gt; which tries to demystify IT finances. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;The costs of indecision have cropped up in a &lt;a href=&quot;/preview/2020/06/weeknote-23.html#reducing-the-cost-of-indecision&quot;&gt;previous week note&lt;/a&gt;. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On Bob the Builder, balancing the books and assurance without certainty.</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On innovation allies, always learning, fighting for flow and more shared learning.</summary></entry></feed>

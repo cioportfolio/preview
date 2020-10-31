@@ -448,4 +448,9 @@ var store = [{
         "excerpt":"On interim operating models, pressure and free speech. Doing Lots of my work this week concerned how we keep our finance and workforce systems working well after the implementation project has closed, but before our new long-term operating model has been put into place. This could be a period of...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/10/weeknote-36.html",
-        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"}]
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Weeknote 26 - 30 October 2020",
+        "excerpt":"On all the roadmaps and an animated, LED pumpkin Doing This week included lots of work on roadmaps. First up was a prototype of an overall roadmap to cover all of the product teams in IS. We are trying a simple now-next-later format as this is something that all of...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/10/weeknote-37.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/IMG_2738_teaser.jpg"}]
