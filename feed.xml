@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-10-31T17:22:51+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 26 - 30 October 2020</title><link href="https://cioportfolio.github.io/preview/2020/10/weeknote-37.html" rel="alternate" type="text/html" title="Weeknote 26 - 30 October 2020" /><published>2020-10-31T00:00:00+00:00</published><updated>2020-11-01T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/10/weeknote-37</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/10/weeknote-37.html">&lt;p&gt;On all the roadmaps and an animated, LED pumpkin&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-11-01T14:06:42+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 26 - 30 October 2020</title><link href="https://cioportfolio.github.io/preview/2020/10/weeknote-37.html" rel="alternate" type="text/html" title="Weeknote 26 - 30 October 2020" /><published>2020-10-31T00:00:00+00:00</published><updated>2020-11-01T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/10/weeknote-37</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/10/weeknote-37.html">&lt;p&gt;On all the roadmaps and an animated, LED pumpkin&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -10,17 +10,17 @@
 
 &lt;p&gt;&lt;img src=&quot;/preview/assets/images/roadmap2_reduced.png&quot; alt=&quot;Excerpt of the prototype IS roadmap&quot; class=&quot;align-center&quot; style=&quot;max-width:800px&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The prototype now has some simple filters so people can just look at the things that interest them. I’ve mentioned previously&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; that we are probably going about this in the wrong way, e.g. building something before we are clear who it is for and what they need from it. In our favour it is has been very cheap to produce and if it fails to provoke more productive conversations we can throw it away.&lt;/p&gt;
+&lt;p&gt;The prototype now has some simple filters so people can just look at the things that interest them. I’ve mentioned previously&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; that we are probably going about this in the wrong way, i.e. building something before we are clear who it is for and what they need from it. In our favour it is has been very cheap to produce and if it fails to provoke more productive conversations we can throw it away.&lt;/p&gt;
 
-&lt;p&gt;I’ve also been updating a more unconventional roadmap for one of our product teams. Rather than sharing the priorities and plans that have already been developed this roadmap is to help me make sense of a whole collection of competing demands so that we can develop priorities and plans. I’m using the lanes on this map to help me understand where I should be focusing my attention and get feedback from the product team and other stakeholders.&lt;/p&gt;
+&lt;p&gt;I’ve also been updating a more unconventional roadmap for one of our product teams. Rather than sharing the priorities and plans that have already been developed, this roadmap is to help me make sense of a whole collection of competing demands in order to develop priorities and plans. I’m using the lanes on this map to help me understand where I should be focusing my attention and get feedback from the product team and other stakeholders.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/preview/assets/images/issues2_reduced.png&quot; alt=&quot;Excerpt of a sense making roadmap&quot; class=&quot;align-center&quot; style=&quot;max-width:800px&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;The lanes at the bottom cover the basic necessities such as safety and sustainability. Making things safe might include applying security patches or replacing equipment before it fails. Filling one of our open posts so that we are not dependent upon temporary contractors falls into the sustainability lane. The middle lanes covers continuous improvement and the top lanes are about developing new capabilities or extending the product into new areas.&lt;/p&gt;
+&lt;p&gt;The lanes at the bottom cover the basic necessities such as safety and sustainability. Making things safe might include applying security patches or replacing equipment before it fails. Filling one of our open posts, so that we are not dependent on temporary contractors, falls into the sustainability lane. The middle lanes cover continuous improvement and the top lanes are about developing new capabilities or extending the product into new areas.&lt;/p&gt;
 
-&lt;p&gt;There are important things in all of the lanes but we can’t tackle them all at once. So far, the lanes are helping to show the things that are non-negotiable, e.g. staying safe, and things where we have more room for manoeuvre, e.g. taking on a new set of users.&lt;/p&gt;
+&lt;p&gt;There are important things in every lane but we can’t tackle them all at once. So far, the lanes are helping to show the things that are non-negotiable, e.g. staying safe, and things where we have more room for manoeuvre, e.g. taking on a new set of users.&lt;/p&gt;
 
-&lt;p&gt;Other roadmaps this week have covered more conventional things such as the feature roadmap for our financial and workforce systems and the improvement roadmap for some of our reporting services.&lt;/p&gt;
+&lt;p&gt;Other roadmaps this week have covered more conventional things such as the feature roadmap for our financial and workforce systems, and the improvement roadmap for some of our reporting services.&lt;/p&gt;
 
 &lt;h2 id=&quot;planning&quot;&gt;Planning&lt;/h2&gt;
 
@@ -28,12 +28,12 @@
 
 &lt;ul&gt;
   &lt;li&gt;Testing the next quarterly release of our financial and workforce systems. It is great getting a regular flow of fixes and improvements but the fixed timetable can be quite nerve-racking.&lt;/li&gt;
-  &lt;li&gt;Sorting out monthly billing. I need to do this for the projects I oversee but I’m also going to share the tools I use with some of our delivery managers to take some of the manual effort away.&lt;/li&gt;
+  &lt;li&gt;Sorting out monthly billing. I need to do this for the projects I oversee but I’m also going to share the tools I use with a few of our delivery managers to take some of the manual effort away.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;tinkering&quot;&gt;Tinkering&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/preview/assets/images/pumpkin.gif&quot; alt=&quot;LED pumpkin gif&quot; class=&quot;align-right&quot; style=&quot;max-height: 150px&quot; /&gt; &lt;i class=&quot;fas fa-tools&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I couldn’t resist having a play to mark Halloween. Not my best effort but it will do until I can find time to build the bigger display I have planned&lt;sup id=&quot;fnref:10&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/preview/assets/images/pumpkin.gif&quot; alt=&quot;LED pumpkin gif&quot; class=&quot;align-right&quot; style=&quot;max-height: 150px&quot; /&gt; &lt;i class=&quot;fas fa-tools&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I couldn’t resist having a play to celebrate Halloween. Not my best effort but it will do until I can find time to build the bigger display I have planned&lt;sup id=&quot;fnref:10&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
 &lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
 
