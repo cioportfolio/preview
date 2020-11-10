@@ -1,4 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-11-01T14:06:42+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 26 - 30 October 2020</title><link href="https://cioportfolio.github.io/preview/2020/10/weeknote-37.html" rel="alternate" type="text/html" title="Weeknote 26 - 30 October 2020" /><published>2020-10-31T00:00:00+00:00</published><updated>2020-11-01T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/10/weeknote-37</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/10/weeknote-37.html">&lt;p&gt;On all the roadmaps and an animated, LED pumpkin&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-11-10T08:23:52+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 2 - 6 November 2020</title><link href="https://cioportfolio.github.io/preview/2020/11/weeknote-38.html" rel="alternate" type="text/html" title="Weeknote 2 - 6 November 2020" /><published>2020-11-01T00:00:00+00:00</published><updated>2020-11-09T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/11/weeknote-38</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/11/weeknote-38.html">&lt;p&gt;On the day-to-day work of running systems, hackathons and coaching new coders.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-comments-dollar&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; We have moved nearly all our activities off our on-premises finance and workforce systems onto our new cloud service. There are a couple of small projects to complete, such as archiving and shutting down the old systems, but most of the work is now tinkering and tweaking to keep things running well and add improvements. That’s what I have been spending most of my time on.&lt;/p&gt;
+
+&lt;p&gt;Some of the tweaks involve cables and computers, some involves software and databases, but quite a lot involves teams and processes. Some examples of things that fall into this later category include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;picking up issues and routing them to the right people&lt;/li&gt;
+  &lt;li&gt;getting a small group of busy specialists together to resolve specific issues or questions&lt;/li&gt;
+  &lt;li&gt;adapting how permanent teams are working in response to what we learn.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;planning&quot;&gt;Planning&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-lightbulb&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Highlights for the next week or so are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;getting ready for the new agile coaches who will join us later in November&lt;/li&gt;
+  &lt;li&gt;helping some teams to adjust to the new project priorities in our portfolio, particularly where the things they have been working on have dropped to a lower priority&lt;/li&gt;
+  &lt;li&gt;creating plans to renew or replace some product and service contracts which are due early next year.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;thinking&quot;&gt;Thinking&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-laptop-code&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I’ve not been closely involved this time but I have been watching our teams take part in a kind of hackathon over the last few weeks. This is an internal experiment to see if we can find more direct ways of choosing between alternative ways to tackle some of our users’ requirements. Often, these choices are made using desktop assessments which involve a lot of risky assumptions. The style of a hackathon is to get teams to roll up their sleeves and build a partial or prototype system. Although this can produce a more well informed decision it is hard to organise and feels out of control. I’m wondering how else we can blend the competitive,creative and productive energy of hackathons with the calm, confident and steady processes we normally use.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-globe&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; It is great to see our web team adopting leading practices in developing our new council website. User needs and accessibility&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; are at the heart of it. Like many organisations our capacity to do this sort of work is limited and, quite rightly, externally facing systems get priority attention. Unfortunately, that can mean some of our internal websites and systems can fall short, sometimes quite a long way short, of current best practice. I’m going to dig back into my notes from some work in Central Government on finding a better way of meeting internal needs without draining away the scarce skills from customer-facing work.&lt;/p&gt;
+
+&lt;h2 id=&quot;caring&quot;&gt;Caring&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-school&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I haven’t been a professional software developer for decades but I can still get things done with the technology used to run today’s websites. Codebar&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; have a waiting list of people because there are not enough coaches so I have been working through the course material to check I know enough to help a beginner. Next challenge is to get over my imposter syndrome and sign up to help someone at the next event.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;In some ways we are playing catch up with the rest of the public sector here. &lt;a href=&quot;https://www.gov.uk/service-manual/service-standard/point-1-understand-user-needs&quot;&gt;User needs&lt;/a&gt; and &lt;a href=&quot;https://www.gov.uk/service-manual/service-standard/point-5-make-sure-everyone-can-use-the-service&quot;&gt;accessibility&lt;/a&gt; have been a core part of the UK Service Standard since the Government Digital Service started. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Codebar are always looking for more coaches so &lt;a href=&quot;https://codebar.io/&quot;&gt;find out what is involved&lt;/a&gt; and &lt;a href=&quot;https://codebar.io/member/new&quot;&gt;sign up as a coach&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On the day-to-day work of running systems, hackathons and coaching new coders.</summary></entry><entry><title type="html">Weeknote 26 - 30 October 2020</title><link href="https://cioportfolio.github.io/preview/2020/10/weeknote-37.html" rel="alternate" type="text/html" title="Weeknote 26 - 30 October 2020" /><published>2020-10-31T00:00:00+00:00</published><updated>2020-11-01T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/10/weeknote-37</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/10/weeknote-37.html">&lt;p&gt;On all the roadmaps and an animated, LED pumpkin&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -487,63 +534,4 @@
       &lt;p&gt;I have found &lt;a href=&quot;https://twitter.com/betterallies&quot;&gt;@betterallies&lt;/a&gt; is a helpful guide on being a good ally. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On user needs, Troika Consulting, scaled agile and being a BAME ally.</summary></entry><entry><title type="html">Weeknote 10 - 14 August 2020</title><link href="https://cioportfolio.github.io/preview/2020/08/weeknote-28.html" rel="alternate" type="text/html" title="Weeknote 10 - 14 August 2020" /><published>2020-08-17T00:00:00+00:00</published><updated>2020-08-18T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/08/weeknote-28</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/08/weeknote-28.html">&lt;p&gt;On innovation allies, always learning, fighting for flow and more shared learning.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;innovation-allies&quot;&gt;Innovation allies&lt;/h2&gt;
-
-&lt;p&gt;Team Bumblebee&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; will be a little quieter than usual as we enter the peak of the summer holidays. We had another good session this week with a proposal for some public cloud work from one of our product teams. The product team already had a well developed idea of what they wanted to do but needed some help with funding and prioritising the work. One of Team Bumblebee volunteered to act as an ally to help the team make the case for some investment.&lt;/p&gt;
-
-&lt;h2 id=&quot;never-stop-learning&quot;&gt;Never stop learning&lt;/h2&gt;
-
-&lt;p&gt;Some agile coaches may think they have nothing left to learn but I am not one of them. 30 years experience can be very useful but people are complex animals and are full of surprises. Put people into teams and they become a new creature that even the team members have never experienced before. An agile coach does not need to know everything, but they need to know how to learn and how to help people and teams learn. Also, in a fast changing field like IT, what you know can get stale quite quickly. You need to be ready to let ideas go when they are no longer useful.&lt;/p&gt;
-
-&lt;p&gt;One of my lessons this week was about keeping people safe. I am grateful to some of my colleagues for helping me learn by challenging the way I handled a situation. I had approached an issue in an open and direct way without taking into account some tensions between a couple of our teams. As a result I ended up creating a stressful situation for some of my colleagues.&lt;/p&gt;
-
-&lt;p&gt;I’m pleased that they called me quickly to help sort things out but I should have taken more care. I’ve been working on changing organisations for years. Change can’t happen without a degree of tension and, over time, I have become a bit too complacent about it and have forgotten how it used to feel earlier in my career. I’m glad my colleagues helped me to learn but I’m sorry that they needed to on this occasion.&lt;/p&gt;
-
-&lt;h2 id=&quot;fighting-for-flow&quot;&gt;Fighting for flow&lt;/h2&gt;
-
-&lt;p&gt;Lots of my work this week has got me thinking about flow. Flow is one of those agile ideas that has been around long before agile became fashionable. In a factory, the flow of parts through assembly and on to distribution is important. In my work other types of flow are important, such as the flow of ideas and needs into improvements to a Council service. The agile manifesto&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; emphasises the flow of working software features. Thinking about flow can help you optimise a whole system or activity, but it can have odd side effects which can get in the way.&lt;/p&gt;
-
-&lt;p&gt;Eliyahu Goldratt&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; wrote extensively about this and has loads of interesting stories about having to break conventional management thinking to maximise flow. For example, many managers strive for high utilisation which means keeping a person or some equipment fully occupied. Idle time is a waste and so you might think it is good to minimise it. It turns out that this is only true in isolation. When you look at a service or activity with many steps, high utilisation can result in queues, delays and interruptions which disrupt the flow. This can be more expensive than the waste you were trying to avoid. It is better to suffer some local idle time and protect the flow that you are really interested in.&lt;/p&gt;
-
-&lt;p&gt;You probably have lots of examples from your work, or from being stuck in one of those phantom traffic jams which seem to form and disperse without any obvious cause. This is why busy motorways have variable speed limits. Reducing individual speeds protects the flow and avoids the traffic jam which brings everything to a halt.&lt;/p&gt;
-
-&lt;p&gt;In my department there are several things which can threaten our flow.You will see similar things where you work, such as:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;queues of decisions awaiting attention from an authorising manager&lt;/li&gt;
-  &lt;li&gt;inconsistent priorities across teams&lt;/li&gt;
-  &lt;li&gt;competing demands for the time of engineers in a specialist team&lt;/li&gt;
-  &lt;li&gt;too much attention on projects to create new systems at the expense of keeping existing things working well.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I think I need to get my copy of The Goal&lt;sup id=&quot;fnref:3:1&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; out again and be ready to fight for the flow.&lt;/p&gt;
-
-&lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
-
-&lt;p&gt;I joined an online meeting on a new initiative&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; to build up the digital skills of public sector leaders. To be honest, I was a bit out of my depth and in awe of some of the people involved. A degree in Digital Public Services won’t be for everyone but the group want to find creative, non-traditional ways to get the material out to people. We might be able to use some of this as part of the cross-government digital learning I am involved&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; in or as part of a local development programme at Cornwall Council.&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;There is more about Team Bumblebee in a &lt;a href=&quot;/preview/2020/07/weeknote-25.html#unlocking-great-ideas&quot;&gt;previous week note&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://agilemanifesto.org/&quot;&gt;The manifesto for agile software development&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;I really like &lt;a href=&quot;https://en.wikipedia.org/wiki/Eliyahu_M._Goldratt&quot;&gt;Eliyahu Goldratt’s&lt;/a&gt; thinking and he uses novels in an authentic and effective way to get them across. My favourites are &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Goal_(novel)&quot;&gt;The Goal&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Critical_Chain_(novel)&quot;&gt;Critical Chain&lt;/a&gt;. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:3:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.teachingpublicservice.digital/&quot;&gt;Teaching Public Service in the Digital Age&lt;/a&gt;. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;I covered this &lt;a href=&quot;/preview/2020/07/weeknote-26.html#a-word-about-a-good-cause&quot;&gt;shared learning initiative&lt;/a&gt; in a previous week note. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On innovation allies, always learning, fighting for flow and more shared learning.</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On user needs, Troika Consulting, scaled agile and being a BAME ally.</summary></entry></feed>

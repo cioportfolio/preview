@@ -453,4 +453,9 @@ var store = [{
         "excerpt":"On all the roadmaps and an animated, LED pumpkin Doing This week included lots of work on roadmaps. First up was a prototype of an overall roadmap to cover all of the product teams in IS. We are trying a simple now-next-later format as this is something that all of...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/10/weeknote-37.html",
-        "teaser":"https://cioportfolio.github.io/preview/assets/images/IMG_2738_teaser.jpg"}]
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/IMG_2738_teaser.jpg"},{
+        "title": "Weeknote 2 - 6 November 2020",
+        "excerpt":"On the day-to-day work of running systems, hackathons and coaching new coders. Doing We have moved nearly all our activities off our on-premises finance and workforce systems onto our new cloud service. There are a couple of small projects to complete, such as archiving and shutting down the old systems,...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/11/weeknote-38.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"}]
