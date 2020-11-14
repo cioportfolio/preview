@@ -458,4 +458,9 @@ var store = [{
         "excerpt":"On the day-to-day work of running systems, hackathons and coaching new coders. Doing We have moved nearly all our activities off our on-premises finance and workforce systems onto our new cloud service. There are a couple of small projects to complete, such as archiving and shutting down the old systems,...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/11/weeknote-38.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Weeknote 9 - 13 November 2020",
+        "excerpt":"On always changing things, better priorities and remembering. Doing This week we started testing the latest quarterly release of our finance and workforce systems. As the big implementation project winds down the quarterly releases will probably become our main development heart beat. We take these systems as a public cloud...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/11/weeknote-39.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"}]

@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-11-10T17:27:49+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 2 - 6 November 2020</title><link href="https://cioportfolio.github.io/preview/2020/11/weeknote-38.html" rel="alternate" type="text/html" title="Weeknote 2 - 6 November 2020" /><published>2020-11-01T00:00:00+00:00</published><updated>2020-11-09T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/11/weeknote-38</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/11/weeknote-38.html">&lt;p&gt;On the day-to-day work of running systems, hackathons and coaching new coders.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-11-14T17:55:19+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 9 - 13 November 2020</title><link href="https://cioportfolio.github.io/preview/2020/11/weeknote-39.html" rel="alternate" type="text/html" title="Weeknote 9 - 13 November 2020" /><published>2020-11-12T00:00:00+00:00</published><updated>2020-11-13T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/11/weeknote-39</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/11/weeknote-39.html">&lt;p&gt;On always changing things, better priorities and remembering.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-comments-dollar&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt;This week we started testing the latest quarterly release of our finance and workforce systems. As the big implementation project winds down the quarterly releases will probably become our main development heart beat. We take these systems as a public cloud service and the supplier does much of the work of maintaining and developing them. We’ve agreed a fixed quarterly timetable with our supplier and there are good and bad parts of this. It is good that we can’t put off updates and store things up for a big painful upgrade in a year or two. Unfortunately, we cannot postpone an update for even a day or two if something isn’t working for us.&lt;/p&gt;
+
+&lt;p&gt;On balance, I think the good parts out way the bad&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. This is our third quarterly release since we went live with these systems and they are starting to feel more routine and less like a frantic imposed project. We have a two week testing window but, this time, we completed most of our critical testing in a week. Teams in finance, procurement, people and payroll are more in control with guidance and support from IS. Earlier releases where tightly controlled by the IS team.&lt;/p&gt;
+
+&lt;p&gt;When we are ready, I want to go further and have a shorter development cycle. The quarterly releases will remain but there are patches, optional features and external data flows which don’t need to wait. I’m imagining quarterly tides with smaller and more frequent waves in between. There are a few things we need to sort out before this will work. Some are planned, such as filling some of our vacant posts. Others are under discussion, such as shortening the time it takes to get issues resolved with our supplier. A few haven’t been tackled yet, such as automated testing.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-search&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt;I ran another regular retrospective for one of our infrastructure teams. A couple of weeks ago the team raised the issue of distractions taking their time and attention away from their planned work. It seemed interruptions from outside the team were the main problem. This time distractions were still the main thing the team wanted to address but the spotlight shifted things coming from within the team. I followed up with the Delivery Manager and will need to catch up with the Product Manager next week as it will need their influence and authority to tackle this.&lt;/p&gt;
+
+&lt;h2 id=&quot;collaborating&quot;&gt;Collaborating&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-hourglass-half&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt;At our Team Bumblebee&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; session this week I proposed some ideas to develop the way we prioritise our portfolio of work. Our Programme Management Office (PMO) team have made massive improvements to this in the year I have been working in the Council but we had to start with something simple. This enabled us to get control but has unintended side-effects. Large bits of work tend to crowd out small fast improvements which might, in aggregate, have more impact. Strategically important work tends to get postponed in favour urgent tactical work. We can mix these things together into a richer portfolio but not with the simple prioritisation that has got us this far. Some of the team have used more advanced approaches, such as Cost of Delay&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, before joining the Council so we are going to experiment with some of these ideas with support from Team Bumblebee.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-hands-helping&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt;This week I joined a virtual meet up organised by Software Cornwall which covered things like psychological safety and the impact COVID restrictions are having on our teams. I also had a catch up with the cross-government team that has been rolling out a new self-managed learning programme about developing digital public services.&lt;/p&gt;
+
+&lt;h2 id=&quot;caring&quot;&gt;Caring&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-dove&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt;Like many events this year, the Council’s remembrance ceremony was online. Once again, the organisers made good use of the tools we rolled out during the lockdown to create a really poignant event.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;There is &lt;a href=&quot;https://nicolefv.com/resources#intro-1&quot;&gt;plenty of evidence&lt;/a&gt; that it is better to make frequent small changes to important systems rather than save things up for an occasional big upgrade. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;There is more about Team Bumblebee in a &lt;a href=&quot;/preview/2020/07/weeknote-25.html#unlocking-great-ideas&quot;&gt;previous week note&lt;/a&gt;. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;If you want to know more about Cost of Delay you should probably start with Don Reinertsen’s &lt;a href=&quot;https://www.youtube.com/watch?v=du2WV1IbULU&quot;&gt;work&lt;/a&gt;. In the Council we may need to blend this with other approaches as it will be difficult to assign an agreed monetary value to all of the things we are delivering. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On always changing things, better priorities and remembering.</summary></entry><entry><title type="html">Weeknote 2 - 6 November 2020</title><link href="https://cioportfolio.github.io/preview/2020/11/weeknote-38.html" rel="alternate" type="text/html" title="Weeknote 2 - 6 November 2020" /><published>2020-11-01T00:00:00+00:00</published><updated>2020-11-09T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/11/weeknote-38</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/11/weeknote-38.html">&lt;p&gt;On the day-to-day work of running systems, hackathons and coaching new coders.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -491,47 +529,4 @@
       &lt;p&gt;There is more background about this in a &lt;a href=&quot;/preview/2020/07/weeknote-26.html#a-word-about-a-good-cause&quot;&gt;previous week note&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On broadcast communications, our new website, turning problems into lessons, roadmaps and cross-government collaboration.</summary></entry><entry><title type="html">Weeknote 1 - 4 September 2020</title><link href="https://cioportfolio.github.io/preview/2020/09/weeknote-29.html" rel="alternate" type="text/html" title="Weeknote 1 - 4 September 2020" /><published>2020-09-06T00:00:00+00:00</published><updated>2020-09-08T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/09/weeknote-29</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/09/weeknote-29.html">&lt;p&gt;On user needs, Troika Consulting, scaled agile and being a BAME ally.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;I’m back to my weekly notes after the summer break. I’ve been catching up on things so it has been a mentally chaotic four days. My collection of random reflections are below but, if you are short on time, please check out how we are developing our new Council website based upon user needs&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;I joined a virtual lunch and learn session for delivery managers and product managers across Government. This session was an experiment in using Troika Consulting&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; which is one of the techniques within Liberating Structures&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; - I had done the face-to-face version of this before and the virtual version worked really well. Instead of physically turning our backs we switched off our cameras&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; to get the same effect. As well as practicing the technique I got some really helpful advice from the others in my Troika.&lt;/p&gt;
-
-&lt;p&gt;I talked about the various forms of “scaled agile” at our Product Managers meeting. I have some qualifications in this area but in most cases I think it is a bit of a distraction&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;. Most organisations have plenty more that they can get out of the basic techniques and principles, such as listening to their teams and trying out the improvements they suggest.&lt;/p&gt;
-
-&lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
-
-&lt;p&gt;I’ll be joining the next meeting of the Council BAME&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; Forum this month. I’ve helped similar groups when I was working in London but I am not sure how relevant that will be since the population of Cornwall is very different&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;. I’ll try to put aside my assumptions and just listen to what the forum would like from allies&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:8&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.cornwall.gov.uk/council-and-democracy/website-information-and-help/about-our-website/website-improvement-blog/&quot;&gt;Cornwall Council Website Improvement Blog&lt;/a&gt;. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://www.liberatingstructures.com/8-troika-consulting/&quot;&gt;Troika Consulting&lt;/a&gt; from… &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://www.liberatingstructures.com/&quot;&gt;Liberating Structures&lt;/a&gt;. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:6&quot;&gt;
-      &lt;p&gt;I can’t always use my laptop camera so I’ve got an app which lets me use the camera on my phone as a webcam. Some of these apps are free to use and even the paid versions are much cheaper than a stand-alone webcam. Your phone cameras are probably much better quality anyway. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:7&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://dannorth.net/2018/01/26/in-praise-of-swarming/&quot;&gt;Dan North has written&lt;/a&gt; and &lt;a href=&quot;https://www.youtube.com/watch?v=q87wNNiygaM&quot;&gt;talked&lt;/a&gt; about some helpful ideas. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://civilservice.blog.gov.uk/2019/07/08/please-dont-call-me-bame-or-bme/&quot;&gt;This post explains the term and some of the problems with it&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Demography_of_London&quot;&gt;Demography of London&lt;/a&gt; versus &lt;a href=&quot;https://en.wikipedia.org/wiki/Demography_of_Cornwall&quot;&gt;Cornwall&lt;/a&gt;. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;I have found &lt;a href=&quot;https://twitter.com/betterallies&quot;&gt;@betterallies&lt;/a&gt; is a helpful guide on being a good ally. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On user needs, Troika Consulting, scaled agile and being a BAME ally.</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On broadcast communications, our new website, turning problems into lessons, roadmaps and cross-government collaboration.</summary></entry></feed>
