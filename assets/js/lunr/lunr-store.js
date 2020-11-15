@@ -460,7 +460,7 @@ var store = [{
         "url": "https://cioportfolio.github.io/preview/2020/11/weeknote-38.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
         "title": "Weeknote 9 - 13 November 2020",
-        "excerpt":"On always changing things, better priorities and remembering. Doing This week we started testing the latest quarterly release of our finance and workforce systems. As the big implementation project winds down the quarterly releases will probably become our main development heart beat. We take these systems as a public cloud...","categories": [],
+        "excerpt":"On always changing things, better priorities and remembering. Doing This week we started testing the latest quarterly release of our finance and workforce systems. As the big implementation project winds down the quarterly releases will probably become our main development heartbeat. We take these systems as a public cloud service...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/11/weeknote-39.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"}]
