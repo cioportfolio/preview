@@ -463,4 +463,9 @@ var store = [{
         "excerpt":"On always changing things, better priorities and remembering. Doing This week we started testing the latest quarterly release of our finance and workforce systems. As the big implementation project winds down the quarterly releases will probably become our main development heartbeat. We take these systems as a public cloud service...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/11/weeknote-39.html",
-        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"}]
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Yearnote 4 November 2019 - 27 November 2020",
+        "excerpt":"On a year in Cornwall Council. I’ve now been working at Cornwall Council for just over a year1 and have been regularly writing weeknotes2 for most of that time. It is a bonus if someone else gets something from these notes but they are mostly for me. In theory, I...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/11/yearnote-1.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/1119beach1_teaser.jpg"}]
