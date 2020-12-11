@@ -468,4 +468,9 @@ var store = [{
         "excerpt":"On a year in Cornwall Council. I’ve now been working at Cornwall Council for just over a year1 and have been regularly writing weeknotes2 for most of that time. It is a bonus if someone else gets something from these notes but they are mostly for me. In theory, I...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/11/yearnote-1.html",
-        "teaser":"https://cioportfolio.github.io/preview/assets/images/1119beach1_teaser.jpg"}]
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/1119beach1_teaser.jpg"},{
+        "title": "Weeknote 7 - 11 December 2020",
+        "excerpt":"On habit breaking training, learning to code and loads and loads on money and people systems. Learning New Digital Public Services Training Go and read Rose Waite’s post blog about the self-managed learning course she has developed. Over the last few months a small group of us have been meeting...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/12/weeknote-40.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"}]

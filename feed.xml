@@ -1,4 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-12-02T21:58:09+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Yearnote 4 November 2019 - 27 November 2020</title><link href="https://cioportfolio.github.io/preview/2020/11/yearnote-1.html" rel="alternate" type="text/html" title="Yearnote 4 November 2019 - 27 November 2020" /><published>2020-11-20T00:00:00+00:00</published><updated>2020-12-02T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/11/yearnote-1</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/11/yearnote-1.html">&lt;p&gt;On a year in Cornwall Council.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2020-12-11T18:16:45+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 7 - 11 December 2020</title><link href="https://cioportfolio.github.io/preview/2020/12/weeknote-40.html" rel="alternate" type="text/html" title="Weeknote 7 - 11 December 2020" /><published>2020-12-11T00:00:00+00:00</published><updated>2020-12-11T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/12/weeknote-40</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/12/weeknote-40.html">&lt;p&gt;On habit breaking training, learning to code and loads and loads on money and people systems.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;learning&quot;&gt;Learning&lt;/h2&gt;
+
+&lt;blockquote class=&quot;notice--info&quot;&gt;
+  &lt;h4 id=&quot;new-digital-public-services-training&quot;&gt;New Digital Public Services Training&lt;/h4&gt;
+  &lt;p&gt;Go and read &lt;a href=&quot;https://digitalpeople.blog.gov.uk/2020/12/10/habit-breaking-and-reforming/&quot;&gt;Rose Waite’s post blog&lt;/a&gt; about the self-managed learning course she has developed. Over the last few months a small group of us have been meeting virtually to go through the course materials and pick Rose’s brains about how to run it. I think this is an amazing act of generosity and I am looking forward to piloting the course at Cornwall Council soon.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-comments-dollar&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I’m currently spending most of my time on our finance and people management systems. We went live with a new cloud hosted version of these systems back in April and we are gradually shifting how we manage this area. For a couple of years we have been organised as an implementation programme but most of the programme scope has now been delivered. We are now starting to put in place the things we need to run this area as a product (or several linked products).&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-hands-helping&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; A new Delivery Manager has recently joined the department and has been assigned to work with our team. I’ve been covering several roles recently so this assignment gives me a chance to focus more on Product Management. Delivery Management in the Council is a big topic and this is one of our most complex and critical product areas so this is quite a daunting assignment. There is quite a big backlog of things to hand-over but we are going step by step and getting one or two things properly handed-over before moving on to the next.&lt;/p&gt;
+
+&lt;p&gt;I’ve also been interviewing candidates to grow the engineering team for this area. We’re hoping to fill one of the permanent vacancies early in 2021 and also take on temporary contractors to complete some of our urgent work before we all get caught up in our financial year-end processes.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-comments-dollar&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; As I am handing over some of my Delivery Management work I am taking up more of the Product Management responsibilities such as the commercial arrangements and budgets related to these systems. It has been great getting to know more of the people in our commercial team and start planning some of the tenders and contract renewals that will be needed over the next few months. It feels like we have a shared understanding of the commercial risks involved and a joint willingness to come up with new ways to manage them, where appropriate.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-road&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; A few weeks ago I started to build a product roadmap for our finance and people management systems and since then have been refining it with the various teams involved. This week was the first refinement session with the leaders of our finance and people management services. The roadmap already has more than 120 items in it so this session was focused on identifying the top priority items and developing some prioritisation principles. I think we did pretty well but we are going to have to keep experimenting for the next couple of months. Here are some of the things we need to learn more about.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What technical work should be shown in the roadmap and what should be covered elsewhere? For example, we don’t want the roadmap to be our incident and request management system but if a significant problem is taking up a lot of our effort it will impact the roadmap so we should probably include it.&lt;/li&gt;
+  &lt;li&gt;How many products are we dealing with and how many roadmaps do we need? Our finance and people systems are used directly by staff but they are just one part of our finance and people management services. Supporting all of this is our team of engineers. Is it best to treat these as one product with many elements or several distinct products which are tightly integrated?&lt;/li&gt;
+  &lt;li&gt;How do we create a roadmap that helps our teams coordinate their work without getting in their way? Our draft roadmap is based upon some principles that have been working well for other product teams but we need to see how this works out in practice.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;planning&quot;&gt;Planning&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-lightbulb&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Work highlights for the next few weeks or so are also focused on our finance and people management systems:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Updating the Implementation Project Board on our roadmap work and seek their advice and support in developing it further&lt;/li&gt;
+  &lt;li&gt;Sorting out a service level agreement for reporting and analytics&lt;/li&gt;
+  &lt;li&gt;Getting involved in the budgeting process so our product funding for next year is broadly in line with the new develops that the Council is seeking&lt;/li&gt;
+  &lt;li&gt;Helping the team that is developing our Target Operating Model to design and evaluate some potential options&lt;/li&gt;
+  &lt;li&gt;Understanding what we need to do to support some big department changes being planned for next year&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;caring&quot;&gt;Caring&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-laptop-code&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; One evening this week I joined in a virtual codebar&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; event as a coach. The codebar community are trying to help members of under represented groups to develop their technology and coding skills and, ultimately, change the demographics of the industry. Ideally, there are enough attendees for one-to-one coaching but this time we were in groups of three. I really enjoyed working with my two students. One of the students was learning Python using an online course and wanted some help with some of the exercises. It turned out she already knew a lot about coding in Python and just needed a little help to break the challenges down into manageable chunks. Half way through we had got into cheering as each automated test passed. My other student wanted some help debugging a prototype app that he had created to help prepare for an interview with a well known tech firm. We didn’t manage to get everything fixed but I was able to introduce some tools to help investigate the bugs further. We also talked a little about the interview and what might come up as I had done a similar role earlier in my career. I really enjoyed the event and will definitely take part again. Hopefully I was able to help the two students a little.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-fist-raised fa-flip-horizontal&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I’ve been really impressed by Black Voices Cornwall. It is a very new organisation but it is making an impact. Even The Economist has taken notice. This week I signed up to their Race Charter. Even if you don’t want to sign up yourself take a look at the charter commitments&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; as I think they are a great summary of what a good ally should aim for.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.codebar.io/&quot;&gt;codebar website&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://us17.list-manage.com/survey?u=711a40b20eda54673119f0357&amp;amp;id=a6cc809387&quot;&gt;Black Voices Cornwall Race Charter&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On habit breaking training, learning to code and loads and loads on money and people systems.</summary></entry><entry><title type="html">Yearnote 4 November 2019 - 27 November 2020</title><link href="https://cioportfolio.github.io/preview/2020/11/yearnote-1.html" rel="alternate" type="text/html" title="Yearnote 4 November 2019 - 27 November 2020" /><published>2020-11-20T00:00:00+00:00</published><updated>2020-12-02T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/11/yearnote-1</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/11/yearnote-1.html">&lt;p&gt;On a year in Cornwall Council.&lt;/p&gt;
 
 &lt;!--more--&gt;
 &lt;p&gt;I’ve now been working at Cornwall Council for just over a year&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; and have been regularly writing weeknotes&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; for most of that time. It is a bonus if someone else gets something from these notes but they are mostly for me. In theory, I could do all of this reflection in a private journal but I’ve never kept them going for very long. I guess the tiny chance that someone might notice I have stopped writing them is enough to keep going. This is my first go at using the notes for some more longer-term reflection.&lt;/p&gt;
@@ -471,53 +529,4 @@
       &lt;p&gt;CIPD have published some good ideas on &lt;a href=&quot;https://www.cipd.co.uk/knowledge/fundamentals/relations/diversity/anti-racism-strategy&quot;&gt;anti-racism strategies&lt;/a&gt;. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On bots, onions and virtual good byes</summary></entry><entry><title type="html">Weeknote 14 - 18 September 2020</title><link href="https://cioportfolio.github.io/preview/2020/09/weeknote-31.html" rel="alternate" type="text/html" title="Weeknote 14 - 18 September 2020" /><published>2020-09-17T00:00:00+00:00</published><updated>2020-09-21T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/09/weeknote-31</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/09/weeknote-31.html">&lt;p&gt;On continuous improvement and being a BAME ally.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Most of my time this week was spent on various types of continuous improvement. Here is a selection of things that cropped up:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;We ran a session on project finances which included looking at how we develop estimates. I raised the work that the UK Treasury has done on Optimism Bias&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; which can help counter the natural tendency to underestimate, especially when developing new IT systems. Like many of the Treasury publications, the work on Optimism Bias contains excellent advice but the way it is written puts many people off from applying it. We also talked about tactics such as presenting ranges of estimates to help communicate uncertainty, especially early on in a project.&lt;/li&gt;
-  &lt;li&gt;At our regular Team Bumblebee&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; catch up we discussed the progress we were making on our IS improvement initiatives, including research and development for new public cloud infrastructure and rationalising some of the tools we use for our team backlogs&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
-  &lt;li&gt;We had several sessions working on the cloud infrastructure for our new website&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;. A cross-team group of engineers got together to look at some issues with the demonstration system we had built and, after some discussion and screen sharing, we got it working. We also agreed to add features and components bit by bit so that, eventually, we could demonstrate everything we will need for the new site.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;a-word-about-a-good-cause&quot;&gt;A word about a good cause&lt;/h2&gt;
-
-&lt;p&gt;I joined in a meeting of our staff BAME&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; forum this week. I am white but joined the group to find out what I could do to help as an ally&lt;sup id=&quot;fnref:9&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. I have spent most of my career working in London which is more diverse than the country as a whole; Cornwall is at the other end of the scale&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;. Some of the issues are the same across the country but in Cornwall this can be compounded by a sense of isolation. This is unlikely to change very quickly as lack of diversity probably deters others from visiting or relocating here.&lt;/p&gt;
-
-&lt;p&gt;I believe the Council is committed to improving racial equality but there are some practical challenges in running this sort of staff forum. Only a small number of staff identify as BAME and not all will want to get involved in a forum or have the time and energy to help keep it going. Encouraging allies or merging forums could help in practical terms but would also change the character of the group and could defeat the purpose, e.g. an ethnic minorities forum in Cornwall would cover more staff but could easily end up being dominated by white people. Another option might be to join forces with similar groups in other bits of the public sector, such as the NHS, or local charities and businesses.&lt;/p&gt;
-
-&lt;p&gt;I took away some actions including doing some research towards Black History Month&lt;sup id=&quot;fnref:10&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;, and using my cross-Government network to get hold of ideas and materials the forum can use locally.&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.gov.uk/government/publications/green-book-supplementary-guidance-optimism-bias&quot;&gt;UK Treasury Guidance on Optimism Bias&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;There is more about Team Bumblebee in a &lt;a href=&quot;/preview/2020/07/weeknote-25.html#unlocking-great-ideas&quot;&gt;previous week note&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;See a previous post for &lt;a href=&quot;/preview/2019/11/an-introduction-to-backlogs.html#what-is-a-product-backlog&quot;&gt;more about backlogs&lt;/a&gt;. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:6&quot;&gt;
-      &lt;p&gt;There is more about our new website in &lt;a href=&quot;/preview/2020/09/weeknote-30.html#new-council-website&quot;&gt;last week’s note&lt;/a&gt;. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:7&quot;&gt;
-      &lt;p&gt;This is the official name of the forum but I know many people don’t like this term. &lt;a href=&quot;https://civilservice.blog.gov.uk/2019/07/08/please-dont-call-me-bame-or-bme/&quot;&gt;This post explains more about this&lt;/a&gt;. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:9&quot;&gt;
-      &lt;p&gt;I have found &lt;a href=&quot;https://twitter.com/betterallies&quot;&gt;@betterallies&lt;/a&gt; is a helpful guide on being a good ally. &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:8&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Demography_of_London&quot;&gt;Demography of London&lt;/a&gt; versus &lt;a href=&quot;https://en.wikipedia.org/wiki/Demography_of_Cornwall&quot;&gt;Cornwall&lt;/a&gt;. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:10&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.blackhistorymonth.org.uk/&quot;&gt;Black History Month&lt;/a&gt; runs throughout October. &lt;a href=&quot;#fnref:10&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On continuous improvement and being a BAME ally.</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On bots, onions and virtual good byes</summary></entry></feed>
