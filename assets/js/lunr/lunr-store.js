@@ -470,7 +470,7 @@ var store = [{
         "url": "https://cioportfolio.github.io/preview/2020/11/yearnote-1.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/1119beach1_teaser.jpg"},{
         "title": "Weeknote 7 - 11 December 2020",
-        "excerpt":"On habit breaking training, learning to code and loads and loads on money and people systems. Learning New Digital Public Services Training Go and read Rose Waite’s post blog about the self-managed learning course she has developed. Over the last few months a small group of us have been meeting...","categories": [],
+        "excerpt":"On habit-breaking training, learning to code and loads and loads on money and people systems. Learning New Digital Public Services Training Go and read Rose Waite’s blog post about the self-managed learning course she has developed. Over the last few months a small group of us have been meeting virtually...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/12/weeknote-40.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"}]
