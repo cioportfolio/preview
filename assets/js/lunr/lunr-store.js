@@ -473,4 +473,9 @@ var store = [{
         "excerpt":"On habit-breaking training, learning to code and loads and loads on money and people systems. Learning New Digital Public Services Training Go and read Rose Waite’s blog post about the self-managed learning course she has developed. Over the last few months a small group of us have been meeting virtually...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/12/weeknote-40.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Weeknote 14 - 18 December 2020",
+        "excerpt":"On getting things done for sure, positive project boards and white men in advertising. Doing It was great to catch up with the team developing our new website this week. I’ve had to drop out of most of the day to day activities because of my role on our finance...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2020/12/weeknote-41.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"}]
