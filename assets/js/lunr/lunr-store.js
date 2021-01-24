@@ -478,4 +478,9 @@ var store = [{
         "excerpt":"On getting things done for sure, positive project boards and white men in advertising. Doing It was great to catch up with the team developing our new website this week. I’ve had to drop out of most of the day to day activities because of my role on our finance...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2020/12/weeknote-41.html",
-        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"}]
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Weeknote 1 - 23 January 2021",
+        "excerpt":"On UK Gov Camp, tough times in a transformation and being a practical ally. Sharing I wrote my first weeknote1 about a year ago following some advice I received at UK Gov Camp 20. Last week I was one of the virtual attendees at UK Gov Camp 212. The organisers...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2021/01/weeknote-42.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/awesome_teaser.jpg"}]
