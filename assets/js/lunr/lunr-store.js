@@ -480,7 +480,7 @@ var store = [{
         "url": "https://cioportfolio.github.io/preview/2020/12/weeknote-41.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
         "title": "Weeknote 1 - 23 January 2021",
-        "excerpt":"On UK Gov Camp, tough times in a transformation and being a practical ally. Sharing I wrote my first weeknote1 about a year ago following some advice I received at UK Gov Camp 20. Last week I was one of the virtual attendees at UK Gov Camp 212. The organisers...","categories": [],
+        "excerpt":"On UKGovCamp, tough times in a transformation and being a practical ally. Sharing I wrote my first weeknote1 about a year ago following some advice I received at UKGovCamp20. Last week I was one of the virtual attendees at UKGovCamp212. The organisers and camp makers - all volunteers - did...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2021/01/weeknote-42.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/awesome_teaser.jpg"}]
