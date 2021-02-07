@@ -485,7 +485,7 @@ var store = [{
         "url": "https://cioportfolio.github.io/preview/2021/01/weeknote-42.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/awesome_teaser.jpg"},{
         "title": "Weeknote 25 January - 5 February 2021",
-        "excerpt":"On roadmap wrestling, real performance development and tech for good. Doing We have been developing a roadmap for our main finance and workforce management systems. It felt good when we started and built up a picture of all the great improvements we wanted to our services, system features and ways...","categories": [],
+        "excerpt":"On roadmap wrestling, real performance development and tech for good. Doing We have been developing a roadmap for our main finance and workforce management systems. It felt good when we started and built up a picture of all the great improvements we wanted to make to our services, system features...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2021/02/weeknote-43.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"}]
