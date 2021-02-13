@@ -1,4 +1,72 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2021-02-07T10:32:17+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 25 January - 5 February 2021</title><link href="https://cioportfolio.github.io/preview/2021/02/weeknote-43.html" rel="alternate" type="text/html" title="Weeknote 25 January - 5 February 2021" /><published>2021-02-06T00:00:00+00:00</published><updated>2021-02-07T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/02/weeknote-43</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/02/weeknote-43.html">&lt;p&gt;On roadmap wrestling, real performance development and tech for good.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2021-02-13T15:55:11+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 8 - 12 February 2021</title><link href="https://cioportfolio.github.io/preview/2021/02/weeknote-44.html" rel="alternate" type="text/html" title="Weeknote 8 - 12 February 2021" /><published>2021-02-11T00:00:00+00:00</published><updated>2021-02-13T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/02/weeknote-44</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/02/weeknote-44.html">&lt;p&gt;On agile experiments and coaching new developers
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-mortar-pestle&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; It’s been a really mixed week. Here is a random selection of my work.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Developing options for how we organise support our finance and workforce systems&lt;/li&gt;
+  &lt;li&gt;Drafting role profiles which will help us model the cost of the different options&lt;/li&gt;
+  &lt;li&gt;Drafting a value proposition to make clear the benefits we get from these systems&lt;/li&gt;
+  &lt;li&gt;Triggering our contingency plan to minimise the impact of delays to one of our projects&lt;/li&gt;
+  &lt;li&gt;Three events with other councils to share experiences&lt;/li&gt;
+  &lt;li&gt;Looking at how ideas such as Cost of Delay&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; can help us make smarter decisions about our work&lt;/li&gt;
+  &lt;li&gt;Working out how we can better support mobile staff who don’t access to laptops and fast data services that the majority can use&lt;/li&gt;
+  &lt;li&gt;Continuing our pilot of the cross-government self-managed learning course&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;trying&quot;&gt;Trying&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-comments-dollar&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Last year we launched some big changes to our finance and workforce systems. The work was organised as a big programme which, for several years, dominated the working lives of the teams involved. We’ve been taking steps to move from a programme world into a product world and, along the way, adopt some of the agile tools and techniques which have proven successful for other products over the last year of so.&lt;/p&gt;
+
+&lt;p&gt;The latest step is to trial sprint-based&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; working with one of our functional teams. As well as local experience from our other product teams we are tapping into a national body of knowledge and experience based around the UK Government Service Standard&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;. Some people are really confident this will make a big positive difference. Most will judge based upon the experience of the next few weeks. I am most impressed with the few who are almost sure it will be a waste of time but are giving us the benefit of the doubt. Everyone thinks the way we work needs to change. We will run a few sprints and see what results we get. If it works for the team we will keep going. If not, we will try something else.&lt;/p&gt;
+
+&lt;p&gt;Why aren’t we just copying what has worked for other teams? We aren’t copying as we have seen that, generally, it doesn’t work. The underlying principles seem to be working every where we apply them but the specifics depend upon:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the needs of customer or users&lt;/li&gt;
+  &lt;li&gt;the skills and experience of team members&lt;/li&gt;
+  &lt;li&gt;the nature of the the work&lt;/li&gt;
+  &lt;li&gt;relationships with suppliers, supporting services and other teams&lt;/li&gt;
+  &lt;li&gt;constraints such as funding and capacity.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We probably can’t even copy between the teams which share our finance and workforce systems as the teams have very different skills and experience and the pattern of work to run a payroll looks completely different to the work need to run recruitment.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-expand-arrows-alt&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Some of our product teams have been working in sprints for over a year but they are not staying still either. They are starting to look at what has worked well within their teams and see what improvements can be made by joining up teams. Some people call this sort of thing “Scaled Agile” but I prefer to think of it as just “More Agile”. We have a few people in the team who have experience with of popular scaled agile frameworks&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; and we are taking inspiration from other organisations&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; including other Councils who are further ahead. Ultimately, we will still need to create something specific to us given our level of knowledge and experience and the local decisions that have been taken about organisation and governance.&lt;/p&gt;
+
+&lt;h2 id=&quot;caring&quot;&gt;Caring&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-laptop-code&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; This week included another virtual codebar&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; event. I worked with one of the students I helped in December and it was great to hear that they had started a job as a developer. We worked on some technology that was new to me so most of my contribution was around general approaches to solving problems rather than specific help with the technology. Students and coaches are matched on the day so there wasn’t really a chance to prepare but, on reflection, there were quite a few ways I could have helped more. I will do better at the next event in March.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;If you want to know more about Cost of Delay you should probably start with &lt;a href=&quot;https://www.youtube.com/watch?v=du2WV1IbULU&quot;&gt;Don Reinertsen’s work&lt;/a&gt; &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;Go and read &lt;a href=&quot;https://digitalpeople.blog.gov.uk/2020/12/10/habit-breaking-and-reforming/&quot;&gt;Rose Waite’s blog post&lt;/a&gt; for the background to this &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;/preview/2019/11/so-what-exactly-is-a-sprint.html&quot;&gt;This blog post&lt;/a&gt; explains how we are using sprints &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.gov.uk/service-manual/service-standard&quot;&gt;UK Government Service Standard&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;I think Dan North’s ideas about scaled agile are really helpful. &lt;a href=&quot;https://dannorth.net/2018/01/26/in-praise-of-swarming/&quot;&gt;Dan North’s blog post&lt;/a&gt; and &lt;a href=&quot;https://www.youtube.com/watch?v=q87wNNiygaM&quot;&gt;talk&lt;/a&gt; about some helpful ideas &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;I think this video about&lt;a href=&quot;https://www.youtube.com/watch?v=R2o-Xm3UVjs&quot;&gt;Spotify’s Engineering Culture&lt;/a&gt; is really helpful. Probably more important than the particular structure they developed is the organic and iterative way it came about &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot;&gt;
+      &lt;p&gt;Codebar are always looking for more coaches so &lt;a href=&quot;https://codebar.io/&quot;&gt;find out what is involved&lt;/a&gt; and &lt;a href=&quot;https://codebar.io/member/new&quot;&gt;sign up as a coach&lt;/a&gt; &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On agile experiments and coaching new developers</summary></entry><entry><title type="html">Weeknote 25 January - 5 February 2021</title><link href="https://cioportfolio.github.io/preview/2021/02/weeknote-43.html" rel="alternate" type="text/html" title="Weeknote 25 January - 5 February 2021" /><published>2021-02-06T00:00:00+00:00</published><updated>2021-02-07T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/02/weeknote-43</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/02/weeknote-43.html">&lt;p&gt;On roadmap wrestling, real performance development and tech for good.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
@@ -421,75 +489,4 @@
 
 &lt;h2 id=&quot;caring&quot;&gt;Caring&lt;/h2&gt;
 
-&lt;p&gt;&lt;i class=&quot;fas fa-fist-raised fa-flip-horizontal&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; The BAME Staff Forum this week covered some updates for Black History Month and collaboration with other public services in Cornwall. We also talked about something much less pleasant. The Council has taken a clear public stance against racism but some people think the Council should have different priorities or object to particular measures. They have a right to express their opinions even if this causes offence. In extreme cases, it might be appropriate to turn to laws which set limits on what people can write or say. Organisations, events or forums usually have a code of conduct which defines acceptable behaviour and what happens if this is not observed. That still leaves open a lot of difficult scenarios. When is it right to block comments or remove them in response to a complaint? When is it better to present the facts, defend our position and be seen to do so? Either way, I am glad we are listening to what BAME Forum members think.&lt;/p&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On interim operating models, pressure and free speech.</summary></entry><entry><title type="html">Weeknote 12 - 16 October 2020</title><link href="https://cioportfolio.github.io/preview/2020/10/weeknote-35.html" rel="alternate" type="text/html" title="Weeknote 12 - 16 October 2020" /><published>2020-10-17T00:00:00+00:00</published><updated>2020-10-19T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/10/weeknote-35</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/10/weeknote-35.html">&lt;p&gt;On organising for a complex product team, cyber attacks and tinkering with Xmas lights.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
-&lt;p&gt;&lt;i class=&quot;fas fa-comments-dollar&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Back in April we moved our main finance and workforce systems onto a cloud computing service. This week I have been planning what to do with the remains of the old system. Some of it is fairly old IT equipment and software so we will get rid of that as quickly as possible. Some is business critical data which we are required to keep for 6 years or even longer. Finding a new home for that data is fairly easy, but presenting it in a way that people can use is a lot harder. Finance and workforce systems keep a lot of their information in codes and the raw data is unreadable. For comparison imagine trying to watch a DVD or streamed show without the app which converts the binary data into shapes and sounds. We can’t keep the original system so we will need to convert the data into something easier to read. The TV show equivalent would be an old fashioned reel of film which can be viewed with a simple projector.&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-hands-helping&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I’ve been interviewing people for some vacant roles. The applicants were impressive so I am glad I am not the one that has to make the final decisions.&lt;/p&gt;
-
-&lt;h2 id=&quot;thinking&quot;&gt;Thinking&lt;/h2&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-sitemap&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; The project which launched our new finance and workforce systems will come to an end soon and we will need a different way of organising the work  to keep them running. I’ve started to talk to people about product organisations but none of them look as simple as a project. Some of the on-going work is best organised around technology products as there are a set of components which are shared between all areas of the business. Other types of work involve coordinating specialist professionals, processes and the IT systems together to provide a good service to staff and managers. It is best to think of these as business products such as people management, payroll, accounts and procurement. It is not obvious how to blend these different types of product.&lt;/p&gt;
-
-&lt;p&gt;One option is to fall back to how things were organised previously, before we started work on the new systems. So much else has changed in that time I am not sure anyone thinks that can work. We could adopt a structure that is working for another organisation or hire someone to design something specific for us - this can work but, from my time as a management consultant, I know the success rate is quite low. If enough of the teams support the idea, I would like to experiment to find the right structure for us. We can start with a reasonable template, such as the organisation we have used for the first few months of the new systems, and then adapt from there.&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-users&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; As well as structure I’m thinking about how we can manage our capacity. We are going to have a fairly steady base load of work which is best handled by permanent staff. There will also be occasional short bursts of workload where we just need more pairs of hands or rare specialist skills for a short time. For most of my career I have worked for technology or management consulting firms and it was fairly easy to run flexible teams. There was not a massive difference between what we offered permanent and temporary staff (for example, total compensation and job security) or our processes (for example, approval for roles). We could react quite quickly and change direction if needed. In a rural local authority the differences can be large and much harder to manage.&lt;/p&gt;
-
-&lt;p&gt;The first thing I am focusing on is priorities. On a day by day basis our capacity is effectively fixed so the only thing we can do is make sure the people we have are working on the most valuable things. The next focus is gathering better information so we can make well informed decisions: moving people or work within the Council and using partners and suppliers when appropriate.&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-unlock-alt&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; News of the problems at Hackney&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; was a sobering reminder that no organisation can consider itself immune from a cyber attack. People sometimes moan about the security controls we have at Cornwall but they are all designed to get in the way of potential attackers (none of the controls can provide complete protection&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;) and limit the harm that a successful attacker can cause. As well as wishing the Hackney team a speedy recovery we have to assume that the next news story will be about a breach at Cornwall and prepare accordingly.&lt;/p&gt;
-
-&lt;h2 id=&quot;planning&quot;&gt;Planning&lt;/h2&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-film&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt;My backlog of conference catch ups has grown, sadly. There is still a lot from Local Gov Camp&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; to look at and this week added Dorset’s Festival of the Future&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;, Digital Leaders Week&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; and UCD Gathering&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. I suspect I am not going to get to participate in many of these sorts of events for a month or two. Also coming up soon are:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;i class=&quot;fas fa-road&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; publishing the prototype roadmap we have been building for our IS product teams;&lt;/li&gt;
-  &lt;li&gt;&lt;i class=&quot;fas fa-hands-helping&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; swapping notes about agile councils with one of the team at MHCLG&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;i class=&quot;fas fa-lightbulb&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; helping one of our delivery managers get ready for a project retrospective&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;i class=&quot;fas fa-fist-raised fa-flip-horizontal&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; attending the next BAME forum meeting&lt;sup id=&quot;fnref:9&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tinkering&quot;&gt;Tinkering&lt;/h2&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-tools&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I’ve worked with software for years but, until I was inspired by one of my colleagues, I’d never gotten my hands dirty with electronics. Over the last few years I’ve been building something which started as a Christmas light display&lt;sup id=&quot;fnref:10&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt; and has turned into a virtual meeting back drop. I’m now collecting parts and equipment for something a bit larger. It won’t be showing 4K movies but might manage some old-fashioned computer game characters.&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;It must have been really hard for Matthew Cain &lt;a href=&quot;https://mcain.co.uk/weeknote-special-1&quot;&gt;to write about this&lt;/a&gt; but I am really glad he did. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;I wrote about &lt;a href=&quot;/preview/2017/08/forget-about-being-secure.html&quot;&gt;the limits to security&lt;/a&gt; a couple of years ago. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://digitaltransform.org.uk/2020/08/monday-october-5th-friday-october-9th-2020/&quot;&gt;LocalGovCamp2020&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.dorsetcouncil.gov.uk/your-council/festival-of-the-future/festival-of-the-future.aspx&quot;&gt;Festival of the Future&lt;/a&gt;. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://digileaders.com/week/&quot;&gt;Digital Leaders Week&lt;/a&gt;. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:6&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.ucdgathering.net/&quot;&gt;UCD Gathering&lt;/a&gt;. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:7&quot;&gt;
-      &lt;p&gt;The &lt;a href=&quot;https://mhclgdigital.blog.gov.uk/&quot;&gt;Digital team at the Ministry of Housing, Communities &amp;amp; Local Government&lt;/a&gt; have a great approach to helping the sector. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:8&quot;&gt;
-      &lt;p&gt;We already do a lot of &lt;a href=&quot;https://www.scrum.org/resources/what-is-a-sprint-retrospective&quot;&gt;sprint retrospectives&lt;/a&gt; but this one for a whole project will need to be a little different. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:9&quot;&gt;
-      &lt;p&gt;There is a &lt;a href=&quot;/preview/2020/09/weeknote-31.html#a-word-about-a-good-cause&quot;&gt;bit more about our BAME forum in a previous note&lt;/a&gt;. &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:10&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;/preview/2020/03/weeknote-7.html#a-word-about-a-good-cause-or-two&quot;&gt;Some more on the light display in a previous week note&lt;/a&gt; &lt;a href=&quot;#fnref:10&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On organising for a complex product team, cyber attacks and tinkering with Xmas lights.</summary></entry></feed>
+&lt;p&gt;&lt;i class=&quot;fas fa-fist-raised fa-flip-horizontal&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; The BAME Staff Forum this week covered some updates for Black History Month and collaboration with other public services in Cornwall. We also talked about something much less pleasant. The Council has taken a clear public stance against racism but some people think the Council should have different priorities or object to particular measures. They have a right to express their opinions even if this causes offence. In extreme cases, it might be appropriate to turn to laws which set limits on what people can write or say. Organisations, events or forums usually have a code of conduct which defines acceptable behaviour and what happens if this is not observed. That still leaves open a lot of difficult scenarios. When is it right to block comments or remove them in response to a complaint? When is it better to present the facts, defend our position and be seen to do so? Either way, I am glad we are listening to what BAME Forum members think.&lt;/p&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On interim operating models, pressure and free speech.</summary></entry></feed>

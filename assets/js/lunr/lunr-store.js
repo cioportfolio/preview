@@ -488,4 +488,9 @@ var store = [{
         "excerpt":"On roadmap wrestling, real performance development and tech for good. Doing We have been developing a roadmap for our main finance and workforce management systems. It felt good when we started and built up a picture of all the great improvements we wanted to make to our services, system features...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2021/02/weeknote-43.html",
-        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"}]
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
+        "title": "Weeknote 8 - 12 February 2021",
+        "excerpt":"On agile experiments and coaching new developers Doing It’s been a really mixed week. Here is a random selection of my work. Developing options for how we organise support our finance and workforce systems Drafting role profiles which will help us model the cost of the different options Drafting a...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2021/02/weeknote-44.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"}]
