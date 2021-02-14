@@ -490,7 +490,7 @@ var store = [{
         "url": "https://cioportfolio.github.io/preview/2021/02/weeknote-43.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/desk_teaser.jpg"},{
         "title": "Weeknote 8 - 12 February 2021",
-        "excerpt":"On agile experiments and coaching new developers Doing It’s been a really mixed week. Here is a random selection of my work. Developing options for how we organise support our finance and workforce systems Drafting role profiles which will help us model the cost of the different options Drafting a...","categories": [],
+        "excerpt":"On agile experiments and coaching new developers Doing It’s been a really mixed week. Here is a random selection of my work. Developing options for how we organise support for our finance and workforce systems Drafting role profiles which will help us model the cost of the different options Drafting...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2021/02/weeknote-44.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"}]
