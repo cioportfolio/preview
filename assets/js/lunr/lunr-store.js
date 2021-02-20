@@ -493,4 +493,9 @@ var store = [{
         "excerpt":"On agile experiments and coaching new developers Doing It’s been a really mixed week. Here is a random selection of my work. Developing options for how we organise support for our finance and workforce systems Drafting role profiles which will help us model the cost of the different options Drafting...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2021/02/weeknote-44.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"},{
+        "title": "Weeknote 15 - 19 February 2021",
+        "excerpt":"On public cloud troubles, race equality and #JamFirst Doing In our private lives we use public cloud services such as Facebook or Netflix without giving them much thought. The companies running these services are improving them all the time but it is almost a Law of Nature that these systems...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2021/02/weeknote-45.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"}]
