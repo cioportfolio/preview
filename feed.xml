@@ -1,4 +1,122 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2021-02-21T18:27:03+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 15 - 19 February 2021</title><link href="https://cioportfolio.github.io/preview/2021/02/weeknote-45.html" rel="alternate" type="text/html" title="Weeknote 15 - 19 February 2021" /><published>2021-02-20T00:00:00+00:00</published><updated>2021-02-22T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/02/weeknote-45</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/02/weeknote-45.html">&lt;p&gt;On public cloud troubles, race equality and #JamFirst
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2021-02-27T10:05:03+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">We need to talk about TOM</title><link href="https://cioportfolio.github.io/preview/2021/02/we-need-to-talk-about-TOM.html" rel="alternate" type="text/html" title="We need to talk about TOM" /><published>2021-02-22T00:00:00+00:00</published><updated>2021-02-27T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/02/we-need-to-talk-about-TOM</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/02/we-need-to-talk-about-TOM.html">&lt;p&gt;Most people go their whole lives without encountering a Target Operating Model (TOM). If you are one of the unlucky few who have to work on a TOM this post provides some hints and tips. I hope it will help you survive the experience and even get something useful out it. Enormous amounts of money and energy go into TOMs so we should get more value out than we put in.
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;blockquote class=&quot;notice--info&quot;&gt;
+  &lt;h4 id=&quot;help-me-improve-this-post&quot;&gt;Help me improve this post&lt;/h4&gt;
+  &lt;p&gt;This post was inspired by some discussions at UKGovCamp&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. I’m hoping others who know more about this topic or are more engaging writers will help me iterate this or create something better.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;what-is-a-target-operating-model&quot;&gt;What is a Target Operating Model?&lt;/h2&gt;
+
+&lt;p&gt;There are several formal definitions of a Target Operating Model&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; but they often only make sense to specialists in the field. For this post, let’s use an analogy that might be easier to understand.&lt;/p&gt;
+
+&lt;p&gt;If you are moving house you can visit an estate agent to get pictures and descriptions of your new home. You will get precise information about some things, such as the layout and size of the rooms, but other important things won’t appear at all. For example, sounds and smells will have a big impact on how much you enjoy your new home but don’t expect to find out anything about these from the property details.&lt;/p&gt;
+
+&lt;p&gt;In a similar way, if you want to change your organisation and move to a new way of working you can look in a TOM to find pictures and descriptions of how things will be in the future. A TOM won’t normally include details of floor plans and rooms but you will see things like organisation hierarchy charts, budget spreadsheets and process flow diagrams&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. Just as for property details, the TOM won’t include some import aspects such as will the the training be any good and will your colleagues enjoy the new ways of working.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-are-the-limitations-of-a-tom&quot;&gt;What are the limitations of a TOM?&lt;/h2&gt;
+
+&lt;p&gt;Before committing to moving you would be wise to go and visit your new house. The estate agent pictures and descriptions can only give you a vague idea of what your home will be like. Even though you have studied the dimensions of the rooms, you might be surprised about how it feels when you actually visit and move around the space.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, there are loads of things you just can’t know until after you have moved. What is the best place for all your existing furniture? How will you get on with the neighbours? What is it like when the weather is particularly warm or cold?&lt;/p&gt;
+
+&lt;p&gt;Just as the description of a house cannot capture what it is like to live there, a TOM cannot capture what it will be like to work in the future organisation. Worse, you won’t have the option to visit. The future organisation described in the TOM hasn’t been built yet and there isn’t anything resembling a show-home. You can’t even visit the neighbourhood and ask people what that is like to live in the area.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-are-toms-useful&quot;&gt;Why are TOMs useful?&lt;/h2&gt;
+
+&lt;p&gt;The details of a property have a lot of limitations but they are still useful. Inspecting properties might only take a little time and expense but only a few of the thousands that are available are worth considering. The agents details are good enough to create a short-list of properties to visit before making a decision.&lt;/p&gt;
+
+&lt;p&gt;TOMs are useful in the same way. There are infinite different ways you might structure and run your
+organisation so a TOM can help you find a manageable set of options to explore further.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-do-toms-go-wrong&quot;&gt;Why do TOMs go wrong?&lt;/h2&gt;
+
+&lt;p&gt;One of the biggest problems with TOMs is a lack of experience. Few of the people involved in an organisation change will work on the TOM. Fewer still will work on more than one TOM. Perhaps no one has worked on a TOM in similar circumstances. Firms of management consultants will have created many TOMs but most of the consultants assigned to work with you will be on their first of second TOM project. Even their team leaders might not have seen their previous TOMs through to implementation. Very few people can reliably claim to know what works and what doesn’t.&lt;/p&gt;
+
+&lt;p&gt;Lack of experience is compounded by excessive optimism. Despite all the limitations, people working on a TOM can be remarkably confident in the predictive power of the pictures and descriptions. People can remain confident even when previous organisation changes have run into issues and have not lived up the the descriptions in the TOM. Teams working on a TOM often encourage each other that everything will work out better this time.&lt;/p&gt;
+
+&lt;p&gt;The result is that people attach more significance to the TOM than it deserves. After some senior management scrutiny, considerable amounts of time and money are committed to implementing it. The implementation often starts with a gap analysis and detailed plan. This seems quite a logical process but it actually compounds the problem. Like the TOM itself, gap analysis and up front planning can be useful but, lack of experience and optimism, mean teams put more time and energy into these than they deserve. Returning to our house analogy, this is like planning the house warming party before the builder has started to dig the foundations. What could possibly go wrong?&lt;/p&gt;
+
+&lt;p&gt;After all this work has been done we still know very little about what the future organisation will be like and we have used up a lot of time and money that could have been spent on finding out.&lt;/p&gt;
+
+&lt;h2 id=&quot;is-there-a-better-way&quot;&gt;Is there a better way?&lt;/h2&gt;
+
+&lt;p&gt;Here are some suggestions to use TOMs to your advantage.&lt;/p&gt;
+
+&lt;h3 id=&quot;stay-positive&quot;&gt;Stay positive&lt;/h3&gt;
+
+&lt;p&gt;Some people argue that the whole idea of TOMs is flawed&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; and in many ways they are right.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;“All models are wrong but some are useful.”&lt;/strong&gt;&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Like other kinds of model, TOMs are a great idea as long as they are not used in isolation and are not taken to extremes. Getting involved in working on a TOM does not need to be a source of despair. Stay positive and work with your colleagues to steer your TOM efforts onto a productive path.&lt;/p&gt;
+
+&lt;h3 id=&quot;find-relevant-stories-and-analogies&quot;&gt;Find relevant stories and analogies&lt;/h3&gt;
+
+&lt;p&gt;Many people, perhaps even those who have commissioned the TOM, will have a very mechanistic or procedural idea of how a TOM will be created and used. You will need to engage people and get their support to work on the TOM in a more flexible way. Stories and analogies can help people make sense of the change they are seeking and where the TOM fits into this.&lt;/p&gt;
+
+&lt;p&gt;In the introduction I’ve used property details as an analogy but, in my work, I’ve also used everything from board games to ocean voyages. It just depends upon what works for your stakeholders. They may come up with their own analogies that you can use. I’ve worked on enough TOMs to have my own stories I can tell about how things can go well or not. Don’t be afraid to use stories you gather from your colleagues, contacts and communities. If you are totally stuck, get in touch and I will share mine.&lt;/p&gt;
+
+&lt;h3 id=&quot;start-with-user-needs&quot;&gt;Start with user needs&lt;/h3&gt;
+
+&lt;p&gt;If you are working on a digital product or service it isn’t good practice to develop all the potential features in one go. Instead, your team will conduct research and use prototypes to get evidence that the most important features will deliver the results you need. This way of thinking works well for a TOM as well.&lt;/p&gt;
+
+&lt;p&gt;First, think of the TOM as your product. Consider:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Who is expecting to use the TOM?&lt;/li&gt;
+  &lt;li&gt;What do they think it will achieve?&lt;/li&gt;
+  &lt;li&gt;Which chapters or sections of the TOM are most relevant to their needs?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can use this insight to create quick prototypes or rough drafts of parts of the TOM, get early feedback and then iterate.&lt;/p&gt;
+
+&lt;p&gt;You will be working on a TOM because your organisation is considering making some big changes. Think of these changes as a product or service and repeat the steps you have applied to your TOM.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Who needs the organisation to change?&lt;/li&gt;
+  &lt;li&gt;What do they expect to achieve by changing?&lt;/li&gt;
+  &lt;li&gt;What practical steps can you take to achieve those results or get a better understanding of them?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;follow-the-needs-wherever-they-lead&quot;&gt;Follow the needs wherever they lead&lt;/h3&gt;
+
+&lt;p&gt;Starting with user needs can produce quite surprising results. Accept them and use your new insight to shape the next steps. Here are some examples:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;You can develop a small part of the TOM and stop.&lt;/strong&gt; This might be detailed work on just a few of the sections in your TOM or an imprecise, outline of the whole thing. This can happen when the TOM is being developed to feed into a business case for a major change. It can also help to make decisions about the next stage of much larger change programme.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;The scope of the TOM is too narrow.&lt;/strong&gt; This can happen when the most important parameters of the new organisation depend on external factors. For example, your TOM might need to change depending upon demand from direct users or their end-customers. You will need a model of your wider environment and, perhaps, conduct experiments that help you understand the demand and how different ways of operating might affect it. With a wider scope it will be even more important to take an iterative approach with lots of feedback.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;A TOM can’t solve the most important problems.&lt;/strong&gt; This is common when people need assurance about what will work in practice. A conceptual document can’t tell you anything about this. Instead, you will need to shift to experiments or, at the very least, simulations. A TOM might be a good way to record what you learn from your experiments.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;You can’t find anyone who is going to use the TOM!&lt;/strong&gt; Executives may have been told, or assume, that it is important for their teams and their teams have been told, or assume, that it is required by the executives. If you find yourself in this situation there are probably more fundamental issues to resolve. Better to put your energy into solving those and not waste time on a TOM. Perhaps a TOM will have a role to play later.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;look-after-yourself-take-a-breath-and-try-again&quot;&gt;Look after yourself, take a breath and try again&lt;/h3&gt;
+
+&lt;p&gt;If you are working on a TOM then you may well be working in a large team. You might come across powerful and passionate people with their own ideas about the role of a TOM, its contents and the best way to go about it. Some of the team may have been specifically engaged to work on a TOM and could feel threatened if you question how it is done. There may be significant obstacles or objections to what you are trying to do or even to raising it as a topic of discussion.&lt;/p&gt;
+
+&lt;p&gt;Make sure you look after yourself and don’t expect to get your way every time. Conserve your energy and pick your battles. You may not be able to do everything you want but even small changes could still produce a big reduction in waste or risk for your organisation. Be happy with that and, when you’ve got the energy, try for more.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Find out more by visiting the &lt;a href=&quot;https://www.ukgovcamp.com/&quot;&gt;UKGovCamp website&lt;/a&gt; or checking the &lt;a href=&quot;https://twitter.com/hashtag/ukgc21&quot;&gt;#ukgc21 topic in Twitter&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;A quick web search will uncover more definitions and references about &lt;a href=&quot;https://en.wikipedia.org/wiki/Operating_model&quot;&gt;operating models&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Target_operating_model&quot;&gt;target operating models&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;The contents of a TOM are often summarised as people, process and technology but they usually need to cover goods, services, customers, suppliers and money as well. They are usually large and complex documents covering a wide range of topics. Sometimes they are a whole library of documents. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;As an example, Ben Proctor has &lt;a href=&quot;https://medium.com/the-satori-lab/why-a-target-operating-model-is-killing-your-public-service-625822d96742&quot;&gt;written about the problems with TOMs&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.imperial.ac.uk/business-school/news/all-models-are-wrong-some-are-useful/&quot;&gt;George Box was talking about statistics when he coined this phrase but works well in lots of other fields.&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Digital" /><category term="Agile" /><summary type="html">Most people go their whole lives without encountering a Target Operating Model (TOM). If you are one of the unlucky few who have to work on a TOM this post provides some hints and tips. I hope it will help you survive the experience and even get something useful out it. Enormous amounts of money and energy go into TOMs so we should get more value out than we put in.</summary></entry><entry><title type="html">Weeknote 15 - 19 February 2021</title><link href="https://cioportfolio.github.io/preview/2021/02/weeknote-45.html" rel="alternate" type="text/html" title="Weeknote 15 - 19 February 2021" /><published>2021-02-20T00:00:00+00:00</published><updated>2021-02-22T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/02/weeknote-45</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/02/weeknote-45.html">&lt;p&gt;On public cloud troubles, race equality and #JamFirst
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
@@ -428,55 +546,4 @@
       &lt;p&gt;Codebar are always looking for more coaches so &lt;a href=&quot;https://codebar.io/&quot;&gt;find out what is involved&lt;/a&gt; and &lt;a href=&quot;https://codebar.io/member/new&quot;&gt;sign up as a coach&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On the day-to-day work of running systems, hackathons and coaching new coders.</summary></entry><entry><title type="html">Weeknote 26 - 30 October 2020</title><link href="https://cioportfolio.github.io/preview/2020/10/weeknote-37.html" rel="alternate" type="text/html" title="Weeknote 26 - 30 October 2020" /><published>2020-10-31T00:00:00+00:00</published><updated>2020-11-01T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/10/weeknote-37</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/10/weeknote-37.html">&lt;p&gt;On all the roadmaps and an animated, LED pumpkin&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-road&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; This week included lots of work on roadmaps.&lt;/p&gt;
-
-&lt;p&gt;First up was a prototype of an overall roadmap to cover all of the product teams in IS. We are trying a simple now-next-later format as this is something that all of our product teams could produce&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. We’ve included items for half of the product teams so far but when we have finished it might be overwhelming.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/preview/assets/images/roadmap2_reduced.png&quot; alt=&quot;Excerpt of the prototype IS roadmap&quot; class=&quot;align-center&quot; style=&quot;max-width:800px&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The prototype now has some simple filters so people can just look at the things that interest them. I’ve mentioned previously&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; that we are probably going about this in the wrong way, i.e. building something before we are clear who it is for and what they need from it. In our favour it is has been very cheap to produce and if it fails to provoke more productive conversations we can throw it away.&lt;/p&gt;
-
-&lt;p&gt;I’ve also been updating a more unconventional roadmap for one of our product teams. Rather than sharing the priorities and plans that have already been developed, this roadmap is to help me make sense of a whole collection of competing demands in order to develop priorities and plans. I’m using the lanes on this map to help me understand where I should be focusing my attention and get feedback from the product team and other stakeholders.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/preview/assets/images/issues2_reduced.png&quot; alt=&quot;Excerpt of a sense making roadmap&quot; class=&quot;align-center&quot; style=&quot;max-width:800px&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The lanes at the bottom cover the basic necessities such as safety and sustainability. Making things safe might include applying security patches or replacing equipment before it fails. Filling one of our open posts, so that we are not dependent on temporary contractors, falls into the sustainability lane. The middle lanes cover continuous improvement and the top lanes are about developing new capabilities or extending the product into new areas.&lt;/p&gt;
-
-&lt;p&gt;There are important things in every lane but we can’t tackle them all at once. So far, the lanes are helping to show the things that are non-negotiable, e.g. staying safe, and things where we have more room for manoeuvre, e.g. taking on a new set of users.&lt;/p&gt;
-
-&lt;p&gt;Other roadmaps this week have covered more conventional things such as the feature roadmap for our financial and workforce systems, and the improvement roadmap for some of our reporting services.&lt;/p&gt;
-
-&lt;h2 id=&quot;planning&quot;&gt;Planning&lt;/h2&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-lightbulb&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Highlights for the next week or so are:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Testing the next quarterly release of our financial and workforce systems. It is great getting a regular flow of fixes and improvements but the fixed timetable can be quite nerve-racking.&lt;/li&gt;
-  &lt;li&gt;Sorting out monthly billing. I need to do this for the projects I oversee but I’m also going to share the tools I use with a few of our delivery managers to take some of the manual effort away.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tinkering&quot;&gt;Tinkering&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/preview/assets/images/pumpkin.gif&quot; alt=&quot;LED pumpkin gif&quot; class=&quot;align-right&quot; style=&quot;max-height: 150px&quot; /&gt; &lt;i class=&quot;fas fa-tools&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I couldn’t resist having a play to celebrate Halloween. Not my best effort but it will do until I can find time to build the bigger display I have planned&lt;sup id=&quot;fnref:10&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;I borrowed some of the ideas from the digital roadmap that Croydon published a few months ago. &lt;a href=&quot;https://croydon.digital/roadmap/&quot;&gt;Croydon are now going even further with their map&lt;/a&gt; and it will be good to see the next version soon. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Some &lt;a href=&quot;/preview/2020/09/weeknote-30.html#roadmaps&quot;&gt;background to the roadmap prototype&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:10&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;/preview/2020/03/weeknote-7.html#a-word-about-a-good-cause-or-two&quot;&gt;Some more on the light display in a previous week note&lt;/a&gt; &lt;a href=&quot;#fnref:10&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On all the roadmaps and an animated, LED pumpkin</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On the day-to-day work of running systems, hackathons and coaching new coders.</summary></entry></feed>

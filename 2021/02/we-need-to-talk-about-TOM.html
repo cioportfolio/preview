@@ -1,0 +1,935 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.18.1 by Michael Rose
+  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>We need to talk about TOM - @CIOPortfolio</title>
+<meta name="description" content="Most people go their whole lives without encountering a Target Operating Model (TOM). If you are one of the unlucky few who have to work on a TOM this post provides some hints and tips. I hope it will help you survive the experience and even get something useful out it. Enormous amounts of money and energy go into TOMs so we should get more value out than we put in. ">
+
+
+  <meta name="author" content="Richard Barton">
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en">
+<meta property="og:site_name" content="@CIOPortfolio">
+<meta property="og:title" content="We need to talk about TOM">
+<meta property="og:url" content="https://cioportfolio.github.io/preview/2021/02/we-need-to-talk-about-TOM.html">
+
+
+  <meta property="og:description" content="Most people go their whole lives without encountering a Target Operating Model (TOM). If you are one of the unlucky few who have to work on a TOM this post provides some hints and tips. I hope it will help you survive the experience and even get something useful out it. Enormous amounts of money and energy go into TOMs so we should get more value out than we put in. ">
+
+
+
+  <meta property="og:image" content="https://cioportfolio.github.io/preview/assets/images/TOM_header.png">
+
+
+
+  <meta name="twitter:site" content="@CIOPortfolio">
+  <meta name="twitter:title" content="We need to talk about TOM">
+  <meta name="twitter:description" content="Most people go their whole lives without encountering a Target Operating Model (TOM). If you are one of the unlucky few who have to work on a TOM this post provides some hints and tips. I hope it will help you survive the experience and even get something useful out it. Enormous amounts of money and energy go into TOMs so we should get more value out than we put in. ">
+  <meta name="twitter:url" content="https://cioportfolio.github.io/preview/2021/02/we-need-to-talk-about-TOM.html">
+
+  
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://cioportfolio.github.io/preview/assets/images/TOM_header.png">
+  
+
+  
+    <meta name="twitter:creator" content="@cioportfolio">
+  
+
+
+
+  <meta property="article:published_time" content="2021-02-22T00:00:00+00:00">
+
+
+
+  <meta property="article:modified_time" content="2021-02-27T00:00:00+00:00">
+
+
+
+  
+    <meta property="article:publisher" content="https://www.facebook.com/CIOPortfolio/">
+  
+
+  
+
+
+<link rel="canonical" href="https://cioportfolio.github.io/preview/2021/02/we-need-to-talk-about-TOM.html">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "@CIOPortfolio",
+      "url": "https://cioportfolio.github.io/preview/"
+    
+  }
+</script>
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="/preview/feed.xml" type="application/atom+xml" rel="alternate" title="@CIOPortfolio Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/preview/assets/css/main.css">
+
+<!--[if IE]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+
+    <!-- start custom head snippets -->
+<meta property="fb:app_id" content="187921742554149" />
+<!-- insert favicons. use http://realfavicongenerator.net/ -->
+<link rel="apple-touch-icon" sizes="57x57" href="/preview/assets/images/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/preview/assets/images/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/preview/assets/images/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/preview/assets/images/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/preview/assets/images/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/preview/assets/images/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/preview/assets/images/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/preview/assets/images/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/preview/assets/images/favicons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/preview/assets/images/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/preview/assets/images/favicons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/preview/assets/images/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/preview/assets/images/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/preview/assets/images/favicons/manifest.json">
+<link rel="shortcut icon" href="/preview/assets/images/favicons/favicon.ico">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-TileImage" content="/preview/assets/images/favicons/mstile-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+<link href="https://fonts.googleapis.com/css?family=Questrial" rel="stylesheet">
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-35202161-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- end custom head snippets -->
+  </head>
+
+  <body class="layout--post">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+<!--RB Element added-->
+    <a class="site-title" href="https://cioportfolio.github.io/preview/" style="display: block; max-width: 940px;">
+      <img id='header_img' src="/preview/assets/images/banner.png" alt="@CIOPortfolio" style='display: block;' width='100%'/>
+    </a>
+      <nav id="site-nav" class="greedy-nav">
+        
+<!--RB Removed
+        <a class="site-title" href="/preview/">
+          @CIOPortfolio
+          
+        </a>-->
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/preview/about.html" >About</a>
+            </li><li class="masthead__menu-item">
+              <a href="/preview/tags/agile" >Agile</a>
+            </li><li class="masthead__menu-item">
+              <a href="/preview/categories/binary-thinking" >Binary Thinking</a>
+            </li><li class="masthead__menu-item">
+              <a href="/preview/tags/cio" >CIO</a>
+            </li><li class="masthead__menu-item">
+              <a href="/preview/tags/cloud" >Cloud</a>
+            </li><li class="masthead__menu-item">
+              <a href="/preview/tags/digital" >Digital</a>
+            </li><li class="masthead__menu-item">
+              <a href="/preview/tags/futures" >Futures</a>
+            </li><li class="masthead__menu-item">
+              <a href="/preview/tags/local-government" >Local Gov</a>
+            </li><li class="masthead__menu-item">
+              <a href="/preview/tags/weeknotes" >Weeknotes</a>
+            </li><li class="masthead__menu-item">
+              <a href="/preview/archive.html" >Archive</a>
+            </li></ul>
+        
+        <button class="search__toggle" type="button">
+          <span class="visually-hidden">Toggle search</span>
+          <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
+            <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
+          </svg>
+        </button>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle Menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      <!-- RB Based upon Single.html moved
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+<div class="page__hero"
+  style=" "
+>
+  
+    <img src="/preview/assets/images/TOM_header.png" alt="We need to talk about TOM" class="page__hero-image">
+  
+  
+</div>
+
+
+-->
+
+
+<div id="main" role="main">
+<!--RB moved -->
+
+  
+
+
+
+
+
+
+
+
+
+
+
+<div class="page__hero"
+  style=" "
+>
+  
+    <img src="/preview/assets/images/TOM_header.png" alt="We need to talk about TOM" class="page__hero-image">
+  
+  
+</div>
+
+
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person">
+
+  
+    <div class="author__avatar">
+      
+
+      
+        <img src="/preview/assets/images/profile.jpg" alt="Richard Barton" itemprop="image">
+      
+    </div>
+  
+
+  <div class="author__content">
+    
+      <h3 class="author__name" itemprop="name">Richard Barton</h3>
+    
+    
+      <div class="author__bio" itemprop="description">
+        <p>Agile Coach at <a href="https://www.cornwall.gov.uk/">Cornwall Council</a></p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Cornwall, UK</span>
+        </li>
+      
+
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+
+      
+
+      
+
+      
+
+      
+        <li>
+          <a href="https://twitter.com/cioportfolio" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
+          </a>
+        </li>
+      
+
+      
+        <li>
+          <a href="https://www.facebook.com/CIOPortfolio" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook
+          </a>
+        </li>
+      
+
+      
+        <li>
+          <a href="https://www.linkedin.com/in/cioportfolio" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn
+          </a>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+        <li>
+          <a href="https://bitbucket.org/rbarton_uk" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket
+          </a>
+        </li>
+      
+
+      
+        <li>
+          <a href="https://github.com/cioportfolio" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub
+          </a>
+        </li>
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+<!--RB Line dded-->
+<a class="twitter-timeline" data-width="180" data-height="600"" href="https://twitter.com/CIOPortfolio?ref_src=twsrc%5Etfw">Tweets by CIOPortfolio</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="We need to talk about TOM">
+    <meta itemprop="description" content="Most people go their whole lives without encountering a Target Operating Model (TOM). If you are one of the unlucky few who have to work on a TOM this post provides some hints and tips. I hope it will help you survive the experience and even get something useful out it. Enormous amounts of money and energy go into TOMs so we should get more value out than we put in.">
+    <meta itemprop="datePublished" content="2021-02-22T00:00:00+00:00">
+    <meta itemprop="dateModified" content="2021-02-27T00:00:00+00:00">
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 id="page-title" class="page__title" itemprop="headline">We need to talk about TOM
+</h1>
+          
+            <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  9 minute read
+
+</p>
+          
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        
+<!--RB Replaced
+        { content }-->
+        <p>Most people go their whole lives without encountering a Target Operating Model (TOM). If you are one of the unlucky few who have to work on a TOM this post provides some hints and tips. I hope it will help you survive the experience and even get something useful out it. Enormous amounts of money and energy go into TOMs so we should get more value out than we put in.
+<!--more--></p>
+<blockquote class="notice--info">
+  <h4 id="help-me-improve-this-post">Help me improve this post</h4>
+  <p>This post was inspired by some discussions at UKGovCamp<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>. I’m hoping others who know more about this topic or are more engaging writers will help me iterate this or create something better.</p>
+</blockquote>
+
+<h2 id="what-is-a-target-operating-model">What is a Target Operating Model?</h2>
+
+<p>There are several formal definitions of a Target Operating Model<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup> but they often only make sense to specialists in the field. For this post, let’s use an analogy that might be easier to understand.</p>
+
+<p>If you are moving house you can visit an estate agent to get pictures and descriptions of your new home. You will get precise information about some things, such as the layout and size of the rooms, but other important things won’t appear at all. For example, sounds and smells will have a big impact on how much you enjoy your new home but don’t expect to find out anything about these from the property details.</p>
+
+<p>In a similar way, if you want to change your organisation and move to a new way of working you can look in a TOM to find pictures and descriptions of how things will be in the future. A TOM won’t normally include details of floor plans and rooms but you will see things like organisation hierarchy charts, budget spreadsheets and process flow diagrams<sup id="fnref:5"><a href="#fn:5" class="footnote">3</a></sup>. Just as for property details, the TOM won’t include some import aspects such as will the the training be any good and will your colleagues enjoy the new ways of working.</p>
+
+<h2 id="what-are-the-limitations-of-a-tom">What are the limitations of a TOM?</h2>
+
+<p>Before committing to moving you would be wise to go and visit your new house. The estate agent pictures and descriptions can only give you a vague idea of what your home will be like. Even though you have studied the dimensions of the rooms, you might be surprised about how it feels when you actually visit and move around the space.</p>
+
+<p>Unfortunately, there are loads of things you just can’t know until after you have moved. What is the best place for all your existing furniture? How will you get on with the neighbours? What is it like when the weather is particularly warm or cold?</p>
+
+<p>Just as the description of a house cannot capture what it is like to live there, a TOM cannot capture what it will be like to work in the future organisation. Worse, you won’t have the option to visit. The future organisation described in the TOM hasn’t been built yet and there isn’t anything resembling a show-home. You can’t even visit the neighbourhood and ask people what that is like to live in the area.</p>
+
+<h2 id="why-are-toms-useful">Why are TOMs useful?</h2>
+
+<p>The details of a property have a lot of limitations but they are still useful. Inspecting properties might only take a little time and expense but only a few of the thousands that are available are worth considering. The agents details are good enough to create a short-list of properties to visit before making a decision.</p>
+
+<p>TOMs are useful in the same way. There are infinite different ways you might structure and run your
+organisation so a TOM can help you find a manageable set of options to explore further.</p>
+
+<h2 id="why-do-toms-go-wrong">Why do TOMs go wrong?</h2>
+
+<p>One of the biggest problems with TOMs is a lack of experience. Few of the people involved in an organisation change will work on the TOM. Fewer still will work on more than one TOM. Perhaps no one has worked on a TOM in similar circumstances. Firms of management consultants will have created many TOMs but most of the consultants assigned to work with you will be on their first of second TOM project. Even their team leaders might not have seen their previous TOMs through to implementation. Very few people can reliably claim to know what works and what doesn’t.</p>
+
+<p>Lack of experience is compounded by excessive optimism. Despite all the limitations, people working on a TOM can be remarkably confident in the predictive power of the pictures and descriptions. People can remain confident even when previous organisation changes have run into issues and have not lived up the the descriptions in the TOM. Teams working on a TOM often encourage each other that everything will work out better this time.</p>
+
+<p>The result is that people attach more significance to the TOM than it deserves. After some senior management scrutiny, considerable amounts of time and money are committed to implementing it. The implementation often starts with a gap analysis and detailed plan. This seems quite a logical process but it actually compounds the problem. Like the TOM itself, gap analysis and up front planning can be useful but, lack of experience and optimism, mean teams put more time and energy into these than they deserve. Returning to our house analogy, this is like planning the house warming party before the builder has started to dig the foundations. What could possibly go wrong?</p>
+
+<p>After all this work has been done we still know very little about what the future organisation will be like and we have used up a lot of time and money that could have been spent on finding out.</p>
+
+<h2 id="is-there-a-better-way">Is there a better way?</h2>
+
+<p>Here are some suggestions to use TOMs to your advantage.</p>
+
+<h3 id="stay-positive">Stay positive</h3>
+
+<p>Some people argue that the whole idea of TOMs is flawed<sup id="fnref:3"><a href="#fn:3" class="footnote">4</a></sup> and in many ways they are right.</p>
+<blockquote>
+  <p><strong>“All models are wrong but some are useful.”</strong><sup id="fnref:4"><a href="#fn:4" class="footnote">5</a></sup></p>
+</blockquote>
+
+<p>Like other kinds of model, TOMs are a great idea as long as they are not used in isolation and are not taken to extremes. Getting involved in working on a TOM does not need to be a source of despair. Stay positive and work with your colleagues to steer your TOM efforts onto a productive path.</p>
+
+<h3 id="find-relevant-stories-and-analogies">Find relevant stories and analogies</h3>
+
+<p>Many people, perhaps even those who have commissioned the TOM, will have a very mechanistic or procedural idea of how a TOM will be created and used. You will need to engage people and get their support to work on the TOM in a more flexible way. Stories and analogies can help people make sense of the change they are seeking and where the TOM fits into this.</p>
+
+<p>In the introduction I’ve used property details as an analogy but, in my work, I’ve also used everything from board games to ocean voyages. It just depends upon what works for your stakeholders. They may come up with their own analogies that you can use. I’ve worked on enough TOMs to have my own stories I can tell about how things can go well or not. Don’t be afraid to use stories you gather from your colleagues, contacts and communities. If you are totally stuck, get in touch and I will share mine.</p>
+
+<h3 id="start-with-user-needs">Start with user needs</h3>
+
+<p>If you are working on a digital product or service it isn’t good practice to develop all the potential features in one go. Instead, your team will conduct research and use prototypes to get evidence that the most important features will deliver the results you need. This way of thinking works well for a TOM as well.</p>
+
+<p>First, think of the TOM as your product. Consider:</p>
+
+<ul>
+  <li class="blue"><span class="normal">Who is expecting to use the TOM?</span></li>
+  <li class="blue"><span class="normal">What do they think it will achieve?</span></li>
+  <li class="blue"><span class="normal">Which chapters or sections of the TOM are most relevant to their needs?</span></li>
+</ul>
+
+<p>You can use this insight to create quick prototypes or rough drafts of parts of the TOM, get early feedback and then iterate.</p>
+
+<p>You will be working on a TOM because your organisation is considering making some big changes. Think of these changes as a product or service and repeat the steps you have applied to your TOM.</p>
+
+<ul>
+  <li class="blue"><span class="normal">Who needs the organisation to change?</span></li>
+  <li class="blue"><span class="normal">What do they expect to achieve by changing?</span></li>
+  <li class="blue"><span class="normal">What practical steps can you take to achieve those results or get a better understanding of them?</span></li>
+</ul>
+
+<h3 id="follow-the-needs-wherever-they-lead">Follow the needs wherever they lead</h3>
+
+<p>Starting with user needs can produce quite surprising results. Accept them and use your new insight to shape the next steps. Here are some examples:</p>
+
+<ul>
+  <li class="blue"><span class="normal"><strong>You can develop a small part of the TOM and stop.</strong> This might be detailed work on just a few of the sections in your TOM or an imprecise, outline of the whole thing. This can happen when the TOM is being developed to feed into a business case for a major change. It can also help to make decisions about the next stage of much larger change programme.</span></li>
+  <li class="blue"><span class="normal"><strong>The scope of the TOM is too narrow.</strong> This can happen when the most important parameters of the new organisation depend on external factors. For example, your TOM might need to change depending upon demand from direct users or their end-customers. You will need a model of your wider environment and, perhaps, conduct experiments that help you understand the demand and how different ways of operating might affect it. With a wider scope it will be even more important to take an iterative approach with lots of feedback.</span></li>
+  <li class="blue"><span class="normal"><strong>A TOM can’t solve the most important problems.</strong> This is common when people need assurance about what will work in practice. A conceptual document can’t tell you anything about this. Instead, you will need to shift to experiments or, at the very least, simulations. A TOM might be a good way to record what you learn from your experiments.</span></li>
+  <li class="blue"><span class="normal"><strong>You can’t find anyone who is going to use the TOM!</strong> Executives may have been told, or assume, that it is important for their teams and their teams have been told, or assume, that it is required by the executives. If you find yourself in this situation there are probably more fundamental issues to resolve. Better to put your energy into solving those and not waste time on a TOM. Perhaps a TOM will have a role to play later.</span></li>
+</ul>
+
+<h3 id="look-after-yourself-take-a-breath-and-try-again">Look after yourself, take a breath and try again</h3>
+
+<p>If you are working on a TOM then you may well be working in a large team. You might come across powerful and passionate people with their own ideas about the role of a TOM, its contents and the best way to go about it. Some of the team may have been specifically engaged to work on a TOM and could feel threatened if you question how it is done. There may be significant obstacles or objections to what you are trying to do or even to raising it as a topic of discussion.</p>
+
+<p>Make sure you look after yourself and don’t expect to get your way every time. Conserve your energy and pick your battles. You may not be able to do everything you want but even small changes could still produce a big reduction in waste or risk for your organisation. Be happy with that and, when you’ve got the energy, try for more.</p>
+
+<h4 id="footnotes">Footnotes:</h4>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Find out more by visiting the <a href="https://www.ukgovcamp.com/">UKGovCamp website</a> or checking the <a href="https://twitter.com/hashtag/ukgc21">#ukgc21 topic in Twitter</a> <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </span></li>
+    <li id="fn:2">
+      <p>A quick web search will uncover more definitions and references about <a href="https://en.wikipedia.org/wiki/Operating_model">operating models</a> and <a href="https://en.wikipedia.org/wiki/Target_operating_model">target operating models</a> <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </span></li>
+    <li id="fn:5">
+      <p>The contents of a TOM are often summarised as people, process and technology but they usually need to cover goods, services, customers, suppliers and money as well. They are usually large and complex documents covering a wide range of topics. Sometimes they are a whole library of documents. <a href="#fnref:5" class="reversefootnote">&#8617;</a></p>
+    </span></li>
+    <li id="fn:3">
+      <p>As an example, Ben Proctor has <a href="https://medium.com/the-satori-lab/why-a-target-operating-model-is-killing-your-public-service-625822d96742">written about the problems with TOMs</a> <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
+    </span></li>
+    <li id="fn:4">
+      <p><a href="https://www.imperial.ac.uk/business-school/news/all-models-are-wrong-some-are-useful/">George Box was talking about statistics when he coined this phrase but works well in lots of other fields.</a> <a href="#fnref:4" class="reversefootnote">&#8617;</a></p>
+    </span></li>
+  </ol>
+</div>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+  
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="/preview/tags/agile" class="page__taxonomy-item" rel="tag">Agile</a><span class="sep">, </span>
+    
+      
+      
+      <a href="/preview/tags/digital" class="page__taxonomy-item" rel="tag">Digital</a>
+    
+    </span>
+  </p>
+
+
+
+
+        
+          <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2021-02-27">February 27, 2021</time></p>
+        
+      </footer>
+
+      <section class="page__share">
+  
+    <h4 class="page__share-title">Share on</h4>
+  
+
+  <a href="https://twitter.com/intent/tweet?via=CIOPortfolio&text=We+need+to+talk+about+TOM%20https%3A%2F%2Fcioportfolio.github.io%2Fpreview%2F2021%2F02%2Fwe-need-to-talk-about-TOM.html" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcioportfolio.github.io%2Fpreview%2F2021%2F02%2Fwe-need-to-talk-about-TOM.html" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fcioportfolio.github.io%2Fpreview%2F2021%2F02%2Fwe-need-to-talk-about-TOM.html" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/preview/2021/02/weeknote-45.html" class="pagination--pager" title="Weeknote 15 - 19 February 2021
+">Previous</a>
+    
+    
+      <a href="#" class="pagination--pager disabled">Next</a>
+    
+  </nav>
+
+    </div>
+<!-- RB line added -->
+    
+    <meta itemprop="interactionCount" content="UserComments:0"/>
+
+
+    
+      <div class="page__comments">
+  
+  
+      <h4 class="page__comments-title">Leave a Comment</h4>
+      <section class="fb-comments" data-href="https://cioportfolio.github.io/preview/2021/02/we-need-to-talk-about-TOM.html" data-mobile="true" data-num-posts="5" data-width="100%" data-colorscheme="light"></section>
+    
+</div>
+
+    
+  </article>
+
+  
+  
+    <div class="page__related">
+      <h4 class="page__related-title">You May Also Enjoy</h4>
+      <div class="grid__wrapper">
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+<!--RB Updated
+    % if include.type == "grid" and teaser %
+      <div class="archive__item-teaser"> -->
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/preview/2021/02/weeknote-45.html" rel="permalink">Weeknote 15 - 19 February 2021
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  2 minute read
+
+</p>
+    
+<!--RB Updated
+    <p class="archive__item-excerpt" itemprop="description">On public cloud troubles, race equality and #JamFirst
+</p>
+-->
+
+  
+    <p class="archive__item-excerpt" itemprop="description">On public cloud troubles, race equality and #JamFirst
+</p>
+  
+
+</article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+<!--RB Updated
+    % if include.type == "grid" and teaser %
+      <div class="archive__item-teaser"> -->
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/preview/2021/02/weeknote-44.html" rel="permalink">Weeknote 8 - 12 February 2021
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  4 minute read
+
+</p>
+    
+<!--RB Updated
+    <p class="archive__item-excerpt" itemprop="description">On agile experiments and coaching new developers
+</p>
+-->
+
+  
+    <p class="archive__item-excerpt" itemprop="description">On agile experiments and coaching new developers
+</p>
+  
+
+</article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+<!--RB Updated
+    % if include.type == "grid" and teaser %
+      <div class="archive__item-teaser"> -->
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/preview/2021/02/weeknote-43.html" rel="permalink">Weeknote 25 January - 5 February 2021
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  2 minute read
+
+</p>
+    
+<!--RB Updated
+    <p class="archive__item-excerpt" itemprop="description">On roadmap wrestling, real performance development and tech for good.
+</p>
+-->
+
+  
+    <p class="archive__item-excerpt" itemprop="description">On roadmap wrestling, real performance development and tech for good.
+</p>
+  
+
+</article>
+</div>
+
+        
+          
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+<!--RB Updated
+    % if include.type == "grid" and teaser %
+      <div class="archive__item-teaser"> -->
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/preview/2021/01/weeknote-42.html" rel="permalink">Weeknote 1 - 23 January 2021
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  3 minute read
+
+</p>
+    
+<!--RB Updated
+    <p class="archive__item-excerpt" itemprop="description">On UKGovCamp, tough times in a transformation and being a practical ally.
+
+</p>
+-->
+
+  
+    <p class="archive__item-excerpt" itemprop="description">On UKGovCamp, tough times in a transformation and being a practical ally.
+
+</p>
+  
+
+</article>
+</div>
+
+        
+      </div>
+    </div>
+  
+  
+</div>
+
+    </div>
+
+    
+      <div class="search-content">
+        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
+    <label class="sr-only" for="search">
+      Enter your search term...
+    </label>
+    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
+  </form>
+  <div id="results" class="results"></div></div>
+
+      </div>
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+          <li><a href="https://twitter.com/cioportfolio" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://www.facebook.com/CIOPortfolio" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+        
+      
+        
+          <li><a href="https://github.com/cioportfolio" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+        
+      
+        
+          <li><a href="https://bitbucket.org/rbarton_uk" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
+        
+      
+        
+      
+    
+
+    <li><a href="/preview/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2021 @CIOPortfolio. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/preview/assets/js/main.min.js"></script>
+  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
+
+
+
+
+<script src="/preview/assets/js/lunr/lunr.min.js"></script>
+<script src="/preview/assets/js/lunr/lunr-store.js"></script>
+<script src="/preview/assets/js/lunr/lunr-en.js"></script>
+
+
+
+
+  <script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35202161-2']);
+  
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+
+
+
+
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=187921742554149";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+  
+
+
+
+
+
+  </body>
+</html>

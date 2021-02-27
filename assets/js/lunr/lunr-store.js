@@ -498,4 +498,9 @@ var store = [{
         "excerpt":"On public cloud troubles, race equality and #JamFirst Doing In our private lives we use public cloud services such as Facebook or Netflix without giving them much thought. The companies running these services are improving them all the time but it is almost a Law of Nature that these systems...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2021/02/weeknote-45.html",
-        "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"}]
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"},{
+        "title": "We need to talk about TOM",
+        "excerpt":"Most people go their whole lives without encountering a Target Operating Model (TOM). If you are one of the unlucky few who have to work on a TOM this post provides some hints and tips. I hope it will help you survive the experience and even get something useful out...","categories": [],
+        "tags": ["Digital","Agile"],
+        "url": "https://cioportfolio.github.io/preview/2021/02/we-need-to-talk-about-TOM.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/TOM_teaser.png"}]
