@@ -503,4 +503,9 @@ var store = [{
         "excerpt":"Most people go their whole lives without encountering a Target Operating Model (TOM). If you are one of the unlucky few who have to work on a TOM this post provides some hints and tips. I hope it will help you survive the experience and even get something useful out...","categories": [],
         "tags": ["Digital","Agile"],
         "url": "https://cioportfolio.github.io/preview/2021/02/we-need-to-talk-about-TOM.html",
-        "teaser":"https://cioportfolio.github.io/preview/assets/images/TOM_teaser.png"}]
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/TOM_teaser.png"},{
+        "title": "Weeknote 22 February - 5 March 2021",
+        "excerpt":"On conveyor belts and living up to our values Doing I’m back to weeknotes after taking a break to write about Target Operating Models1. I’m also back to my personal sticky note board to try to keep on top of all the things I’m working on. I can only do...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2021/03/weeknote-46.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"}]
