@@ -1,4 +1,56 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2021-03-08T18:24:23+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 22 February - 5 March 2021</title><link href="https://cioportfolio.github.io/preview/2021/03/weeknote-46.html" rel="alternate" type="text/html" title="Weeknote 22 February - 5 March 2021" /><published>2021-03-07T00:00:00+00:00</published><updated>2021-03-08T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/03/weeknote-46</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/03/weeknote-46.html">&lt;p&gt;On conveyor belts, living up to our values and International Women’s Day.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2021-03-13T17:20:29+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 8 - 12 March 2021</title><link href="https://cioportfolio.github.io/preview/2021/03/weeknote-47.html" rel="alternate" type="text/html" title="Weeknote 8 - 12 March 2021" /><published>2021-03-13T00:00:00+00:00</published><updated>2021-03-14T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/03/weeknote-47</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/03/weeknote-47.html">&lt;p&gt;On growing our team, using tech for good and the awful news about Sarah Everard.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-sticky-note&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; My personal sticky note board is really helping me focus on getting things done. I’ve still ended the week with a full board of notes but at least they are not the same set that I had at the start.&lt;/p&gt;
+
+&lt;p&gt;Here are some of the topics that came to mind as I have been thinking about my weeknote.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;i class=&quot;fas fa-comments-dollar&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; We received approval to expand the team which looks after our finance and workforce systems. There is a long way to go before the new people join us but we have also secured some temporary help to ease the pressure in some parts of the team. This is one of the outcomes of some work to review our operating model&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. We are also experimenting with a couple of suppliers to find a cost effective ways to flex our team as demand for changes ebbs and flows. It isn’t realistic to do this with our permanent team.&lt;/li&gt;
+  &lt;li&gt;&lt;i class=&quot;fas fa-comments-dollar&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; This week we had our regular review with the supplier of our finance and workforce systems. A system of this scale and complexity is always going to have issues but it is good to talk about what we are learning and think about how we can collaborate more effectively.&lt;/li&gt;
+  &lt;li&gt;&lt;i class=&quot;fas fa-hands-helping&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; A meeting with the Cornwall Voluntary Sector Forum(VSF)&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; was really exciting. A group of us have been wondering if we can make more impact by coordinating our volunteering efforts and taking advantage of the valuable professional skills in the IS team. It was great to tap into the experience of the VSF team and we are going to run an experiment together to see how we could make this work.&lt;/li&gt;
+  &lt;li&gt;&lt;i class=&quot;fas fa-graduation-cap&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; We’ve been discussing how to make performance management and development really work for us rather than just be a mandatory process we have to follow. Borrowing ideas from one of our engineering teams a group of product managers is developing a map of product management capabilities and sharing our self assessments. This may lead to some personal development actions but this also opens up the possibility of taking action in pairs or small groups. It is really interesting to see where the whole group is struggling and think about improvement actions. Perhaps there are things we all need to learn or perhaps we’ve exposed a process that is broken and needs to be fixed.&lt;/li&gt;
+  &lt;li&gt;&lt;i class=&quot;fas fa-mug-hot&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I managed to join the Coffee Break Social hosted by Software Cornwall&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. Not quite the same as the face-to-face meet ups I used to join before the pandemic but good to meet some new people in the industry and hear about some of the things going on outside of the Council. The discussions got quite deep about the ethics, or not, of artificial intelligence technology and how engineers often fall into the trap of thinking problems such as poverty are things they can “solve”.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;caring&quot;&gt;Caring&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-hand-paper&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; At the start of the week my Twitter feed was filled by uplifting messages about International Women’s Day(IWD). During the week I was finding out more about our gender pay gap and coaching a woman during a codebar&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; event. I’ve ended the week reading about Sarah Everard&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; and trying to make sense of all of the reactions to her murder. I can’t imagine how awful this is for Sarah’s friends and family but it has also been traumatic for countless women who have been the victims of abuse and violence.&lt;/p&gt;
+
+&lt;p&gt;Murder is very rare in the UK&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; but a frightening proportion of women have suffered abuse or assaults&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;. Pretty much every woman has been intimidated, hassled or mistreated by a man. If this wasn’t sad enough it is also distressing how many men feel the need to explain what they think women can do to be safe or that not all men are murderers. I don’t think I am a particularly sensitive person but the ability of some men to miss the point is simply staggering! I’m glad people like Chris Hemmings&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt; are countering these voices.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;/preview/2021/02/we-need-to-talk-about-TOM.html&quot;&gt;Link to my post on Target Operating Models&lt;/a&gt;. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.cornwallvsf.org/&quot;&gt;Cornwall VSF&lt;/a&gt;. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:8&quot;&gt;
+      &lt;p&gt;Software Cornwall &lt;a href=&quot;https://softwarecornwall.org/event/coffee-break-social-5/&quot;&gt;Coffee Break Social&lt;/a&gt;. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;Codebar are always looking for more coaches so &lt;a href=&quot;https://codebar.io/&quot;&gt;find out what is involved&lt;/a&gt; and &lt;a href=&quot;https://codebar.io/member/new&quot;&gt;sign up as a coach&lt;/a&gt;. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/uk-england-london-56367223&quot;&gt;Sarah Everard ‘brought joy to our lives’&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/homicideinenglandandwales/yearendingmarch2020&quot;&gt;UK homicide statistics&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://homeofficemedia.blog.gov.uk/2019/03/07/violence-against-women-and-girls-and-male-position-factsheets/&quot;&gt;Home Office violence report&lt;/a&gt;. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;This Tweet includes a link to &lt;a href=&quot;https://twitter.com/hemmch/status/1370436894857789464&quot;&gt;Chris Hemmings’ interview&lt;/a&gt;. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On growing our team, using tech for good and the awful news about Sarah Everard.</summary></entry><entry><title type="html">Weeknote 22 February - 5 March 2021</title><link href="https://cioportfolio.github.io/preview/2021/03/weeknote-46.html" rel="alternate" type="text/html" title="Weeknote 22 February - 5 March 2021" /><published>2021-03-07T00:00:00+00:00</published><updated>2021-03-08T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/03/weeknote-46</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/03/weeknote-46.html">&lt;p&gt;On conveyor belts, living up to our values and International Women’s Day.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
@@ -529,42 +581,4 @@
       &lt;p&gt;There is a good introduction to these roles in the the UK Government &lt;a href=&quot;https://www.gov.uk/service-manual/the-team/what-each-role-does-in-service-team&quot;&gt;Service Manual&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On a year in Cornwall Council.</summary></entry><entry><title type="html">Weeknote 9 - 13 November 2020</title><link href="https://cioportfolio.github.io/preview/2020/11/weeknote-39.html" rel="alternate" type="text/html" title="Weeknote 9 - 13 November 2020" /><published>2020-11-12T00:00:00+00:00</published><updated>2020-11-13T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/11/weeknote-39</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/11/weeknote-39.html">&lt;p&gt;On always changing things, better priorities and remembering.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-comments-dollar&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt;This week we started testing the latest quarterly release of our finance and workforce systems. As the big implementation project winds down the quarterly releases will probably become our main development heartbeat. We take these systems as a public cloud service and the supplier does much of the work to maintain and develop them. We’ve agreed a fixed quarterly timetable with our supplier and there are good and bad parts to this. It is good that we can’t put off updates and store things up for a big, painful upgrade in a year or two. Unfortunately, we cannot postpone an update for even a couple of days if something isn’t working for us.&lt;/p&gt;
-
-&lt;p&gt;On balance, I think the good parts outweigh the bad&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. This is our third quarterly release since we went live with these systems and they are starting to feel more routine and less like a frantic imposed project. We have a two week testing window but, this time, we completed most of our critical testing in a week. Teams in finance, procurement, people and payroll are more in control with guidance and support from IS. Earlier releases were tightly controlled by the IS team.&lt;/p&gt;
-
-&lt;p&gt;When we are ready, I want to go further and have a shorter development cycle. The quarterly releases will remain but there are patches, optional features and external data flows which don’t need to wait. I’m imagining quarterly tides with smaller and more frequent waves in between. There are a few things we need to sort out before this will work. Some are planned, such as filling some of our vacant posts. Others are under discussion, such as shortening the time it takes to get issues resolved with our supplier. A few haven’t been tackled yet, such as automated testing.&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-search&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt;I ran another regular retrospective for one of our infrastructure teams. A couple of weeks ago the team raised the issue of distractions taking their time and attention away from their planned work. It seemed interruptions from outside the team were the main problem. This time, distractions were still the main thing the team wanted to address but the spotlight had shifted to things coming from within the team. I followed up with the Delivery Manager and will need to catch up with the Product Manager next week because it will need their influence and authority.&lt;/p&gt;
-
-&lt;h2 id=&quot;collaborating&quot;&gt;Collaborating&lt;/h2&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-hourglass-half&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt;At our Team Bumblebee&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; session this week I proposed some ideas to develop the way we prioritise our portfolio of work. Our Programme Management Office (PMO) team have made massive improvements to this in the year I have been working for the Council but we had to start with something simple. This enabled us to get control but has had unintended side-effects. Large bits of work tend to crowd out small fast improvements which might, in aggregate, have more impact. Strategically important work tends to get postponed in favour of urgent tactical work. We can mix these things together into a richer portfolio but not with the simple prioritisation that has got us this far. Some of the team have used more advanced approaches before joining the Council, such as Cost of Delay&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, so we are going to experiment with some of these ideas using support from Team Bumblebee.&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-hands-helping&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt;This week I joined a virtual meet up organised by Software Cornwall which covered things like psychological safety and the impact COVID restrictions are having on our teams. I also had a catch up with the cross-government team that has been rolling out a new self-managed learning programme about developing digital public services.&lt;/p&gt;
-
-&lt;h2 id=&quot;caring&quot;&gt;Caring&lt;/h2&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-dove&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt;Like many events this year, the Council’s remembrance ceremony was online. Once again, the organisers made good use of the tools we rolled out during the lockdown to create a really poignant event.&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;There is &lt;a href=&quot;https://nicolefv.com/resources#intro-1&quot;&gt;plenty of evidence&lt;/a&gt; that it is better to make frequent small changes to important systems rather than save things up for an occasional big upgrade. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;There is more about Team Bumblebee in a &lt;a href=&quot;/preview/2020/07/weeknote-25.html#unlocking-great-ideas&quot;&gt;previous week note&lt;/a&gt;. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;If you want to know more about Cost of Delay you should probably start with Don Reinertsen’s &lt;a href=&quot;https://www.youtube.com/watch?v=du2WV1IbULU&quot;&gt;work&lt;/a&gt;. In the Council we may need to blend this with other approaches as it will be difficult to assign an agreed monetary value to all of the things we are delivering. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On always changing things, better priorities and remembering.</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On a year in Cornwall Council.</summary></entry></feed>
