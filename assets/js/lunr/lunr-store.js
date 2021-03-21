@@ -515,7 +515,7 @@ var store = [{
         "url": "https://cioportfolio.github.io/preview/2021/03/weeknote-47.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"},{
         "title": "Weeknote 15 - 19 March 2021",
-        "excerpt":"On too much work-in-progress, more agility and vaccinations. Doing I’m resisting the urge to get a larger board for my personal sticky notes or start cutting the notes in half and using smaller hand writing. I know the problem is too much work in progress and I am going to...","categories": [],
+        "excerpt":"On too much work-in-progress, more agility and vaccinations. Doing I’m resisting the urge to get a larger board for my personal sticky notes or start cutting the notes in half and using smaller handwriting. I know the problem is too much work-in-progress so I am going to have to prioritise...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2021/03/weeknote-48.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"}]
