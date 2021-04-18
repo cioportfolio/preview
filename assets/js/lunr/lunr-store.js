@@ -518,4 +518,14 @@ var store = [{
         "excerpt":"On too much work-in-progress, more agility and vaccinations. Doing I’m resisting the urge to get a larger board for my personal sticky notes or start cutting the notes in half and using smaller handwriting. I know the problem is too much work-in-progress so I am going to have to prioritise...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2021/03/weeknote-48.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"},{
+        "title": "Weeknote 22 March -  2 April 2021",
+        "excerpt":"On our new website and second-order agile. Congratulating Last week we switched to our new council website1. You might notice the bold new layout on the homepage but the most important changes may not be so easy to spot. The design is based on good practice developed by the UK...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2021/04/weeknote-49.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"},{
+        "title": "Weeknote 5 - 16 April 2021",
+        "excerpt":"On introducing agile, single source of truth and responding to more shootings in the US. Doing We’ve introduced more agile techniques to the teams running our finance and workforce systems. We aren’t forcing everyone to do the same things but, instead, are taking trying new ideas when the opportunities arise....","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2021/04/weeknote-50.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"}]

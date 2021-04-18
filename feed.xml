@@ -1,4 +1,97 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2021-03-21T19:09:58+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 15 - 19 March 2021</title><link href="https://cioportfolio.github.io/preview/2021/03/weeknote-48.html" rel="alternate" type="text/html" title="Weeknote 15 - 19 March 2021" /><published>2021-03-19T00:00:00+00:00</published><updated>2021-03-20T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/03/weeknote-48</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/03/weeknote-48.html">&lt;p&gt;On too much work-in-progress, more agility and vaccinations.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2021-04-18T14:34:33+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 5 - 16 April 2021</title><link href="https://cioportfolio.github.io/preview/2021/04/weeknote-50.html" rel="alternate" type="text/html" title="Weeknote 5 - 16 April 2021" /><published>2021-04-18T00:00:00+00:00</published><updated>2021-04-18T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/04/weeknote-50</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/04/weeknote-50.html">&lt;p&gt;On introducing agile, single source of truth and responding to more shootings in the US.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-comments-dollar&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; We’ve introduced more agile techniques to the teams running our finance and workforce systems. We aren’t forcing everyone to do the same things but, instead, are taking trying new ideas when the opportunities arise.&lt;/p&gt;
+
+&lt;p&gt;One team has started to adopt a sprint-based&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; way of working and finished their latest sprint last week. We’ll plan the next sprint on Monday. We’ll need to take account of some absences in the team which will have a big impact on the work we can take on. We have also started to talk about running regular show and share sessions to help everyone keep up to date on the most important bits of work.&lt;/p&gt;
+
+&lt;p&gt;Other teams are trying different tools (for instance, building plans in Microsoft Teams or Azure DevOps, or even spreadsheets!) and techniques (e.g. one team is trying Kanban&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;).&lt;/p&gt;
+
+&lt;p&gt;This reactive approach makes sense as the teams are doing such a wide range of work and it isn’t clear what will work best. Our teams operate services, handle user requests and develop new features but the balance of these different types of work varies a lot between teams and over time. For example, some teams have finished their financial year end-processing but for others this continues through April. Some teams only include permanent staff but others also include temporary contractors or partner staff for specific bits of work.&lt;/p&gt;
+
+&lt;h2 id=&quot;thinking&quot;&gt;Thinking&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-info-circle&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; All organisations have to manage a lot of data. Councils have to handle data for an unusually large range of services (more than any of the commercial or central government departments I have worked with) but their data management challenges will be familiar to most data professionals.&lt;/p&gt;
+
+&lt;p&gt;All the organisations I have worked with are seeking “a single source of the truth”. Taking action based on incorrect or out of data information can be expensive or dangerous so having one obvious place to get the right information is clearly a good thing, isn’t it? Unfortunately, it often isn’t achievable.&lt;/p&gt;
+
+&lt;p&gt;One of the problems is economics. A whole series of actions would be needed to reach a single source of the truth. Each action takes us closer by combining databases or increasing data quality but they also consumes effort and money. Once the most obvious problem areas have been addressed you will have “a few sources of good-enough data” and there won’t be a strong enough case for spending more time and effort to go further.&lt;/p&gt;
+
+&lt;p&gt;The other problem is that the truth might be hard to pin down or might not exist.&lt;/p&gt;
+
+&lt;p&gt;There aren’t single, true answers to simple questions like: what is your address? The answer changes over time and for different purposes such as place of birth, delivery address and billing address. For the homeless or people with complex relationships and family lives it is even harder. To confuse matters the question is sometimes a proxy for something else, for example, we are asking about addresses to help establish someone’s identity - billing address and town of birth are often used this way. In these cases the answers need to be consistent between our interactions with that person; the physical truth doesn’t actually matter and might get in the way.&lt;/p&gt;
+
+&lt;p&gt;So lets have lists of addresses for different purposes, tracked over time and different levels of assurance. Will that suffice? Sadly, not for some types of data. As an extreme example the, the relationship between two people is important for some public services. I’ve seen a guide to determine if two people are a couple which runs to 15 pages and even then the official version of the “truth” is subject to appeal and could need to be settled in a court. In other situations, when dealing with an single individual, it might not be legal or even possible to link information obtained through different services into a single source of truth about that person.&lt;/p&gt;
+
+&lt;p&gt;In many cases “single source of the truth” is a convenient label for on-going work to improve data and data management but we shouldn’t fall into the trap of thinking about it too literally. Removing errors and other sorts of waste from our services is actually what we should be putting our scarce effort and money into.&lt;/p&gt;
+
+&lt;h2 id=&quot;caring&quot;&gt;Caring&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-fist-raised fa-flip-horizontal&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; My professional network is focused on the IT and digital industry so a lot of people reading this are likely to be white men. I hope many are allies and are thinking about how their colleagues might be feeling about recent events. The shocking way Adam Toledo was killed last month has hit the news in the UK and there are also headlines linked to Breonna Taylor and George Floyd who were killed last year. I could view these as just headlines from a distant, troubled country without much impact on me. That is a privileged viewpoint. I’m lucky to feel that I and my loved ones are safe and fairly treated here. That experience isn’t shared by everyone and these events might make others feel upset, angry or frightened.&lt;/p&gt;
+
+&lt;p&gt;Some might feel powerless to do much more than be sympathetic but IT and digital professionals can take some small but important actions to counter the systemic bias in our industry. IT is a highly paid profession so we weild a lot of economic power. In addition, the things we build are inceasingly influencial but they can perpetuate our own biases. We should be really uncomfortable that the IT industry is so dominated by white men and does not reflect the diversity of the communities we serve. Fortunately, there are things we can do. Last week I joined a group of coaches at another codebar&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; event to help people from under represented groups start or advance their career in IT. If you don’t feel comfortable being a coding coach there are numerous other groups you could help or support.&lt;/p&gt;
+
+&lt;p&gt;Accept you can’t do everything but please try to do something.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;See an &lt;a href=&quot;/preview/2019/11/so-what-exactly-is-a-sprint.html&quot;&gt;earlier post&lt;/a&gt; about sprints. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Kanban_(development)&quot;&gt;Kanban&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;Codebar are always looking for more coaches so &lt;a href=&quot;https://codebar.io/&quot;&gt;find out what is involved&lt;/a&gt; and &lt;a href=&quot;https://codebar.io/member/new&quot;&gt;sign up as a coach&lt;/a&gt;. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On introducing agile, single source of truth and responding to more shootings in the US.</summary></entry><entry><title type="html">Weeknote 22 March - 2 April 2021</title><link href="https://cioportfolio.github.io/preview/2021/04/weeknote-49.html" rel="alternate" type="text/html" title="Weeknote 22 March -  2 April 2021" /><published>2021-04-05T00:00:00+00:00</published><updated>2021-04-05T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/04/weeknote-49</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/04/weeknote-49.html">&lt;p&gt;On our new website and second-order agile.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;congratulating&quot;&gt;Congratulating&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-globe&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Last week we switched to our new council website&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. You might notice the bold new layout on the homepage but the most important changes may not be so easy to spot.&lt;/p&gt;
+
+&lt;p&gt;The design is based on good practice developed by the UK Government&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; supplemented by feedback from representative users. The priority is to help people do what they need to do in their own context. This means the content needs to work well with the devices people actually use (mostly small touch screens on mobile phones) and for all sorts of people (such as people using screen readers).&lt;/p&gt;
+
+&lt;p&gt;Our old website was hosted on public cloud services but didn’t take full advantage of the flexibility available. Our new website makes use of more advanced features to employ more computing power during busy periods (such as the local elections next month) and release it when things are quiet.&lt;/p&gt;
+
+&lt;p&gt;It has taken a lot of work and a few sleepless nights to get this far and teams from across the Council can be proud of their part in this. We now have a much better platform but the new website isn’t finished yet. Our services and user needs keep changing so we will never finish adapting the site to keep up.&lt;/p&gt;
+
+&lt;h2 id=&quot;thinking&quot;&gt;Thinking&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-question-circle&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Around the world, many people have been using agile techniques to get their work done and are generally very generous in sharing what is working, or not, for their teams. This is the raw material for more formalised frameworks like Scrum&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; which are still evolving based upon this collective experience. In simple cases, where there is a clear team and a clear product, it is easy to find good advice about how to do all sorts of work in an agile way and keep improving over time.&lt;/p&gt;
+
+&lt;p&gt;Sometimes the team and the product are not so clear or need to change. I think of this sort of problem as second-order agile and there isn’t such a rich body of knowledge here. For public services, the UK Government Service Manual covers some of these second-order topics but even this makes some assumptions about the context that don’t always apply.&lt;/p&gt;
+
+&lt;p&gt;At the Council we are getting quite comfortable with first-order agile and consistently getting good results. When we struggle there is a good chance it is down to a second-order problem. Here are some examples:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The work involves coordinating the efforts of a group of people that is too large to run as a single team. There are lots of ways of dividing the group into smaller teams but none of the options are ideal. When we spot these situations we can make deliberate choices or run experiments to find the best structure. Sometimes the situation emerges gradually and the structure that made sense at one point now doesn’t fit.&lt;/li&gt;
+  &lt;li&gt;The scope of a product and the outcomes of a change we want to make don’t match. For example, imagine we want to make changes to staff expenses. We already have an expenses system which is a component of one of our IT products. The expense system may need to change but so will our expense policies. We will also need to engage staff in the change and train our support teams in how the new rules work and how to handle exceptions. A lot of this is out of the scope of the IT product. If we based our products around business services, like managing expenses, much more of this work would be in the scope but we would need a very different product team.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-comments-dollar&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Over the last couple of weeks I’ve been wrestling with a few of these second-order issues related to our finance and workforce systems. We have an integrated set of services, systems and teams which are too big to manage as a single unit. We’ve made some decisions about the overall principles we will use to structure this area but many of the details aren’t obvious. It isn’t even clear if one approach will work across the whole area. Some of the answers will come from further work to design our future operating model but some will need to come from experiments and trials so that we can learn what works in practice.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.cornwall.gov.uk&quot;&gt;Cornwall Council’s new website&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.gov.uk/service-manual/design&quot;&gt;UK Government Design&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;The &lt;a href=&quot;https://scrumguides.org/scrum-guide.html&quot;&gt;Scrum Guide&lt;/a&gt; had a useful &lt;a href=&quot;https://scrumguides.org/revisions.html&quot;&gt;update&lt;/a&gt; at the end of last year &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On our new website and second-order agile.</summary></entry><entry><title type="html">Weeknote 15 - 19 March 2021</title><link href="https://cioportfolio.github.io/preview/2021/03/weeknote-48.html" rel="alternate" type="text/html" title="Weeknote 15 - 19 March 2021" /><published>2021-03-19T00:00:00+00:00</published><updated>2021-03-20T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/03/weeknote-48</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/03/weeknote-48.html">&lt;p&gt;On too much work-in-progress, more agility and vaccinations.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
@@ -467,110 +560,4 @@
       &lt;p&gt;More about codebar and what being a coach is like can be found &lt;a href=&quot;/preview/2020/12/weeknote-40.html#caring&quot;&gt;in a previous weeknote&lt;/a&gt;. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On UKGovCamp, tough times in a transformation and being a practical ally.</summary></entry><entry><title type="html">Weeknote 14 - 18 December 2020</title><link href="https://cioportfolio.github.io/preview/2020/12/weeknote-41.html" rel="alternate" type="text/html" title="Weeknote 14 - 18 December 2020" /><published>2020-12-13T00:00:00+00:00</published><updated>2020-12-20T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/12/weeknote-41</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/12/weeknote-41.html">&lt;p&gt;On getting things done for sure, positive project boards and white men in advertising.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-globe&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; It was great to catch up with the team developing our new website this week. I’ve had to drop out of most of the day to day activities because of my role on our finance and people management platform, so I am just helping here and there now.&lt;/p&gt;
-
-&lt;p&gt;Although the new website is not officially live the development team and web-content teams are now using what is effectively production-grade infrastructure. This means that we are pretty confident that what we can see now will work just as well when the site goes live. We can move the features from a status of done-if-we-are-lucky to done-for-sure. We’ve been holding back a big chunk of the budget as contingency against issues that might come up from moving the site onto different infrastructure. We should still keep some contingency but most of it can be released.&lt;/p&gt;
-
-&lt;p&gt;This sort of thing wasn’t possible when I started my career, a few decades ago! Back then it was incredibly slow and expensive to set up production-grade infrastructure - equivalent to fitting out a large office space - and it used to dominate how we planned projects. Unfortunately, as we developed on technology that was so different from live, we often discovered problems right at the end which could require a lot of time and expense to fix. These days, we can create and destroy these environments in hours, or sometimes minutes, and run them for a few pounds per day. We can afford to make people the centre of our plans and flex the IT infrastructure to fit in with that.&lt;/p&gt;
-
-&lt;p&gt;This is what our agile transformation is all about and this is another step on that journey. There is still a lot more to do. We all got used to treating IT development like a construction site for so long that our controls, processing, assumptions and habits have evolved to suit it. For many years it has been technically possible to treat IT development more like an art studio, but it will take time for assumptions and habits to evolve to match.&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-comments-dollar&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; There was too much going on in the finance and people management space to list it all here. The major thing for me was the project board meeting at the end of the week. It was the first one I had attended and the roadmap work I have been leading on was also a key item on the agenda. Here are some of the topics that were most significant for me.&lt;/p&gt;
-
-&lt;p&gt;The first was that operational issues were taken into account in summarising the status of the project. Some people have a really clear idea about the boundary between the work of the project and the ongoing work of running the systems and services. There isn’t clear distinction to many of our senior stakeholders. I must confess I am in the latter camp so this new way of looking at the status seems much more natural and useful to me than a strict assessment of the scope of the project.&lt;/p&gt;
-
-&lt;p&gt;The second was the discussion around the future operating model. Up to now the operating model work has focused on structure (e.g. team organisation and reporting lines) but it was good to hear the board discussing scale and transition too. It can seem, on paper, that these are independent topics and I’ve worked with some teams that have tried to keep these separate and work on them in sequence: design an ideal structure with no constraints, conduct a gap analysis against what already exists, create a transition plan which addresses the gaps. Unfortunately, this can mean leaving some make or break issues, such as funding, right until the end. I’ve seen many examples where the gaps are unsurmountable and so the preparation work is effectively a waste of time. We are taking a much more pragmatic approach. Without putting a load of detail into the future structure we already have a good idea of where the capacity gaps will appear, so we don’t need to wait until the end to start discussions about how to address them. We can also start experimenting with different team structures and ways of working before embarking on a more permanent transition. This means we can learn what works in practice and feed that into a better operating model design and transition plan.&lt;/p&gt;
-
-&lt;p&gt;Finally, the board were really supportive of the work we are doing on the roadmap. This included the scope - thinking of the whole service not just the system features - and the approach - work in the open with the prototype in order to learn what our teams need. The board went further than I expected and asked us to experiment with how we govern the roadmap. The team working with the prototype will be trusted to consider the needs of the Council as a whole and prioritise the roadmap accordingly. We can ask for advice or escalate a decision if we get stuck but, otherwise we can get on with things ourselves. I took this as a great vote of confidence in the team and a great way to wrap up 2020.&lt;/p&gt;
-
-&lt;h2 id=&quot;laughing&quot;&gt;Laughing&lt;/h2&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-laugh&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I’m taking some time off so the Xmas pub quiz was a great way to finish things off. As usual, I could handle the 80’s focused music round but was pretty rubbish at everything else.&lt;/p&gt;
-
-&lt;h2 id=&quot;caring&quot;&gt;Caring&lt;/h2&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-fist-raised fa-flip-horizontal&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Some big highs and lows in my efforts to be a better ally this week. An internal announcement about some new training was picked up by a member of the Council’s race forum. It was obvious what was wrong with the announcement when it was pointed out, and it will get changed, but we can’t undo the hurt it has caused. I would like to claim I wouldn’t have written the announcement the same way but, to be honest, I could have easily made the same mistake. I think that’s part of being an ally. You don’t ever arrive and say you’re done. You listen, learn and try your best but when you inevitably make mistakes, you own them and go round again.&lt;/p&gt;
-
-&lt;p&gt;Let’s finish on a high, at least I hope you will think so. I watched Cindy Gallop’s talk about White Men in Advertising&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; and was punching the air by the end. Cindy presents an inspiring vision of a fair and just future that is better for everyone without pulling her punches about the issues we face today. Cindy’s talk makes as much sense in my industry as it does in hers so let’s get a few steps closer to her vision in 2021.&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Db79v-SWGFo&quot;&gt;The Future For White Men In Advertising: Cindy Gallop&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On getting things done for sure, positive project boards and white men in advertising.</summary></entry><entry><title type="html">Weeknote 7 - 11 December 2020</title><link href="https://cioportfolio.github.io/preview/2020/12/weeknote-40.html" rel="alternate" type="text/html" title="Weeknote 7 - 11 December 2020" /><published>2020-12-11T00:00:00+00:00</published><updated>2020-12-13T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2020/12/weeknote-40</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2020/12/weeknote-40.html">&lt;p&gt;On habit-breaking training, learning to code and loads and loads on money and people systems.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;learning&quot;&gt;Learning&lt;/h2&gt;
-
-&lt;blockquote class=&quot;notice--info&quot;&gt;
-  &lt;h4 id=&quot;new-digital-public-services-training&quot;&gt;New Digital Public Services Training&lt;/h4&gt;
-  &lt;p&gt;Go and read &lt;a href=&quot;https://digitalpeople.blog.gov.uk/2020/12/10/habit-breaking-and-reforming/&quot;&gt;Rose Waite’s blog post&lt;/a&gt; about the self-managed learning course she has developed. Over the last few months a small group of us have been meeting virtually to go through the course materials and pick Rose’s brains about how to run it. I think this is an amazing act of generosity and I am looking forward to piloting the course at Cornwall Council soon.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-comments-dollar&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I’m currently spending most of my time on our finance and people management systems. We went live with a new cloud hosted version of these systems back in April and we are gradually shifting how we manage this area. For a couple of years we have been organised as an implementation programme but most of the programme scope has now been delivered. We are now starting to put in place the things we need to run this area as a product (or several linked products).&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-hands-helping&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; A new Delivery Manager has recently joined the department and has been assigned to work with our team. I’ve been covering several roles recently so this assignment gives me a chance to focus more on Product Management. Delivery Management in the Council is a big topic and this is one of our most complex and critical product areas so it is quite a daunting assignment. There is a big backlog of things to hand over but we are going step by step and getting one or two things properly handed-over before moving on to the next.&lt;/p&gt;
-
-&lt;p&gt;I’ve also been interviewing candidates to grow the engineering team for this area. We’re hoping to fill one of the permanent vacancies early in 2021 and also take on temporary contractors to complete some of our urgent work before we all get caught up in our financial year-end processes.&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-comments-dollar&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; As I am handing over some of my Delivery Management work I am taking up more of the Product Management responsibilities such as the commercial arrangements and budgets related to these systems. It has been great getting to know more of the people in our commercial team and start planning some of the tenders and contract renewals that will be needed over the next few months. It feels like we have a shared understanding of the commercial risks involved and a joint willingness to come up with new ways to manage them, where appropriate.&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-road&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; A few weeks ago I started to build a product roadmap for our finance and people management systems and since then have been developing it with the various teams involved. This week was the first refinement session with the leaders of our finance and people management services. The roadmap already has more than 120 items in it so this session was focused on identifying the top priority items and developing some prioritisation principles. I think we did pretty well but we are going to have to keep experimenting for the next couple of months. Here are some of the things we need to learn more about.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;What technical work should be shown in the roadmap and what should be covered elsewhere? For example, we don’t want the roadmap to be our incident and request management system but if a significant problem is taking up a lot of our effort, it will impact the roadmap so we should probably include it.&lt;/li&gt;
-  &lt;li&gt;How many products are we dealing with and how many roadmaps do we need? Our finance and people systems are used directly by staff but they are just one part of our finance and people management services. Supporting all of this is our team of engineers. Is it best to treat these as one product with many elements or several distinct products which are tightly integrated?&lt;/li&gt;
-  &lt;li&gt;How do we create a roadmap that helps our teams coordinate their work without getting in their way? Day to day management of work and longer term management of investments already happen in existing processes so the roadmap needs to act as a bridge, or pipe, between them and, ideally, speed up the flow of both. If the work to maintain the roadmap exceeds the value our teams get from it we need to change it or drop it.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Our first draft roadmap is based upon some principles that have been working well for other product teams but we need to see how this works out in practice for our teams.&lt;/p&gt;
-
-&lt;h2 id=&quot;planning&quot;&gt;Planning&lt;/h2&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-lightbulb&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Work highlights for the next few weeks or so are also focused on our finance and people management systems:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Updating the Implementation Project Board on our roadmap work and seeking their advice and support in developing it further&lt;/li&gt;
-  &lt;li&gt;Sorting out a service level agreement for reporting and analytics&lt;/li&gt;
-  &lt;li&gt;Getting involved in the budgeting process so that our product funding for next year is broadly in line with the new developments that the Council is seeking&lt;/li&gt;
-  &lt;li&gt;Helping the team that is developing our Target Operating Model to design and evaluate some potential options&lt;/li&gt;
-  &lt;li&gt;Understanding what we need to do to support some big department changes being planned for next year&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;caring&quot;&gt;Caring&lt;/h2&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-laptop-code&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; One evening this week I joined in a virtual codebar&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; event as a coach. The codebar community are trying to help members of under represented groups to develop their technology and coding skills and, ultimately, change the demographics of the industry. Ideally, there would be enough attendees for one-to-one coaching but this time we were in groups of three. I really enjoyed working with my two students for the evening.&lt;/p&gt;
-
-&lt;p&gt;One of the students was learning Python using an online course and wanted help with some of the exercises. It turned out she already knew a lot about coding in Python and just needed a little help to break the challenges down into manageable steps. I spent most of the time saying “That makes sense, let’s try it.” That probably sums up a lot of my work at the Council too! By the middle of our session we were both cheering as each automated test passed. When our time was up she headed off to virtually meet a friend who was helping her learn a completely different programming language. I can imagine the cheers carrying on into the evening.&lt;/p&gt;
-
-&lt;p&gt;My other student wanted some help debugging a prototype app that he had created to help prepare for an interview with a well known tech firm. I was amazed at how much he had already done and I surprised him by suggesting he should consider being a coach too. We didn’t manage to get everything fixed but I was able to suggest some tools which would help him investigate the bugs further. Before we finished we also talked about the interview and what might come up, as I had done a similar role earlier in my career.&lt;/p&gt;
-
-&lt;p&gt;I really enjoyed the event and will definitely take part again. Hopefully, I was able to help the two students a little.&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-fist-raised fa-flip-horizontal&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I’ve been really impressed by Black Voices Cornwall. It is a very new organisation but it is making an impact. Even The Economist has taken notice. This week I signed up to their Race Charter. Even if you don’t want to sign up yourself take a look at the charter commitments&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; as I think they are a great summary of what a good ally should aim for.&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.codebar.io/&quot;&gt;codebar website&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://us17.list-manage.com/survey?u=711a40b20eda54673119f0357&amp;amp;id=a6cc809387&quot;&gt;Black Voices Cornwall Race Charter&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On habit-breaking training, learning to code and loads and loads on money and people systems.</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On UKGovCamp, tough times in a transformation and being a practical ally.</summary></entry></feed>
