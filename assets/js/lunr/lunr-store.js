@@ -525,7 +525,17 @@ var store = [{
         "url": "https://cioportfolio.github.io/preview/2021/04/weeknote-49.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"},{
         "title": "Weeknote 5 - 16 April 2021",
-        "excerpt":"On introducing agile, single source of truth and responding to more shootings in the US. Doing We’ve introduced more agile techniques to the teams running our finance and workforce systems. We aren’t forcing everyone to do the same things but, instead, are taking trying new ideas when the opportunities arise....","categories": [],
+        "excerpt":"On introducing agile, single source of truth and responding to more shootings in the US. Doing We’ve introduced more agile techniques to the teams running our finance and workforce systems. We aren’t forcing everyone to do the same things but, instead, are trying new ideas when the opportunities arise. One...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2021/04/weeknote-50.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"},{
+        "title": "Weeknote 19 - 30 April 2021",
+        "excerpt":"On flexing, failing and basic needs. Doing We have plans to expand our capability to develop and improve our finance and workforce systems. Demand for this work constantly shifts as change programmes come and go so supply needs to be flexible too. It is not cost effective to have a...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2021/04/weeknote-51.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"},{
+        "title": "Weeknote 4 - 7 May 2021",
+        "excerpt":"On a busy short week, local elections and COVID in India. Doing Most of this week has been spent on work related to our finance and workforce systems. Here is a selection of items this week. Preparing to interview successful applicants for our new engineering roles. Attending a review of...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2021/05/weeknote-52.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"}]
