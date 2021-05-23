@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2021-05-08T16:44:02+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 4 - 7 May 2021</title><link href="https://cioportfolio.github.io/preview/2021/05/weeknote-52.html" rel="alternate" type="text/html" title="Weeknote 4 - 7 May 2021" /><published>2021-05-08T00:00:00+00:00</published><updated>2021-05-09T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/05/weeknote-52</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/05/weeknote-52.html">&lt;p&gt;On a busy short week, local elections and COVID in India.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2021-05-23T16:07:04+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 10 - 21 May 2021</title><link href="https://cioportfolio.github.io/preview/2021/05/weeknote-53.html" rel="alternate" type="text/html" title="Weeknote 10 - 21 May 2021" /><published>2021-05-23T00:00:00+00:00</published><updated>2021-05-23T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/05/weeknote-53</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/05/weeknote-53.html">&lt;p&gt;On a growing our team, cost of delay and a book you must read.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-comments-dollar&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; The next quarterly release for our finance and workforce systems goes live at the weekend so the last two weeks has been filled with testing. I’ve also been progressing the recruitment to expand our engineering team with interviews, evaluations and feedback. There will be more to do over the coming weeks such as following up references and issuing offers. Although it will be a little while yet, I have also started to get to grips with our onboarding process and how to help our new people make a great start under the COVID restrictions.&lt;/p&gt;
+
+&lt;h2 id=&quot;experimenting&quot;&gt;Experimenting&lt;/h2&gt;
+
+&lt;p&gt;After discussing the idea for quite a while we are now seriously experimenting with cost of delay&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; as a tool to help us make smarter decisions about priorities and allocating our scarce time.&lt;/p&gt;
+
+&lt;p&gt;These can involve uncomfortable conversations because we are sometimes asking people to contemplate waiting when their work has been sitting in our IS backlog for some time. It can also be uncomfortable talking about costs when people are, quite rightly, more concerned about the impact to our services or the risks to our staff and the people we serve. We are starting to find practical ways model these non-financial concerns in terms we can use with cost of delay.&lt;/p&gt;
+
+&lt;p&gt;We need to keep experimenting but, so far, things are going well. In some cases it has helped us identify requests which are of relatively low value and release people to get on with work arounds rather than fruitlessly waiting in the IS queue. We have had other examples where we have been able to create capacity to do the work because we can demonstrate it would be more expensive to wait for our existing capacity to become available. There is other work that falls between these extremes where we can use the cost of delay to schedule work in the most cost effective way.&lt;/p&gt;
+
+&lt;h2 id=&quot;learning&quot;&gt;Learning&lt;/h2&gt;
+
+&lt;p&gt;I’ve finally got round to the final chapters of Sooner Safer Happier&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. I started enthusing about this before I finished the second chapter. Jonathan Smart will not realise this but he has written a book about how we are approaching agile ways of working at Cornwall Council.&lt;/p&gt;
+
+&lt;p&gt;Like Jonathan, we’ve been inspired by a body of knowledge about agile ways of working but we’ve learnt some hard lessons along the way. We’ll use ideas from frameworks such as Scrum&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; and SAFe&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; but we won’t follow them dogmatically. Our job is to develop great public services. Using agile ways of working can help us do that but it isn’t an end in itself.&lt;/p&gt;
+
+&lt;p&gt;As well as the content, I really like the structure which makes it easy to dip back in and re-read parts when the need arises.&lt;/p&gt;
+
+&lt;h2 id=&quot;caring&quot;&gt;Caring&lt;/h2&gt;
+
+&lt;p&gt;Over the last two weeks I’ve attended another meeting of our race equality forum&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; and coached at another codebar event&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. I’m feeling more comfortable in both of these settings but now I am wondering if that is complacency rather than effectiveness. How do I put this to the test?&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;If you want to know more about Cost of Delay you should probably start with &lt;a href=&quot;https://www.youtube.com/watch?v=du2WV1IbULU&quot;&gt;Don Reinertsen’s work&lt;/a&gt;. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;You can read more &lt;a href=&quot;https://soonersaferhappier.com/&quot;&gt;about the book&lt;/a&gt; and there are also a couple of fun videos to introduce the ideas. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://scrumguides.org/scrum-guide.html&quot;&gt;The Scrum Guide&lt;/a&gt;. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.scaledagileframework.com/&quot;&gt;Scaled Agile Framework(SAFe)&lt;/a&gt;. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;There is a &lt;a href=&quot;/preview/2020/09/weeknote-31.html#a-word-about-a-good-cause&quot;&gt;bit more about our race equality forum in a previous note&lt;/a&gt;. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Codebar are always looking for more coaches so &lt;a href=&quot;https://codebar.io/&quot;&gt;find out what is involved&lt;/a&gt; and &lt;a href=&quot;https://codebar.io/member/new&quot;&gt;sign up as a coach&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On a growing our team, cost of delay and a book you must read.</summary></entry><entry><title type="html">Weeknote 4 - 7 May 2021</title><link href="https://cioportfolio.github.io/preview/2021/05/weeknote-52.html" rel="alternate" type="text/html" title="Weeknote 4 - 7 May 2021" /><published>2021-05-08T00:00:00+00:00</published><updated>2021-05-09T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/05/weeknote-52</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/05/weeknote-52.html">&lt;p&gt;On a busy short week, local elections and COVID in India.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
@@ -10,9 +60,9 @@
   &lt;li&gt;Attending a review of some unplanned downtime for our recruitment system.&lt;/li&gt;
   &lt;li&gt;Checking on preparations to test the latest quarterly software update next week.&lt;/li&gt;
   &lt;li&gt;Reviewing software and service contracts which cover these systems.&lt;/li&gt;
-  &lt;li&gt;Final decision on the replacement of some specialist software we use to model organisation structures.&lt;/li&gt;
+  &lt;li&gt;Making a final decision on the replacement of some specialist software we use to model organisation structures.&lt;/li&gt;
   &lt;li&gt;Evaluating proposals for automating how we manage annual leave and changes to staff contracts. We are going ahead with one of these right away but the other is going to pause while we make sure the benefits will outweigh the likely costs.&lt;/li&gt;
-  &lt;li&gt;Catching up with our other Product Managers to review how we are progressing with our agile transformation and looking at how we can get better at managing our technology architecture and technology design.&lt;/li&gt;
+  &lt;li&gt;Catching up with our other Product Managers to review how we are progressing with our agile transformation and looking at how we can get better at managing our technology architecture and design.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;i class=&quot;fas fa-hands-helping&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I’ve also found or made a little time for some other topics.&lt;/p&gt;
@@ -26,7 +76,7 @@
 
 &lt;h2 id=&quot;admiring&quot;&gt;Admiring&lt;/h2&gt;
 
-&lt;p&gt;&lt;i class=&quot;fas fa-window-close&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; The final counting is coming to a close in numerous local elections across the country. My colleagues have put in a load of time and effort to make these elections go smoothly, from staffing polling stations and counting votes to keeping critical systems up and running. The usual effort has been compounded by COVID restrictions and the implementation of new boundaries&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. I guess it is a sign of the times that one of the first things the new councillors received was their IT.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&quot;fas fa-thumbs-up&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; The final counting is coming to a close in numerous local elections across the country. My colleagues have put in a load of time and effort to make these elections go smoothly, from staffing polling stations and counting votes to keeping critical systems up and running. There are a load of specialist systems which help us manage elections but this was also a big test of the infrastructure behind our new website. The usual effort has been compounded by COVID restrictions and the implementation of new boundaries&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. I guess it is a sign of the times that one of the first things the new councillors received was their IT.&lt;/p&gt;
 
 &lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;These laptops are waiting to be distributed to elected councillors so that they can get to work straight away! 👩‍💻 &lt;a href=&quot;https://twitter.com/hashtag/CCElections?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#CCElections&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/LocalElections2021?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#LocalElections2021&lt;/a&gt; &lt;a href=&quot;https://t.co/RpPKxHedQs&quot;&gt;pic.twitter.com/RpPKxHedQs&lt;/a&gt;&lt;/p&gt;&amp;mdash; @cornwallcouncil (@CornwallCouncil) &lt;a href=&quot;https://twitter.com/CornwallCouncil/status/1390624308586766341?ref_src=twsrc%5Etfw&quot;&gt;May 7, 2021&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -35,7 +85,7 @@
 
 &lt;h2 id=&quot;caring&quot;&gt;Caring&lt;/h2&gt;
 
-&lt;p&gt;&lt;i class=&quot;fas fa-viruses&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I’m working with several people with connections in India and, although the second wave of COVID cases seems to be nearing its peak, it is still taking an enormous toll. As restrictions in the UK ease, please be ready to give time and space to colleagues who may be quietly grieving or anxiously trying to secure supplies and care for friends and family overseas.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&quot;fas fa-viruses&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I’m working with several people who have connections in India and, although the second wave of COVID cases seems to be nearing its peak, it is still taking an enormous toll. As restrictions in the UK ease, please be ready to give time and space to colleagues who may be quietly grieving or anxiously trying to secure supplies and care for friends and family overseas.&lt;/p&gt;
 
 &lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
 
@@ -74,7 +124,7 @@
 
 &lt;h2 id=&quot;caring&quot;&gt;Caring&lt;/h2&gt;
 
-&lt;p&gt;&lt;i class=&quot;fas fa-fist-raised fa-flip-horizontal&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I attended another meeting of our staff race equality forum. Every time I learn something new. Sometimes it could be about the impact of something in the news which I have missed. Following the meeting I’ve been thinking about the availablity of goods and services tailored to different races and cultures. This part of the world is so prepared to cater for the needs of people like me, I almost never need to think about these things. Shoe size is probably the only category where I don’t count as “normal”. On the rare occasions I get a new pair of shoes it can be exasperating. Struggling to find the basic things you need all the time must be exhausting.&lt;/p&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On flexing, failing and basic needs.</summary></entry><entry><title type="html">Weeknote 5 - 16 April 2021</title><link href="https://cioportfolio.github.io/preview/2021/04/weeknote-50.html" rel="alternate" type="text/html" title="Weeknote 5 - 16 April 2021" /><published>2021-04-18T00:00:00+00:00</published><updated>2021-04-18T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/04/weeknote-50</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/04/weeknote-50.html">&lt;p&gt;On introducing agile, single source of truth and responding to more shootings in the US.
+&lt;p&gt;&lt;i class=&quot;fas fa-fist-raised fa-flip-horizontal&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I attended another meeting of our staff race equality forum. Every time I learn something new. Sometimes it could be about the impact of something in the news which I have missed. Following the meeting I’ve been thinking about the availability of goods and services tailored to different races and cultures. This part of the world is so prepared to cater for the needs of people like me, I almost never need to think about these things. Shoe size is probably the only category where I don’t count as “normal”. On the rare occasions I get a new pair of shoes it can be exasperating. Struggling to find the basic things you need all the time must be exhausting.&lt;/p&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On flexing, failing and basic needs.</summary></entry><entry><title type="html">Weeknote 5 - 16 April 2021</title><link href="https://cioportfolio.github.io/preview/2021/04/weeknote-50.html" rel="alternate" type="text/html" title="Weeknote 5 - 16 April 2021" /><published>2021-04-18T00:00:00+00:00</published><updated>2021-04-18T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/04/weeknote-50</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/04/weeknote-50.html">&lt;p&gt;On introducing agile, single source of truth and responding to more shootings in the US.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
@@ -488,72 +538,4 @@
       &lt;p&gt;You can find out more about the race equality event and what comes next on &lt;a href=&quot;https://letstalk.cornwall.gov.uk/building-bridges?tool=survey_tool&amp;amp;tool_id=next-steps-for-the-race-equality-forum#tool_tab&quot;&gt;the Cornwall we want site&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On public cloud troubles, race equality and #JamFirst</summary></entry><entry><title type="html">Weeknote 8 - 12 February 2021</title><link href="https://cioportfolio.github.io/preview/2021/02/weeknote-44.html" rel="alternate" type="text/html" title="Weeknote 8 - 12 February 2021" /><published>2021-02-11T00:00:00+00:00</published><updated>2021-02-14T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/02/weeknote-44</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/02/weeknote-44.html">&lt;p&gt;On agile experiments and coaching new developers
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-mortar-pestle&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; It’s been a really mixed week. Here is a random selection of my work.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Developing options for how we organise support for our finance and workforce systems&lt;/li&gt;
-  &lt;li&gt;Drafting role profiles which will help us model the cost of the different options&lt;/li&gt;
-  &lt;li&gt;Drafting a value proposition to make clear the benefits we get from these systems&lt;/li&gt;
-  &lt;li&gt;Triggering our contingency plan to minimise the impact of delays to one of our projects&lt;/li&gt;
-  &lt;li&gt;Attending three events with other councils to share experiences&lt;/li&gt;
-  &lt;li&gt;Looking at how ideas such as Cost of Delay&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; can help us make smarter decisions about our work&lt;/li&gt;
-  &lt;li&gt;Working out how we can better support mobile staff who don’t have access to laptops and fast data services that the majority can use&lt;/li&gt;
-  &lt;li&gt;Continuing our pilot of the cross-government self-managed learning course&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;trying&quot;&gt;Trying&lt;/h2&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-comments-dollar&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Last year we launched some big changes to our finance and workforce systems. The work was organised as a big programme which, for several years, dominated the working lives of the teams involved. We’ve been taking steps to move from a programme world into a product world and, along the way, adopt some of the agile tools and techniques which have proven successful for other products over the last year or so.&lt;/p&gt;
-
-&lt;p&gt;The latest step is to trial sprint-based&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; working with one of our functional teams. As well as local experience from our other product teams we are tapping into a national body of knowledge and experience based around the UK Government Service Standard&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;. Some people are really confident this will make a big positive difference. Most will judge based upon the experience of the next few weeks. I am most impressed with the few who are almost sure it will be a waste of time but are giving us the benefit of the doubt. Everyone thinks the way we work needs to change. We will run a few sprints and see what results we get. If it works for the team we will keep going; if not, we will try something else.&lt;/p&gt;
-
-&lt;p&gt;Why aren’t we just copying what has worked for other teams? We aren’t copying as we have seen that, generally, copying doesn’t work. The underlying principles seem to be working everywhere we apply them but the specifics depend upon:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;needs of customer or users&lt;/li&gt;
-  &lt;li&gt;the skills and experience of team members&lt;/li&gt;
-  &lt;li&gt;the nature of the work&lt;/li&gt;
-  &lt;li&gt;relationships with suppliers, supporting services and other teams&lt;/li&gt;
-  &lt;li&gt;constraints such as funding and capacity.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;We probably can’t even copy between the teams who share our finance and workforce systems. Even though they share the same systems these teams have very different skills and experience and do different things - running payroll is completely different to running recruitment.&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-expand-arrows-alt&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Some of our product teams have been working in sprints for over a year but they are not staying still either. They are starting to look at what has worked well within their teams and see what improvements can be made by joining up teams. Some people call this sort of thing “Scaled Agile” but I prefer to think of it as just “More Agile”. We have a few people in the team who have experience with popular scaled agile frameworks&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; and we are taking inspiration from other organisations&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; including other Councils who are further ahead. Ultimately, we will still need to create something specific to us given our level of knowledge and experience, and the local decisions that have been taken about organisation and governance.&lt;/p&gt;
-
-&lt;h2 id=&quot;caring&quot;&gt;Caring&lt;/h2&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-laptop-code&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; This week included another virtual codebar&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; event. I worked with one of the students I helped in December and it was great to hear that they had started a job as a developer. We worked on some technology that was new to me so most of my contribution was around general approaches to solving problems rather than specific help with the technology. Students and coaches are matched on the day so there wasn’t really a chance to prepare but, on reflection, there were quite a few ways I could have helped more. For example, at the beginning, I reacted too quickly and tried to understand the unfamiliar technology so that I could solve the problems. I was acting more like a bad teacher than a good coach. This student was now a professional developer and didn’t need me to come up with answers. What they wanted was help to find new ways to think about the problems so they could find the solutions themselves. I will do better at the next event in March.&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;If you want to know more about Cost of Delay you should probably start with &lt;a href=&quot;https://www.youtube.com/watch?v=du2WV1IbULU&quot;&gt;Don Reinertsen’s work&lt;/a&gt; &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:6&quot;&gt;
-      &lt;p&gt;Go and read &lt;a href=&quot;https://digitalpeople.blog.gov.uk/2020/12/10/habit-breaking-and-reforming/&quot;&gt;Rose Waite’s blog post&lt;/a&gt; for the background to this &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;/preview/2019/11/so-what-exactly-is-a-sprint.html&quot;&gt;This blog post&lt;/a&gt; explains how we are using sprints &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.gov.uk/service-manual/service-standard&quot;&gt;UK Government Service Standard&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;I think Dan North’s ideas about scaled agile are really helpful. &lt;a href=&quot;https://dannorth.net/2018/01/26/in-praise-of-swarming/&quot;&gt;Dan North’s blog post&lt;/a&gt; and &lt;a href=&quot;https://www.youtube.com/watch?v=q87wNNiygaM&quot;&gt;talk&lt;/a&gt; about some helpful ideas &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;I think this video about&lt;a href=&quot;https://www.youtube.com/watch?v=R2o-Xm3UVjs&quot;&gt;Spotify’s Engineering Culture&lt;/a&gt; is really helpful. Probably more important than the particular structure they developed is the organic and iterative way it came about &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:7&quot;&gt;
-      &lt;p&gt;Codebar are always looking for more coaches so &lt;a href=&quot;https://codebar.io/&quot;&gt;find out what is involved&lt;/a&gt; and &lt;a href=&quot;https://codebar.io/member/new&quot;&gt;sign up as a coach&lt;/a&gt; &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On agile experiments and coaching new developers</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On public cloud troubles, race equality and #JamFirst</summary></entry></feed>

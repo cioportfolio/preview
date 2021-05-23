@@ -538,4 +538,9 @@ var store = [{
         "excerpt":"On a busy short week, local elections and COVID in India. Doing Most of this week has been spent on work related to our finance and workforce systems. Here is a selection of items this week. Preparing to interview successful applicants for our new engineering roles. Attending a review of...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2021/05/weeknote-52.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"},{
+        "title": "Weeknote 10 - 21 May 2021",
+        "excerpt":"On a growing our team, cost of delay and a book you must read. Doing The next quarterly release for our finance and workforce systems goes live at the weekend so the last two weeks has been filled with testing. I’ve also been progressing the recruitment to expand our engineering...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2021/05/weeknote-53.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"}]
