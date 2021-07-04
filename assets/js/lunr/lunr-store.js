@@ -555,7 +555,7 @@ var store = [{
         "url": "https://cioportfolio.github.io/preview/2021/06/weeknote-55.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"},{
         "title": "Weeknote 28 June - 2 July 2021",
-        "excerpt":"On interim roles, trade-offs and my “woke” filter bubble. Doing For the last six months or so I have been spending most of my time working on our finance and workforce systems but the intention was always to get back to my core agile coaching role at some point. We’ve...","categories": [],
+        "excerpt":"On interim roles, trade-offs and looking outside my “woke” filter bubble. Doing For the last six months or so, I have been spending most of my time working on our finance and workforce systems but the intention was always to get back to my core agile coaching role at some...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2021/06/weeknote-56.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"}]
