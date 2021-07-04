@@ -1,21 +1,92 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2021-05-23T16:07:04+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 10 - 21 May 2021</title><link href="https://cioportfolio.github.io/preview/2021/05/weeknote-53.html" rel="alternate" type="text/html" title="Weeknote 10 - 21 May 2021" /><published>2021-05-23T00:00:00+00:00</published><updated>2021-05-23T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/05/weeknote-53</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/05/weeknote-53.html">&lt;p&gt;On a growing our team, cost of delay and a book you must read.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2021-07-04T13:39:00+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 28 June - 2 July 2021</title><link href="https://cioportfolio.github.io/preview/2021/06/weeknote-56.html" rel="alternate" type="text/html" title="Weeknote 28 June - 2 July 2021" /><published>2021-06-30T00:00:00+00:00</published><updated>2021-07-04T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/06/weeknote-56</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/06/weeknote-56.html">&lt;p&gt;On interim roles, trade-offs and my “woke” filter bubble.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
 
-&lt;p&gt;&lt;i class=&quot;fas fa-comments-dollar&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; The next quarterly release for our finance and workforce systems goes live at the weekend so the last two weeks has been filled with testing. I’ve also been progressing the recruitment to expand our engineering team with interviews, evaluations and feedback. There will be more to do over the coming weeks such as following up references and issuing offers. Although it will be a little while yet, I have also started to get to grips with our onboarding process and how to help our new people make a great start under the COVID restrictions.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&quot;fas fa-comments-dollar&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; For the last six months or so I have been spending most of my time working on our finance and workforce systems but the intention was always to get back to my core agile coaching role at some point. We’ve got a full year of experience working with the new systems so we have a pretty good idea of what we need to do to run them effectively. This week we have been putting the finishing touches to some of the new roles we are going to need. Once we have recruited into these roles I will be able to hand over and get back to, what should be, the day job.&lt;/p&gt;
+
+&lt;p&gt;This week we have also been helping the last few people move off our old finance and workforce systems so we can then shut them down and dismantle them. Everyone has been using the new systems for day to day work for over a year but a few people need to access historic information and will occasionally need to do this for years to come. Since the historic data does not change we have created a set of reports to meet the most important needs, such as the records we must keep for tax and other regulatory purposes.&lt;/p&gt;
+
+&lt;h2 id=&quot;thinking&quot;&gt;Thinking&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-balance-scale&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt;As we fill out our long term organisation to run our finance and workforce systems it will open up some opportunities but it will also involve some tough trade-offs. It will give us the opportunity to pick up more of the items in our roadmap and deliver the benefits they promise but the trade-offs start with the roadmap items.&lt;/p&gt;
+
+&lt;p&gt;All of the roadmap items are good ideas in their own right but we can’t do them all and certainly not at the same time. We could tackle the items with the greatest benefits first but that can crowd out smaller items which, as a collection, may produce more value for the same effort. To find the optimum schedule we need a bit more information about the costs, benefits and risks of the items. Developing that information will take effort but any more work we do on items that are subsequently rejected will be a waste.&lt;/p&gt;
+
+&lt;p&gt;Managing the roadmap itself also involves trade-offs. I would like to see richer information about the expected benefits from the work we are being asked to do but other stakeholders are comfortable with the benefits and want better information about when the work is likely to start and finish. We could do more work on all of this but that involves making estimates which might prove to be unreliable and consumes effort that could go in to delivering the most important items.&lt;/p&gt;
+
+&lt;p&gt;Why not just increase capacity so we can cover all the work? For a variety of reasons, our finances are effectively fixed in the medium-term so increasing capacity in one team means that another team will have to do without. This becomes another trade-off and when the other teams are on the front-line providing essential care services these are not simple trade-offs to make. We can shift how our capacity is allocated within the team, for example, reducing the effort we put into training, quality or contingency measures and this could boost capacity in the short-term but store up potentially dangerous problems for the future.&lt;/p&gt;
+
+&lt;p&gt;There are other trade-offs to make in how we get the work done. For example, when teams collaborate it can help if they have adopted similar approaches such as how they organise, prioritise and plan their work. We could set standards and apply controls to achieve this but these would then become obstacles to teams developing new and better ways of working. Even the structure and scope of the teams themselves is a trade-off between a multitude of alternative ways to organise ourselves.&lt;/p&gt;
+
+&lt;p&gt;To be honest I can’t hold all of this in mind at one point in time so even which challenge to focus on is a trade-off. So far, my focus has been on getting the right capacity in our team. We are not there yet but the next few steps are clear. It is probably the right time to focus on something else. I can see some more roadmap work coming my way!&lt;/p&gt;
+
+&lt;h2 id=&quot;caring&quot;&gt;Caring&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-exclamation-triangle&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I am trying to be a good ally&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; and push against inequality and part of this is being better informed. There are two sides to this. One is to learn more about the experiences of people facing discrimination because of their gender, skin colour, physical abilities or other characteristics. The other side is to learn more about the people who don’t share my views on these topics. Personally, I quite like the idea that someone might think I am “woke” but many people use this as a derogatory term and that probably includes some of my friends and family. I am not a fan of the Daily Mail or GB News but there is no point in me pretending that they aren’t influential and I would just become a different sort of bigot if I dismissed criticisms or challenges to my views out of hand. It isn’t comfortable getting out of my filter bubble&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; and engaging with some of this material but there can be some pleasant surprises on occasions. Anyway, it is a trivial burden compared to the bias and inequality that others have to face on a daily basis.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Every time I write about this I remember an occasion when I fell short of my ideals. If you are also finding this difficult I recommend following &lt;a href=&quot;https://twitter.com/betterallies&quot;&gt;Better Allies&lt;/a&gt; for regular reminders and practical suggestions. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Filter_bubble&quot;&gt;More about filter bubbles&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On interim roles, trade-offs and my “woke” filter bubble.</summary></entry><entry><title type="html">Weeknote 21 - 25 June 2021</title><link href="https://cioportfolio.github.io/preview/2021/06/weeknote-55.html" rel="alternate" type="text/html" title="Weeknote 21 - 25 June 2021" /><published>2021-06-25T00:00:00+00:00</published><updated>2021-06-27T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/06/weeknote-55</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/06/weeknote-55.html">&lt;p&gt;On new starters, public sector sharing and race equality in Cornwall.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-comments-dollar&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Highlight of this week was getting one of our new engineers started and introducing them to the team. COVID restrictions still make this harder than normal but we are getting better at it as we get more practice.&lt;/p&gt;
+
+&lt;h2 id=&quot;sharing&quot;&gt;Sharing&lt;/h2&gt;
+
+&lt;p&gt;Cornwall Council is unique but parts of what we do and some of our issues have a lot in common with other organisations, especially in the public sector. I am a member of a number of groups which are trying to collaborate on shared challenges so we can make our limited individual efforts go further. I attended meet ups for two of these groups this week.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-handshake&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; One group is taking a fresh look at how we might share more across councils&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. For example, suppliers are often able to offer better prices for larger volumes. If several councils collaborated in purchasing supplies or equipment then they might be able to save money. This is not a new idea and you will always be able to find examples going on but many of us think we are only doing a small portion of what is possible. One of the topics the group looked at this week was funding and governance. The current arrangements for councils aren’t set up to make this sort of sharing easy so the group collected examples of what they had seen work in other sectors.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-sitemap&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Another group is looking at how the public sector designs and uses operating models&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Some of the group are new to the topic and seeking to learn more. Others have a lot of experience but aren’t satisfied with how things are done at the moment. Several of the group fed back on actions they had taken following our previous catch up and we discussed what would be most useful to do as a group. One of the things the group could do is to tackle the jargon and counter some of the common misconceptions. We could also create a beginners guide to help teams that don’t have a lot of direct experience themselves but who are capable of taking the first steps with some good hints and tips.&lt;/p&gt;
+
+&lt;h2 id=&quot;caring&quot;&gt;Caring&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-fist-raised fa-flip-horizontal&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I enjoyed attending the Cornwall Race Equality Forum&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; meeting this week although I think it will take me a bit longer to make sense of how the Forum will work. The Forum is comprised of public bodies, charities and interested individuals who share an ambition to increase racial equality across Cornwall. Aligning the efforts of all these participants will, hopefully, increase the impact they can all have but getting such a diverse group to work well together may not be easy as we all have different resources and constraints.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;David Durant has written &lt;a href=&quot;https://cholten99-61869.medium.com/introducing-the-local-gov-multi-tenant-services-meetup-6b6852e66e12&quot;&gt;a blog post to explain more about these ideas&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;There is a &lt;a href=&quot;/preview/2021/02/we-need-to-talk-about-TOM.html&quot;&gt;bit more about operating models in a previous blog post&lt;/a&gt;. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://letstalk.cornwall.gov.uk/building-bridges&quot;&gt;The Cornwall Race Equality Forum&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On new starters, public sector sharing and race equality in Cornwall.</summary></entry><entry><title type="html">Weeknote 10 - 21 May 2021</title><link href="https://cioportfolio.github.io/preview/2021/05/weeknote-53.html" rel="alternate" type="text/html" title="Weeknote 10 - 21 May 2021" /><published>2021-05-23T00:00:00+00:00</published><updated>2021-05-23T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/05/weeknote-53</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/05/weeknote-53.html">&lt;p&gt;On growing our team, cost of delay and a book you must read.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-comments-dollar&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; The next quarterly release for our finance and workforce systems goes live at the weekend so the last two weeks have been filled with testing. I’ve also been progressing the recruitment to expand our engineering team with interviews, evaluations and feedback. There will be more to do over the coming weeks such as following up references and issuing offers. Although it will be a little while yet, I have also started to get to grips with our onboarding process and how to help our new people make a great start under the COVID restrictions.&lt;/p&gt;
 
 &lt;h2 id=&quot;experimenting&quot;&gt;Experimenting&lt;/h2&gt;
 
-&lt;p&gt;After discussing the idea for quite a while we are now seriously experimenting with cost of delay&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; as a tool to help us make smarter decisions about priorities and allocating our scarce time.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&quot;fas fa-history&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; After discussing the idea for quite a while we are now seriously experimenting with cost of delay&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; as a tool to help us make smarter decisions about priorities and allocating our scarce time.&lt;/p&gt;
 
-&lt;p&gt;These can involve uncomfortable conversations because we are sometimes asking people to contemplate waiting when their work has been sitting in our IS backlog for some time. It can also be uncomfortable talking about costs when people are, quite rightly, more concerned about the impact to our services or the risks to our staff and the people we serve. We are starting to find practical ways model these non-financial concerns in terms we can use with cost of delay.&lt;/p&gt;
+&lt;p&gt;These can involve uncomfortable conversations because we are sometimes asking people to contemplate waiting when their work has been sitting in our IS backlog for some time. It can also be uncomfortable talking about costs when people are, quite rightly, more concerned about the impact to our services or the risks to our staff and the people we serve. We are starting to find practical ways to model these non-financial concerns in terms we can use with cost of delay.&lt;/p&gt;
 
-&lt;p&gt;We need to keep experimenting but, so far, things are going well. In some cases it has helped us identify requests which are of relatively low value and release people to get on with work arounds rather than fruitlessly waiting in the IS queue. We have had other examples where we have been able to create capacity to do the work because we can demonstrate it would be more expensive to wait for our existing capacity to become available. There is other work that falls between these extremes where we can use the cost of delay to schedule work in the most cost effective way.&lt;/p&gt;
+&lt;p&gt;We need to keep experimenting but, so far, things are going well. In some cases it has helped us identify requests which are of relatively low value and release people to get on with workarounds rather than fruitlessly waiting in the IS queue. We have had other examples where we have been able to create capacity to do the work because we can demonstrate it would be more expensive to wait for our existing capacity to become available. There is other work that falls between these extremes where we can use the cost of delay to schedule work in the most cost effective way.&lt;/p&gt;
 
 &lt;h2 id=&quot;learning&quot;&gt;Learning&lt;/h2&gt;
 
-&lt;p&gt;I’ve finally got round to the final chapters of Sooner Safer Happier&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. I started enthusing about this before I finished the second chapter. Jonathan Smart will not realise this but he has written a book about how we are approaching agile ways of working at Cornwall Council.&lt;/p&gt;
+&lt;p&gt;&lt;i class=&quot;fas fa-book&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I’ve finally got round to the final chapters of Sooner Safer Happier&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. I started enthusing about this before I finished the second chapter. Jonathan Smart will not realise this but he has written a book about how we are approaching agile ways of working at Cornwall Council.&lt;/p&gt;
 
 &lt;p&gt;Like Jonathan, we’ve been inspired by a body of knowledge about agile ways of working but we’ve learnt some hard lessons along the way. We’ll use ideas from frameworks such as Scrum&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; and SAFe&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; but we won’t follow them dogmatically. Our job is to develop great public services. Using agile ways of working can help us do that but it isn’t an end in itself.&lt;/p&gt;
 
@@ -23,7 +94,7 @@
 
 &lt;h2 id=&quot;caring&quot;&gt;Caring&lt;/h2&gt;
 
-&lt;p&gt;Over the last two weeks I’ve attended another meeting of our race equality forum&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; and coached at another codebar event&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. I’m feeling more comfortable in both of these settings but now I am wondering if that is complacency rather than effectiveness. How do I put this to the test?&lt;/p&gt;
+&lt;p&gt;&lt;i class=&quot;fas fa-fist-raised fa-flip-horizontal&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Over the last two weeks I’ve attended another meeting of our race equality forum&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; and coached at another codebar event&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. I’m feeling more comfortable in both of these settings but now I am wondering if that is complacency rather than effectiveness. How do I put this to the test?&lt;/p&gt;
 
 &lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
 
@@ -48,7 +119,51 @@
       &lt;p&gt;Codebar are always looking for more coaches so &lt;a href=&quot;https://codebar.io/&quot;&gt;find out what is involved&lt;/a&gt; and &lt;a href=&quot;https://codebar.io/member/new&quot;&gt;sign up as a coach&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On a growing our team, cost of delay and a book you must read.</summary></entry><entry><title type="html">Weeknote 4 - 7 May 2021</title><link href="https://cioportfolio.github.io/preview/2021/05/weeknote-52.html" rel="alternate" type="text/html" title="Weeknote 4 - 7 May 2021" /><published>2021-05-08T00:00:00+00:00</published><updated>2021-05-09T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/05/weeknote-52</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/05/weeknote-52.html">&lt;p&gt;On a busy short week, local elections and COVID in India.
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On growing our team, cost of delay and a book you must read.</summary></entry><entry><title type="html">Weeknote 24 May - 18 June 2021</title><link href="https://cioportfolio.github.io/preview/2021/05/weeknote-54.html" rel="alternate" type="text/html" title="Weeknote 24 May - 18 June 2021" /><published>2021-05-23T00:00:00+00:00</published><updated>2021-06-18T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/05/weeknote-54</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/05/weeknote-54.html">&lt;p&gt;On apprenticeships, testing and some large and small achievements.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-comments-dollar&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; There has been a lot going on around our finance and workforce systems over the last few weeks.&lt;/p&gt;
+
+&lt;p&gt;We went live with our latest quarterly release. We had done a lot of testing before the release but a couple of annoying things slipped through. The team did a great job of jumping on these to sort them out but it did create some inconvenience for people.&lt;/p&gt;
+
+&lt;p&gt;Once the quarterly release was out of the way we switched attention onto our backlog and managed to clear off some important items. Interestingly, some of the insights we got from fixing the quarterly release issues provided the clues we needed to resolve some longer running issues. So that cloud had a silver lining.&lt;/p&gt;
+
+&lt;p&gt;We held the final board meeting for the implementation project. It has taken a huge amount of work from the project team to get to this point and is a great achievement. Some of the team have now moved on to other projects and assignments but many are continuing to work with us on running and improving the platform. Governance of this ongoing effort now shifts to our design authority which will officially kick-off next month.&lt;/p&gt;
+
+&lt;h2 id=&quot;learning&quot;&gt;Learning&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-user-graduate&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Over the last few weeks I have been learning about apprenticeships and talking to colleagues about how we can make the most of the opportunities apprenticeships create. There were a lot of assumptions I had made which I need to update; in particular, how people can take up apprenticeships part way through their careers and not just at the beginning. This could be a really good way for people to develop the skills we need to run our finance and workforce systems.&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-clipboard-check&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I have been getting an update on leading practices in testing by joining in a working group led by our testing specialists. When I started my career testing was mostly a laborious manual process but, like most things in technology, this can be highly automated to be more effective and productive. To make the most of these opportunities we need to change the way we plan and organise our work and even change the way people think about testing. We are hoping to use one of our projects as a showcase of how powerful these practices can be. It should also make it easier for all of our teams to understand what is needed and start making changes in their areas of work.&lt;/p&gt;
+
+&lt;h2 id=&quot;caring&quot;&gt;Caring&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fas fa-hand-holding-heart&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Over the last few weeks I’ve been able to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;join a Codebar&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; event to coach someone hoping to start an IT career&lt;/li&gt;
+  &lt;li&gt;show a local charity how to save money on file sharing by using secure tools which are free to non-profits&lt;/li&gt;
+  &lt;li&gt;talk to one of the leaders working on the Cornwall People Hub&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;attend the latest staff forum for race equality&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Codebar are always looking for more coaches so &lt;a href=&quot;https://codebar.io/&quot;&gt;find out what is involved&lt;/a&gt; and &lt;a href=&quot;https://codebar.io/member/new&quot;&gt;sign up as a coach&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.ciosgrowthhub.com/peoplehub&quot;&gt;The Cornwall People Hub&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;There is a &lt;a href=&quot;/preview/2020/09/weeknote-31.html#a-word-about-a-good-cause&quot;&gt;bit more about our race equality forum in a previous note&lt;/a&gt;. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On apprenticeships, testing and some large and small achievements.</summary></entry><entry><title type="html">Weeknote 4 - 7 May 2021</title><link href="https://cioportfolio.github.io/preview/2021/05/weeknote-52.html" rel="alternate" type="text/html" title="Weeknote 4 - 7 May 2021" /><published>2021-05-08T00:00:00+00:00</published><updated>2021-05-09T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/05/weeknote-52</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/05/weeknote-52.html">&lt;p&gt;On a busy short week, local elections and COVID in India.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
@@ -315,227 +430,4 @@
       &lt;p&gt;This Tweet includes a link to &lt;a href=&quot;https://twitter.com/hemmch/status/1370436894857789464&quot;&gt;Chris Hemmings’ interview&lt;/a&gt;. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On growing our team, using tech for good and the awful news about Sarah Everard.</summary></entry><entry><title type="html">Weeknote 22 February - 5 March 2021</title><link href="https://cioportfolio.github.io/preview/2021/03/weeknote-46.html" rel="alternate" type="text/html" title="Weeknote 22 February - 5 March 2021" /><published>2021-03-07T00:00:00+00:00</published><updated>2021-03-08T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/03/weeknote-46</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/03/weeknote-46.html">&lt;p&gt;On conveyor belts, living up to our values and International Women’s Day.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
-
-&lt;p&gt;I’m back to weeknotes after taking a break to write about Target Operating Models&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-sticky-note&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt;I’m also back to my personal sticky note board to try to keep on top of all the things I’m working on. I can only do one or two of these things myself so I am joining up lots of bits of work from other people. It is more like a conveyor belt rather than a Kanban board&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Here is a selection from the last couple of weeks.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;learning how to respond to Council-wide priorities without undermining teams who are trying to manage their own work&lt;/li&gt;
-  &lt;li&gt;sharing scarce skills between teams without drowning in dependencies and delays&lt;/li&gt;
-  &lt;li&gt;finding out how people want to be line-managed&lt;/li&gt;
-  &lt;li&gt;experimenting with different ways to get the skills and experience we need - permanent staff, contractors, external services, collaboration, etc&lt;/li&gt;
-  &lt;li&gt;improving the way we measure the carbon impact of our business travel&lt;/li&gt;
-  &lt;li&gt;hearing about the central role digital services will have in Cornwall in the future&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;working out how we can use our professional IS skills for good causes&lt;/li&gt;
-  &lt;li&gt;reviewing the pilot of some cross-government training&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; to see if we are ready to start rolling it out&lt;/li&gt;
-  &lt;li&gt;getting ready to take on some work from someone who is leaving at the end of the month.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;thinking&quot;&gt;Thinking&lt;/h2&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-heart&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; Many of the things I am working on involve tests of our values to some extent. Some of these are clear and straightforward but I am not sure about many of them. The hard ones involve sensitive or emotional topics, uncertainty, competing values or all three. I generally don’t get very stressed or emotional through work but, when I reflect on those rare occasions, it is often down to a gap between what I think my values are and what I am actually doing. The gap can be due to some obstacle or constraint that the organisation has put in my way but it can just be my own lack of courage. Here are some examples which have come up over the last couple of weeks.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;i class=&quot;fas fa-door-open&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; We value transparency and openness but there are limits. Coaches need to hold back what they know to give students a chance to build their own understanding. Keeping things secret for a while can be necessary to achieve fairness e.g. when preparing for a competitive tendering process. Sometimes it is better to hold back and give people personal feedback one-to-one rather than be totally transparent in a meeting with lots of other people.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;i class=&quot;fas fa-pound-sign&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; People get paid differently for all sorts of reasons. We want the differences to be for fair reasons such as performance and contribution, not due to biases such as sexism and racism. How do you compare the performance and contribution of people in different disciplines or when circumstances give them very different opportunities? How do you carry out assurance for unique roles with no direct comparison? What sort of evidence of unfairness is required before we act? Does any unfair gap mean that some people are being underpaid or does it mean others are being overpaid? Are market forces a fair reason to have differences in pay?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;i class=&quot;fas fa-user-lock&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; We want people to be empowered to make decisions about their own work. This sometimes clashes with our values of collaboration and team working where we need people to give up some of their autonomy and act as a group. All of this can clash with various financial controls, quality assurance processes and safe guarding mechanisms that, for good reasons, put limits on what people can do.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Sorry if these come across as a bit conceptual or theoretical but I don’t think it would be right to be more specific in a public weeknote. These tensions affect what I am discussing and deciding on a daily basis and I am sure it is the same for many others. I hope I have the competence and courage to do the right thing most of the time.&lt;/p&gt;
-
-&lt;h2 id=&quot;caring&quot;&gt;Caring&lt;/h2&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-hand-paper&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; The IT industry is very male dominated&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; so occasions like International Women’s Day(IWD)&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; are a good opportunity to think about equality and take some action. If you are looking for practical suggestions take a look at the IWD site&lt;sup id=&quot;fnref:8:1&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. During the rest of the year, Better Allies&lt;sup id=&quot;fnref:9&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; publishes tips to counter sexism and other sorts of injustice.&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;/preview/2021/02/we-need-to-talk-about-TOM.html&quot;&gt;Link to my post on Target Operating Models&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;We use of lot of &lt;a href=&quot;https://en.wikipedia.org/wiki/Kanban_board&quot;&gt;Kanban Board’s&lt;/a&gt; in our teams, often to manage &lt;a href=&quot;/preview/2019/11/an-introduction-to-backlogs.html&quot;&gt;backlogs of work&lt;/a&gt;. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.cornwall.gov.uk/media/45314386/202711-appendix-1-the-cornwall-plan-final.pdf&quot;&gt;Cornwall’s 30-year plan&lt;/a&gt;. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;Go and read &lt;a href=&quot;https://digitalpeople.blog.gov.uk/2020/12/10/habit-breaking-and-reforming/&quot;&gt;Rose Waite’s blog post&lt;/a&gt; for the background to this. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:7&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.bcs.org/media/5766/diversity-report-2020-part2.pdf&quot;&gt;British Computer Society Diversity Report 2020&lt;/a&gt;. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:8&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.internationalwomensday.com/&quot;&gt;International Women’s Day&lt;/a&gt;. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:8:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:9&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://twitter.com/betterallies&quot;&gt;Better Allies&lt;/a&gt;. &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On conveyor belts, living up to our values and International Women’s Day.</summary></entry><entry><title type="html">We need to talk about TOM</title><link href="https://cioportfolio.github.io/preview/2021/02/we-need-to-talk-about-TOM.html" rel="alternate" type="text/html" title="We need to talk about TOM" /><published>2021-02-22T00:00:00+00:00</published><updated>2021-02-28T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/02/we-need-to-talk-about-TOM</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/02/we-need-to-talk-about-TOM.html">&lt;p&gt;Most people go their whole lives without encountering a Target Operating Model (TOM). If you are one of the unlucky few who have to work on a TOM this post provides some hints and tips. I hope it will help you survive the experience and even get something useful out of it. Enormous amounts of money and energy go into TOMs so we should get more value out than we put in.
-&lt;!--more--&gt;&lt;/p&gt;
-&lt;blockquote class=&quot;notice--info&quot;&gt;
-  &lt;h4 id=&quot;help-me-improve-this-post&quot;&gt;Help me improve this post&lt;/h4&gt;
-  &lt;p&gt;This post was inspired by some discussions at UKGovCamp&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. I’m hoping others who know more about this topic or are more engaging writers will help me iterate this or create something better.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;what-is-a-target-operating-model&quot;&gt;What is a Target Operating Model?&lt;/h2&gt;
-
-&lt;p&gt;There are several formal definitions of a Target Operating Model&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; but they often only make sense to specialists in the field. For this post, let’s use an analogy that might be easier to understand.&lt;/p&gt;
-
-&lt;p&gt;If you are moving house you can visit an estate agent to get pictures and descriptions of your new home. You will get precise information about some things, such as the layout and size of the rooms, but other important things won’t appear at all. For example, sounds and smells will have a big impact on how much you enjoy your new home but don’t expect to find out anything about these from the property details.&lt;/p&gt;
-
-&lt;p&gt;In a similar way, if you want to change your organisation and move to a new way of working you can look at a TOM to find pictures and descriptions of how things will be in the future. A TOM won’t normally include details of floor plans and rooms but you will see things like organisation hierarchy charts, budget spreadsheets and process flow diagrams&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. Just as for property details, the TOM won’t include some important aspects such as: Will the the training be any good? Will your colleagues enjoy the new ways of working?&lt;/p&gt;
-
-&lt;h2 id=&quot;what-are-the-limitations-of-a-tom&quot;&gt;What are the limitations of a TOM?&lt;/h2&gt;
-
-&lt;p&gt;Before committing to moving you would be wise to go and visit your new house. The estate agent pictures and descriptions can only give you a vague idea of what your home will be like. Even though you have studied the dimensions of the rooms, you might be surprised about how it feels when you actually visit and move around the space.&lt;/p&gt;
-
-&lt;p&gt;Unfortunately, there are loads of things you just can’t know until after you have moved. What is the best place for all your existing furniture? How will you get on with the neighbours? What is it like when the weather is particularly warm or cold?&lt;/p&gt;
-
-&lt;p&gt;Just as the description of a house cannot capture what it is like to live there, a TOM cannot capture what it will be like to work in the future organisation. Worse, you won’t have the option to visit. The future organisation described in the TOM hasn’t been built yet and there isn’t anything resembling a show-home. You can’t even visit the neighbourhood and ask people what it is like to live in the area.&lt;/p&gt;
-
-&lt;h2 id=&quot;why-are-toms-useful&quot;&gt;Why are TOMs useful?&lt;/h2&gt;
-
-&lt;p&gt;The details of a property have a lot of limitations but they are still useful, because there are thousands of properties available but only a few are worth considering. The details from the agent are good enough to create a short-list of properties to visit before making a decision.&lt;/p&gt;
-
-&lt;p&gt;TOMs are useful in the same way. There are infinite different ways you might structure and run your organisation; a TOM can help you find a manageable set of options to explore further.&lt;/p&gt;
-
-&lt;h2 id=&quot;why-do-toms-go-wrong&quot;&gt;Why do TOMs go wrong?&lt;/h2&gt;
-
-&lt;p&gt;One of the biggest problems with TOMs is a lack of experience. Few of the people involved in an organisation change will work on the TOM. Fewer still will work on more than one TOM. Perhaps no one has worked on a TOM in similar circumstances. Firms of management consultants will have created many TOMs but most of the consultants assigned to work with you will be on their first or second TOM project. Even their team leaders might not have seen their previous TOMs through to implementation. Very few people can reliably claim to know what works and what doesn’t.&lt;/p&gt;
-
-&lt;p&gt;Lack of experience is compounded by excessive optimism. Despite all the limitations, people working on a TOM can be remarkably confident in the predictive power of the pictures and descriptions. People can remain confident even when previous organisation changes have run into issues and have not lived up to the descriptions in the TOM. Teams working on a TOM often encourage each other that everything will work out better this time.&lt;/p&gt;
-
-&lt;p&gt;The result is that people attach more significance to the TOM than it deserves. After some senior management scrutiny, considerable amounts of time and money are committed to implementing it. The implementation often starts with a gap analysis and detailed plan. This seems quite a logical process but it actually compounds the problem. Like the TOM itself, gap analysis and up front planning can be useful but they often consume more time and effort than they deserve. Returning to our house analogy, this is like planning the house-warming party before the builder has started to dig the foundations. What could possibly go wrong?&lt;/p&gt;
-
-&lt;p&gt;After all this work has been done we still know very little about what the future organisation will really be like. We have also used up a lot of time and money that could have been put to better use.&lt;/p&gt;
-
-&lt;h2 id=&quot;is-there-a-better-way&quot;&gt;Is there a better way?&lt;/h2&gt;
-
-&lt;p&gt;Here are some suggestions to use TOMs to your advantage.&lt;/p&gt;
-
-&lt;h3 id=&quot;be-constructive&quot;&gt;Be constructive&lt;/h3&gt;
-
-&lt;p&gt;Some people argue that the whole idea of TOMs is flawed&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; and in many ways they are right.&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;“All models are wrong but some are useful.”&lt;/strong&gt;&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Like other kinds of model, TOMs are a great idea as long as they are not used in isolation and are not taken to extremes. Getting involved in working on a TOM does not need to be a source of despair. Be constructive and work with your colleagues to steer your TOM efforts onto a productive path.&lt;/p&gt;
-
-&lt;h3 id=&quot;find-relevant-stories-and-analogies&quot;&gt;Find relevant stories and analogies&lt;/h3&gt;
-
-&lt;p&gt;Many people, perhaps even those who have commissioned the TOM, will have a very mechanistic or procedural idea of how a TOM will be created and used. You will need to engage people and get their support to work on the TOM in a more flexible way. Stories and analogies can help people make sense of the change they are seeking and where the TOM fits into this.&lt;/p&gt;
-
-&lt;p&gt;In the introduction I’ve used property details as an analogy but, in my work, I’ve also used everything from board games to ocean voyages. It just depends on what works for your stakeholders. They may come up with their own analogies that you can use. I’ve worked on enough TOMs to be able to tell my own stories about how things can go well or not. Don’t be afraid to use stories you gather from your colleagues, contacts and communities. If you are totally stuck, get in touch and I will share mine.&lt;/p&gt;
-
-&lt;h3 id=&quot;start-with-user-needs&quot;&gt;Start with user needs&lt;/h3&gt;
-
-&lt;p&gt;If you are working on a digital product or service it isn’t good practice to develop all the potential features in one go. Instead, your team will conduct research and use prototypes to get evidence that the most important features will deliver the results you need. This way of thinking works well for a TOM too.&lt;/p&gt;
-
-&lt;p&gt;First, think of the TOM as your product. Consider:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Who is expecting to use the TOM?&lt;/li&gt;
-  &lt;li&gt;What do they think it will achieve?&lt;/li&gt;
-  &lt;li&gt;Which chapters or sections of the TOM are most relevant to their needs?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;You can use this insight to create quick prototypes or rough drafts of parts of the TOM, get early feedback and then iterate.&lt;/p&gt;
-
-&lt;p&gt;You will be working on a TOM because your organisation is considering making some big changes. Think of these changes as a product or service and repeat the steps you have applied to your TOM.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Who needs the organisation to change?&lt;/li&gt;
-  &lt;li&gt;What do they expect to achieve by changing?&lt;/li&gt;
-  &lt;li&gt;What practical steps can you take to achieve those results or get a better understanding of them?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;follow-the-needs-wherever-they-lead&quot;&gt;Follow the needs wherever they lead&lt;/h3&gt;
-
-&lt;p&gt;Starting with user needs can produce quite surprising results. Accept them and use your new insight to shape the next steps. Here are some examples:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;You can develop a small part of the TOM and stop.&lt;/strong&gt; This might be detailed work on just a few of the sections in your TOM or an imprecise outline of the whole thing. This can happen when the TOM is being developed to feed into a business case for a major change. It can also help to make decisions about the next stage of a much larger change programme.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;The scope of the TOM is too narrow.&lt;/strong&gt; This can happen when the most important parameters of the new organisation depend on external factors. For example, your TOM might need to change depending upon demand from direct users or their end-customers. You will need a model of your wider environment. You may also need to conduct experiments to help you understand the demand and how different ways of operating might affect it. With a wider scope it will be even more important to take an iterative approach with lots of feedback.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;A TOM can’t solve the most important problems.&lt;/strong&gt; This is common when people need assurance about what will work in practice. A conceptual document can’t tell you anything about this. Instead, you will need to shift to experiments or, at the very least, simulations. A TOM might be a good way to record what you learn from your experiments.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;You can’t find anyone who is going to use the TOM!&lt;/strong&gt; Executives may have been told, or assume, that it is important for their teams and their teams have been told, or assume, that it is required by the executives. If you find yourself in this situation there are probably more fundamental issues to resolve. Better to put your energy into solving those and not waste time on a TOM. Perhaps a TOM will have a role to play later.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;look-after-yourself-take-a-breath-and-try-again&quot;&gt;Look after yourself, take a breath and try again&lt;/h3&gt;
-
-&lt;p&gt;If you are working on a TOM then you may well be working in a large team. You might come across powerful and passionate people with their own ideas about the role of a TOM, its contents and the best way to go about it. Some of the team may have been specifically engaged to work on a TOM and could feel threatened if you question how it is done. There may be significant obstacles or objections to what you are trying to do or even to raising it as a topic of discussion.&lt;/p&gt;
-
-&lt;p&gt;Make sure you look after yourself and don’t expect to get your way every time. Conserve your energy and pick your battles. You may not be able to do everything you want but even small changes could still produce a big reduction in waste or risk for your organisation. Be happy with that and, when you’ve got the energy, try for more.&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Find out more by visiting the &lt;a href=&quot;https://www.ukgovcamp.com/&quot;&gt;UKGovCamp website&lt;/a&gt; or checking the &lt;a href=&quot;https://twitter.com/hashtag/ukgc21&quot;&gt;#ukgc21 topic in Twitter&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;A quick web search will uncover more definitions and references about &lt;a href=&quot;https://en.wikipedia.org/wiki/Operating_model&quot;&gt;operating models&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Target_operating_model&quot;&gt;target operating models&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;The contents of a TOM are often summarised as people, process and technology but they usually need to cover goods, services, customers, suppliers and money as well. They are usually large and complex documents covering a wide range of topics. Sometimes they are a whole library of documents. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;As an example, Ben Proctor has &lt;a href=&quot;https://medium.com/the-satori-lab/why-a-target-operating-model-is-killing-your-public-service-625822d96742&quot;&gt;written about the problems with TOMs&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.imperial.ac.uk/business-school/news/all-models-are-wrong-some-are-useful/&quot;&gt;George Box was talking about statistics when he coined this phrase but works well in lots of other fields.&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Digital" /><category term="Agile" /><summary type="html">Most people go their whole lives without encountering a Target Operating Model (TOM). If you are one of the unlucky few who have to work on a TOM this post provides some hints and tips. I hope it will help you survive the experience and even get something useful out of it. Enormous amounts of money and energy go into TOMs so we should get more value out than we put in.</summary></entry><entry><title type="html">Weeknote 15 - 19 February 2021</title><link href="https://cioportfolio.github.io/preview/2021/02/weeknote-45.html" rel="alternate" type="text/html" title="Weeknote 15 - 19 February 2021" /><published>2021-02-20T00:00:00+00:00</published><updated>2021-02-22T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/02/weeknote-45</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/02/weeknote-45.html">&lt;p&gt;On public cloud troubles, race equality and #JamFirst
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-comments-dollar&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; In our private lives we use public cloud services such as Facebook or Netflix without giving them much thought. The companies running these services are improving them all the time but it is almost a Law of Nature that these systems contain defects which can impact a few, or occasionally all, of their users. Overall, these systems are much more reliable and economical than the alternatives but it is still frustrating when things go wrong.&lt;/p&gt;
-
-&lt;p&gt;We use a public cloud service for our finance and workforce systems to get similar performance and cost benefits. Occasionally, we also come across similar, frustrating defects. This week I spent quite a lot of time trying to manage one of these.&lt;/p&gt;
-
-&lt;p&gt;If you can’t watch a movie when you want it is probably just an inconvenience. Our systems handle things like payments and compliance with regulations so the impact of problems is much greater. If this affects payments to a small business or a low-income family then even a short interruption can be really harmful. Along with our supplier, we put a lot of effort into checking and testing changes and this week’s problem was spotted during some of these tests.&lt;/p&gt;
-
-&lt;p&gt;Spotting the problem early is good as it gives us a chance to take steps to fix the problem or to mitigate the impact. In this case, the supplier needs to make further changes to remove the problem and we will have to ask our busy operational teams to work around it for a week or two.&lt;/p&gt;
-
-&lt;p&gt;This week also included:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;a team tea break with scones, jam and cream - in that order, please!&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;another instalment of the digital services course I am piloting and a catch up with the cross-government team that developed the course&lt;/li&gt;
-  &lt;li&gt;a couple of agile coaching sessions with someone at Dorset Council as part of our experiment with swapping skills&lt;/li&gt;
-  &lt;li&gt;a fascinating show-and-tell session focused on geographic information systems and IS work to support the Council’s property estate.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;caring&quot;&gt;Caring&lt;/h2&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-fist-raised fa-flip-horizontal&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I really enjoyed our staff race forum this week. We’ve got a few new members and swapped ideas about how to put some of the forum’s ideas into action. The Council facilitated a public race equality event&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; earlier this month and it was great to hear such positive feedback. There is a lot more to do to create the sort of fair and welcoming Cornwall we want and we aren’t changing quickly enough. Perhaps these visible signs of our ambition and commitment will give people some hope.&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.independent.co.uk/life-style/food-and-drink/queen-scones-jam-cream-what-goes-first-debate-cream-tea-outrage-a8260686.html&quot;&gt;As the Queen prefers&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;You can find out more about the race equality event and what comes next on &lt;a href=&quot;https://letstalk.cornwall.gov.uk/building-bridges?tool=survey_tool&amp;amp;tool_id=next-steps-for-the-race-equality-forum#tool_tab&quot;&gt;the Cornwall we want site&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On public cloud troubles, race equality and #JamFirst</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On growing our team, using tech for good and the awful news about Sarah Everard.</summary></entry></feed>

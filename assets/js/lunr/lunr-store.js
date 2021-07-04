@@ -540,7 +540,22 @@ var store = [{
         "url": "https://cioportfolio.github.io/preview/2021/05/weeknote-52.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"},{
         "title": "Weeknote 10 - 21 May 2021",
-        "excerpt":"On a growing our team, cost of delay and a book you must read. Doing The next quarterly release for our finance and workforce systems goes live at the weekend so the last two weeks has been filled with testing. I’ve also been progressing the recruitment to expand our engineering...","categories": [],
+        "excerpt":"On growing our team, cost of delay and a book you must read. Doing The next quarterly release for our finance and workforce systems goes live at the weekend so the last two weeks have been filled with testing. I’ve also been progressing the recruitment to expand our engineering team...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2021/05/weeknote-53.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"},{
+        "title": "Weeknote 24 May - 18 June 2021",
+        "excerpt":"On apprenticeships, testing and some large and small achievements. Doing There has been a lot going on around our finance and workforce systems over the last few weeks. We went live with our latest quarterly release. We had done a lot of testing before the release but a couple of...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2021/05/weeknote-54.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"},{
+        "title": "Weeknote 21 - 25 June 2021",
+        "excerpt":"On new starters, public sector sharing and race equality in Cornwall. Doing Highlight of this week was getting one of our new engineers started and introducing them to the team. COVID restrictions still make this harder than normal but we are getting better at it as we get more practice....","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2021/06/weeknote-55.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"},{
+        "title": "Weeknote 28 June - 2 July 2021",
+        "excerpt":"On interim roles, trade-offs and my “woke” filter bubble. Doing For the last six months or so I have been spending most of my time working on our finance and workforce systems but the intention was always to get back to my core agile coaching role at some point. We’ve...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2021/06/weeknote-56.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"}]
