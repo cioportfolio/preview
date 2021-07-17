@@ -558,4 +558,9 @@ var store = [{
         "excerpt":"On interim roles, trade-offs and looking outside my “woke” filter bubble. Doing For the last six months or so, I have been spending most of my time working on our finance and workforce systems but the intention was always to get back to my core agile coaching role at some...","categories": [],
         "tags": ["Local Government","Weeknotes"],
         "url": "https://cioportfolio.github.io/preview/2021/06/weeknote-56.html",
+        "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"},{
+        "title": "Weeknote 5 - 16 July 2021",
+        "excerpt":"On visiting an office, audits and virtual training. Moving I started working from home full time a week or so before the start of the first official lock down. Aside from a very short visit to collect some equipment, this was the first time I have returned to do some...","categories": [],
+        "tags": ["Local Government","Weeknotes"],
+        "url": "https://cioportfolio.github.io/preview/2021/07/weeknote-57.html",
         "teaser":"https://cioportfolio.github.io/preview/assets/images/stickers_teaser.jpg"}]

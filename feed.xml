@@ -1,4 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2021-07-04T19:32:58+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 28 June - 2 July 2021</title><link href="https://cioportfolio.github.io/preview/2021/06/weeknote-56.html" rel="alternate" type="text/html" title="Weeknote 28 June - 2 July 2021" /><published>2021-06-30T00:00:00+00:00</published><updated>2021-07-04T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/06/weeknote-56</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/06/weeknote-56.html">&lt;p&gt;On interim roles, trade-offs and looking outside my “woke” filter bubble.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://cioportfolio.github.io/preview/feed.xml" rel="self" type="application/atom+xml" /><link href="https://cioportfolio.github.io/preview/" rel="alternate" type="text/html" /><updated>2021-07-17T10:17:28+00:00</updated><id>https://cioportfolio.github.io/preview/feed.xml</id><title type="html">@CIOPortfolio</title><subtitle>Personal blog</subtitle><author><name>Richard Barton</name></author><entry><title type="html">Weeknote 5 - 16 July 2021</title><link href="https://cioportfolio.github.io/preview/2021/07/weeknote-57.html" rel="alternate" type="text/html" title="Weeknote 5 - 16 July 2021" /><published>2021-07-06T00:00:00+00:00</published><updated>2021-07-17T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/07/weeknote-57</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/07/weeknote-57.html">&lt;p&gt;On visiting an office, audits and virtual training.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;moving&quot;&gt;Moving&lt;/h2&gt;
+
+&lt;p&gt;I started working from home full time a week or so before the start of the first official lock down. Aside from a very short visit to collect some equipment, this was the first time I have returned to do some work in our office. A large portion of our IS department was based in an area on the ground floor but this has been put to use as bookable team collaboration spaces and the whole office now has a much lower capacity, COVID-safe layout. I’m not sure we will ever return to the way we worked in 2019 but I am sure we will get back to some level of face-to-face working. It will probably be done deliberately for specific purposes rather than the default way of working. We’ve started to experiment with things like the Team Canvas&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; so that each of our teams can think about their unique circumstances and agree what will work for them.&lt;/p&gt;
+
+&lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
+
+&lt;p&gt;A new engineer has joined our finance and workforce systems team recently so we have started to rebalance the work around the team. As we move people into some new areas we need to allocate some time for on the job training and pair working but this is actually a positive benefit as it will increase our resilience and gives us more flexibility for covering absences such as annual leave.&lt;/p&gt;
+
+&lt;p&gt;Over the last couple of weeks I have been helping coordinate some of the evidence we need for an external audit. This hasn’t been as easy as it should be, partially this is due to lack of familiarity. A year or so ago we were running some of our monthly processes for the first time and now it much more familiar. Recently we completed our first year-end on the new systems and a few of the steps were difficult as they were new. This is the first audit of this kind for these new systems so, in some cases, we need to gather the audit evidence in new ways or clarify what is needed to take account of the fact that we are now using cloud computing services run by a supplier rather than computers running in our own data centre. Next time around will be much easier.&lt;/p&gt;
+
+&lt;p&gt;A few weeks ago we formed a small group looking at how to improve our testing practices and I joined another catch up with the group this week. Testing is one of those things that everyone knows a little about and it gets more complicated the more you find out.&lt;/p&gt;
+
+&lt;p&gt;Most people get involved in a bit of testing occasionally, for example, checking that things seem to work just before a big change is going to be made. For other people, testing is their full time job and they will work with teams right at the start to clarify the goals and expected outcomes which will shape what tests will be needed and how they will be done. For occasional testers, finding an error is disappointing and a cause of anxiety. For testing specialists, finding no errors probably means the tests are not good enough and that is a cause of anxiety.&lt;/p&gt;
+
+&lt;p&gt;Some teams actually construct tests before they construct the thing they intend to test. Other teams are working with things created by external suppliers which have already been through thorough tests but, because things can still slip through, they perform even more tests locally for critical elements. There are lots of ways that we can improve and it is great to have a group like this that is passionate about what we should do.&lt;/p&gt;
+
+&lt;p&gt;We are hoping to return to Agile on the Beach&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; in September to continue the story that we started to share at the last event in 2019&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. I am part of a small group pulling together some stories we can share which stay true to the spirit of the conference pitch we submitted over a year ago without pretending we haven’t been through a once in a lifetime crisis. I’ve been starting to sketch out a couple of the stories we might share and it has been really useful to go back over past weekknotes&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; as a reminder of what happened and what I felt about it at the time.&lt;/p&gt;
+
+&lt;p&gt;Delivering training has been one of the most satisfying parts of my work throughout my career. I was training people how to write programs&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; within months of starting my first proper job and have been delivering training on and off all my career. It was great to get the chance to run some of our introductory agile training last week and there is more to come.&lt;/p&gt;
+
+&lt;p&gt;We have used external training providers with mixed results. A lot of agile training is linked to specific frameworks and recognised certifications and the courses can feel like cramming for an exam rather than building skills and understanding. A lot of generic agile material can feel like common sense. The hard part is applying it in context and dealing with the specific constraints and compromises you have to face. I hope that our sharing our trainers’ experience of applying the ideas and techniques in practice in the same environment will turn out to be more valuable than a ticking a certification box. Let’s see what the initial trainees share in their feedback.&lt;/p&gt;
+
+&lt;p&gt;I have to admit I found the shift to virtual training really hard. I like to go off script and respond to trainee feedback during a course. Sometimes this can be in response to a question or comment but, in a training room setting, it can often be people’s facial expressions, unconscious sounds and body posture. You will get signals that people are tired, want to move on or are struggling to keep up way before anyone will put it into words. It is electric to experience the wave of nods, smiles and quiet exhalations when a group suddenly understands a difficult or subtle concept. Sometimes, it might take an unschedule group exercise or on-the-fly rescheduling. Sometimes, it just takes a different visual aid or even just a change of position in the training room. Loads of these signals and responses are muffled in a virtual course. This should have been easy to anticipate but I realised too late that I hadn’t prepared enough for it and hadn’t developed enough virtual alternatives. I’ll do better next time but it will take a lot of research and experimentation to break my old habits and find new ways to train virtually.&lt;/p&gt;
+
+&lt;h2 id=&quot;caring&quot;&gt;Caring&lt;/h2&gt;
+
+&lt;p&gt;Sorry if you are getting fed up with this but here is my regular reminder that codebar&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; are a group of really great people trying to do some really great things. This month’s session was fun and challenging again. I was helping someone get to grips with the sorts of testing expected in a professional environment. You can get quite a lot done with software without thinking about testing but once you work with something more complex or with a team then testing quickly becomes an essential skill that you need to master. You often need to be quite knowledgeable and proficient with the programing language to make full use of the testing tools as well but we got there in the end.&lt;/p&gt;
+
+&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://medium.com/agile-outside-the-box/the-team-canvas-building-trust-via-transparency-cf88ac05c66d&quot;&gt;Read more about Team Canvas&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://events.agileonthebeach.com/event/15740756-f9c3-4fcc-8348-ba191b63bb53/summary&quot;&gt;Agile on the Beach&lt;/a&gt; will be the World’s best agile conference this year and not just because it takes place in Cornwall! &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://youtu.be/bVg1o3sq4yA&quot;&gt;Cornwall’s previous talk&lt;/a&gt; was so good I changed by job! &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;This is a &lt;a href=&quot;https://productforthepeople.xyz/the-why-of-weeknotes-c1cd98967842&quot;&gt;good introduction to the idea of weeknotes&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot;&gt;
+      &lt;p&gt;As a sign of the times, I was teaching people to program in &lt;a href=&quot;https://en.wikipedia.org/wiki/Ada_(programming_language)&quot;&gt;Ada&lt;/a&gt; as loads of our customers and contracts demanded it but few people will have heard of it now. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot;&gt;
+      &lt;p&gt;Codebar are always looking for more coaches so &lt;a href=&quot;https://codebar.io/&quot;&gt;find out what is involved&lt;/a&gt; and &lt;a href=&quot;https://codebar.io/member/new&quot;&gt;sign up as a coach&lt;/a&gt;. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On visiting an office, audits and virtual training.</summary></entry><entry><title type="html">Weeknote 28 June - 2 July 2021</title><link href="https://cioportfolio.github.io/preview/2021/06/weeknote-56.html" rel="alternate" type="text/html" title="Weeknote 28 June - 2 July 2021" /><published>2021-06-30T00:00:00+00:00</published><updated>2021-07-04T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/06/weeknote-56</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/06/weeknote-56.html">&lt;p&gt;On interim roles, trade-offs and looking outside my “woke” filter bubble.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
@@ -378,56 +432,4 @@
       &lt;p&gt;&lt;a href=&quot;https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/whyhaveblackandsouthasianpeoplebeenhithardestbycovid19/2020-12-14&quot;&gt;Why Black and South Asian people have been hit hardest by COVID-19&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On too much work-in-progress, more agility and vaccinations.</summary></entry><entry><title type="html">Weeknote 8 - 12 March 2021</title><link href="https://cioportfolio.github.io/preview/2021/03/weeknote-47.html" rel="alternate" type="text/html" title="Weeknote 8 - 12 March 2021" /><published>2021-03-13T00:00:00+00:00</published><updated>2021-03-14T00:00:00+00:00</updated><id>https://cioportfolio.github.io/preview/2021/03/weeknote-47</id><content type="html" xml:base="https://cioportfolio.github.io/preview/2021/03/weeknote-47.html">&lt;p&gt;On growing our team, using tech for good and the awful news about Sarah Everard.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;doing&quot;&gt;Doing&lt;/h2&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-sticky-note&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; My personal sticky note board is really helping me focus on getting things done. I’ve still ended the week with a full board of notes but at least they are not the same set that I had at the start.&lt;/p&gt;
-
-&lt;p&gt;Here are some of the topics that came to mind while thinking about my weeknote.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;i class=&quot;fas fa-comments-dollar&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; We received approval to expand the team which looks after our finance and workforce systems. There is a long way to go before the new people join us but we have also secured some temporary help to ease the pressure on parts of the team. This is one of the outcomes of some work to review our operating model&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. We are also experimenting with a couple of suppliers to find cost effective ways to flex our capacity as demand for changes ebbs and flows. It isn’t realistic to do this with our permanent team.&lt;/li&gt;
-  &lt;li&gt;&lt;i class=&quot;fas fa-comments-dollar&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; This week we had our regular review with the supplier of our finance and workforce systems. A system of this scale and complexity is always going to have issues but it is good to talk about what we are learning and think about how we can collaborate more effectively.&lt;/li&gt;
-  &lt;li&gt;&lt;i class=&quot;fas fa-hands-helping&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; A meeting with the Cornwall Voluntary Sector Forum (VSF)&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; was really exciting. A group of us have been wondering if we can make more impact by coordinating our volunteering efforts and taking advantage of the valuable professional skills in the IS team. It was great to tap into the experience of the VSF team and we are going to run an experiment together to see how we could make this work.&lt;/li&gt;
-  &lt;li&gt;&lt;i class=&quot;fas fa-graduation-cap&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; We’ve been discussing how to make performance management and development really work for us rather than just be a mandatory process we have to follow. Borrowing ideas from one of our engineering teams, a group of product managers are developing a map of product management capabilities and sharing our self assessments. This may lead to some personal development actions but also opens up the possibility of taking action in pairs or small groups. It is really interesting to see where the whole group is struggling and think about improvement actions. Perhaps there are things we all need to learn or perhaps we’ve exposed a process that is broken and needs to be fixed.&lt;/li&gt;
-  &lt;li&gt;&lt;i class=&quot;fas fa-mug-hot&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; I managed to join the Coffee Break Social hosted by Software Cornwall&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. Not quite the same as the face-to-face meet ups I used to join before the pandemic, but good to meet some new people in the industry and hear about some of the things going on outside of the Council. The discussions got quite deep about the ethics, or not, of artificial intelligence technology and how engineers often fall into the trap of thinking problems such as poverty are things they can “solve”.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;caring&quot;&gt;Caring&lt;/h2&gt;
-
-&lt;p&gt;&lt;i class=&quot;fas fa-hand-paper&quot; aria-hidden=&quot;true&quot; style=&quot;padding: 0 5 0 0; font-size: 1.5em; color:#3876be;&quot;&gt;&lt;/i&gt; At the start of the week my Twitter feed was filled with uplifting messages about International Women’s Day (IWD). During the week I was finding out more about our gender pay gap and coaching a woman during a codebar&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; event. I’ve ended the week reading about Sarah Everard&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; and trying to make sense of all of the reactions to her murder. I can’t imagine how awful this is for Sarah’s friends and family but it has also been traumatic for countless women who have been the victims of abuse and violence.&lt;/p&gt;
-
-&lt;p&gt;Murder is very rare in the UK&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; but a frightening proportion of women have suffered abuse or assaults&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;. Pretty much every woman has been intimidated, hassled or mistreated by a man. If this wasn’t sad enough it is also distressing how many men feel the need to explain what they think women can do to be safe or that not all men are murderers. I don’t think I am a particularly sensitive person but the ability of some men to miss the point is simply staggering! I’m glad people like Chris Hemmings&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt; are countering these voices.&lt;/p&gt;
-
-&lt;h4 id=&quot;footnotes&quot;&gt;Footnotes:&lt;/h4&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:6&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;/preview/2021/02/we-need-to-talk-about-TOM.html&quot;&gt;Link to my post on Target Operating Models&lt;/a&gt;. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:7&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.cornwallvsf.org/&quot;&gt;Cornwall VSF&lt;/a&gt;. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:8&quot;&gt;
-      &lt;p&gt;Software Cornwall &lt;a href=&quot;https://softwarecornwall.org/event/coffee-break-social-5/&quot;&gt;Coffee Break Social&lt;/a&gt;. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;Codebar are always looking for more coaches so &lt;a href=&quot;https://codebar.io/&quot;&gt;find out what is involved&lt;/a&gt; and &lt;a href=&quot;https://codebar.io/member/new&quot;&gt;sign up as a coach&lt;/a&gt;. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.bbc.co.uk/news/uk-england-london-56367223&quot;&gt;Sarah Everard ‘brought joy to our lives’&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/homicideinenglandandwales/yearendingmarch2020&quot;&gt;UK homicide statistics&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://homeofficemedia.blog.gov.uk/2019/03/07/violence-against-women-and-girls-and-male-position-factsheets/&quot;&gt;Home Office violence report&lt;/a&gt;. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;This Tweet includes a link to &lt;a href=&quot;https://twitter.com/hemmch/status/1370436894857789464&quot;&gt;Chris Hemmings’ interview&lt;/a&gt;. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On growing our team, using tech for good and the awful news about Sarah Everard.</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Richard Barton</name></author><category term="Local Government" /><category term="Weeknotes" /><summary type="html">On too much work-in-progress, more agility and vaccinations.</summary></entry></feed>
