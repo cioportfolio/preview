@@ -1,0 +1,36 @@
+
+<svg width="1200" height="628" viewBox="0 0 1200 628" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    
+    
+    
+        
+    
+
+    
+
+    290
+
+    
+    
+
+    <rect width="100%" height="100%" fill="#3876be" />
+
+    <text font-family="'Georgia', Times, serif" font-size="30" fill="#fff">
+        <tspan x="120" y="200">@CIOPortfolio</tspan>
+    </text>
+    
+    <text id="text" font-family="'Georgia', Times, serif" fill="#fff" font-size="80" font-weight="bold">
+    
+        <tspan x="120" y="290">Weeknote 8 - 12</tspan>
+    
+        <tspan x="120" y="390">March 2021</tspan>
+    
+    </text>
+
+    <text font-family="'Georgia', Times, serif" font-size="30" fill="#fff">
+        <tspan x="120" y="490">13 March 2021</tspan>
+    </text>
+
+
+</svg>

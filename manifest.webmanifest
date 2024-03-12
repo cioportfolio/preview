@@ -1,0 +1,24 @@
+{
+  "name": "CIOPortfolio",
+  "lang": "en",
+  "short_name": "CIOPortfolio",
+  "description": "CIOPortfolio Blog",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#3876be",
+  "background_color": "#3876be",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+# | |___      _| |___  _| |_
+# | __\ \ /\ / / __\ \/ / __|
+# | |_ \ V  V /| |_ >  <| |_
+#  \__| \_/\_/  \__/_/\_\\__|
+#
+# Twtxt is an open, distributed microblogging platform that
+# uses human-readable text files, common transport protocols,
+# and free software.
+#
+# Learn more about twtxt at https://github.com/buckket/twtxt
+#
+# nick        = CIOPortfolio
+# url         = https://cioportfolio.github.io/twtxt.txt
+# avatar      = https://cioportfolio.github.io/images/favicon-96x96.png
+# description = Blog
+# lang        = en
+#
+2012-05-01T00:00:00Z	No wonder portfolio management leaves everyone confused - https://cioportfolio.github.io/2012/05/no-wonder-portfolio-management-leaves-everyone-confused/
+2012-05-01T00:00:00Z	SoCloMo? So what? - https://cioportfolio.github.io/2012/05/soclomo-so-what/
+2012-05-07T00:00:00Z	Start dismantling your IT project portfolio - https://cioportfolio.github.io/2012/05/start-dismantling-your-it-project-portfolio/
+2012-05-07T00:00:00Z	What? Not another blog about the future of the CIO! - https://cioportfolio.github.io/2012/05/what-not-another-blog-about-the-future-of-the-cio/
+2012-05-17T00:00:00Z	Turn your Application Portfolio into a Software Product Portfolio - https://cioportfolio.github.io/2012/05/turn-your-application-portfolio-into-a-software-product-portfolio/
+2012-06-13T00:00:00Z	Make the IT function service-oriented - https://cioportfolio.github.io/2012/06/make-the-it-function-service-oriented/
+2012-06-18T00:00:00Z	Setting the right amount for the IT budget - https://cioportfolio.github.io/2012/06/setting-the-right-amount-for-the-it-budget/
+2012-06-26T00:00:00Z	IT needs to get serious about Asset Management - https://cioportfolio.github.io/2012/06/it-needs-to-get-serious-about-asset-management/
+2012-07-02T00:00:00Z	How to organise IT on a global scale - https://cioportfolio.github.io/2012/07/how-to-organise-it-on-a-global-scale/
+2012-07-08T00:00:00Z	Step away from that corporate app store - https://cioportfolio.github.io/2012/07/step-away-from-that-corporate-app-store/
+2012-07-16T00:00:00Z	Organising the service-oriented IT function - https://cioportfolio.github.io/2012/07/organising-the-service-oriented-it-function/
+2012-07-19T00:00:00Z	There is IT and there is Business - Binary Thinking Hex No. 1 - https://cioportfolio.github.io/2012/07/there-is-it-and-there-is-business-binary-thinking-hex-no-1/
+2012-07-19T00:00:00Z	Binary Thinking - a hex on IT management - https://cioportfolio.github.io/2012/07/binary-thinking-hex-on-it-management.html
+2012-08-01T00:00:00Z	Control of IT can be centralised or distributed - Binary Thinking Hex No. 2 - https://cioportfolio.github.io/2012/08/control-of-it-can-be-centralised-or-distributed-binary-thinking-hex-no-2/
+2012-08-06T00:00:00Z	IT is internal or outsourced - Binary Thinking Hex No. 3 - https://cioportfolio.github.io/2012/08/it-is-internal-or-outsourced-binary-thinking-hex-no-3/
+2012-08-09T00:00:00Z	Obsolete or indespensable CIO? - Binary Thinking Hex No. 4 - https://cioportfolio.github.io/2012/08/obsolete-or-indespensable-cio-binary-thinking-hex-no-4/
+2012-08-19T00:00:00Z	Public or private cloud - Binary Thinking Hex No. 5 - https://cioportfolio.github.io/2012/08/public-or-private-cloud-binary-thinking-hex-no-5/
+2012-08-23T00:00:00Z	IT is either a cost centre or provides business value - Binary Thinking Hex No. 6 - https://cioportfolio.github.io/2012/08/it-is-either-a-cost-centre-or-provides-business-value-binary-thinking-hex-no-6/
+2012-09-05T00:00:00Z	Agile or waterfall - Binary Thinking Hex No. 7 - https://cioportfolio.github.io/2012/09/agile-or-waterfall-binary-thinking-hex-no-7/
+2012-09-09T00:00:00Z	Strategy or routine operations - Binary Thinking Hex No. 8 - https://cioportfolio.github.io/2012/09/strategy-or-routine-operations-binary-thinking-hex-no-8/
+2012-10-24T00:00:00Z	Questions are the first step towards service oriented IT - https://cioportfolio.github.io/2012/10/questions-are-the-first-step-towards-service-oriented-it/
+2012-11-22T00:00:00Z	Beware the Sirens of IT transformation - https://cioportfolio.github.io/2012/11/beware-the-sirens-of-it-transformation/
+2013-01-22T00:00:00Z	You can&#39;t avoid the IT Laws of Nature - https://cioportfolio.github.io/2013/01/you-cant-avoid-the-it-laws-of-nature/
+2013-03-07T00:00:00Z	Charting the IT chains of value - https://cioportfolio.github.io/2013/03/charting-the-it-chains-of-value/
+2013-04-30T00:00:00Z	New computer science - https://cioportfolio.github.io/2013/04/new-computer-science/
+2013-05-23T00:00:00Z	Have you forgotten that before ERP there was MRP? - https://cioportfolio.github.io/2013/05/have-you-forgotten-that-before-erp-there-was-mrp/
+2013-06-09T00:00:00Z	Bubbles in the cloud - https://cioportfolio.github.io/2013/06/bubbles-in-the-cloud/
+2014-02-13T00:00:00Z	Is cloud computing creating a new type of technical debt? - https://cioportfolio.github.io/2014/02/is-cloud-computing-creating-a-new-type-of-technical-debt/
+2014-05-23T00:00:00Z	Are you making a meal of your IT finances? - https://cioportfolio.github.io/2014/05/are-you-making-a-meal-of-your-it-finances/
+2014-06-18T00:00:00Z	Disruption or failure - The painful choices of migrating to the cloud - https://cioportfolio.github.io/2014/06/disruption-or-failure-the-painful-choices-of-migrating-to-the-cloud/
+2014-06-18T00:00:00Z	The hundred billion dollar cloud gamble - https://cioportfolio.github.io/2014/06/the-hundred-billion-dollar-cloud-gamble/
+2014-07-16T00:00:00Z	A new weapon in the battle to attract IT talent: cloud computing? - https://cioportfolio.github.io/2014/07/a-new-weapon-in-the-battle-to-attract-it-talent-cloud-computing/
+2015-04-29T00:00:00Z	Let&#39;s be fair to procurement - https://cioportfolio.github.io/2015/04/lets-be-fair-to-procurement/
+2015-06-03T00:00:00Z	Business cases can be wonderful - https://cioportfolio.github.io/2015/06/business-cases-can-be-wonderful/
+2015-07-03T00:00:00Z	Your investments in IT infrastructure are going nowhere fast - https://cioportfolio.github.io/2015/07/your-investments-in-it-infrastructure-are-going-nowhere-fast/
+2015-09-02T00:00:00Z	Are Architects ruining Enterprise Architecture? - https://cioportfolio.github.io/2015/09/are-architects-ruining-enterprise-architecture/
+2015-11-21T00:00:00Z	Isn&#39;t it about time Chief Digital Officers went away? - https://cioportfolio.github.io/2015/11/isnt-it-about-time-chief-digital-officers-went-away/
+2016-02-09T00:00:00Z	Show me the money - https://cioportfolio.github.io/2016/02/show-me-the-money/
+2016-03-03T00:00:00Z	Breaking free from the tyranny of time - https://cioportfolio.github.io/2016/03/breaking-free-from-the-tyranny-of-time/
+2016-05-07T00:00:00Z	Are we there yet? - https://cioportfolio.github.io/2016/05/are-we-there-yet/
+2016-07-02T00:00:00Z	Beyond Agile Delivery - https://cioportfolio.github.io/2016/07/beyond-agile-delivery/
+2016-07-20T00:00:00Z	Not so fast! - https://cioportfolio.github.io/2016/07/not-so-fast/
+2017-02-01T00:00:00Z	Serverless computing will be big... - https://cioportfolio.github.io/2017/02/serverless-computing-will-be-big/
+2017-02-11T00:00:00Z	Essential ingredients for digital transformation - https://cioportfolio.github.io/2017/02/essential-ingredients-for-digital-transformation/
+2017-07-19T00:00:00Z	Finding a role for Enterprise Architecture in a world of agile and digital transformation - https://cioportfolio.github.io/2017/07/finding-a-role-for-enterprise-architecture-in-a-world-of-agile-and-digital-transformation/
+2017-08-16T00:00:00Z	Forget about being secure - https://cioportfolio.github.io/2017/08/forget-about-being-secure/
+2018-01-17T00:00:00Z	Will shared services ever work? - https://cioportfolio.github.io/2018/01/will-shared-services-ever-work/
+2018-01-21T00:00:00Z	Getting shared services to work - https://cioportfolio.github.io/2018/01/getting-shared-services-to-work/
+2019-10-04T00:00:00Z	Living the dream - https://cioportfolio.github.io/2019/10/living-the-dream/
+2019-11-21T00:00:00Z	So, what exactly is a sprint? - https://cioportfolio.github.io/2019/11/so-what-exactly-is-a-sprint/
+2019-11-27T00:00:00Z	An introduction to backlogs - https://cioportfolio.github.io/2019/11/an-introduction-to-backlogs/
+2019-12-04T00:00:00Z	Getting started with user stories - https://cioportfolio.github.io/2019/12/getting-started-with-user-stories/
+2020-01-30T00:00:00Z	Estimating in an agile way - https://cioportfolio.github.io/2020/01/estimating-in-an-agile-way/
+2020-02-05T00:00:00Z	Refining your backlogs - https://cioportfolio.github.io/2020/02/refining-your-backlogs/
+2020-11-20T00:00:00Z	Yearnote 4 November 2019 - 27 November 2020 - https://cioportfolio.github.io/2020/11/yearnote-4-november-2019-27-november-2020/
+2021-02-22T00:00:00Z	We need to talk about TOM - https://cioportfolio.github.io/2021/02/we-need-to-talk-about-tom/
