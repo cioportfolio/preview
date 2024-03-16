@@ -15,59 +15,103 @@
 # description = Blog
 # lang        = en
 #
-2012-05-01T00:00:00Z	No wonder portfolio management leaves everyone confused - https://cioportfolio.github.io/2012/05/no-wonder-portfolio-management-leaves-everyone-confused/
-2012-05-01T00:00:00Z	SoCloMo? So what? - https://cioportfolio.github.io/2012/05/soclomo-so-what/
-2012-05-07T00:00:00Z	Start dismantling your IT project portfolio - https://cioportfolio.github.io/2012/05/start-dismantling-your-it-project-portfolio/
-2012-05-07T00:00:00Z	What? Not another blog about the future of the CIO! - https://cioportfolio.github.io/2012/05/what-not-another-blog-about-the-future-of-the-cio/
-2012-05-17T00:00:00Z	Turn your Application Portfolio into a Software Product Portfolio - https://cioportfolio.github.io/2012/05/turn-your-application-portfolio-into-a-software-product-portfolio/
-2012-06-13T00:00:00Z	Make the IT function service-oriented - https://cioportfolio.github.io/2012/06/make-the-it-function-service-oriented/
-2012-06-18T00:00:00Z	Setting the right amount for the IT budget - https://cioportfolio.github.io/2012/06/setting-the-right-amount-for-the-it-budget/
-2012-06-26T00:00:00Z	IT needs to get serious about Asset Management - https://cioportfolio.github.io/2012/06/it-needs-to-get-serious-about-asset-management/
-2012-07-02T00:00:00Z	How to organise IT on a global scale - https://cioportfolio.github.io/2012/07/how-to-organise-it-on-a-global-scale/
-2012-07-08T00:00:00Z	Step away from that corporate app store - https://cioportfolio.github.io/2012/07/step-away-from-that-corporate-app-store/
-2012-07-16T00:00:00Z	Organising the service-oriented IT function - https://cioportfolio.github.io/2012/07/organising-the-service-oriented-it-function/
-2012-07-19T00:00:00Z	There is IT and there is Business - Binary Thinking Hex No. 1 - https://cioportfolio.github.io/2012/07/there-is-it-and-there-is-business-binary-thinking-hex-no-1/
-2012-07-19T00:00:00Z	Binary Thinking - a hex on IT management - https://cioportfolio.github.io/2012/07/binary-thinking-hex-on-it-management.html
-2012-08-01T00:00:00Z	Control of IT can be centralised or distributed - Binary Thinking Hex No. 2 - https://cioportfolio.github.io/2012/08/control-of-it-can-be-centralised-or-distributed-binary-thinking-hex-no-2/
-2012-08-06T00:00:00Z	IT is internal or outsourced - Binary Thinking Hex No. 3 - https://cioportfolio.github.io/2012/08/it-is-internal-or-outsourced-binary-thinking-hex-no-3/
-2012-08-09T00:00:00Z	Obsolete or indespensable CIO? - Binary Thinking Hex No. 4 - https://cioportfolio.github.io/2012/08/obsolete-or-indespensable-cio-binary-thinking-hex-no-4/
-2012-08-19T00:00:00Z	Public or private cloud - Binary Thinking Hex No. 5 - https://cioportfolio.github.io/2012/08/public-or-private-cloud-binary-thinking-hex-no-5/
-2012-08-23T00:00:00Z	IT is either a cost centre or provides business value - Binary Thinking Hex No. 6 - https://cioportfolio.github.io/2012/08/it-is-either-a-cost-centre-or-provides-business-value-binary-thinking-hex-no-6/
-2012-09-05T00:00:00Z	Agile or waterfall - Binary Thinking Hex No. 7 - https://cioportfolio.github.io/2012/09/agile-or-waterfall-binary-thinking-hex-no-7/
-2012-09-09T00:00:00Z	Strategy or routine operations - Binary Thinking Hex No. 8 - https://cioportfolio.github.io/2012/09/strategy-or-routine-operations-binary-thinking-hex-no-8/
-2012-10-24T00:00:00Z	Questions are the first step towards service oriented IT - https://cioportfolio.github.io/2012/10/questions-are-the-first-step-towards-service-oriented-it/
-2012-11-22T00:00:00Z	Beware the Sirens of IT transformation - https://cioportfolio.github.io/2012/11/beware-the-sirens-of-it-transformation/
-2013-01-22T00:00:00Z	You can&#39;t avoid the IT Laws of Nature - https://cioportfolio.github.io/2013/01/you-cant-avoid-the-it-laws-of-nature/
-2013-03-07T00:00:00Z	Charting the IT chains of value - https://cioportfolio.github.io/2013/03/charting-the-it-chains-of-value/
-2013-04-30T00:00:00Z	New computer science - https://cioportfolio.github.io/2013/04/new-computer-science/
-2013-05-23T00:00:00Z	Have you forgotten that before ERP there was MRP? - https://cioportfolio.github.io/2013/05/have-you-forgotten-that-before-erp-there-was-mrp/
-2013-06-09T00:00:00Z	Bubbles in the cloud - https://cioportfolio.github.io/2013/06/bubbles-in-the-cloud/
-2014-02-13T00:00:00Z	Is cloud computing creating a new type of technical debt? - https://cioportfolio.github.io/2014/02/is-cloud-computing-creating-a-new-type-of-technical-debt/
-2014-05-23T00:00:00Z	Are you making a meal of your IT finances? - https://cioportfolio.github.io/2014/05/are-you-making-a-meal-of-your-it-finances/
-2014-06-18T00:00:00Z	Disruption or failure - The painful choices of migrating to the cloud - https://cioportfolio.github.io/2014/06/disruption-or-failure-the-painful-choices-of-migrating-to-the-cloud/
-2014-06-18T00:00:00Z	The hundred billion dollar cloud gamble - https://cioportfolio.github.io/2014/06/the-hundred-billion-dollar-cloud-gamble/
-2014-07-16T00:00:00Z	A new weapon in the battle to attract IT talent: cloud computing? - https://cioportfolio.github.io/2014/07/a-new-weapon-in-the-battle-to-attract-it-talent-cloud-computing/
-2015-04-29T00:00:00Z	Let&#39;s be fair to procurement - https://cioportfolio.github.io/2015/04/lets-be-fair-to-procurement/
-2015-06-03T00:00:00Z	Business cases can be wonderful - https://cioportfolio.github.io/2015/06/business-cases-can-be-wonderful/
-2015-07-03T00:00:00Z	Your investments in IT infrastructure are going nowhere fast - https://cioportfolio.github.io/2015/07/your-investments-in-it-infrastructure-are-going-nowhere-fast/
-2015-09-02T00:00:00Z	Are Architects ruining Enterprise Architecture? - https://cioportfolio.github.io/2015/09/are-architects-ruining-enterprise-architecture/
-2015-11-21T00:00:00Z	Isn&#39;t it about time Chief Digital Officers went away? - https://cioportfolio.github.io/2015/11/isnt-it-about-time-chief-digital-officers-went-away/
-2016-02-09T00:00:00Z	Show me the money - https://cioportfolio.github.io/2016/02/show-me-the-money/
-2016-03-03T00:00:00Z	Breaking free from the tyranny of time - https://cioportfolio.github.io/2016/03/breaking-free-from-the-tyranny-of-time/
+2012-08-06T16:54:00Z	IT is internal or outsourced - Binary Thinking Hex No. 3 - https://cioportfolio.github.io/2012/08/it-is-internal-or-outsourced-binary-thinking-hex-no-3/
+2012-08-09T21:04:00Z	Obsolete or indespensable CIO? - Binary Thinking Hex No. 4 - https://cioportfolio.github.io/2012/08/obsolete-or-indespensable-cio-binary-thinking-hex-no-4/
+2012-08-19T13:50:00Z	Public or private cloud - Binary Thinking Hex No. 5 - https://cioportfolio.github.io/2012/08/public-or-private-cloud-binary-thinking-hex-no-5/
+2012-08-23T21:45:00Z	IT is either a cost centre or provides business value - Binary Thinking Hex No. 6 - https://cioportfolio.github.io/2012/08/it-is-either-a-cost-centre-or-provides-business-value-binary-thinking-hex-no-6/
+2012-09-05T22:33:00Z	Agile or waterfall - Binary Thinking Hex No. 7 - https://cioportfolio.github.io/2012/09/agile-or-waterfall-binary-thinking-hex-no-7/
+2012-09-09T18:38:00Z	Strategy or routine operations - Binary Thinking Hex No. 8 - https://cioportfolio.github.io/2012/09/strategy-or-routine-operations-binary-thinking-hex-no-8/
+2012-10-24T21:59:00Z	Questions are the first step towards service oriented IT - https://cioportfolio.github.io/2012/10/questions-are-the-first-step-towards-service-oriented-it/
+2012-11-22T23:22:00Z	Beware the Sirens of IT transformation - https://cioportfolio.github.io/2012/11/beware-the-sirens-of-it-transformation/
+2013-01-22T20:59:00Z	You can&#39;t avoid the IT Laws of Nature - https://cioportfolio.github.io/2013/01/you-cant-avoid-the-it-laws-of-nature/
+2013-03-07T22:13:00Z	Charting the IT chains of value - https://cioportfolio.github.io/2013/03/charting-the-it-chains-of-value/
+2013-04-30T20:21:00Z	New computer science - https://cioportfolio.github.io/2013/04/new-computer-science/
+2013-05-23T21:31:00Z	Have you forgotten that before ERP there was MRP? - https://cioportfolio.github.io/2013/05/have-you-forgotten-that-before-erp-there-was-mrp/
+2013-06-09T14:57:00Z	Bubbles in the cloud - https://cioportfolio.github.io/2013/06/bubbles-in-the-cloud/
+2014-02-13T21:40:00Z	Is cloud computing creating a new type of technical debt? - https://cioportfolio.github.io/2014/02/is-cloud-computing-creating-a-new-type-of-technical-debt/
+2014-05-23T14:59:00Z	Are you making a meal of your IT finances? - https://cioportfolio.github.io/2014/05/are-you-making-a-meal-of-your-it-finances/
+2014-06-18T20:30:00Z	Disruption or failure - The painful choices of migrating to the cloud - https://cioportfolio.github.io/2014/06/disruption-or-failure-the-painful-choices-of-migrating-to-the-cloud/
+2014-06-18T21:34:00Z	The hundred billion dollar cloud gamble - https://cioportfolio.github.io/2014/06/the-hundred-billion-dollar-cloud-gamble/
+2014-07-16T20:09:00Z	A new weapon in the battle to attract IT talent: cloud computing? - https://cioportfolio.github.io/2014/07/a-new-weapon-in-the-battle-to-attract-it-talent-cloud-computing/
+2015-04-29T20:06:00Z	Let&#39;s be fair to procurement - https://cioportfolio.github.io/2015/04/lets-be-fair-to-procurement/
+2015-06-03T21:08:00Z	Business cases can be wonderful - https://cioportfolio.github.io/2015/06/business-cases-can-be-wonderful/
+2015-07-03T17:07:00Z	Your investments in IT infrastructure are going nowhere fast - https://cioportfolio.github.io/2015/07/your-investments-in-it-infrastructure-are-going-nowhere-fast/
+2015-09-02T17:15:00Z	Are Architects ruining Enterprise Architecture? - https://cioportfolio.github.io/2015/09/are-architects-ruining-enterprise-architecture/
+2015-11-21T18:34:00Z	Isn&#39;t it about time Chief Digital Officers went away? - https://cioportfolio.github.io/2015/11/isnt-it-about-time-chief-digital-officers-went-away/
+2016-02-09T21:16:00Z	Show me the money - https://cioportfolio.github.io/2016/02/show-me-the-money/
+2016-03-03T19:56:00Z	Breaking free from the tyranny of time - https://cioportfolio.github.io/2016/03/breaking-free-from-the-tyranny-of-time/
 2016-05-07T00:00:00Z	Are we there yet? - https://cioportfolio.github.io/2016/05/are-we-there-yet/
 2016-07-02T00:00:00Z	Beyond Agile Delivery - https://cioportfolio.github.io/2016/07/beyond-agile-delivery/
-2016-07-20T00:00:00Z	Not so fast! - https://cioportfolio.github.io/2016/07/not-so-fast/
-2017-02-01T00:00:00Z	Serverless computing will be big... - https://cioportfolio.github.io/2017/02/serverless-computing-will-be-big/
+2016-07-20T07:03:00Z	Not so fast! - https://cioportfolio.github.io/2016/07/not-so-fast/
+2017-02-01T14:45:00Z	Serverless computing will be big... - https://cioportfolio.github.io/2017/02/serverless-computing-will-be-big/
 2017-02-11T00:00:00Z	Essential ingredients for digital transformation - https://cioportfolio.github.io/2017/02/essential-ingredients-for-digital-transformation/
-2017-07-19T00:00:00Z	Finding a role for Enterprise Architecture in a world of agile and digital transformation - https://cioportfolio.github.io/2017/07/finding-a-role-for-enterprise-architecture-in-a-world-of-agile-and-digital-transformation/
-2017-08-16T00:00:00Z	Forget about being secure - https://cioportfolio.github.io/2017/08/forget-about-being-secure/
-2018-01-17T00:00:00Z	Will shared services ever work? - https://cioportfolio.github.io/2018/01/will-shared-services-ever-work/
-2018-01-21T00:00:00Z	Getting shared services to work - https://cioportfolio.github.io/2018/01/getting-shared-services-to-work/
-2019-10-04T00:00:00Z	Living the dream - https://cioportfolio.github.io/2019/10/living-the-dream/
-2019-11-21T00:00:00Z	So, what exactly is a sprint? - https://cioportfolio.github.io/2019/11/so-what-exactly-is-a-sprint/
+2017-07-19T16:00:00Z	Finding a role for Enterprise Architecture in a world of agile and digital transformation - https://cioportfolio.github.io/2017/07/finding-a-role-for-enterprise-architecture-in-a-world-of-agile-and-digital-transformation/
+2017-08-16T20:00:00Z	Forget about being secure - https://cioportfolio.github.io/2017/08/forget-about-being-secure/
+2018-01-17T20:00:00Z	Will shared services ever work? - https://cioportfolio.github.io/2018/01/will-shared-services-ever-work/
+2018-01-21T12:00:00Z	Getting shared services to work - https://cioportfolio.github.io/2018/01/getting-shared-services-to-work/
+2019-10-04T12:07:00Z	Living the dream - https://cioportfolio.github.io/2019/10/living-the-dream/
+2019-11-21T12:07:00Z	So, what exactly is a sprint? - https://cioportfolio.github.io/2019/11/so-what-exactly-is-a-sprint/
 2019-11-27T00:00:00Z	An introduction to backlogs - https://cioportfolio.github.io/2019/11/an-introduction-to-backlogs/
 2019-12-04T00:00:00Z	Getting started with user stories - https://cioportfolio.github.io/2019/12/getting-started-with-user-stories/
+2020-01-27T00:00:00Z	Weeknote 18-24 January 2020 - https://cioportfolio.github.io/2020/01/weeknote-18-24-january-2020/
 2020-01-30T00:00:00Z	Estimating in an agile way - https://cioportfolio.github.io/2020/01/estimating-in-an-agile-way/
+2020-02-03T00:00:00Z	Weeknote 27-31 January 2020 - https://cioportfolio.github.io/2020/02/weeknote-27-31-january-2020/
 2020-02-05T00:00:00Z	Refining your backlogs - https://cioportfolio.github.io/2020/02/refining-your-backlogs/
+2020-02-07T00:00:00Z	Weeknote 03-09 February 2020 - https://cioportfolio.github.io/2020/02/weeknote-03-09-february-2020/
+2020-02-14T00:00:00Z	Weeknote 10-14 February 2020 - https://cioportfolio.github.io/2020/02/weeknote-10-14-february-2020/
+2020-02-21T00:00:00Z	Weeknote 17-21 February 2020 - https://cioportfolio.github.io/2020/02/weeknote-17-21-february-2020/
+2020-03-04T00:00:00Z	Weeknote 24-27 February 2020 - https://cioportfolio.github.io/2020/03/weeknote-24-27-february-2020/
+2020-03-06T00:00:00Z	Weeknote 2 - 6 March 2020 - https://cioportfolio.github.io/2020/03/weeknote-2-6-march-2020/
+2020-03-13T00:00:00Z	Weeknote 9 - 13 March 2020 - https://cioportfolio.github.io/2020/03/weeknote-9-13-march-2020/
+2020-03-20T00:00:00Z	Weeknote 16 - 20 March 2020 - https://cioportfolio.github.io/2020/03/weeknote-16-20-march-2020/
+2020-03-27T00:00:00Z	Weeknote 23 - 27 March 2020 - https://cioportfolio.github.io/2020/03/weeknote-23-27-march-2020/
+2020-04-09T00:00:00Z	Weeknote 30 March - 9 April 2020 - https://cioportfolio.github.io/2020/04/weeknote-30-march-9-april-2020/
+2020-04-17T00:00:00Z	Weeknote 14 - 17 April 2020 - https://cioportfolio.github.io/2020/04/weeknote-14-17-april-2020/
+2020-04-24T00:00:00Z	Weeknote 20 - 24 April 2020 - https://cioportfolio.github.io/2020/04/weeknote-20-24-april-2020/
+2020-05-02T00:00:00Z	Weeknote 27 April - 1 May 2020 - https://cioportfolio.github.io/2020/05/weeknote-27-april-1-may-2020/
+2020-05-07T00:00:00Z	Weeknote 4 - 7 May 2020 - https://cioportfolio.github.io/2020/05/weeknote-4-7-may-2020/
+2020-05-12T00:00:00Z	Weeknote 11 - 15 May 2020 - https://cioportfolio.github.io/2020/05/weeknote-11-15-may-2020/
+2020-05-21T00:00:00Z	Weeknote 18 - 22 May 2020 - https://cioportfolio.github.io/2020/05/weeknote-18-22-may-2020/
+2020-05-26T00:00:00Z	Weeknote 25 - 29 May 2020 - https://cioportfolio.github.io/2020/05/weeknote-25-29-may-2020/
+2020-06-01T00:00:00Z	Weeknote 1 - 5 June 2020 - https://cioportfolio.github.io/2020/06/weeknote-1-5-june-2020/
+2020-06-12T00:00:00Z	Weeknote 8 - 12 June 2020 - https://cioportfolio.github.io/2020/06/weeknote-8-12-june-2020/
+2020-06-15T00:00:00Z	Weeknote 15 - 19 June 2020 - https://cioportfolio.github.io/2020/06/weeknote-15-19-june-2020/
+2020-06-23T00:00:00Z	Weeknote 22 - 26 June 2020 - https://cioportfolio.github.io/2020/06/weeknote-22-26-june-2020/
+2020-06-29T00:00:00Z	Weeknote 29 June - 10 July 2020 - https://cioportfolio.github.io/2020/06/weeknote-29-june-10-july-2020/
+2020-07-13T00:00:00Z	Weeknote 13 - 17 July 2020 - https://cioportfolio.github.io/2020/07/weeknote-13-17-july-2020/
+2020-07-20T00:00:00Z	Weeknote 20 - 24 July 2020 - https://cioportfolio.github.io/2020/07/weeknote-20-24-july-2020/
+2020-07-31T00:00:00Z	Weeknote 27 - 31 July 2020 - https://cioportfolio.github.io/2020/07/weeknote-27-31-july-2020/
+2020-08-03T00:00:00Z	Weeknote 03 - 07 August 2020 - https://cioportfolio.github.io/2020/08/weeknote-03-07-august-2020/
+2020-08-17T00:00:00Z	Weeknote 10 - 14 August 2020 - https://cioportfolio.github.io/2020/08/weeknote-10-14-august-2020/
+2020-09-06T00:00:00Z	Weeknote 1 - 4 September 2020 - https://cioportfolio.github.io/2020/09/weeknote-1-4-september-2020/
+2020-09-09T00:00:00Z	Weeknote 7 - 11 September 2020 - https://cioportfolio.github.io/2020/09/weeknote-7-11-september-2020/
+2020-09-17T00:00:00Z	Weeknote 14 - 18 September 2020 - https://cioportfolio.github.io/2020/09/weeknote-14-18-september-2020/
+2020-09-22T00:00:00Z	Weeknote 21 - 25 September 2020 - https://cioportfolio.github.io/2020/09/weeknote-21-25-september-2020/
+2020-10-04T00:00:00Z	Weeknote 28 September - 2 October 2020 - https://cioportfolio.github.io/2020/10/weeknote-28-september-2-october-2020/
+2020-10-12T00:00:00Z	Weeknote 5 - 9 October 2020 - https://cioportfolio.github.io/2020/10/weeknote-5-9-october-2020/
+2020-10-17T00:00:00Z	Weeknote 12 - 16 October 2020 - https://cioportfolio.github.io/2020/10/weeknote-12-16-october-2020/
+2020-10-24T00:00:00Z	Weeknote 19 - 23 October 2020 - https://cioportfolio.github.io/2020/10/weeknote-19-23-october-2020/
+2020-10-31T00:00:00Z	Weeknote 26 - 30 October 2020 - https://cioportfolio.github.io/2020/10/weeknote-26-30-october-2020/
+2020-11-01T00:00:00Z	Weeknote 2 - 6 November 2020 - https://cioportfolio.github.io/2020/11/weeknote-2-6-november-2020/
+2020-11-12T00:00:00Z	Weeknote 9 - 13 November 2020 - https://cioportfolio.github.io/2020/11/weeknote-9-13-november-2020/
 2020-11-20T00:00:00Z	Yearnote 4 November 2019 - 27 November 2020 - https://cioportfolio.github.io/2020/11/yearnote-4-november-2019-27-november-2020/
+2020-12-11T00:00:00Z	Weeknote 7 - 11 December 2020 - https://cioportfolio.github.io/2020/12/weeknote-7-11-december-2020/
+2020-12-13T00:00:00Z	Weeknote 14 - 18 December 2020 - https://cioportfolio.github.io/2020/12/weeknote-14-18-december-2020/
+2021-01-23T00:00:00Z	Weeknote 1 - 23 January 2021 - https://cioportfolio.github.io/2021/01/weeknote-1-23-january-2021/
+2021-02-06T00:00:00Z	Weeknote 25 January - 5 February 2021 - https://cioportfolio.github.io/2021/02/weeknote-25-january-5-february-2021/
+2021-02-11T00:00:00Z	Weeknote 8 - 12 February 2021 - https://cioportfolio.github.io/2021/02/weeknote-8-12-february-2021/
+2021-02-20T00:00:00Z	Weeknote 15 - 19 February 2021 - https://cioportfolio.github.io/2021/02/weeknote-15-19-february-2021/
 2021-02-22T00:00:00Z	We need to talk about TOM - https://cioportfolio.github.io/2021/02/we-need-to-talk-about-tom/
+2021-03-07T00:00:00Z	Weeknote 22 February - 5 March 2021 - https://cioportfolio.github.io/2021/03/weeknote-22-february-5-march-2021/
+2021-03-13T00:00:00Z	Weeknote 8 - 12 March 2021 - https://cioportfolio.github.io/2021/03/weeknote-8-12-march-2021/
+2021-03-19T00:00:00Z	Weeknote 15 - 19 March 2021 - https://cioportfolio.github.io/2021/03/weeknote-15-19-march-2021/
+2021-04-05T00:00:00Z	Weeknote 22 March -  2 April 2021 - https://cioportfolio.github.io/2021/04/weeknote-22-march-2-april-2021/
+2021-04-18T00:00:00Z	Weeknote 5 - 16 April 2021 - https://cioportfolio.github.io/2021/04/weeknote-5-16-april-2021/
+2021-04-20T00:00:00Z	Weeknote 19 - 30 April 2021 - https://cioportfolio.github.io/2021/04/weeknote-19-30-april-2021/
+2021-05-08T00:00:00Z	Weeknote 4 - 7 May 2021 - https://cioportfolio.github.io/2021/05/weeknote-4-7-may-2021/
+2021-05-23T00:00:00Z	Weeknote 10 - 21 May 2021 - https://cioportfolio.github.io/2021/05/weeknote-10-21-may-2021/
+2021-05-23T00:00:00Z	Weeknote 24 May - 18 June 2021 - https://cioportfolio.github.io/2021/05/weeknote-24-may-18-june-2021/
+2021-06-25T00:00:00Z	Weeknote 21 - 25 June 2021 - https://cioportfolio.github.io/2021/06/weeknote-21-25-june-2021/
+2021-06-30T00:00:00Z	Weeknote 28 June - 2 July 2021 - https://cioportfolio.github.io/2021/06/weeknote-28-june-2-july-2021/
+2021-07-06T00:00:00Z	Weeknote 5 - 16 July 2021 - https://cioportfolio.github.io/2021/07/weeknote-5-16-july-2021/
+2021-07-21T00:00:00Z	Weeknote 19 - 23 July 2021 - https://cioportfolio.github.io/2021/07/weeknote-19-23-july-2021/
