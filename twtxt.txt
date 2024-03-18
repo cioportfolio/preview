@@ -15,8 +15,6 @@
 # description = Blog
 # lang        = en
 #
-2012-08-06T16:54:00Z	IT is internal or outsourced - Binary Thinking Hex No. 3 - https://cioportfolio.github.io/2012/08/it-is-internal-or-outsourced-binary-thinking-hex-no-3/
-2012-08-09T21:04:00Z	Obsolete or indespensable CIO? - Binary Thinking Hex No. 4 - https://cioportfolio.github.io/2012/08/obsolete-or-indespensable-cio-binary-thinking-hex-no-4/
 2012-08-19T13:50:00Z	Public or private cloud - Binary Thinking Hex No. 5 - https://cioportfolio.github.io/2012/08/public-or-private-cloud-binary-thinking-hex-no-5/
 2012-08-23T21:45:00Z	IT is either a cost centre or provides business value - Binary Thinking Hex No. 6 - https://cioportfolio.github.io/2012/08/it-is-either-a-cost-centre-or-provides-business-value-binary-thinking-hex-no-6/
 2012-09-05T22:33:00Z	Agile or waterfall - Binary Thinking Hex No. 7 - https://cioportfolio.github.io/2012/09/agile-or-waterfall-binary-thinking-hex-no-7/
@@ -115,3 +113,5 @@
 2021-06-30T00:00:00Z	Weeknote 28 June - 2 July 2021 - https://cioportfolio.github.io/2021/06/weeknote-28-june-2-july-2021/
 2021-07-06T00:00:00Z	Weeknote 5 - 16 July 2021 - https://cioportfolio.github.io/2021/07/weeknote-5-16-july-2021/
 2021-07-21T00:00:00Z	Weeknote 19 - 23 July 2021 - https://cioportfolio.github.io/2021/07/weeknote-19-23-july-2021/
+2024-03-16T20:57:00Z	Transforming at Scale - Series Pilot - https://cioportfolio.github.io/2024/03/transforming-at-scale-series-pilot/
+2024-03-17T14:40:00Z	Transforming at Scale - Episode: 1 People and Organisations - https://cioportfolio.github.io/2024/03/transforming-at-scale-episode-1-people-and-organisations/
